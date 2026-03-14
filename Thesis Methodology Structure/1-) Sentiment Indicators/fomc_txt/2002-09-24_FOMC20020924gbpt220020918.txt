@@ -1,0 +1,5407 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version available 
+based on original copies culled from the files of the FOMC Secretariat at the Board 
+of Governors of the Federal Reserve System.  This electronic document was created 
+through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1
+versions text-searchable.2
+employed, some imperfections may remain. 
+
+ and then making the scanned 
+   Though a stringent quality assurance process was 
+
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+
+1  In some cases, original copies needed to be photocopied before being scanned into electronic 
+format.  All scanned images were deskewed (to remove the effects of printer- and scanner-introduced 
+tilting) and lightly cleaned (to remove dark spots caused by staple holes, hole punches, and other 
+blemishes caused after initial printing). 
+
+2 A two-step process was used.  An advanced optical character recognition computer program (OCR) 
+first created electronic text from the document image.  Where the OCR results were inconclusive, 
+staff checked and corrected the text as necessary.  Please note that the numbers and text in charts and 
+tables were not reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+Content last modified 6/05/2009. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            
+ 
+ 
+Confidential (FR)   Class III FOMC
+
+Part 2                                                                              September 18, 2002
+
+CURRENT ECONOMIC
+AND FINANCIAL CONDITIONS
+
+Recent Developments
+
+Prepared for the Federal Open Market Committee
+by the staff of the Board of Governors of the Federal Reserve System
+
+Confidential (FR)   Class III FOMC
+
+                                                                                                September 18, 2002
+
+Recent Developments                         
+
+Prepared for the Federal Open Market Committee
+by the staff of the Board of Governors of the Federal Reserve System
+
+                
+Domestic Nonfinancial
+Developments                         
+
+Domestic Nonfinancial Developments
+
+
+Overview 
+The data that have become available since the August Greenbook show 
+significant crosscurrents in the economy.  The continuing boost from large 
+incentives pushed motor vehicle sales even higher in August, and consumer 
+spending on other goods also posted solid gains in July and August.  Housing 
+starts remained at a high level through July.  Shipments of nondefense capital 
+goods rose briskly in July, although anecdotal reports have not been as upbeat as 
+the recent data.  In contrast to the spending data, readings on the labor market 
+suggest that conditions remained tepid in August, and industrial production 
+edged down.  Meanwhile, core inflation stayed low during the summer. 
+
+Labor Market 
+The labor market has yet to gain significant forward momentum.  In August, 
+private nonfarm payrolls were flat; aggregate hours, which recovered only 
+partially from July’s large decline, remained below the second-quarter average. 
+The unemployment rate moved down 0.2 percentage point, to 5.7 percent in 
+August—a decline that does not accord with other information we have received 
+recently on labor market conditions.  Indeed, initial claims for unemployment 
+insurance have risen in the past few weeks, and the recent level of claims 
+suggests that employment growth probably remained quite weak in early 
+September. 
+
+Manufacturing employment declined 68,000 in August—the largest drop in this 
+category since the winter.  However, that drop may overstate the weakness in 
+factory hiring because employment in the help-supply sector, which provides 
+many of its workers to manufacturing firms, rose 51,000.  Employment in retail 
+trade also declined last month, by 55,000.  Services outside of help supply added 
+49,000 jobs, after making similar gains in the previous several months, and 
+construction posted its largest employment advance in more than a year. 
+Nonfarm payroll employment was also boosted by the addition of 41,000 jobs in 
+federal and in state and local government.  Of the new federal jobs, 16,000 were 
+airport security jobs created by the Transportation Security Administration.1 
+
+A 0.3 percent gain in aggregate hours of production or nonsupervisory workers 
+in August only partly reversed the 0.7 percent drop in July.  Average weekly 
+hours ticked up 0.1 hour, but the workweek of 34.1 hours stands below its level 
+in the spring. 
+
+1. Eventually, all airport security workers will be federal employees; attaining that goal 
+entails a shift of employees from the private to the public sector.  However, in any given month, 
+an increase in federal airport security employment may not be completely offset by a decrease in 
+private employment.  In August, employment in the detective, guard, and armored car services 
+industry (which includes private-sector airport security workers) declined 9,000. 
+
+II-2
+
+II-3
+
+II-4
+
+II-5
+
+
+The household survey showed the unemployment rate declining 0.2 percentage 
+point in August to 5.7 percent.  A broader measure of joblessness, which 
+includes individuals who are out of the labor force but want a job as well as 
+those who are unemployed, also fell a bit in August.2  The unemployment rate is 
+little changed from its level in December 2001, even though nonfarm payroll 
+employment has declined, on balance, this year.  We believe that this unusual 
+combination may have occurred because some workers who were pulled into the 
+work force during the late 1990s by strong demand and tight labor markets may 
+have formed only a marginal attachment to the labor force, and therefore did not 
+report themselves as unemployed after losing their jobs, but instead moved 
+directly out of the labor force.  Indeed, the labor force participation rate has 
+fallen from 66.8 percent to 66.6 percent since December of last year. 
+
+Moreover, the reported decline in the unemployment rate is not consistent with 
+the weakness suggested by many other labor market indicators.  For example, 
+the four-week moving average of initial claims for unemployment insurance has 
+moved up 20,000 since the August survey week, to 410,000—a level consistent 
+with little, if any, net increase in employment in September.  The four-week 
+moving average of insured unemployment stood at 3.54 million in the week 
+ended August 31, up 20,000 from the August survey week.  The exhaustion rate 
+(the number of individuals who exhausted their benefits without finding a job, 
+expressed as a share of the individuals who began receiving unemployment 
+benefits six months earlier) increased to 47.2 percent in July (seasonally adjusted 
+by the FRB staff), a level similar to the peak in 1993. 
+
+Layoff announcements edged up in August, reversing their July decline, and 
+participants in the Manpower Survey reported no change in their hiring plans in 
+the fourth quarter.  However, respondents to the National Federation of 
+Independent Businesses (NFIB) survey became more upbeat, reporting the 
+highest level of net hiring expectations since August 2001.  Consumers’ views 
+of the labor market also appear to be mixed.  In the Conference Board’s August 
+survey, the proportion of households reporting jobs plentiful ticked down for the 
+third month in a row, to its lowest level in this business cycle.  The proportion of 
+August respondents finding jobs hard to get was unchanged from July, 
+remaining at the highest level in this cycle.  In addition, these respondents 
+reported slightly lower employment expectations in August than in July.  On the 
+other hand, respondents to the preliminary Michigan survey for September 
+reported improved expectations following the recent lows of July and August. 
+
+2. We generally place more weight on the data from the establishment survey, which are 
+gleaned from company records, than on the data from the household survey, which are based on 
+self-reporting by individuals.  According to the BLS, the standard error of the one-month change 
+in the unemployment rate is 0.1 percentage point. 
+
+II-6
+
+II-7
+
+
+We now estimate that second-quarter productivity growth in the nonfarm 
+business sector was 1.7 percent at an annual rate, a bit faster than the BLS 
+estimated in its preliminary release.  Over the four quarters ended in 2002:Q2, 
+productivity is estimated to have advanced 4.9 percent, following a 0.2 percent 
+rise over the preceding four-quarter period.  Output per hour in the nonfinancial 
+corporate sector is estimated to have increased at an annual rate of 5.0 percent in 
+the second quarter.  Over the four quarters ended in 2002:Q2, this measure of 
+productivity advanced 6.0 percent, up from the 0.4 percent rise posted in the 
+previous four quarters. 
+
+Labor Output per Hour
+
+(Percent change from preceding period at compound annual rate;
+
+based on seasonally adjusted data)
+
+
+Sector 
+
+19991  20001  20011 
+
+2001 
+
+2002 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Q2 
+
+Nonfarm businesses 
+
+All persons2 
+All employees 
+
+Nonfinancial corporations4 
+
+3.0 
+2.4 
+
+1.8 
+
+2.1 
+1.7 
+
+1.8 
+
+1.9 
+2.0 
+
+3.3 
+
+2.1 
+2.0 
+
+3.2 
+
+7.3 
+7.6 
+
+10.8 
+
+8.6 
+7.3 
+
+5.1 
+
+1.73 
+1.63 
+
+5.0 
+
+1. Change is from fourth quarter of the preceding year to fourth quarter of the year shown. 
+2. Includes non-employees (published definition). 
+3. Staff estimates. 
+4. The nonfinancial corporate sector consists of all corporations doing business in the United 
+
+States with the exception of banks, stock and commodity brokers, and finance and insurance 
+companies.  The sector accounts for about two-thirds of business employment. 
+
+Industrial Production 
+Output in the industrial sector declined 0.3 percent in August, following an 
+upward revised gain of 0.4 percent in July.  Motor vehicle assemblies decreased 
+last month, and electricity generation fell back after a heat-related run-up in July. 
+Manufacturing production excluding motor vehicles was flat for a second 
+month, after sizable increases in the first half of the year.  The factory operating 
+rate slipped to 74.4 percent in August, 1-1/2 percentage points above its recent 
+low in December 2001, but still 6-1/2 percentage points below its 1967 to 2001 
+average. 
+
+The August decline in motor vehicle assemblies directly shaved 0.1 percent off 
+total IP.  Fourth-quarter schedules call for production at an annual rate of 
+12.5 million units—high by historical standards but still 1/2 million units lower 
+than third-quarter schedules.  If realized, the resulting decline in the value-added 
+of the motor vehicle and parts industry would directly reduce growth of total 
+
+II-8
+
+II-9
+
+
+industrial output in the fourth quarter by around 3/4 percentage point at an 
+annual rate. 
+
+Output in the high-tech sector rose 1.6 percent in August after a small increase in 
+July.  Semiconductor production was boosted in August by sharp gains in the 
+production of semiconductors other than microprocessors (MPUs).  The 
+Semiconductor Industry Association attributes the non-MPU strength to demand 
+for consumer products such as DVD players, video games, and digital cameras. 
+The production of MPUs has lagged behind the output of other chips because of 
+relatively weak demand from computer manufacturers:  U.S. computer 
+production increased in August for the first time since March, though by only a 
+modest 0.8 percent.  Intel, which makes about 80 percent of the MPUs produced 
+worldwide, recently marked down its forecast for third-quarter revenue a touch 
+and noted that the outlook for personal computers and notebooks is a little 
+weaker than it had previously anticipated.  Last month’s CIO Magazine survey 
+of information officers showed that buying plans for computer hardware and 
+related items have been scaled back since the previous survey in July, but they 
+are still consistent with near-term increases in the level of outlays.  The 
+production of communications equipment fell 1.1 percent in August after a 
+4.4 percent plunge in July.  Despite persistent production cuts over the past two 
+years, stocks of communications equipment remained high relative to the recent 
+pace of sales. 
+
+Aircraft production contracted 1.4 percent in August because of another decline 
+in the output of commercial aircraft.  Since its recent peak in November 2000, 
+the production of commercial aircraft has been cut in half. 
+
+provided by the company suggests that prospective declines in production will 
+be relatively small. 
+
+ .  Beyond that cut, however, the information 
+
+Production changes across the rest of the industrial sector have been mixed.  The 
+output of business equipment other than transportation and high-tech bounced 
+back from a decrease in July, and the output of construction supplies moved up. 
+However, the production of business supplies and industrial materials declined. 
+The output of consumer goods aside from motor vehicles and high-tech dropped 
+0.3 percent in August, pushed down by a drop in the production of furniture and 
+appliances and by a decrease in the output of nondurables.  Data from the staff’s 
+flow-of-goods system imply that, relative to sales, stocks of consumer goods 
+excluding motor vehicles had already moved down from uncomfortable levels, 
+suggesting that the recent softness in consumer goods production has not 
+stemmed from an inventory overhang.  More broadly, according to the flow-of-
+goods 
+
+   
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+II-10
+
+II-11
+
+
+system, inventories do not appear to be high, and indeed, purchasing managers 
+continue to report that their customers’ inventories are too low. 
+
+Indicators of near-term manufacturing activity have been mixed.  Real adjusted 
+durable goods orders surged in July and pushed up the three-month average by 
+1.9 percent.  In contrast, the new orders index from the Institute for Supply 
+Management slipped a little further in August to 49.7, after having declined 
+10 percentage points in July.  Several regional diffusion indexes of orders also 
+stepped down over the summer. 
+
+New Orders for Durable Goods 
+(Percent change from preceding period except as noted; seasonally adjusted) 
+
+Component 
+
+Share, 
+2001: 
+H1 
+(percent) 
+
+2002 
+
+Q1 
+
+Q2  May 
+
+June 
+
+July 
+
+Total orders 
+
+100.0 
+
+1.5 
+
+-.4 
+
+.4 
+
+-4.5 
+
+9.2 
+
+Adjusted orders1 
+Computers 
+Communication equipment 
+Other capital goods 
+Other2 
+
+MEMO 
+Real adjusted orders
+
+Excluding high tech
+
+71.0 
+4.0 
+3.0 
+23.0 
+37.0 
+
+ . . . 
+ . . . 
+
+2.6 
+-1.4 
+6.3 
+.8 
+3.9 
+
+3.0 
+2.9 
+
+.5 
+-5.0 
+-3.3 
+2.4 
+.3 
+
+-.2 
+3.5 
+-2.8 
+.5 
+-.8 
+
+-4.9 
+-9.7 
+-18.2 
+-4.1 
+-3.7 
+
+10.8 
+13.8 
+11.6 
+7.7 
+12.3 
+
+.9 
+.8 
+
+-.2 
+-.4 
+
+-4.8 
+-5.0 
+
+11.2 
+11.4 
+
+1. Orders excluding defense capital goods, nondefense aircraft, and motor vehicle parts. 
+2. Primary metals, most fabricated metals, most stone, clay, and glass products, 
+
+household appliances, scientific instruments, and miscellaneous durable goods. 
+
+. . .  Not applicable. 
+
+Motor Vehicles 
+Sales of light vehicles have been extremely strong during the past two months. 
+Automakers brought back zero percent financing and boosted cash incentives in 
+early July; light vehicle sales jumped 1.8 million units that month to an annual 
+rate of 18.1 million units.  In August, sales rose further to an 18.6 million unit 
+pace.  Although most of the increase in July and August was in retail sales to 
+consumers, fleet sales to businesses also moved up over this period. 
+
+Industry sources indicated confidentially earlier this month that they were 
+expecting light vehicle sales in September of about 17-1/2 million units—down 
+
+II-12
+
+II-13
+
+
+a little from the August level owing, in part, to some trimming of incentive 
+programs.5  In early September, GM announced new incentives that were less 
+generous on balance than those available in July and August, but the company 
+did include zero-rate financing on 36-month loans for the purchase of 2003 
+model-year vehicles.  In response, Ford and Chrysler announced programs 
+similar to GM’s.6 
+
+The current round of incentives provides an offset to announced price increases 
+for new model-year vehicles.  Chrysler and Ford have announced that average 
+prices for their 2003 vehicles will be up 0.5 percent and 0.4 percent, 
+respectively, relative to comparably equipped 2002 vehicles.7  GM has not 
+announced an average figure.  Consumers apparently have not noticed any 
+deterioration in the pricing environment:  Car-buying attitudes improved in the 
+preliminary September Michigan Survey, to the highest level since last 
+December. 
+With sales of light vehicles running ahead of manufacturers’ expectations in July 
+and August, inventories of light vehicles are apparently below desired levels. 
+Inventories declined 130,000 units in August to 2.5 million, while supply 
+dropped to about 51 days when evaluated at last month’s elevated sales pace, 
+and to about 54 days when evaluated at the average sales pace over the past 
+twelve months; both figures are well below the industry target of around 
+63 days.  Nevertheless, manufacturers have scheduled a step-down in production 
+to an annual rate of 12.5 million units in September and a continuation at that 
+level in the fourth quarter.  These schedules suggest that producers anticipate 
+some softening in sales in coming months. 
+
+Domestic fourth-quarter production could be disrupted severely if the Canadian 
+Auto Workers (CAW) union strikes Ford or Chrysler.  On September 17, the 
+CAW reached a tentative agreement on a new contract with GM, and the union 
+will use this contract as the pattern agreement for upcoming negotiations with 
+the 
+
+5. The recent history of these projections suggests that the early-month forecasts have a 
+
+standard error of 1 million units. 
+
+6. GM’s previous program expired on September 3.  In its new program, consumers may 
+receive zero percent financing for up to three years on model year 2002 or 2003 cars; reduced-
+rate financing is available for longer maturities.  Cash rebates of up to $1,500 are also available 
+in lieu of reduced-rate financing.  In the program that just expired, only model-year 2002 
+vehicles were eligible, but zero percent financing was available for up to five years, and cash 
+rebates of up to $5,000 were offered.  GM’s program expires on October 31, while Ford’s and 
+Chrysler’s current programs expire on September 30. 
+
+7. These figures translate into an average increase of about $125 per vehicle for Chrysler 
+
+and $120 for Ford. 
+
+II-14
+
+II-15
+
+
+Production of Domestic Autos and Trucks 
+(Millions of units at an annual rate except as noted; FRB seasonal basis) 
+
+Item 
+
+2002 
+
+2002 
+
+Q1 
+
+Q2 
+
+Q31 
+
+June 
+
+July 
+
+Aug. 
+
+Sept.1 
+
+U.S. production 
+
+Autos
+Trucks
+
+12.2 
+ 5.2
+ 7.0
+
+Total days’ supply2 
+
+57.5 
+
+12.4 
+ 5.2
+ 7.2
+
+62.7
+
+12.9 
+ 5.2
+ 7.6
+
+12.7 
+ 5.3
+ 7.4
+
+13.2 
+ 5.4
+ 7.8
+
+ n.a. 
+
+63.1 
+
+55.7 
+
+Inventories3
+
+ 2.44
+
+ 2.68
+
+ n.a.
+
+ 2.68
+
+ 2.66 
+
+12.9 
+ 5.1
+ 7.8
+
+50.6
+
+2.53
+
+12.5 
+ 5.2 
+ 7.3 
+
+ n.a. 
+
+ n.a. 
+
+Note. Components may not sum to totals because of rounding. 
+1. Production rates reflect Ward’s Communications’ latest estimates for Q3 and September. 
+2. Quarterly average calculated using end-of-period stocks and average reported sales. 
+3. End-of-period stocks; excludes medium and heavy trucks (classes 3-8). 
+n.a.  Not available. 
+
+other automakers.  Job security is the most important issue, and negotiations 
+with Ford may prove difficult; Ford has announced plans to shut an Ontario 
+truck plant and to lay off between 1,000 and 1,500 workers (roughly 10 percent 
+of Ford’s unionized workforce in Canada).  A strike against Ford in Canada 
+would quickly shut down the company’s assembly and parts plants in the United 
+States.  The last strike by the CAW was in 1996, when the union clashed with 
+GM over outsourcing. 
+
+Consumer Spending 
+Consumer spending on goods aside from motor vehicles appears to be increasing 
+at a moderate pace in the third quarter.  In August, nominal retail sales in the so-
+called control category of stores, which excludes sales at motor vehicle dealers 
+and building supply outlets, rose 0.3 percent.8  Spending moved up noticeably at 
+furniture and home furnishing stores and at general merchandise outlets but 
+declined at electronic and appliance stores and at clothing and accessory outlets. 
+We estimate that real PCE for the control items advanced 0.2 percent in August 
+after slightly larger increases in the preceding two months. 
+
+Outlays on services rose 0.3 percent in July (the most recent available data); the 
+gain was led by a surge in estimated expenditures on brokerage and investment 
+
+8. The increase in nominal retail control was revised down 0.2 percentage point in both 
+
+June and July. 
+
+II-16
+
+II-17
+
+
+counseling.  However, the jump in brokerage spending was likely reversed in 
+August given that month’s drop in trading volumes.  Outlays on energy services 
+were little changed in July, and weather data for August suggest that electricity 
+demand declined last month. 
+
+Real disposable personal income was about unchanged in July, and the latest 
+employment report points to little gain in the wage and salary component of 
+household income for August.  However, gains in real disposable income over a 
+longer period remain sizable; they have been boosted in part by the decline in 
+income tax payments associated with last year’s tax legislation and a reduction 
+in capital gains realizations owing to the weak stock market.  The twelve-month 
+change in real DPI in July was 4 percent. 
+
+With income roughly unchanged in July, the considerable rise in spending led to 
+a 0.8 percentage point decline in the saving rate, to 3.4 percent.  Still, the saving 
+rate remains near the high end of the range seen in the past three years, a pattern 
+consistent with the sharp decline in household wealth.  In the second quarter, the 
+ratio of household net worth to disposable personal income fell to its lowest 
+level since 1996, and the stock market’s decline since the end of the second 
+quarter has likely further reduced this ratio. 
+
+Both the Michigan Survey Research Center’s index of consumer sentiment and 
+the Conference Board’s index of consumer expectations edged down in August, 
+and the Michigan index ticked down further in early September.  Both measures 
+are now close to the levels seen last December and close to their averages over 
+the past twenty years. 
+
+Housing Market 
+Housing activity remained robust in early summer, though a bit less so than 
+during the spring.  In the single-family sector, the pace of starts declined about 
+2-1/4 percent in July to an annual rate of 1.32 million units.  Issuance of permits 
+to build new single-family homes—adjusted for starts that occurred in areas 
+where permits are not required—was only a touch below the pace of starts; the 
+permits figure is consistent with little change in starts for the remainder of the 
+current quarter.  In the multifamily sector, new homes were started at an annual 
+rate of 328,000 units in July, a pace just a bit below the average recorded during 
+the past year and a half. 
+
+Mortgage rates have fallen during the past several months, with the average rate 
+on a thirty-year fixed-rate mortgage standing at 6.18 percent in mid-September, 
+and the average initial rate on a thirty-year adjustable-rate mortgage at 
+4.32 percent.  Consumers’ rating of homebuying conditions in the Michigan 
+Survey and the Mortgage Bankers Association’s index of mortgage application 
+volume both remained elevated in early September, a pattern suggesting that low 
+
+II-18
+
+II-19
+
+II-20
+
+II-21
+
+
+mortgage rates have continued to support housing activity despite stagnant 
+employment and declining household wealth. 
+
+Sales of new homes rose 6-3/4 percent in July to an annual rate of just over 
+1.0 million units, a record high, and the inventory of unsold homes remained 
+low.  Sales of existing homes, as published by the National Association of 
+Realtors (NAR), increased 4-1/2 percent in July to an annual rate of 5.33 million 
+units; the gain partly offset June’s 11 percent drop.  However, this large swing 
+mainly reflected NAR’s seasonal adjustment procedures and is not apparent in 
+the estimate produced with the Board staff’s seasonal factors which, unlike those 
+of the NAR, include an adjustment for the number of business days each month.9 
+July’s sales pace—which was about the same using either set of seasonal 
+factors—was below the record highs seen earlier this year and back in line with 
+the average pace of the past four years. 
+
+Although house prices continued to move up through the second quarter, some 
+indicators suggest that the pace of increase has slowed recently.  The four-
+quarter rise in the median purchase price of new homes was about 2 percent last 
+quarter, down from the 9-3/4 percent increase registered during the previous 
+year.  A deceleration in prices also is evident using the Census Bureau’s quality-
+adjusted measure—from a 4-3/4 percent gain during the four quarters ending in 
+2001:Q2 to a 2-3/4 percent increase over the most recent four quarters.  The 
+repeat-sales index for existing homes—which controls for some of the changes 
+in the composition of homes sold that can affect the median price—has also 
+decelerated about 2 percentage points, to a 6-1/2 percent pace.  In contrast, the 
+median purchase price of existing homes has shown no sign of deceleration.  It 
+was up 7-1/2 percent last quarter from a year earlier, compared with a 
+6-1/2 percent increase over the previous year. 
+
+The repeat-sales price index has decelerated in most, but not all, metropolitan 
+areas.  The most dramatic change has been in the San Francisco Bay area; in San 
+Francisco itself, prices increased almost 15 percent in 2001 but have held about 
+steady in 2002.  Many other metropolitan areas (such as Boston and 
+Minneapolis) have experienced a mild deceleration in prices, but some areas 
+(including New York and Washington) have not. 
+
+Equipment and Software 
+On balance, business spending on equipment and software appears to be 
+advancing at a solid clip in the third quarter, buoyed by an increase in motor 
+
+9.  The NAR seasonal factor exaggerated the decline in sales in June because it did not take 
+
+account of the fact that June had five weekends instead of the usual four.  With fewer business 
+days, one would expect fewer house-purchase closings. 
+
+II-22
+
+II-23
+
+
+vehicle purchases and a stabilization in aircraft expenditures that followed large 
+declines earlier in the year.  Excluding the volatile transportation sector, 
+however, outlays seem to be expanding at a moderate pace, as in the first half of 
+the year.  Business output growth, rising corporate cash flow, and the user cost 
+of capital are likely providing some impetus to investment, but anecdotal reports 
+suggest that firms are hesitant to ramp up capital expenditures substantially. 
+
+Business spending on aircraft looks poised to move up a bit in the third quarter, 
+but such a move would reverse only a small portion of the considerable decline 
+recorded in the second quarter.  The recent low levels of aircraft expenditures 
+reflect the sizable drop in air traffic owing to the recession and the terrorist 
+attacks, factors that are only now being fully reflected in the purchase of new 
+airplanes. 
+
+Business demand for motor vehicles has firmed recently, but near-term prospects 
+vary greatly by class of vehicle.  Fleet sales of light vehicles increased in each of 
+the past three months, and the level of fleet sales in August was the highest since 
+March 2001.  Sales of medium and heavy trucks increased in both July and 
+August.  For heavy trucks, the recent pickup in sales reflects businesses’ desire 
+to take delivery in advance of new EPA regulations for class 8 trucks that go into 
+effect in October.  Sales are likely to be much weaker in the near future, as net 
+orders for heavy trucks have fallen sharply since May.10  In contrast, orders for 
+medium trucks (classes 5 to 7) have gradually moved higher this year, and they 
+rose again in August. 
+
+Nominal shipments of computing equipment surged 13.9 percent in July (not at 
+an annual rate) after a sharp decline in the second quarter.  However, several 
+major computer manufacturers have reported that they are expecting fairly flat 
+nominal sales for the quarter as a whole.  This anecdotal evidence—along with 
+the extreme volatility of the shipment series—suggests that the July gain is likely 
+to be at least partially reversed in August and September.  Still, with computer 
+prices apparently falling more rapidly than in the second quarter, the available 
+data suggest that real computer expenditures will probably pick up this quarter. 
+Software spending, which we estimate to have risen at an annual rate of 
+11.5 percent in the second quarter, tends to move roughly in line with hardware 
+expenditures and thus seems likely to increase again in the current quarter. 
+
+10. The trucking industry remains in the doldrums.  Consolidated Freightways Corporation, 
+
+the nation’s third-largest long-distance freight hauler, filed for bankruptcy on September 3. 
+Disruptions due to the closing are expected to be small, according to press reports, because of 
+excess capacity in the industry. 
+
+II-24
+
+II-25
+
+In contrast, the near-term outlook for real spending on communications
+equipment continues to be grim.  
+ments of communications equipment fell
+Ship
+3.2 percent in July after a large drop in the second quarter.   ookings increased
+11.6 percent in July but are down more than 50 percent since mid-2000. 
+According to statements by manufacturers of communications equipment,
+telecommunications service providers are still slashing capital
+expenditures—particularly for equipment not used in their wireless segments. 
+
+B
+
+Apart from the high-tech and transportation sectors, nominal shipments rose
+2.2 percent in July after a 1.3 percent decline in June.  
+above shipments for the first time since early last year, and the backlog of
+unfilled orders edged up.  
+measuring and controlling devices (a grouping that includes MRIs, volt meters,
+air conditioning controls, and watches) have been especially strong of late.  
+Real
+business spending in these categories expanded at a rapid pace in the second
+quarter, and the most recent shipments data suggest ongoing gains.
+
+of construction machinery and of
+
+The level of orders moved
+
+Shipments 
+
+Nonresidential Construction  
+A decline in nominal spending for construction of nonresidential buildings in
+ moved
+July extended the downward trend that began in early 2001.  
+lower in every major category except office buildings.   n the industrial sector,
+outlays 
+
+Spending
+
+I
+
+II-26
+
+II-27
+
+
+dropped 4-1/4 percent in July and now stand at the lowest level in twenty-five 
+years.  Spending in the other commercial sector—which includes retail and 
+wholesale space—has dropped sharply during the past several months after 
+having shown resilience through all of 2001 and part of 2002; July’s level was 
+almost 15 percent below that of the first quarter.  In contrast, outlays for utilities 
+and other private construction rose about 8 percent in July after a 2-3/4 percent 
+increase in June.11 
+
+Other indicators also suggest that the deterioration of conditions in the office 
+sector may be easing a bit.  Although vacancy rates in this sector moved up 
+again last quarter, from 15.4 percent to 15.6 percent, the increase was the 
+smallest in almost two years.  In addition, office property values fell less on a 
+year-over-year basis than they have in almost a year.  In contrast, the weakening 
+in the industrial sector showed no signs of abating in the second quarter, with the 
+vacancy rate moving up significantly further to nearly 11 percent.  Property 
+values in the warehouse sector fell again last quarter, but retail property values 
+were about unchanged. 
+
+The number of natural gas drilling rigs in operation rose sharply through mid-
+September, a gain more than offsetting the slight decline in the number of 
+petroleum rigs in operation.  These data suggest that spending on the 
+construction of drilling structures has increased so far this quarter. 
+
+Business Inventories 
+The book value of manufacturing and trade inventories excluding motor vehicles 
+increased at an annual rate of $28.6 billion in July, the second straight monthly 
+gain following declines in every month since February 2001.  But gains in sales 
+and shipments further drove down the inventory-sales ratio in July to a very low 
+level. 
+
+Manufacturers’ inventories decreased at an annual rate of $5.0 billion in book-
+value terms in July after a drop of $12.8 billion in the second quarter.  The 
+decline resulted from a sizable liquidation at producers of transportation 
+equipment and likely reflected a large drawdown of inventories held in the early 
+stage of processing in the aircraft industry.  Excluding the volatile aircraft sector, 
+inventories rose in July as manufacturers of chemicals, petroleum products, and 
+rubber and plastics accumulated inventories on a book-value basis—a gain that 
+perhaps partly reflected higher prices for inputs into those goods. 
+
+11. According to confidential data from the Census Bureau, almost all of July’s increase in 
+spending in this sector resulted from a sharp rise in outlays by electric power utilities.  Spending 
+in this subsector now stands at about the same level seen early last spring; we have no good 
+explanation for May’s and June’s weak figures. 
+
+II-28
+
+II-29
+
+
+A rise of $18.1 billion (annual rate) in the book value of wholesale inventories 
+(excluding motor vehicles) in July followed a $7.7 billion pace of liquidation in 
+the second quarter.  The bulk of the accumulation reflected stockbuilding at 
+distributors of farm products, machinery, and miscellaneous nondurables—a 
+category that includes farm supplies, books, flowers, tobacco, and paint.  Most 
+other categories registered small inventory changes. 
+
+Retailers (excluding automotive dealers) accrued inventory stocks at an annual 
+rate of $15.5 billion in July after having built inventories at a $9.0 billion pace in 
+the second quarter.  An accumulation at general merchandisers accounted for 
+more than half of the July buildup.  The ratio of inventories to sales ticked 
+up—especially at stores carrying furniture, electronics, and appliances—but 
+remains at a fairly low level. 
+
+Federal Government 
+The Federal budget continues to deteriorate, albeit at a slower pace than earlier 
+this year.  A supplemental spending bill for fiscal 2002 was enacted in August, 
+but little progress has been made on appropriations for fiscal 2003.  The 
+Congressional Budget Office’s mid-year update of the budget outlook indicated 
+that the budget will move back to balance over the next five years under the 
+baseline assumption that no new spending initiatives or tax cuts are enacted. 
+
+Over the twelve months ending in July, the budget recorded a deficit of 
+$192 billion, compared with a surplus of $227 billion over the previous twelve 
+months.  This swing of more than $400 billion reflects the slowdown in 
+economic activity, policy actions, and an unusually sharp deterioration in 
+personal tax receipts relative to income. 
+
+Total receipts in July 2002 were 5 percent above the year-earlier level. 
+However, receipts had been held down in July 2001 by the issuance of refund 
+checks.  Abstracting from those checks as well as from calendar-related 
+variation, July receipts declined on a year-over-year basis, in part because of the 
+lower withholding schedules embodied in last year’s tax act.  In recent months, 
+withheld taxes have been a bit softer than we would have expected given the 
+new tax law and the BEA’s estimates for wages and salaries.  Net corporate 
+income tax collections over the twelve months ending in July were 32 percent 
+below their level in the previous twelve months, compared with a 4 percent 
+increase in economic profits shown in the NIPA data for the year ending 
+2002:Q2 compared with the year ending 2001:Q2.  This difference partly reflects 
+the partial expensing provision and other tax law changes enacted in March. 
+Daily Treasury data indicate that corporate collections rebounded sharply in 
+September. 
+
+Federal government outlays in July were 11 percent above their year-earlier level 
+(adjusted for regular shifts in payment timing).  Over the twelve months ending 
+in 
+
+II-30
+
+II-31
+
+II-32
+
+II-33
+
+
+July, outlays adjusted for timing shifts were 7-1/2 percent higher than a year 
+earlier, as noninterest outlays rose more than 10 percent—the fastest rate of 
+increase in a decade.  This increase has been propelled by double-digit gains in 
+defense and nondefense discretionary spending as well as by surging 
+expenditures for health programs including Medicaid and Medicare. 
+
+In August, President Bush signed into law a $24 billion supplemental 
+appropriations bill for fiscal 2002.  The bill included an additional $5 billion in 
+budget authority that was contingent upon the President agreeing to the 
+emergency designation made by the Congress; the President did not agree to this 
+designation, preferring to fund some of the affected programs out of regular 
+fiscal 2003 appropriations.  Progress on fiscal 2003 appropriations bills has been 
+hampered by the lack of a congressional budget resolution and disagreement 
+about the overall level of appropriations.  Thus, the Congress likely will need to 
+enact a continuing resolution to provide temporary spending authority for many 
+programs when the fiscal year begins October 1.  Indeed, as has been the case 
+frequently in recent years, the appropriations process may extend well into the 
+fall.  The possibility of a lame-duck session after the elections has already been 
+mentioned by the Senate leadership. 
+
+The Congressional Budget Office’s mid-year update of the budget outlook 
+indicated that the budget will record a deficit of $157 billion in fiscal 2002 and a 
+similar deficit in 2003 if no new spending initiatives or tax cuts are enacted.  The 
+baseline deficit projection includes the effects of the supplemental 
+appropriations bill enacted in August, but the resulting level of discretionary 
+spending for fiscal 2003 and beyond is still a bit below the Administration’s 
+request.  The baseline budget is projected to move back into surplus by 2006. 
+The CBO’s budget projections were based on an economic forecast that 
+envisioned the economy growing about 3 percent on average during the next five 
+years and the unemployment rate falling to 5.2 percent (the CBO’s estimate of 
+the NAIRU) by 2005. 
+
+State and Local Governments 
+State and local government employment increased about 20,000 in both July and 
+August.  Employment at state universities and colleges was flat, whereas it 
+averaged an increase of 6,000 per month during the same months in 2000 and 
+2001, suggesting that these public institutions have felt the effects of state 
+budget cuts this summer.  In contrast, hiring was quite strong at public 
+elementary and secondary schools, probably because of continuing enrollment 
+increases and greater availability of teachers and support staff.  Construction 
+spending rose 1-1/2 percent (monthly rate) in July. 
+
+While most state budgets have eroded over the past year, the fiscal condition of 
+many cities has remained quite strong.  According to the National League of 
+
+II-34
+
+II-35
+
+
+Cities’ most recent annual survey, property tax collections have held up well in 
+recent years, and they are expected to rise another 6 percent during fiscal 2002.12 
+Property taxes are the mainstay of most cities’ budgets, accounting for nearly 
+30 percent of cities’ own-source revenue.  However, a fair number of cities 
+depend to a significant extent on income and sales taxes; these revenues came in 
+below expectations at the end of calendar 2001 and the beginning of 2002, and 
+they were projected to increase only about 1 percent for fiscal 2002 as a whole. 
+As a result, the rise in overall tax receipts was projected to be significantly 
+smaller than in the previous  fiscal year.  With general fund expenditures 
+expected to move up substantially, ending balances measured as a share of 
+expenditures were projected to decline a little from their record high in fiscal 
+2001. 
+
+Prices 
+Price inflation edged up in August, but the average inflation rate during the past 
+several months remained below the pace seen last year.  Through the August 
+readings, the twelve-month rate of increase in both the CPI and the PCE price 
+index was about 3/4 percentage point less than its year-earlier reading.13 
+Although much of the past year’s slowdown in inflation has occurred in the 
+volatile food and energy sectors, core inflation has eased as well. 
+
+Consumer energy prices rose 0.6 percent in August, following an increase of 
+0.4 percent in July.  In August, the price of natural gas fell further, but prices for 
+fuel oil, gasoline, and electricity increased.  Much of the rise in gasoline prices 
+this summer reflected the pass-through of increases in crude oil prices from their 
+mid-June trough; these increases now cumulate to about $5 per barrel. 
+However, gasoline inventories are plentiful, and from mid-July through mid-
+September, refiners apparently have been forced to squeeze their margins rather 
+than fully pass along the increases in crude oil cost.  Although the CPI for 
+natural gas has been declining all summer, spot prices have turned up a bit since 
+mid-August as a surplus of natural gas inventories diminished slightly.  The 
+recent erosion of this inventory glut may reflect, in part, the protracted drought 
+along the eastern seaboard and in some western states, which has forced some 
+utilities that typically depend on hydroelectric generation to turn to higher-cost 
+coal and natural gas. 
+
+Prices for consumer foods fell 0.1 percent in August.  Although a drought this 
+summer in many agricultural regions has boosted crop prices considerably, it 
+also 
+
+12. The National League of Cities began collecting city fiscal data in the mid-1980s.  The 
+recent survey was conducted in March and April.  For about 40 percent of cities, the fiscal year 
+corresponds to the calendar year; for another 40 percent, the fiscal year ends on June 30; among 
+the remaining 20 percent of cities, most end their fiscal year September 30. 
+
+13. The PCE price index for August will be released on September 30; the statements in the 
+
+text refer to estimates by the Board staff based on published CPI and PPI data. 
+
+II-36
+
+II-37
+
+
+has contributed to a selloff of livestock that has pushed down prices for meat and 
+poultry.  Over the twelve months ended in August, consumer food prices rose 
+1.2 percent; they were up 3.1 percent in the previous twelve-month period. 
+
+Consumer prices for items other than food and energy rose 0.3 percent in 
+August; on a twelve-month basis, core consumer prices were up 2.4 percent 
+through August, compared with 2.7 percent in the preceding twelve months. 
+The deceleration in the core CPI has been most pronounced for goods prices, 
+which fell 0.7 percent in the twelve months ended in August after an increase of 
+0.1 percent in the preceding year.  By contrast, prices of non-energy services rose 
+3.7 percent in the twelve months ended in August, quite close to the 3.8 percent 
+increase one year earlier. 
+
+On the basis of the Board staff’s translation of published price data, we estimate 
+that the PCE price index for items other than food and energy rose 1.7 percent 
+during the twelve months ended in August, a deceleration from the 2.0 percent 
+gain in the previous year.  The slowdown in core PCE inflation was apparent 
+both for commodities (which through August slowed 0.2 percentage point 
+relative to one year earlier) and for services (which slowed 0.4 percentage point). 
+The deceleration in core PCE prices also is evident for the market-based 
+components of the index, which rose 1.4 percent in the twelve months ended in 
+August versus an increase of 1.7 percent the preceding year, and for the part of 
+core PCE for which market-based prices are not available, which is estimated to 
+have risen 2.6 percent in the year ended in August and 2.8 percent in the 
+previous year. 
+
+The BLS has begun to publish a new index called the chained CPI or C-CPI-U, 
+which it constructs with a so-called “superlative” aggregation formula.  This 
+new method of summarizing the data on consumer prices for specific items takes 
+account of changes in the mix of purchases by consumers in response to changes 
+in relative prices.14  According to this measure, prices rose 1.3 percent in the 
+twelve months ended in August, compared with an increase of 2.1 percent in the 
+preceding year.  Excluding food and energy, the chained CPI increased 
+1.7 percent in the twelve months ended in August, down 0.2 percentage point 
+from one year earlier.  These increases in the chained core CPI are similar in 
+magnitude to the corresponding increases in the core PCE price index, which 
+suggests that a substantial part of the difference between the PCE and official 
+CPI measures of inflation in recent years may have arisen from the fixed-weight 
+character of the latter index.  Although the chained CPI and the PCE price index 
+
+14.  By contrast, the official CPI uses a Laspeyres formula, which tends to overstate 
+
+increases in prices by not factoring in consumers’ moves to lower-cost items when relative prices 
+change.  In the official index, the market-basket weights are now scheduled to be updated every 
+two years.  The chained CPI is available only after 1999, and it is not seasonally adjusted. 
+
+II-38
+
+II-39
+
+
+show smaller increases over the past couple of years than does the official CPI, 
+all three price measures show similar-sized decelerations. 
+
+Survey measures of expected inflation show less decline than measures of actual 
+inflation.  According to the Michigan survey for the first part of September, 
+median one-year-ahead inflation expectations were 2.6 percent; this figure puts 
+the third-quarter estimate of inflation expectations also at 2.6 percent, which is 
+very close to the reading for the third quarter of last year.  Longer-term inflation 
+expectations also were little changed through the summer—with median five-to-
+ten year expectations holding between 2-3/4 percent and 3 percent, a range that 
+has prevailed for several years—but the preliminary reading for September 
+ticked down below this range. 
+
+Commodity prices have moved up a little, on balance, since the last Greenbook, 
+and prices for most commodities stand well above the lows that were established 
+late last year.  An August gain of 0.4 percent in the PPI for intermediate 
+materials excluding food and energy brought the twelve-month change to 
+0.4 percent, a noticeable pickup relative to the decline of 0.8 percent in the 
+preceding twelve-month period.  Prices for core crude materials rose further in 
+August; this series now has increased 9.2 percent over the past twelve months 
+and has thus reversed the previous year’s decline of more than 9 percent.  Recent 
+increases in prices for most metals and crude oil have helped reverse some of the 
+July decline in the Journal of Commerce industrial price index.  The CRB 
+futures index, which has risen more than 8 percent since early August, has been 
+boosted by drought-related increases for many crops.  Crop conditions seem to 
+have stabilized because of substantial rainfall in recent weeks in the major 
+growing areas, and most forecasters now point to about a 7 percent drop this 
+year in the output of corn and a similar decline in soybean production. 
+
+Labor Costs 
+Average hourly earnings for production or nonsupervisory workers rose 
+0.3 percent in August after a 0.2 percent gain in July.  Higher unemployment and 
+lower consumer price inflation have contributed to a sharp deceleration in this 
+measure of labor costs; average hourly earnings increased 3.1 percent over the 
+twelve months ended in August and 4.1 percent over the preceding twelve-
+month period. 
+
+The latest available data on broader measures of compensation are for the 
+second quarter.  A second-quarter gain of 3.7 percent (annual rate) for 
+compensation per hour in the nonfarm business sector boosted the four-quarter 
+change to about 2-1/2 percent.  This measure of labor costs has accelerated over 
+the past couple of quarters despite the pronounced deceleration in average hourly 
+earnings; the difference likely reflects the dissipation of the drag associated with 
+the declining exercise of stock options during much of 2001 as equity prices 
+slumped.  The 
+
+II-40
+
+II-41
+
+II-42
+
+
+II-43
+
+recent quarterly readings are roughly in line with those of the employment cost
+index, which does not include the exercise of stock options and has decelerated
+gradually since 2000. 
+
+On the benefits side, health insurance premiums in the Federal Employees
+Health Benefits Program will rise an average 11 percent in 2003, the third
+consecutive double-digit increase.  
+e Annual Employer Benefits Survey
+Th
+conducted by the Kaiser Family Foundation and the Health Research and
+Educational Trust showed that health insurance premiums for family plans are
+increasing 12-3/4 percent in 2002, similar to the increases in health benefit costs
+recorded by the ECI so far this year.  
+ser survey also indicated that health
+The Kai
+insurance costs were increasing for both employers and workers, with the share
+of premiums paid by covered workers holding steady at 27 percent for 2002,
+identical to the survey results for the preceding two years.
+
+Domestic Financial
+Developments                         
+
+Domestic Financial Developments
+
+Overview
+The uneventful passing of the August 14 deadline to certify financial statements
+provided some assurance to investors, and for a time, investor anxieties
+appeared to ebb somewhat. However, subsequent news suggesting a softer
+economy and heightened tensions with Iraq weighed on stock prices and boosted
+demand for Treasury securities. On balance, equity prices declined somewhat
+since the August FOMC meeting, while share price volatility remained at
+relatively high levels. Yields on Treasuries and investment-grade corporate
+securities fell about 35 basis points, while yields on speculative-grade bonds fell
+even more. Although market participants marked up the expected path of the
+federal funds rate in the near term in response to the wording of the FOMC
+announcement and comments by Federal Reserve officials, some odds on easing
+by year-end remain.
+
+Nonfinancial businesses evidently paid down debt on net in August but seem to
+have resumed borrowing in September, albeit in meager volume. By contrast,
+household borrowing appears to have been well maintained recently, getting a
+boost from stronger motor vehicle sales and low mortgage rates. Meanwhile,
+Treasury and state and local government debt has continued to expand fairly
+briskly.
+
+Policy Expectations, Stock Prices, and Interest Rates
+The FOMC’s decision at the August meeting--to leave the intended federal
+funds rate unchanged and to assess the risks as weighted toward economic
+weakness rather than balanced--elicited a noticeable drop in equity prices and
+Treasury coupon yields immediately after the announcement. Market
+participants evidently viewed the change and accompanying statement as
+foretelling a weaker economic outlook. Over the intermeeting period, the
+expected near-term path of the federal funds rate ticked higher as statements by
+a variety of Federal Reserve officials apparently led financial market
+participants to the view that less monetary policy ease likely would be
+forthcoming. Rates on federal funds futures contracts indicate that investors
+currently see only a slight chance of a policy easing at the upcoming meeting.
+In addition, none of the primary dealers surveyed recently expect a change in the
+stance of policy at this meeting, although a small minority anticipate significant
+easing--in the neighborhood of 1/2 to 3/4 percentage point--by year-end. At
+longer horizons, investors saw the softer economic news as implying less policy
+tightening was in store, and they marked down the path for the federal funds rate
+expected after early next year.
+
+Broad equity indexes fell some on balance from the last FOMC meeting. Early
+in the period equity prices rose considerably, boosted in part by the relatively
+uneventful passing of the SEC’s August 14 deadline for officers of large
+companies to certify corporate financial statements. More recently, however,
+equity prices have reversed course on concerns about the pace of economic
+growth, the less sanguine outlook for corporate profits, and the possibility of
+
+III-2
+
+III-3
+
+military action against Iraq. The implied volatility of equity prices remains
+elevated, indicating that investors continue to perceive significant risks going
+forward. The forward earnings-price ratio for the S&P 500 remained just above
+6 percent, but its spread over the real Treasury yield has risen to levels not seen
+since the early 1990s.
+
+With the outlook for monetary policy a little less accommodative in the near
+term, shorter-maturity Treasury yields edged up over the intermeeting period.
+In contrast, intermediate- and long-term Treasury yields notably declined as
+incoming data were viewed as suggesting a softer outlook for the economy.
+Repeating the pattern of the past year or so, Treasury coupon yields largely
+moved in the same direction as equity prices, rising on net early in the
+intermeeting period before turning down in recent weeks. At the ten-year
+maturity, yields on Treasury inflation-indexed debt fell a bit less than yields on
+nominal Treasury securities, leaving measures of inflation compensation slightly
+lower. Movements in Treasury yields were substantial at times; perhaps the
+seasonally thin trading conditions typical of summer’s end exacerbated the
+impact of market developments.
+
+Investor sentiment about the corporate bond market seemed to improve after
+August 14th. However, the renewed appeal of corporate bonds was evidently
+tempered by the perceived weaker tone of economic data. Yields on higher-
+rated investment-grade corporate bonds largely tracked those on Treasuries of
+comparable maturities, leaving risk spreads on these securities about unchanged
+on balance. In contrast, yields on BBB-rated and below-investment-grade bonds
+declined by more than those on comparable Treasuries, and for nearly all
+industry sectors. Even so, risk spreads on those weaker credits remained
+exceptionally wide, in keeping with the anticipation of a continued high level of
+defaults and low recovery rates going forward. Risk spreads for commercial
+paper were about unchanged over the intermeeting period, remaining around
+typical levels.
+
+Business Finance
+The major components of net debt financing by businesses--bonds, commercial
+paper, and bank loans--contracted further on balance in August. Despite a
+resumption of bond issuance by investment-grade nonfinancial corporations
+after August 14, issuance remained fairly weak last month, and hefty retirements
+held net bond issuance near zero. Moreover, the volume of outstanding
+commercial paper contracted once again in August as a number of firms
+reportedly used the proceeds from bond issuance to pay down paper. Firms did
+not borrow on net from banks either, as C&I loans were about unchanged,
+though this is in contrast to the considerable contraction seen over the past
+several months. Available data for September suggest that net debt financing
+has picked up, but only slightly.
+
+III-4
+
+III-5
+
+III-6
+
+III-7
+
+Gross public equity issuance receded again in August: Seasoned equity
+offerings fell to near zero, and there were no IPOs last month--for only the
+second time since 1975. Currently only a few IPO deals are in the pipeline for
+the remainder of September, as widely publicized investigations into the IPO
+allocation process at investment banks likely have damped such activity.
+Venture capital investments fell again in the second quarter, and the sluggish
+pace of new capital committed suggests a pickup is not around the corner.
+Equity retirements are estimated to have risen in July as announcements of share
+buyback programs rose after stock prices plummeted. Announcements
+remained elevated in August but have fallen back somewhat to date in
+September. Meanwhile, cash-financed merger activity has been scant, and few
+new deals have been announced recently.
+
+Measures of corporate credit quality deteriorated further in July and August.
+Moody’s net downgrades of nonfinancial corporate debt again exceeded
+upgrades, though by a considerably narrower margin than in recent quarters.
+Downgrades continued to be concentrated in the telecom and energy sectors.
+Bond defaults totaled $36 billion in July and August, boosted by the titanic
+default of $26 billion of WorldCom debt, and the twelve-month moving average
+default rate stands at a record level. Recovery rates on defaulted bonds remain
+at historically low levels, particularly in the telecom sector. In addition, banks’
+Call Report data for the second quarter show that the delinquency rate on C&I
+loans edged up again, although it remains below the levels seen in the early
+1990s.
+
+Forward-looking measures of corporate credit quality also worsened a bit. The
+quantity of debt on Moody’s Watchlist remained somewhat elevated in August,
+suggesting that additional net downgrades are likely in coming months, and
+KMV's estimate of expected year-ahead defaults surged in July and then edged
+up to a record level in August.
+
+Earnings revisions by analysts since the last FOMC meeting have been scarce,
+but warnings are expected to pick up in coming days as the quarter-end
+approaches. Judging from the current estimate of growth in S&P 500-based
+earnings per share--at 18 percent above last year’s level--equity analysts
+apparently still have a very optimistic view of third-quarter earnings.
+
+Commercial Real Estate Finance
+Commercial mortgage debt increased 8 percent at an annual rate in the second
+quarter, considerably faster than in the first quarter but still below last year’s
+torrid pace. In the third quarter, however, growth likely has tapered off in
+keeping with the ongoing contraction in outlays on nonresidential structures.
+Nonetheless, issuance of commercial-mortgage-backed securities (CMBS) has
+been well maintained so far in the third quarter, and CMBS risk spreads remained
+in the lower part of their respective ranges over the past couple of years. These
+
+III-8
+
+III-9
+
+indicators do not suggest elevated concern about prospective defaults.
+Delinquency rates on commercial mortgages and CMBS also remained stable
+over the intermeeting period and well below those seen in the early 1990s.
+
+Household Finance
+The dip in home mortgage rates to historical lows during the intermeeting period
+prompted a record level of applications for mortgage refinancings and a high
+volume of mortgage purchase applications. Consistent with this activity,
+preliminary data point to a continued brisk expansion of residential mortgage
+debt in the third quarter, though probably a little slower than the 10-3/4 percent
+rate posted in the second quarter.
+
+Available data indicate that consumer credit continued to grow strongly in the
+third quarter, boosted by motor-vehicle-related borrowing. A sharp drop in
+average interest rates on new car loans at auto finance companies in July
+reflected the effects of the latest round of zero-percent financing incentives.
+
+Overall household debt expanded at a rapid clip in the second quarter, keeping
+the debt-service burden near its historical peak. Both the debt-service burden and
+various measures of household credit quality have stayed within the ranges
+observed for a while. The delinquency rate on credit card pools edged down
+slightly in July but stayed in the neighborhood of recent experience, while the
+delinquency rate on auto loans at finance companies remained near historical
+lows through July. Call Report data for the second quarter show that the
+delinquency rates on credit card and other consumer loans at banks were little
+changed from their somewhat elevated levels in the first quarter (not shown).
+With regard to mortgage delinquencies, the series published by Mortgage
+Bankers Association ticked up in the second quarter owing mainly to the poor
+performance of FHA mortgages. In contrast, banks’ mortgage delinquencies
+edged down, likely reflecting the relatively small proportion of FHA mortgages
+held by banks.
+
+The ratio of household net worth to disposable income, which fell steeply in the
+second quarter, was dragged down by the sharp declines in equity prices. With
+broad equity indexes having moved down further on balance since the end of
+June, this ratio has likely dropped again in the current quarter.
+
+After withdrawing record amounts from equity mutual funds in July, households
+made only modest net withdrawals in August, and most of these came before the
+passing of the August 14 certification deadline. These withdrawals reflect a
+portfolio shift toward safer assets, as bond mutual funds posted substantial net
+inflows in both July and August, and these inflows were disproportionately
+directed toward government bond funds. Available data for early September
+suggest that modest net inflows to equity funds have likely resumed.
+
+III-10
+
+III-11
+
+Treasury and Agency Finance
+The Treasury borrowed $56 billion on net in August, up sharply from $36 billion
+in July. Most of the step-up occurred in the coupon sector, including sales of
+$27 billion in two-year notes that garnered a bid-to-cover ratio at the high end of
+the recent range. Fannie Mae and Freddie Mac paid down outstanding debt
+slightly in July, after raising $17 billion in the second quarter. Even so, spreads
+on agencies over comparable Treasuries have narrowed only a bit this year and
+were about unchanged over the intermeeting period. Fannie Mae’s share price
+has fallen sharply in the past several weeks because of investors’ concerns about
+its interest-rate-risk management practices.
+
+State and Local Government Finance
+Gross issuance of long-term municipal debt in August and September continued
+unabated from the rapid pace of recent months. Strong issuance for both new
+capital spending and advance-refunding was spurred by the further decline in
+yields on both revenue and general obligation bonds. Short-term issuance, often
+used to meet tax revenue shortfalls, also remained strong. The ratio of long-term
+municipal bond yields to Treasury yields rose notably over the intermeeting
+period, especially for revenue bonds. The rise likely reflects heavy municipal
+issuance, although it may also suggest some erosion in credit quality in this
+sector.
+
+Money and Bank Credit
+M2 growth moderated somewhat in August from July’s torrid pace, and
+preliminary data for September indicate further slowing. Growth continued to be
+concentrated in liquid deposits, which were boosted by the historically low
+opportunity cost of holding such deposits, volatile equity prices, and a high
+volume of mortgage refinancing activity. The contraction in small time deposits
+probably persisted because of households’ aversion to locking in the low rates
+available on these instruments. Retail money market mutual funds recorded
+small net outflows, perhaps reflecting an unwinding of July’s safe haven flows.
+The unusually slow growth of currency likely indicates a moderation in both
+international and domestic demand.
+
+Bank credit increased at a 15-1/2 percent annual rate in August, a pace more than
+double that in July. The strong gain partly reflected a surge in holdings of
+mortgage-backed securities. Banks also continued to extend large volumes of
+credit in the form of home equity loans and residential real estate loans.1 The
+Survey of Terms of Business Lending conducted last month indicates that overall
+loan pricing conditions still reflect cautious lending by banks: The median
+spread of C&I loan rates over market interest rates on instruments of comparable
+maturity remained wide, and spreads on higher-risk loans declined only slightly
+from their lofty levels.
+
+1. The very rapid expansion of consumer loans on the books of banks in August owed to
+the unwinding of several securitizations. Growth in consumer loans in August was 3-3/4 percent
+at an annual rate after adjusting for this effect.
+
+III-12
+
+III-13
+
+III-14
+
+III-15
+
+International Developments
+
+ 
+International Developments
+
+U.S. International Transactions
+
+Trade in Goods and Services
+The deficit in U.S. international trade in goods and services was $37.2 billion in
+June, $0.7 billion smaller than in May (revised). For the second quarter, the
+trade deficit was $445 billion at an annual rate, $65 billion larger than in the first
+quarter as a sharp rise in imports exceeded the jump in exports. NIPA real net
+exports weakened about $47 billion in the second quarter. The trade deficit for
+July, $34.6 billion, was released on Greenbook publication day; details will be
+provided in the Greenbook supplement.
+
+Exports of goods and services rose 1.7 percent in June, following a smaller
+increase in May. Exported goods jumped 2.0 percent, with the largest increase
+in the category of capital goods (especially semiconductors and aircraft).
+Exports of services rose only slightly. For the second quarter, the value of
+exported goods and services grew 17 percent at an annual rate. The largest
+increases were in exported machinery (especially semiconductors and other
+machinery), industrial supplies (particularly chemicals), and automotive
+products. Service receipts rose moderately, as receipts from foreigners traveling
+in the United States remained close to first quarter levels, while receipts from
+other private services rose.
+
+Imports of goods and services in June were marginally higher than in May. The
+level of imported goods inched up from already high May levels, and service
+payments grew 2 percent (largely royalties and license fees). Increases in
+imported consumer goods, aircraft and industrial supplies were partly offset by
+declines in automotive products and oil (about half from a drop in price). For
+
+IV-2
+
+IV-3
+
+IV-4
+
+IV-5
+
+the second quarter, imports of goods and services surged 35 percent at an annual
+rate. Increases were recorded in all major trade categories other than aircraft.
+The largest increase was in imports of oil (largely price), while automotive
+products, consumer goods, machinery, and industrial supplies also recorded
+hefty gains. About one-third of the increase in imported machinery was in high-
+tech goods, the second quarterly gain. In addition, imports of basic industrial
+and service machinery rose for the first time in over a year. Payments by U.S.
+travelers abroad remained close to first quarter levels, while other private
+services increased.
+
+Prices of Internationally Traded Goods
+Non-oil imports. The price index of imported non-oil goods rose 0.1 percent in
+August, following no change in July. The price of core goods was up 0.2
+percent; the price of computers was down 0.2 percent and the price of
+semiconductors remained unchanged. The component of core goods with the
+largest increase in August was the price index for capital goods. Prices in other
+major categories were little changed. In July and August, core goods prices rose
+1¼ percent (a.r.) above the second-quarter level, following an increase of about
+1¾ percent (a.r.) in the second quarter.
+
+Oil. The BLS price of imported oil rose 2.1 percent in August after climbing a
+revised 4.3 percent in July. The BLS price of imported oil is up significantly
+since the beginning of the year, rising every month except June. The spot price
+of West Texas intermediate (WTI) crude oil has also risen on average since the
+beginning of the year and is currently around $29 per barrel, up from its average
+value near $19 per barrel in December. Factors putting upward pressure on
+crude oil prices are low exports from Iraq, the possibility of U.S. military
+intervention there, and tighter stock levels in the United States.
+
+Exports. Prices of total U.S. goods exports rose 0.1 percent in August and the
+price of core goods rose 0.2 percent. The largest increase in August was in the
+price of agricultural exports, which rose 1.9 percent following an increase of 2.6
+percent in July. Prices of industrial supplies and materials fell 0.3 percent,
+reversing the upward trend it has experienced most of this year, while prices in
+other major categories were generally little changed. The price of core goods in
+July and August on average was about 3 percent at an annual rate above the
+second-quarter level, which was up about 3½ percent from the first quarter.
+
+U.S. Current Account through 2002:Q2
+In 2002:Q2, the U.S. current account deficit increased to $520 billion at a
+seasonally adjusted annual rate (s.a.a.r.), $70 billion greater than the revised first
+quarter deficit. Increases in the deficit on goods and services and the deficit on
+income more than offset a decrease in net outflows for transfers.
+
+IV-6
+
+For the second quarter, the deficit on goods and services increased $60.5 billion,
+s.a.a.r., with imports increasing faster than exports. Within exports, the
+categories with the largest increases were industrial supplies, capital goods, and
+automotive products. Within imports, the categories with the largest increases
+were petroleum and petroleum products, consumer goods, and automotive parts.
+The increase in petroleum and petroleum products was largely owing to higher
+prices. The $4.4 billion s.a.a.r increase in the services surplus in the second
+quarter was swamped by the $64.9 billion increase in the goods deficit. The
+deficit on investment income increased $21.2 billion, s.a.a.r., with direct
+investment payments increasing faster than receipts. The rapid growth in direct
+investment payments represents a further recovery from the very depressed
+levels recorded in the fourth quarter of 2001. The net outflow of other income
+and transfers decreased by $11.7 billion, s.a.a.r., reflecting a decrease in U.S.
+government grants.
+
+The second-quarter release included revisions to first-quarter data. The current
+account deficit was virtually unchanged with a downward revision to the deficit
+on investment income offsetting a downward revision to the services surplus and
+a slight increase in the net outflow of transfers.
+
+U.S. Current Account
+(Billions of dollars, seasonally adjusted annual rate)
+Investment
+income,
+net
+
+Other
+income and
+transfers, net
+
+Goods and
+services,
+net
+
+Current
+account
+balance
+
+Period
+
+Annual
+2000
+2001
+
+Quarterly
+2001:Q3
+Q4
+2002:Q1
+Q2
+
+-378.7
+-358.3
+
+-319.1
+-352.1
+-382.0
+-442.5
+
+27.7
+20.5
+
+9.4
+32.4
+2.7
+-18.5
+
+-59.3
+-55.6
+
+-55.6
+-60.6
+-70.6
+-58.9
+
+-410.3
+-393.4
+
+-365.3
+-380.3
+-449.8
+-519.8
+
+Change
+Q3-Q2
+Q4-Q3
+Q1-Q4
+Q2-Q1
+
+-20.7
+31.6
+23.0
+-15.0
+-29.7
+-69.5
+-70.0
+-21.2
+Source: U.S. Department of Commerce, Bureau of Economic Analysis.
+
+54.2
+-33.0
+-29.9
+-60.5
+
+-1.8
+-5.0
+-9.9
+11.7
+
+IV-7
+
+U.S. International Financial Transactions
+Net purchases of U.S. securities by private sector foreigners (line 4 of the
+Summary of U.S. International Transactions table) were again quite strong in
+July. After a slow start in January and February, the pace of foreign net
+purchases has increased substantially and is now approximately equal to last
+year's record pace. Net purchases of Treasuries ($30 billion, line 4a) were the
+highest in almost five years and well above the levels recorded in recent years,
+perhaps due in part to a flight to quality at a time of investor nervousness over
+corporate malfeasance. The largest increases were recorded for the United
+Kingdom ($11 billion), Japan ($9 billion), and the Cayman Islands ($7 billion).
+In contrast, net purchases of both agency (line 4b) and corporate debt securities
+(line 4c) were well below average, with purchases of corporate debt securities at
+their lowest level in over seven years, coinciding with a sharp reduction in new
+corporate debt issuance. Foreign net purchases of equities (line 4d) increased to
+$10 billion on unusually high trading volume.
+
+U.S. private investors were substantial net sellers of foreign securities (line 5) in
+July. Sales of foreign bonds (line 5a) continued, but at a somewhat higher pace
+than in recent months. Net sales of foreign equities (line 5b) were the highest
+ever recorded for a single month, altering the recent trend of net purchases.
+
+After rising significantly in June due in large part to Japanese intervention
+activity, foreign official reserves held in the United States rose modestly in July
+(line 1). Partial data from the Federal Reserve Bank of New York indicate that
+total foreign official reserves increased by $4 billion in August. Through July,
+foreign official inflows totaled $57 billion–a pace well above any recorded since
+1996.
+
+Recently released balance of payments data for the second quarter show that
+U.S. direct investment abroad (line 6) remained constant at $29 billion. Foreign
+direct investment in the United States (line 7) continued its downward trend and
+was only $1 billion in the quarter, reflecting both intercompany debt outflows
+and a further slowing of merger and acquisition activity.
+
+The statistical discrepancy was positive $49 billion in the quarter, following a
+discrepancy of positive $25 billion in the first quarter. A positive statistical
+discrepancy indicates some combination of under-recorded net financial inflows
+or over-recorded net imports of goods and services.
+
+IV-8
+
+Summary of U.S. International Transactions
+(Billions of dollars, not seasonally adjusted except as noted)
+
+2000
+
+2001
+
+2001
+Q3
+
+Official financial flows
+
+39.3
+
+2.0
+
+13.2
+
+1. Change in foreign official assets
+
+in the U.S. (increase, +)
+a. G-10 countries
+
+b. OPEC countries
+c. All other countries
+
+39.6
+12.3
+
+10.7
+16.6
+
+6.9
+-7.9
+
+-1.9
+16.8
+
+16.8
+-5.6
+
+-4.8
+27.2
+
+Q4
+
+5.3
+
+5.5
+9.1
+
+4.2
+-7.8
+
+-.3
+370.3
+
+-4.9
+379.8
+
+-3.6
+29.6
+
+-.2
+145.3
+
+2002
+Q2
+
+June
+
+Q1
+
+8.8
+
+45.6
+
+26.3
+
+8.4
+4.7
+
+-6.5
+10.2
+
+.4
+90.6
+
+47.5
+17.9
+
+1.1
+28.5
+
+-1.8
+34.8
+
+29.1
+13.5
+
+1.4
+14.2
+
+-2.8
+...
+
+July
+
+2.6
+
+2.9
+6.1
+
+-0.1
+-3.1
+
+-.2
+...
+
+-6.7
+
+7.3
+
+-1.7
+
+38.7
+
+-2.3
+
+–17.8
+
+-30.0
+
+-.6
+
+2. Change in U.S. official reserve
+
+assets (decrease, +)
+
+Private financial flows
+Banks
+
+3. Change in net foreign positions
+of banking offices in the U.S.1
+
+Securities2
+
+4. Foreign net purchases of U.S.
+
+securities (+)
+a. Treasury securities
+b. Agency bonds
+c. Corporate and municipal bonds
+d. Corporate stocks3
+
+5. U.S. net acquisitions (-) of
+
+foreign securities
+a. Bonds
+b. Stock purchases
+c. Stock swaps3
+
+Other flows (quarterly data, s.a.)
+
+381.0
+-76.4
+96.5
+165.7
+195.1
+
+-126.6
+-23.3
+-22.9
+-80.4
+
+404.4
+5.6
+86.4
+201.7
+121.9
+
+-95.1
+12.3
+-62.7
+-44.7
+
+51.2
+-14.2
+19.4
+33.1
+12.9
+
+10.0
+21.0
+-9.3
+1.8
+
+128.2
+28.3
+28.1
+38.3
+33.5
+
+-26.2
+-7.4
+-12.4
+-6.4
+
+62.4
+-7.1
+2.8
+43.3
+23.4
+
+2.0
+.6
+3.2
+-1.8
+
+106.4
+1.6
+32.4
+60.3
+12.0
+
+-10.9
+9.5
+-20.3
+.0
+
+6. U.S. direct investment (-) abroad
+7. Foreign direct investment in U.S.
+8. Foreign holdings of U.S. currency
+9. Other (inflow, + )4
+U.S. current account (s.a.)
+
+-178.3 -127.8
+130.8
+307.7
+23.8
+1.1
+36.4
+-7.9
+-410.3 -393.4
+
+-41.7
+14.2
+8.2
+- 10.5
+-91.3
+
+-27.5
+21.9
+10.5
+-.1
+
+-29.4
+-29.3
+1.0
+16.2
+7.2
+4.5
+-21.8
+25.3
+-95.1 -112.5 -130.0
+
+Capital account balance (s.a.)5
+
+Statistical discrepancy (s.a.)
+
+.8
+
+.0
+
+.8
+
+.2
+
+.2
+
+.2
+
+.2
+
+10.7
+
+48.3
+
+-55.8
+
+24.7
+
+49.4
+
+NOTE: The sum of official and private financial flows, the current account balance, the capital account balance, and the statistical
+discrepancy is zero. Details may not sum to totals because of rounding.
+
+1. Changes in dollar-denominated positions of all depository institutions and bank holding companies plus certain transactions
+
+between broker-dealers and unaffiliated foreigners (particularly borrowing and lending under repurchase agreements). Includes
+changes in custody liabilities other than U.S. Treasury bills.
+
+2. Includes adjustments BEA makes to account for incomplete coverage, but excludes adjustments for commissions and therefore
+
+does not match exactly the data on U.S. international transactions published by the Department of Commerce.
+
+3. Includes (4d) or represents (5c) stocks acquired through mergers.
+4. Transactions by nonbanking concerns and other banking and official transactions not shown elsewhere plus amounts resulting
+from adjustments made by the Department of Commerce and revisions in lines 1 through 5 since publication of the quarterly data in
+the Survey of Current Business.
+
+5. Consists of transactions in nonproduced nonfinancial assets and capital transfers.
+
+n.a. Not available.
+
+... Not applicable.
+
+39.3
+12.6
+3.3
+19.3
+4.0
+
+-1.6
+4.5
+-6.2
+.0
+
+...
+...
+...
+...
+...
+
+...
+
+...
+
+44.9
+29.6
+3.4
+2.4
+9.5
+
+18.3
+6.5
+11.8
+.0
+
+...
+...
+...
+...
+...
+
+...
+
+...
+
+IV-9
+
+Foreign Exchange Markets
+
+Since the August meeting of the FOMC, the trade-weighted exchange value of
+the dollar against the major foreign currencies has appreciated about ¾ percent
+on balance. Although concerns about the timing and speed of recovery in the
+U.S. economy continued to be widespread during the intermeeting period, the
+effect of these concerns on the exchange value of the dollar appeared to be offset
+by reports showing that recovery in other industrial countries, particularly in
+Germany and Japan, would also likely be slow. Against individual currencies,
+the dollar was up slightly, on balance, over the period against the euro. The
+dollar appreciated about 2½ percent versus the Japanese yen and ¾ percent
+against the Canadian dollar but depreciated 1 percent vis-a-vis sterling.
+
+Equity prices in major industrial countries continued to be quite volatile during
+the intermeeting period and generally registered substantial losses. While U.S.
+equity indexes remained above the levels reached in July, European stock prices
+ended the period near the multi-year lows reached at that time. German stocks
+were hardest hit, falling 15 percent, with insurance share prices plunging
+30 percent. Data casting fresh doubt on Japan’s fledgling recovery pressured
+Japanese stock prices down, with the Nikkei index reaching its lowest level
+since the early 1980s during the period. This prompted calls by Japanese
+politicians for government intervention to support equity prices. On September
+18, the Bank of Japan unexpectedly announced that it would consider measures
+
+IV-10
+
+to buy shares directly from banks, leading Japanese banking shares to quickly
+rebound on the day.
+
+Equity market volatility, concerns about global growth, and uncertainty about
+the situation in Iraq likely contributed to flows out of equity and into sovereign
+bonds, and ten-year benchmark bond yields ended the period down substantially
+in all major industrial countries. The yield on Japan’s ten-year benchmark
+sovereign bond had fallen more than 20 basis points, to its lowest level since
+1998, before rebounding after the announcement by the Bank of Japan on share
+purchases. Weak Japanese data, the upcoming end of the fiscal half-year, and
+unconfirmed reports that the Bank of Japan was considering increasing its
+outright purchases of government bonds, all appeared to weigh on the already
+low bond yield.
+
+The European Central Bank, the Bank of Japan, and the Bank of England did not
+adjust their monetary policy stances during the period, in line with market
+expectations. The Bank of Canada had generally been expected to raise its target
+for the overnight rate on September 4, but left it at 2.75 percent, citing weaker
+prospects for growth in the United States and global financial market volatility.
+Three-month interest rates in major industrial countries registered only small net
+changes, reflecting the stability in policy rates.
+
+IV-11
+
+In Latin America, the focus continued to be on Brazil and on the potential
+impact of a victory by an opposition party candidate in next month’s presidential
+election. Although the Brazilian real depreciated 6 percent against the dollar on
+net over the period, Brazil’s EMBI+ spread over Treasuries declined 300 basis
+points. Brazilian sovereign bond prices continued to react positively to the
+financial assistance package which was announced by the IMF on August 7, with
+approval on September 6. Although Argentina appeared no closer to finding
+solutions to its fiscal and banking crises, the peso, in very restricted trading, was
+little changed against the dollar, and Argentina’s EMBI+ spread over Treasuries,
+though still extremely high, declined about 600 basis points. The Mexican peso
+depreciated over 1 percent against the dollar.
+
+In emerging Asia, equity prices in Taiwan, Singapore, and Malaysia declined
+6 to 8 percent over the period, amid concerns about the pace of the recovery in
+the technology sector. The New Taiwan dollar depreciated 2½ percent against
+
+IV-12
+
+the dollar. Korean financial markets outperformed the other technology
+exporting economies, as stock prices rose a bit and the Korean won appreciated
+slightly versus the dollar.
+
+accounts of the System or Treasury.
+
+ . The Desk did not intervene during the period for the
+
+ 
+   
+    
+ 
+     
+     
+           
+ 
+   
+   
+ 
+ 
+   
+      
+ 
+   
+ 
+ 
+IV-13
+
+Developments in Foreign Industrial Countries
+
+Data on second-quarter GDP for the major foreign industrial countries showed
+moderate growth, but the pace and sources of the expansion varied across
+countries. Canadian growth remained the most robust and continued to be
+supported by strength in consumption and investment. Growth in Japan, the
+euro area and the United Kingdom was slower and continued to depend on
+strong contributions from net exports, while investment spending declined
+further. Data released for the most recent months suggest that the pace of
+recovery remains relatively strong in Canada and is picking up in the United
+Kingdom but that growth is flattening out at low rates in Japan and the euro area.
+
+Inflation rates generally moved higher, in part owing to higher energy prices.
+Twelve-month consumer price inflation rose to about 2 percent in the United
+Kingdom and to just above that in the euro area and Canada, whereas consumer
+prices continued to fall at nearly a 1 percent pace in Japan. Foreign central
+banks have not changed their policy interest rates since August, as financial-
+market volatility has contributed to uncertainty about growth prospects.
+
+In Japan, real GDP rose 2.6 percent (s.a.a.r.) during the second quarter. The
+figure was based on a new computation method that gives greater weight to
+supply-side statistics. The rise was led by strong external demand; net exports
+added 1.6 percentage points to growth, with very rapid growth in exports
+outpacing a jump in imports. Private consumption edged up modestly, while
+residential investment declined. Business fixed investment fell much less than
+the roughly double-digit drops registered over the previous five quarters. Public
+investment fell 7 percent. Inventories made a slight positive contribution to
+growth, following a year of large negative contributions. Using the new
+methodology for computing GDP, growth in Q1 was revised down from
+5.7 percent to about zero.
+
+Indicators for the third quarter suggest that recovery may be flagging. Industrial
+production was about flat in July for the second consecutive month. Household
+expenditures were up only modestly in July compared with the second-quarter
+average. Recent data for business fixed investment have been mixed; core
+machinery orders rose 1.9 percent in July, following a 2.9 percent increase in
+June, but nonresidential building starts declined in July. Residential building
+starts rose from June to July, but were down 3 percent in July from their second-
+quarter average. Real exports rose only moderately in July from the second-
+quarter average, while imports jumped, sharply narrowing the trade surplus.
+
+Labor market conditions remain unfavorable, with employment down
+1.2 percent in July from year-earlier levels. The unemployment rate was stuck at
+
+IV-14
+
+Japanese Real GDP
+(Percent change from previous period, except as noted, s.a.a.r.)
+
+Component
+
+20001
+
+20011
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+2001
+
+2002
+
+GDP
+
+Total domestic demand
+
+Consumption
+
+Private investment
+
+Public investment
+
+Government consumption
+
+Inventories2
+
+Exports
+
+Imports
+
+Net exports2
+
+2.3
+
+2.2
+
+.3
+
+11.0
+
+-11.3
+
+4.1
+
+.1
+
+9.7
+
+10.7
+
+.1
+
+-1.5
+
+-1.1
+
+1.6
+
+-6.9
+
+-3.5
+
+3.0
+
+-.7
+
+-11.3
+
+-9.0
+
+-.5
+
+-2.6
+
+-2.4
+
+-.4
+
+-2.8
+
+-3.0
+
+.5
+
+-8.6
+
+-12.0
+
+3.1
+
+2.2
+
+-.8
+
+-12.1
+
+-11.5
+
+-.3
+
+-.7
+
+3.0
+
+-1.2
+
+-6.6
+
+-8.9
+
+.1
+
+-.0
+
+-2.0
+
+1.9
+
+-7.6
+
+-2.9
+
+1.1
+
+-1.5
+
+20.5
+
+-.2
+
+1.9
+
+2.6
+
+1.0
+
+1.1
+
+-1.8
+
+-7.4
+
+2.2
+
+.8
+
+24.9
+
+10.8
+
+1.6
+
+1. Q4/Q4.
+2. Percentage point contribution to GDP growth, s.a.a.r.
+
+5.4 percent in July, only a touch below the record-high rate registered in
+December. The job-offers-to-applicants ratio, considered a key leading indicator
+of employment conditions, edged up in July. Core consumer goods prices in the
+Tokyo area (which exclude fresh food but include energy) increased 0.2 percent
+in August from the previous month, but were down 0.9 percent (n.s.a.) from a
+year earlier. Wholesale prices for domestic goods stayed roughly flat between
+February and August, but remained below year-earlier levels. The GDP deflator
+in the second quarter was 0.9 percent below its year-earlier level.
+
+The Bank of Japan (BOJ) announced on September 18 that it is considering
+directly purchasing equity held by banks. The official statement was short on
+details, providing little information on the price, quantity, or timing of any such
+purchases. In a news conference held after the announcement, BOJ Governor
+Hayami remarked that the purchases would be made to help banks “reduce the
+impact of falling stocks” and to improve the stability of the Japanese financial
+system. Japanese banks currently own a substantial portion of Japanese equities
+and will be required to deduct losses on those holdings from their regulatory
+capital at the September 30 close of the fiscal half-year. The BOJ kept the
+guidelines for money market operations unchanged, with a goal of maintaining
+an outstanding balance of current accounts at the Bank of around ¥10 to
+
+IV-15
+
+¥15 trillion. The BOJ announcement leaves unclear how its stock purchases
+would affect banks' current account balances at the BOJ.
+
+Japanese Economic Indicators
+(Percent change from previous period, except as noted, s.a.)
+
+Indicator
+
+Industrial production1
+
+All-industry index
+
+Housing starts
+
+Machinery orders2
+
+Machinery shipments
+
+New car registrations
+
+Unemployment rate3
+
+Job offers ratio4
+
+Business sentiment5
+
+CPI (Core, Tokyo area)6
+
+Wholesale prices6
+
+2001
+
+2002
+
+Q4
+
+Q1
+
+Q2
+
+May
+
+Jun.
+
+Jul.
+
+Aug.
+
+-3.4
+
+-.9
+
+-2.5
+
+-7.5
+
+-4.7
+
+-5.5
+
+5.4
+
+.52
+
+-40
+
+-1.0
+
+-1.4
+
+.6
+
+.6
+
+.8
+
+-7.4
+
+3.6
+
+1.9
+
+5.3
+
+.51
+
+-41
+
+-.9
+
+-1.4
+
+3.8
+
+.3
+
+-.8
+
+7.1
+
+6.6
+
+5.3
+
+5.3
+
+.53
+
+-32
+
+-1.1
+
+-1.1
+
+4.1
+
+1.0
+
+-.2
+
+-.1
+
+11.3
+
+-13.1
+
+.2
+
+8.7
+
+4.9
+
+5.4
+
+.53
+
+...
+
+-1.1
+
+-1.2
+
+2.9
+
+-3.0
+
+-11.2
+
+5.4
+
+.53
+
+...
+
+-1.0
+
+-1.0
+
+.1
+
+n.a.
+
+3.1
+
+1.9
+
+-1.5
+
+1.2
+
+5.4
+
+.54
+
+...
+
+-1.0
+
+-1.2
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+18.2
+
+n.a.
+
+n.a.
+
+...
+
+-.9
+
+-.9
+
+1. Mining and manufacturing.
+2. Private sector, excluding ships and electric power.
+3. Percent.
+4. Level of indicator.
+5. Tankan survey, diffusion index.
+6. Percent change from year earlier, n.s.a.
+n.a. Not available.
+
+... Not applicable.
+
+On September 19 or 20, the government is expected to announce a package of
+stimulus measures. Likely components include measures to boost Japanese
+stock prices, policies to quicken disposal of banks’ non-performing loans, and
+tax cuts in the range of ¥1 trillion to ¥2.5 trillion (0.2 to 0.5 percent of GDP).
+Earlier this month, the government announced that any future tax cuts are
+expected to be coupled with future tax increases or government spending cuts in
+order to maintain the medium-term revenue neutrality of tax reform. On the
+spending side, the government aims to keep next fiscal year’s general
+expenditures equal to or below this fiscal year’s figure of ¥47.5 trillion.
+
+IV-16
+
+Euro-area real GDP rose 1.4 percent (s.a.a.r.) in the second quarter, the same
+pace as in the first quarter. Once again, growth was supported by positive
+contributions from net exports and inventory investment, although those
+contributions were about half as large as in the first quarter. Investment
+spending fell for the sixth consecutive quarter. Private consumption spending,
+however, rebounded in the second quarter as spending by German consumers
+recovered after having been cut sharply late last year.
+
+Euro-Area Real GDP1
+(Percent change from previous period, except as noted, s.a.a.r.)
+
+Component
+
+20002
+
+20012
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+2001
+
+2002
+
+GDP
+
+Total domestic demand
+
+Consumption
+
+Investment
+
+Government consumption
+
+Inventories3
+
+Exports
+
+Imports
+
+Net exports3
+
+Memo:
+
+France
+Germany
+Italy
+
+2.7
+
+2.2
+
+1.8
+
+3.4
+
+2.2
+
+-.0
+
+12.2
+
+11.3
+
+.5
+
+3.8
+1.9
+2.6
+
+.4
+
+1.9
+
+1.6
+
+-2.5
+
+1.4
+
+-.7
+
+-3.3
+
+-4.9
+
+.5
+
+.2
+.1
+.6
+
+.7
+
+-1.1
+
+.4
+
+-2.5
+
+1.2
+
+-1.0
+
+-1.3
+
+-6.0
+
+1.7
+
+1.9
+-.8
+.3
+
+-1.2
+
+-.9
+
+-.1
+
+-3.6
+
+1.5
+
+-.3
+
+-6.6
+
+-6.4
+
+-.3
+
+-2.0
+-1.2
+-.9
+
+1.4
+
+.2
+
+-.7
+
+-2.3
+
+3.1
+
+.5
+
+.5
+
+-2.9
+
+1.2
+
+2.1
+1.1
+.5
+
+1.4
+
+.8
+
+1.6
+
+-3.2
+
+1.5
+
+.3
+
+8.0
+
+6.9
+
+.6
+
+2.0
+1.1
+.9
+
+1. Includes Greece as of 2001 Q1.
+2. Q4/Q4.
+3. Percentage point contribution to GDP growth, s.a.a.r.
+
+Indicators for the third quarter suggest that growth is stuck at the relatively low
+first-half rate. Purchasing managers indexes (PMIs) for both manufacturing and
+services declined in July and August to just above the 50 level that is the
+threshold for indicating positive growth. In Germany, the largest and recently
+the most sluggish of the euro-area economies, industrial production and new
+manufacturing orders each declined about 1 percent in July, and retail sales fell
+more than 2 percent.
+
+IV-17
+
+The twelve-month rate of euro-area consumer price inflation edged back above
+the ECB’s target ceiling of 2 percent in August. Excluding food, energy, alcohol
+and tobacco, the twelve-month inflation rate remained at 2.4 percent in August,
+just below the six-year peak of 2.5 percent reached in May. Producer prices
+remain below year-earlier levels.
+
+Euro-Area Economic Indicators
+(Percent change from previous period except as noted, s.a.)
+
+2001
+
+2002
+
+Indicator
+
+Q4
+
+Q1
+
+Q2
+
+May
+
+Jun.
+
+Jul.
+
+Aug.
+
+Industrial production1
+
+Retail sales volume
+
+Unemployment rate2
+
+-1.8
+
+.5
+
+8.1
+
+Consumer confidence3
+
+-10.7
+
+.8
+
+.2
+
+8.1
+
+-9.7
+
+.1
+
+-.3
+
+8.3
+
+-9.0
+
+.0
+
+.3
+
+8.3
+
+-8.0
+
+.5
+
+-.5
+
+8.3
+
+n.a.
+
+n.a.
+
+8.3
+
+-9.0
+
+-10.0
+
+Industrial confidence4
+
+-17.0
+
+-13.0
+
+-10.0
+
+-9.0
+
+-10.0
+
+-10.0
+
+Mfg. orders, Germany
+
+CPI5
+
+Producer prices5
+
+M35
+
+-.9
+
+2.1
+
+-.8
+
+8.1
+
+1.2
+
+2.6
+
+-.9
+
+7.2
+
+2.4
+
+2.1
+
+-.9
+
+7.1
+
+3.4
+
+2.0
+
+-1.0
+
+7.7
+
+-3.3
+
+1.8
+
+-1.1
+
+7.1
+
+-.9
+
+1.9
+
+-.6
+
+7.1
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+2.1
+
+n.a.
+
+n.a.
+
+1. Excludes construction.
+2. Percent. Euro-area standardized to ILO definition. Includes Eurostat estimates in some
+
+cases.
+
+3. Diffusion index based on European Commission surveys in individual countries;
+Averages of responses to questions on financial situation, general economic situation,
+and purchasing attitudes.
+
+4. Diffusion index based on European Commission surveys in individual countries;
+
+Averages of responses to questions on production expectations, orders, and stocks.
+
+5. Eurostat harmonized definition. Percent change from year earlier.
+n.a. Not available.
+
+Slow growth has put pressure on euro-area government balances. The German
+government revealed that its deficit for the first half of 2002 was 3.5 percent.
+With tax revenues in the second half likely to be depressed by sluggish
+economic growth, and with an increase in government spending in response to
+the recent floods in eastern Germany, it appears increasingly likely that the
+German budget deficit will exceed the 3 percent Maastricht treaty limit this year.
+Germany should be able to escape sanctions by citing the exceptional
+
+IV-18
+
+circumstance of the floods and by emphasizing actions the government has taken
+to offset the budget impact in the medium term. In particular, the Schroeder
+government has proposed that scheduled individual income tax cuts will be
+postponed from 2003 to 2004 and corporate tax rates will be raised for one year
+in 2003.
+
+In the United Kingdom, second-quarter real GDP rose 2.3 percent (s.a.a.r.) after
+two quarters of weak growth. The data were revised down substantially from
+preliminary estimates owing to a fall-off in production during the Queen’s
+Golden Jubilee celebrations in June. Consumer spending rose briskly following
+a moderation of consumption growth in the first quarter. Gross fixed capital
+formation declined marginally, and inventories subtracted 1.4 percentage points
+from growth. Exports rose more sharply than imports, and net exports added
+1.5 percentage points to growth.
+
+U.K. Real GDP
+(Percent change from previous period, except as noted, s.a.a.r.)
+
+Component
+
+20001
+
+20011
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+2001
+
+2002
+
+GDP
+
+Total domestic demand
+
+Consumption
+
+Investment
+
+Government consumption
+
+Inventories2
+
+Exports
+
+Imports
+
+Net exports2
+
+2.2
+
+3.4
+
+4.8
+
+4.5
+
+1.3
+
+-.8
+
+8.7
+
+10.9
+
+-1.2
+
+1.5
+
+1.7
+
+4.2
+
+1.4
+
+.7
+
+4.3
+
+-6.7
+
+-14.2
+
+3.9
+
+-.5
+
+-4.6
+
+-2.8
+
+-.5
+
+4.8
+
+-.2
+
+-11.4
+
+-10.8
+
+.4
+
+.4
+
+3.0
+
+4.7
+
+-.9
+
+7.9
+
+-1.3
+
+-6.3
+
+1.4
+
+-2.7
+
+.6
+
+3.2
+
+2.0
+
+-5.6
+
+8.1
+
+1.5
+
+-4.0
+
+3.7
+
+-2.8
+
+2.3
+
+1.1
+
+4.7
+
+-.2
+
+-3.6
+
+-1.4
+
+12.5
+
+6.2
+
+1.5
+
+1. Q4/Q4.
+2. Percentage point contribution to GDP growth, s.a.a.r.
+
+As expected, industrial production bounced back substantially in July after
+plunging in June because of work stoppages related to the Golden Jubilee.
+Despite industrial production remaining about 1 percent below May’s level, it is
+expected to result in a large “payback” effect to GDP in the third quarter.
+
+IV-19
+
+Other indicators for the third quarter suggest a pick-up in growth in August after
+signs of a slowdown over the past several months. The manufacturing PMI
+recovered in August, indicating expansion again after July’s contraction.
+Business confidence improved smartly in August continuing its climb from
+May’s low. July’s trade balance narrowed somewhat from June. Retail sales
+grew in July after two months of contraction. However, surveys for August retail
+sales are mixed. The services PMI increased in August, continuing to indicate
+expansion, whereas preliminary estimates of consumer confidence suggest little
+change in August from the month before.
+
+U.K. Economic Indicators
+(Percent change from previous period except as noted, s.a.)
+
+2001
+
+2002
+
+Indicator
+
+Q4
+
+Q1
+
+Q2
+
+May
+
+Jun.
+
+Jul.
+
+Aug.
+
+Industrial production
+
+Retail sales volume
+
+Unemployment rate1
+
+Claims-based
+
+Labor force survey2
+
+Business confidence3
+
+Retail prices4
+
+Producer input prices5
+Average earnings5
+
+-2.3
+
+1.3
+
+3.2
+
+5.1
+
+-24.0
+
+2.0
+
+-8.2
+3.3
+
+-1.2
+
+1.0
+
+3.1
+
+5.1
+
+-3.3
+
+2.4
+
+-5.6
+2.9
+
+.3
+
+1.7
+
+3.2
+
+5.2
+
+8.0
+
+1.9
+
+-5.9
+3.9
+
+1.1
+
+-.6
+
+3.2
+
+5.1
+
+4.0
+
+1.8
+
+-6.4
+4.0
+
+-4.3
+
+-.4
+
+3.2
+
+5.2
+
+6.0
+
+1.5
+
+-6.9
+3.8
+
+3.4
+
+.4
+
+3.1
+
+n.a.
+
+9.0
+
+2.0
+
+-3.8
+4.2
+
+n.a.
+
+n.a.
+
+3.1
+
+n.a.
+
+16.0
+
+1.9
+
+-2.2
+n.a.
+
+1. Percent.
+2. Three-month average centered on month shown.
+3. Percentage of firms expecting output to increase in the next four months less percentage
+
+expecting output to decrease.
+
+4. Excluding mortgage interest payments. Percent change from year earlier.
+5. Percent change from year earlier.
+... Not applicable.
+n.a. Not available.
+
+Data on the housing market are mixed, with widespread concern that Britain is
+experiencing a housing price bubble. The two leading surveys of housing prices
+continued to register twelve-month increases of around 20 percent in August. A
+new survey of housing prices (based on offer prices collected by real estate
+agents) indicated housing price growth slowed in August. In July, borrowing to
+finance the purchase of new homes bounced back to just above May’s record
+high after dropping sharply in June.
+
+IV-20
+
+Labor market conditions remain tight. The official claims-based unemployment
+rate remained at 3.1 percent in August, near a record low. Even so, the twelve-
+month rate of retail price inflation (excluding mortgage interest payments)
+remained below the Bank of England’s 2½ percent target in August at
+1.9 percent. The twelve-month growth rate of average earnings rose to
+4.2 percent in July.
+
+In Canada, real GDP increased 4.3 percent (s.a.a.r.) in the second quarter,
+following an upwardly revised 6.2 percent gain in the first quarter. Inventories
+contributed strongly to growth, as firms restocked following three quarters of
+sizable inventory drawdowns. Net exports subtracted from growth, as imports
+surged. Final domestic demand grew steadily at 3.7 percent, supported by
+continued strength in the home-building sector and a 20.6 percent surge in
+business investment in machinery and equipment. Monthly real GDP data by
+industry show some slowing of growth in recent months to 1.4 percent and
+1.7 percent (s.a.a.r.) in June and July respectively.
+
+Canadian Real GDP
+(Percent change from previous period, except as noted, s.a.a.r.)
+
+Component
+
+20001
+
+20011
+
+Q3
+
+Q4
+
+Q1
+
+Q2
+
+2001
+
+2002
+
+GDP
+
+Total domestic demand
+
+Consumption
+
+Investment
+
+Government consumption
+
+Inventories2
+
+Exports
+
+Imports
+
+Net exports2
+
+3.5
+
+2.6
+
+3.4
+
+3.6
+
+3.4
+
+-.8
+
+4.7
+
+2.2
+
+1.2
+
+.8
+
+-.3
+
+2.2
+
+-1.6
+
+2.1
+
+-1.6
+
+-6.1
+
+-9.2
+
+.9
+
+-.5
+
+-.7
+
+-.3
+
+8.7
+
+1.9
+
+-2.4
+
+-7.0
+
+-7.0
+
+-.3
+
+2.9
+
+-3.8
+
+4.1
+
+-13.9
+
+.9
+
+-3.4
+
+-.6
+
+-16.9
+
+6.6
+
+6.2
+
+6.0
+
+2.8
+
+8.7
+
+1.2
+
+2.2
+
+5.4
+
+4.3
+
+.7
+
+4.3
+
+10.0
+
+3.0
+
+7.8
+
+1.2
+
+5.7
+
+1.8
+
+16.8
+
+-4.9
+
+1. Q4/Q4.
+2. Percentage point contribution to GDP growth, s.a.a.r.
+
+Other recent indicators suggest that the Canadian economy is continuing to grow
+at a steady rate. Manufacturing shipments jumped 12.6 percent (s.a.a.r) in July,
+led by the increased production of motor vehicles. New orders, however, fell
+during the month, as did the number of unfilled orders. Housing starts in July
+
+IV-21
+
+and August remain near the 12-year high reached early this year. Auto sales have
+also remained robust, with July’s sales only slightly below the record numbers of
+late last year.
+
+The unemployment rate decreased to 7.5 percent in August. Employment has
+grown 2.6 percent over the first eight months of 2002, the largest eight-month
+increase since 1994. Employment growth in the manufacturing and construction
+sectors has been particularly robust over the course of the year. The twelve-
+month rate of consumer price inflation in July rose to 2.1 percent from
+1.3 percent in June, with most of the increase attributable to a rise in energy and
+cigarette prices, as well as higher automobile insurance premiums. The twelve-
+month rate of core price inflation, excluding food and energy prices, rose to
+2.9 percent in July from 2.6 percent in June.
+
+Canadian Economic Indicators
+(Percent change from previous period except as noted, s.a.)
+
+Indicator
+
+GDP by industry
+
+Industrial production
+
+New mfg. orders
+
+Retail sales
+
+Employment
+
+Unemployment rate1
+
+Consumer prices2
+
+2001
+
+2002
+
+Q4
+
+Q1
+
+Q2
+
+May
+
+Jun.
+
+Jul.
+
+Aug.
+
+.4
+
+-1.1
+
+-4.8
+
+2.6
+
+.1
+
+7.7
+
+1.1
+
+1.4
+
+2.4
+
+4.7
+
+2.6
+
+.7
+
+7.8
+
+1.5
+
+1.2
+
+1.7
+
+3.7
+
+.8
+
+.9
+
+7.6
+
+1.3
+
+.1
+
+-.6
+
+-.6
+
+-1.1
+
+.2
+
+7.7
+
+1.0
+
+...
+
+...
+
+.1
+
+-.1
+
+.0
+
+1.8
+
+.4
+
+7.5
+
+1.3
+
+...
+
+...
+
+n.a.
+
+n.a.
+
+-.5
+
+n.a.
+
+.1
+
+7.6
+
+2.1
+
+...
+
+...
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+.4
+
+7.5
+
+n.a.
+
+...
+
+...
+
+Consumer attitudes3
+
+114.7
+
+125.0
+
+125.5
+
+Business confidence3
+
+117.6
+
+141.5
+
+145.2
+
+1. Percent.
+2. Percent change from year earlier, n.s.a.
+3. Level of index, 1991 = 100.
+n.a. Not available.
+
+... Not applicable.
+
+The Bank of Canada left its target for the overnight rate, its key policy rate,
+unchanged at 2.75 percent following its September 4 meeting date, citing
+concerns over growth prospects in the United States and other countries. The
+decision ended a string of rate hikes totaling 75 basis points, the most recent on
+July 16, that had reversed part of the cumulative reduction of 375 basis points
+that began in 2001. However, the Bank noted that the Canadian economy is
+
+IV-22
+
+approaching its production capacity and further rate hikes are likely to be
+necessary going forward.
+
+External Balances
+(Billions of U.S. dollars, s.a.a.r.)
+
+2001
+
+2002
+
+Q4
+
+Q1
+
+Q2 May
+
+Jun.
+
+Jul.
+
+45.9
+98.5
+
+72.4
+
+86.1
+117.5 120.6
+
+86.1
+121.5
+
+101.2
+133.9
+
+68.5
+128.7
+
+91.1
+38.4
+
+61.2
+39.2
+
+90.9
+-5.3
+
+94.6
+1.1
+
+122.6
+44.7
+
+n.a.
+n.a.
+
+91.3
+25.5
+
+112.6 107.8
+43.7
+36.9
+
+113.3
+42.8
+
+111.3
+46.1
+
+126.4
+5.7
+
+.8
+4.1
+
+1.1
+3.6
+
+1.9
+4.0
+
+2.6
+5.0
+
+15.3
+7.5
+
+5.6
+-9.3
+
+9.6
+-13.9
+
+13.5
+-19.0
+
+1.4
+6.7
+
+8.3
+-7.6
+
+4.3
+n.a.
+
+n.a.
+n.a.
+
+-48.4
+-37.3
+
+-45.0
+32.0
+
+-38.2
+n.a.
+
+-27.1
+...
+
+-50.2
+...
+
+-46.0
+...
+
+32.8
+11.2
+
+34.9
+13.3
+
+35.2
+12.6
+
+35.4
+...
+
+29.8
+...
+
+n.a.
+...
+
+Country
+and balance
+
+Japan
+
+Trade
+Current account
+
+Euro area
+Trade1
+Current account1
+
+Germany
+Trade
+Current account
+
+France
+Trade
+Current account
+
+Italy
+Trade
+Current account1
+
+United Kingdom
+Trade
+Current Account
+
+Canada
+Trade
+Current Account
+
+1. Not seasonally adjusted.
+n.a. Not available.
+
+... Not applicable.
+
+IV-23
+
+IV-24
+
+IV-25
+
+Economic Situation in Other Countries
+
+Economic conditions in South America remain extremely fragile. No signs of
+recovery have emerged in Argentina and Venezuela. In Brazil, financial markets
+have stabilized somewhat over the intermeeting period, but the high level of
+uncertainty is taking a toll on economic activity. In contrast, growth in Mexico
+turned decidedly positive in the second quarter, led by strong exports. In
+emerging Asia, all countries experienced positive growth in the second quarter,
+and recent readings from economic indicators suggest that recovery has
+continued. With the notable exceptions of Argentina and Venezuela, inflation
+has generally remained under control.
+
+In Brazil, real GDP growth in the second quarter slowed to 2.4 percent (s.a.a.r.),
+but was supported by strong agricultural output. Indicators for the third quarter
+have pointed to a weakening in activity, as the country’s access to credit at home
+and abroad remains tightly constrained. Industrial output was flat in July, and
+unemployment edged above 8 percent. Twelve-month inflation ticked down in
+August to about 7½ percent, running above the 5½ percent upper limit of the
+government’s inflation target range for 2002. The trade surplus has been
+increasing in recent months in response to the weakening economy, the
+depreciation of the real, and the easing of a customs strike.
+
+During August, concerns rose over the lack of foreign credit for the Brazilian
+private sector, whose external obligations coming due in the next few months far
+exceed those of the government. These concerns prompted Finance Minister
+Malan and Central Bank President Fraga to meet with representatives of
+16 major international banks in late August, resulting in a statement from the
+banks promising to maintain their “general level” of business to Brazil. The
+government has continued to shorten the maturity structure of its large domestic
+debt in an effort to contain the costs of refinancing that debt.
+
+Observers remain concerned that opposition party presidential candidates, if
+elected in October, may not adhere to the conditions of a new $30 billion IMF
+loan for Brazil; the loan was approved by the Fund’s executive board on
+September 6. About $5-6 billion will be released this year and the remainder
+next year, assuming that the new government (which will take office in January)
+adheres to fiscal and monetary discipline. Lula of the Workers Party continues
+to have a commanding lead in the opinion polls, but Serra, the candidate
+preferred by most market participants, has moved up in the polls since early
+September. The first round of the election will occur October 6; if no candidate
+wins a simple majority of the votes, a second round election between the two top
+contenders will be held October 27.
+
+IV-26
+
+Brazilian Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2002
+
+Q1
+
+Q2
+
+June
+
+July
+
+Aug.
+
+Real GDP1
+
+Industrial production
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+Current account5
+
+3.8
+
+6.6
+
+7.1
+
+6.0
+
+-.7
+
+-.6
+
+1.5
+
+6.2
+
+7.7
+
+2.6
+
+3.5
+
+2.7
+
+7.3
+
+7.6
+
+4.6
+
+2.4
+
+1.4
+
+7.9
+
+7.8
+
+1.9
+
+...
+
+.9
+
+7.9
+
+7.7
+
+2.4
+
+-24.6
+
+-23.2
+
+-12.9
+
+-20.4
+
+-15.5
+
+...
+
+.0
+
+8.1
+
+7.6
+
+12.5
+
+-6.6
+
+...
+
+n.a.
+
+n.a.
+
+7.3
+
+23.3
+
+n.a.
+
+1. Annual rate. Annual figures are Q4/Q4.
+2. Percent. “Open” unemployment rate.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec. Price
+
+index is IPC-A.
+
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a. Not available.
+
+... Not applicable.
+
+In Argentina, economic indicators turned down again in July. Industrial
+production declined 2.4 percent, leaving output 13 percent below its level a year
+earlier and 25 percent below its 1998 peak. Sales and consumer confidence also
+declined in July. The extremely weak economy and suppressed utilities prices
+helped restrain consumer price inflation. The CPI rose 2.3 percent (s.a.) in
+August, bringing the twelve-month increase to over 36 percent, whereas the
+wholesale price index was up 108 percent on a twelve-month basis. Economic
+weakness and capital controls have led to an increase in the trade surplus; in
+July, on a twelve-month basis, exports were down 6 percent, but imports were
+down more than 50 percent.
+
+Negotiations between the Argentine government and the IMF on a new
+stabilization program have remained at an impasse. The Argentine government
+submitted a letter of intent in mid-August, but the Fund voiced concerns about
+its inadequate monetary and fiscal framework and about the lack of a plan for
+returning the insolvent banking system to financial health. Developments in
+Argentina over the second half of August reinforced these concerns. First,
+congress approved several banking measures that extended protection for bank
+debtors. Second, rulings by the Supreme Court, which has been in conflict with
+the Duhalde government for months, continue to undermine efforts by the
+government to achieve fiscal balance and stabilize the banking system. Finally,
+reports indicate that various provinces will continue to issue their own quasi-
+monies to finance their fiscal deficits.
+
+IV-27
+
+Argentine Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2002
+
+Q1
+
+Q2
+
+June
+
+July
+
+Aug.
+
+Real GDP1
+
+Industrial production
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+Current account5
+
+-1.9
+
+-1.8
+
+15.1
+
+-.7
+
+2.6
+
+-8.9
+
+-10.5
+
+-21.8
+
+-5.1
+
+17.4
+
+-1.5
+
+7.5
+
+-4.6
+
+-3.4
+
+...
+
+4.2
+
+16.6
+
+6.0
+
+n.a.
+
+-.8
+
+21.3
+
+23.3
+
+n.a.
+
+n.a.
+
+...
+
+1.5
+
+...
+
+28.4
+
+16.2
+
+...
+
+...
+
+-2.4
+
+...
+
+32.9
+
+16.8
+
+...
+
+...
+
+n.a.
+
+...
+
+36.5
+
+n.a.
+
+...
+
+1. Annual rate. Annual figures are Q4/Q4.
+2. Percent, n.s.a. Data are released for May and October only. Figures for Q2 reflect data
+
+for May.
+
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a. Not available.
+
+... Not applicable.
+
+In Mexico, real GDP rose 4.7 percent (s.a.a.r.) in the second quarter following
+six consecutive quarters of output declines. The recovery in large part owes to a
+revival of external demand; on a seasonally-adjusted basis Mexican exports rose
+about 5 percent (not annualized) in the second quarter and a further 2 percent in
+July. The strength of exports also helped to narrow the current account deficit.
+However, industrial production was flat in July and this, together with a
+significant decline in business confidence in August, suggests that growth may
+have softened some from its second-quarter pace. In recent months,
+twelve-month CPI inflation has been a bit over the government’s 4½ percent
+target for this year, reflecting in part the depreciation of the peso.
+
+IV-28
+
+Mexican Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2002
+
+Q1
+
+Q2
+
+June
+
+July Aug.
+
+Real GDP1
+
+Overall economic activity
+
+Industrial production
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+Imports4
+
+Exports4
+
+4.9
+
+6.5
+
+6.0
+
+2.2
+
+9.0
+
+-1.5
+
+-.2
+
+-3.4
+
+2.5
+
+4.4
+
+-.0
+
+.5
+
+.6
+
+2.7
+
+4.7
+
+4.7
+
+1.4
+
+1.4
+
+2.7
+
+4.8
+
+...
+
+.2
+
+-.3
+
+2.6
+
+4.9
+
+...
+
+n.a.
+
+0.0
+
+2.9
+
+5.5
+
+-8.0
+
+-10.0
+
+-9.1
+
+-8.2
+
+-8.7
+
+-7.4
+
+174.5
+
+168.4
+
+164.2
+
+170.4
+
+170.4
+
+172.4
+
+166.5
+
+158.4
+
+155.1
+
+162.2
+
+161.7
+
+165.1
+
+Current account5
+
+-18.1
+
+-17.9
+
+-15.2
+
+-12.0
+
+...
+
+....
+
+...
+
+n.a.
+
+n.a.
+
+n.a.
+
+5.3
+
+n.a.
+
+n.a.
+
+n.a.
+
+...
+
+1. Annual rate. Annual figures are Q4/Q4.
+2. Percent; counts as unemployed those working one hour a week or less.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a. Not available.
+
+... Not applicable.
+
+The Venezuelan economy is mired in a deep recession. Output plunged over
+22 percent (s.a.a.r.) in the second quarter. Declines were widespread, but
+particularly sizable in the oil, auto, and construction sectors. The second-quarter
+decline likely reflects the impact of April’s attempted coup, but political tensions
+have remained high and there is little evidence of a subsequent pick-up in
+activity. The increase in oil prices over the past several months has proved
+insufficient to satisfy the government’s hefty financing requirements, which are
+estimated by the government to be around 7 percent of GDP in 2002. So far this
+year, the government has had significant problems placing and rolling over
+domestic debt and has been unable to issue debt internationally. The bolivar has
+depreciated 7 percent since the last Greenbook and has fallen 45 percent since
+floating in mid-February. Consumer prices have risen 24 percent in the twelve
+months ended August.
+
+IV-29
+
+Venezuelan Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2002
+
+Q1
+
+Q2
+
+June
+
+July
+
+Aug.
+
+Real GDP1
+
+Unemployment rate2
+
+Consumer prices3
+
+5.7
+
+13.4
+
+13.4
+
+.9
+
+-15.3
+
+-22.1
+
+13.3
+
+12.3
+
+15.5
+
+14.6
+
+Non-oil trade balance4
+
+-10.3
+
+-12.2
+
+-11.1
+
+Trade balance4
+
+Current account5
+
+17.5
+
+13.4
+
+9.4
+
+4.1
+
+7.3
+
+.3
+
+...
+
+16.2
+
+19.6
+
+n.a.
+
+n.a.
+
+...
+
+...
+
+n.a.
+
+...
+
+n.a.
+
+22.0
+
+24.2
+
+n.a.
+
+n.a.
+
+...
+
+n.a.
+
+n.a.
+
+...
+
+15.8
+
+18.9
+
+n.a.
+
+n.a.
+
+6.7
+
+1. Annual rate. Annual figures are Q4/Q4.
+2. Percent, n.s.a.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a. Not available.
+
+... Not applicable.
+
+The Korean expansion, while still robust, showed some signs of moderating
+over the intermeeting period. Real GDP grew 5.6 percent (s.a.a.r.) in the second
+quarter, down from the faster pace in the first quarter; consumption and export
+growth were solid, but investment was weak. Industrial production in July
+rebounded only partially from its drop in June. (An election day holiday, labor
+strikes, and World Cup fever held down June’s figure.) In August, business
+sentiment improved, but remained below levels earlier this year, and consumer
+confidence slid for the second month in a row. Strong export growth in July was
+more than matched by a rise in imports, leading to a smaller trade surplus and
+virtually erasing the current account surplus. The unemployment rate has held
+steady at around 3 percent recently, and consumer price inflation through August
+remained well within the central bank’s 2 to 4 percent target range.
+
+IV-30
+
+Korean Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2002
+
+Q1
+
+Q2
+
+June
+
+July
+
+Aug.
+
+Real GDP1
+
+Industrial production
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+Current account5
+
+5.1
+
+16.9
+
+4.1
+
+2.8
+
+16.9
+
+12.2
+
+4.4
+
+1.7
+
+3.7
+
+3.2
+
+13.4
+
+8.6
+
+7.8
+
+1.5
+
+3.0
+
+2.5
+
+19.2
+
+7.0
+
+5.6
+
+2.1
+
+3.1
+
+2.7
+
+14.4
+
+7.3
+
+...
+
+-3.6
+
+3.0
+
+2.6
+
+17.1
+
+9.9
+
+...
+
+1.9
+
+3.0
+
+2.1
+
+8.2
+
+.3
+
+...
+
+n.a.
+
+3.1
+
+2.4
+
+n.a.
+
+n.a.
+
+1. Annual rate. Annual figures are Q4/Q4.
+2. Percent.
+3. Percent change from year earlier, except annual changes, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a. Not available.
+
+... Not applicable.
+
+Since the last Greenbook, data from the ASEAN region show a further pick-up
+in growth. Both Singapore and Indonesia registered double-digit second-quarter
+growth rates, and the pace of expansion stepped up sharply in Malaysia and the
+Philippines as well. Some one-time factors, such as surges in agricultural output
+in Indonesia and the Philippines and a significant boost from government
+spending in Singapore, were at least partly responsible for the very strong
+performance.
+
+Recent industrial production numbers have been encouraging, and the trade
+balances of the most export-dependent countries, Singapore and Malaysia, have
+been supported by rising exports. Trade performance has been mixed in the rest
+of the region, with rising imports roughly offsetting rising exports in Indonesia
+and the Philippines, and a surge in imports leading to a trade deficit for Thailand
+in July. Inflation has remained subdued in most of the region. Indonesia
+remains the outlier, with twelve-month inflation above 10 percent, but this is
+down from rates earlier this year.
+
+IV-31
+
+ASEAN Economic Indicators: Growth
+(Percent change from previous period, s.a., except as noted)
+
+Indicator and country
+
+2000
+
+2001
+
+2002
+
+Q1
+
+Q2
+
+May
+
+June
+
+July
+
+Real GDP1
+Indonesia
+Malaysia
+Philippines
+Singapore
+Thailand
+
+Industrial production2
+Indonesia3
+Malaysia
+Philippines
+Singapore
+Thailand
+
+7.3
+6.2
+3.7
+11.4
+3.4
+
+11.6
+19.1
+2.4
+15.3
+3.3
+
+1.2
+-.6
+3.9
+-6.4
+2.0
+
+.7
+-4.1
+-6.6
+-11.6
+1.3
+
+4.1
+4.3
+-.2
+8.1
+6.6
+
+.4
+2.1
+5.3
+6.8
+2.0
+
+10.0
+7.0
+9.7
+13.6
+6.1
+
+-2.0
+2.4
+5.4
+10.7
+3.2
+
+...
+...
+...
+...
+...
+
+-1.3
+.1
+-3.2
+2.7
+.4
+
+...
+...
+...
+...
+...
+
+1.0
+-1.7
+-3.1
+-2.2
+-1.8
+
+...
+...
+...
+...
+...
+
+n.a.
+4.1
+n.a.
+0.0
+3.1
+
+1. Annual rate. Annual figures are Q4/Q4.
+2. Annual figures are annual averages.
+3. Staff estimate.
+n.a. Not available.
+
+... Not applicable.
+
+ASEAN Economic Indicators: Trade Balance
+(Billions of U.S. dollars, s.a.a.r.)
+
+Country
+
+2000
+
+2001
+
+Q1
+
+Q2
+
+Indonesia
+
+Malaysia
+
+Philippines
+
+Singapore
+
+Thailand
+
+n.a. Not available.
+
+28.6
+
+16.1
+
+6.7
+
+3.3
+
+5.5
+
+25.4
+
+14.3
+
+2.6
+
+5.8
+
+2.5
+
+26.7
+
+14.9
+
+4.9
+
+6.2
+
+3.6
+
+28.3
+
+12.1
+
+.8
+
+5.8
+
+3.3
+
+2002
+
+June
+
+28.9
+
+14.3
+
+.5
+
+4.8
+
+6.0
+
+July
+
+Aug.
+
+26.2
+
+14.9
+
+n.a.
+
+13.2
+
+-3.5
+
+n.a.
+
+n.a.
+
+n.a.
+
+11.8
+
+n.a.
+
+IV-32
+
+ASEAN Economic Indicators: CPI Inflation
+(Percent change from year earlier, except as noted)
+
+Country
+
+20001
+
+20011
+
+2002
+
+Q1
+
+Q2
+
+June
+
+July
+
+Aug.
+
+Indonesia
+
+Malaysia
+
+Philippines
+
+Singapore
+
+Thailand
+
+9.3
+
+1.3
+
+6.7
+
+2.1
+
+1.4
+
+12.5
+
+14.5
+
+12.6
+
+11.5
+
+10.0
+
+10.6
+
+1.2
+
+4.1
+
+-.6
+
+.8
+
+1.4
+
+3.6
+
+-.8
+
+.6
+
+1.9
+
+3.4
+
+-.4
+
+.2
+
+2.1
+
+3.0
+
+.2
+
+.2
+
+2.1
+
+2.6
+
+-.4
+
+.1
+
+n.a.
+
+2.9
+
+n.a.
+
+.3
+
+1. December/December.
+n.a. Not available.
+
+The Chinese economy has continued to grow at a rapid pace. The strong
+performance of the economy so far this year appears to have resulted mainly
+from surging investment and robust export growth. Nominal fixed investment
+rose 25 percent in the first half of the year over the same period a year earlier,
+reflecting strong public sector spending and inflows of foreign direct investment.
+Consumption, as measured by retail sales data, also appears to be holding up
+well. China continues to experience deflation, however, with consumer prices
+down nearly 1 percent from year-ago levels.
+
+Chinese Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2002
+
+Q1
+
+Q2
+
+June
+
+July
+
+Aug.
+
+Real GDP1
+
+Industrial production2
+
+Consumer prices2
+
+Trade balance3
+
+8.0
+
+11.4
+
+1.5
+
+24.1
+
+7.5
+
+8.9
+
+-.3
+
+8.5
+
+8.2
+
+-.6
+
+23.1
+
+40.3
+
+9.3
+
+12.5
+
+-1.1
+
+29.9
+
+...
+
+...
+
+...
+
+12.4
+
+12.8
+
+12.7
+
+-.8
+
+-.9
+
+45.4
+
+12.6
+
+n.a.
+
+3.9
+
+1. Annual rate. Quarterly data estimated by staff from reported four-quarter growth rates.
+
+Annual figures are Q4/Q4.
+
+2. Percent change from year earlier. Annual figures are year over year.
+3. Billions of U.S. dollars, annual rate. Imports are c.i.f.
+n.a. Not available.
+
+... Not applicable.
+
+IV-33
+
+In Hong Kong, growth of real GDP edged up to 1.6 percent (s.a.a.r.) in the
+second quarter, but economic conditions remain weak. Consumption declined
+nearly 4 percent in the second quarter. Stagnant retail sales and weak consumer
+confidence in July suggest that a rebound in consumption is not imminent.
+Consumer prices continued to fall through July, and unemployment remained
+high through August. Hong Kong’s trade deficit has widened in recent months,
+owing mainly to increased imports, many of which are destined for re-export.
+Hong Kong remains highly dependent on the external sector, though its role as
+an entrepot is being increasingly challenged by China’s continuing integration
+into the world economy.
+
+Hong Kong Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+Q1
+
+Q2
+
+Real GDP1
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+7.0
+
+5.1
+
+-2.1
+
+-1.4
+
+4.9
+
+-3.5
+
+-11.0
+
+-11.4
+
+0.8
+
+7.0
+
+-2.6
+
+-4.5
+
+1.6
+
+7.7
+
+-3.2
+
+-7.8
+
+2002
+
+June
+
+...
+
+7.7
+
+-3.4
+
+July
+
+Aug.
+
+...
+
+7.8
+
+-3.5
+
+...
+
+7.6
+
+n.a.
+
+n.a.
+
+-10.6
+
+-10.3
+
+1. Annual rate. Annual figures are Q4/Q4.
+2. Percent. Monthly numbers are averages of the current and previous two months.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate. Imports are c.i.f.
+n.a. Not available.
+
+... Not applicable.
+
+Real economic activity in Taiwan increased only slightly in the second quarter,
+but the low rate of growth owed mainly to a negative arithmetic contribution
+from a surge in imports. Final domestic demand advanced 4 percent in the
+second quarter. Indicators for July have been mixed; exports moved down, but
+industrial production and foreign investment rose. Exports weakened a bit
+further in August, but a larger drop in imports led to a widening of the trade
+balance. Consumer prices in August retraced much of July’s increase, as
+weather-related effects on food prices abated.
+
+IV-34
+
+Taiwan Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2002
+
+Q1
+
+Q2
+
+June
+
+July
+
+Aug.
+
+Real GDP1
+
+Unemployment rate2
+
+Industrial production
+
+Consumer prices3
+
+Trade balance4
+
+Current account5
+
+3.9
+
+3.0
+
+7.4
+
+1.7
+
+8.3
+
+8.9
+
+-1.6
+
+4.6
+
+-7.3
+
+-1.7
+
+15.6
+
+18.9
+
+6.2
+
+5.3
+
+3.8
+
+-.1
+
+22.9
+
+29.1
+
+.3
+
+5.2
+
+6.0
+
+.0
+
+16.3
+
+24.3
+
+...
+
+5.2
+
+-5.4
+
+.1
+
+...
+
+5.0
+
+2.6
+
+.4
+
+...
+
+n.a.
+
+n.a.
+
+-.3
+
+17.2
+
+11.5
+
+18.1
+
+...
+
+...
+
+...
+
+1. Annual rate. Annual figures are Q4/Q4.
+2. Percent.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate. Imports are c.i.f.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a. Not available.
+
+... Not applicable.
+
+

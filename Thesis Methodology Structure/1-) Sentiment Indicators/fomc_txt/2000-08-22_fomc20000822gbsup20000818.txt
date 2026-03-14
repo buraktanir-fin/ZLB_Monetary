@@ -1,0 +1,1355 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+Confidential  (FR)  Class II FOMC
+
+August  18,  2000
+
+CURRENT  ECONOMIC
+AND  FINANCIAL  CONDITIONS
+
+Supplemental  Notes
+
+Prepared for the  Federal  Open Market  Committee
+by the staff of the  Board  of Governors  of the  Federal  Reserve System
+
+Contents
+
+The Domestic  Nonfinancial  Developments 
+
+...................... 
+
+Consumer  Sentiment  .................. 
+
+............... 
+
+. 1
+
+U.S.  International Transactions  ............................. 
+
+Trade in Goods  and Services  ............................ 
+
+Implications  for NIPA  Real Net  Exports  ................... 
+
+Tables
+Michigan  Survey of Consumer Attitudes  .................... 
+U.S.  Exports  and Imports  of Goods  and Services  ............. 
+
+Charts
+U.S.  International  Trade  in Goods  and Services 
+
+.............. 
+
+The Financial Economy  .......................................... 
+
+Tables
+Selected  Financial Market  Quotations  ...................... 
+
+3
+
+3
+
+2
+6
+
+5
+
+7
+
+1
+
+3
+
+7
+
+Supplemental  Notes
+
+The Domestic  Nonfinancial  Economy
+
+Consumer Sentiment
+According  to the preliminary  report,  the University  of Michigan  Survey
+Research Center's overall  index  of consumer  sentiment was little changed  in
+early August  and remained  a bit above  the elevated level registered,  on average,
+over the past two years.  Assessments  of current  conditions moved  down in
+early August,  as in the  preceding  two months,  and now  stand in the lower end of
+the range  recorded over the  past two years.1  In contrast,  assessments of
+expected  conditions  held steady in early August  and remained  in the upper  end
+of their range  during  the past  two years.
+
+Among those  questions not in the overall index,  appraisals  of buying conditions
+for cars popped up in August;  appraisals  of buying  conditions for homes  rose
+modestly,  but remained  well below  the  average  seen in the winter and early
+spring.  Expectations  about changes  in unemployment  over the next twelve
+months  were a shade  more favorable  in early August  than in July.
+
+Expected inflation  over the  next twelve  months  fell  somewhat  in early August:
+The mean decreased  0.4 percentage  point to 3.3  percent while  the  median
+decreased  0.3 percentage  point to 2.7 percent.  However,  expected  inflation  over
+the next five years  rose a little:  The mean increased  0.2 percentage  point to
+3.4 percent,  and the  median  increased  0.1  percentage point to 2.9 percent.
+
+1. At the end  of May,  the  current conditions  index registered  its second  highest  value  since
+
+monthly readings  of the series began  in  1978.
+
+UNIVERSITY  OF MICHIGAN SURVEY RESEARCH CENTER:  SURVEY OF CONSUMER ATTITUDES
+(Not seasonally adjusted)
+
+August 18,  2000
+
+1999 
+Dec. 
+
+2000 
+Jan. 
+
+2000 
+2000 
+Feb.  Mar. 
+
+2000 
+Apr. 
+
+2000 
+2000 
+May  June 
+
+2000 
+July 
+
+2000
+Aug
+(p)
+
+Indexes  of  consumer  sentiment  (Feb. 1966=100)
+
+Composite of  current and  expected conditions
+Current  conditions
+Expected  conditions
+
+105.4
+112.2
+101.1
+
+112.0
+117.3
+108.6
+
+111.3
+116.8
+107.8
+
+107.1
+115.4
+101.7
+
+109.2
+117.8
+103.7
+
+110.7
+119.9
+104.8
+
+106.4
+115.1
+100.8
+
+108.3
+114.2
+104.5
+
+107.8
+112.9
+104.5
+
+Personal  financial situation
+
+Now compared with  12  months ago*
+Expected  in 12  months*
+
+Expected business conditions
+
+Next  12  months*
+Next  5 years*
+
+Appraisal of buying conditions
+
+Cars
+Large  household appliances*
+Houses
+
+Willingness  to use credit
+Willingness  to use  savings
+
+133 
+132 
+
+135 
+141 
+
+132 
+138 
+
+135 
+136 
+
+130 
+137 
+
+138 
+137 
+
+129 
+137 
+
+130 
+139 
+
+150 
+125 
+
+165 
+133 
+
+161 
+136 
+
+146 
+128 
+
+152 
+130 
+
+153 
+133 
+
+146 
+123 
+
+148 
+135 
+
+141 
+158 
+154 
+
+50 
+70 
+
+144 
+169 
+152 
+
+51 
+85 
+
+153 
+172 
+153 
+
+48 
+75 
+
+134 
+165 
+150 
+
+52 
+67 
+
+148 
+176 
+151 
+
+54 
+70 
+
+145 
+173 
+136 
+
+45 
+65 
+
+138 
+170 
+128 
+
+49
+79
+
+141 
+167 
+136 
+
+125
+140
+
+152
+130
+
+149
+168
+138
+
+Expected unemployment change  - next  12  months
+
+105 
+
+104 
+
+106 
+
+109 
+
+109 
+
+104 
+
+112 
+
+111 
+
+110
+
+Prob. household will  lose  a job - next  5 years
+
+19 
+
+19 
+
+21 
+
+20 
+
+19 
+
+18 
+
+21 
+
+23 
+
+21
+
+Expected inflation - next  12  months
+
+Mean
+Median
+
+Expected inflation - next  5 to  10  years
+
+Mean
+Median
+
+3.6 
+3.0 
+
+3.5 
+3.0 
+
+3.5 
+2.9 
+
+3.8 
+3.2 
+
+3.5 
+3.2 
+
+3.5 
+3.0 
+
+3.4 
+2.9 
+
+3.7 
+3.0 
+
+3.2 
+2.9 
+
+3.5 
+3.0 
+
+3.3 
+2.9 
+
+3.8 
+3.1 
+
+3.2 
+2.8 
+
+3.4 
+2.9 
+
+3.3 
+2.8 
+
+3.2 
+2.8 
+
+3.3
+2.7
+
+3.4
+2.9
+
+* -- Indicates the question is  one of  the five  equally-weighted components  of  the  index of  sentiment.
+(p)  --  Preliminary
+(f)  --  Final
+Note:  Figures on  financial, business,  and buying conditions are  the percent reporting  'good times'  (or
+'better') minus the percent  reporting  'bad times'  (or 'worse'), plus  100.  Expected change  in
+unemployment  is  the fraction expecting unemployment to rise minus  the  fraction expecting
+unemployment  to  fall,  plus  100.
+
+U.S.  International Transactions
+
+Trade in Goods  and Services
+In June,  the U.S.  trade deficit  in  goods and services  was $30.6  billion, not much
+different  from the  size of deficits  recorded  in the previous  three months.  For the
+second  quarter, the  deficit was  $366 billion at  an annual rate,  $21  billion  larger
+than in the first  quarter.
+
+Net Trade in Goods  and Services
+(Billions  of dollars, seasonally  adjusted)
+
+1999 
+
+1999 
+
+_04 
+
+Annual rate 
+2000 
+01  1  02 
+
+Monthly  rate
+2000
+Apr.  I  May 
+
+I  June
+
+-322.4 
+
+-352.5 
+
+-376.8 
+
+-416.1 
+
+... 
+
+...
+
+-265.0 
+-345.6 
+80.6 
+
+-305.1 
+-384.9 
+79.8 
+
+-344.7 
+-423.4 
+78.7 
+
+-365.7 
+-440.9 
+75.2 
+
+-30.5 
+-36.9 
+6.4 
+
+-30.3 
+-36.5 
+6.2 
+
+-30.6
+-36.8
+6.2
+
+Real NIPA1
+Net exports of G&S 
+
+Nominal BOP
+Net exports of G&S 
+
+Goods, net 
+Services, net 
+
+1. Billions  of chained  (1996)  dollars.
+Source:  U.S. Department  of Commerce, Bureaus of Economic Analysis and Census.
+n.a.  Not available.  ...  Not applicable.
+
+The value of exports of goods  and services in  June jumped  sharply with
+increases  recorded  in all major trade  categories,  particularly semiconductors,
+computers,  and other machinery.  For the  second  quarter, nominal exports  of
+goods  and services  rose at an  annual rate  of  14 percent.  Almost  all of the
+increase  was in  capital  goods.  Exports  of high tech  goods  (computers,
+semiconductors,  and telecommunications  equipment)  and other machinery  rose
+strongly.  The increase  in  aircraft  exports  in the second quarter reversed  a
+decline  in the first quarter when  Boeing was  on strike.
+
+The  value of imports of goods  and services  also grew  strongly in June,
+particularly  oil  (both price  and quantity),  automotive  products  (reversing
+declines in  May),  and computers  and semiconductors.  For the  second quarter,
+the nominal value  of imports  of goods and  services jumped at  an annual  rate of
+17 percent.  The  sharpest increases  were  in oil  (mostly quantity),  consumer
+goods, and capital  equipment.
+
+Implications for NIPA  Real  Net Exports
+U.S. trade  data for June,  and revisions  for May,  suggest  that NIPA real net
+exports in 2000:Q2  could  be $6-1/2  billion (seasonally  adjusted, annual rate)
+stronger (smaller  deficit) than  estimated in the August Greenbook.  Both exports
+and  imports were  substantially  higher in the  second quarter than  we anticipated,
+
+-4-
+
+with real exports  $15  billion  stronger and real imports  $8-1/2 billion  stronger.  A
+rough estimate  suggests that BEA's  Advance NIPA  estimate  for net exports
+could revised by  similar  amounts.
+
+US.  International Trade in Goods  and Services
+
+Contribution of Net Exports to Real GDP  Growth
+
+Percentage  points, s.a.a 
+
+*- 
+
+1992 
+
+1994 
+
+1996 
+
+S I 
+
+1998 
+
+2000
+
+BilS,  s.a.a.r.
+
+3
+
+2
+2
+
+0
+
+-3
+-4
+
+Net  rade  in computers
+and semiconductors
+/ 
+
+o0
+
+- -21-2C
+
+Net automotive  trade
+Swith Canada  and  Mexico
+
+1992 
+
+1994 
+
+1996 
+
+1998 
+
+2000
+
+Selected Imports
+
+1.  Excludes agriculture  and  gold.
+2.  Excludes computers  and semiconductors.
+
+1.  Excludes  oil and gold.
+2.  Excludes  computers and semiconductors.
+3.  Excludes  Canada and Mexico.
+
+---- 
+
+---- 
+
+--
+
+U.S.  Exports and Imports of Goods  and Services
+(Billions of dollars, s.a.a.r.,  BOP basis)
+
+Exports of G&S
+
+Goods  exports
+Agricultural
+Gold
+Other goods
+
+Aircraft  & pts
+Computers
+Semiconductors
+Other cap  gds
+
+Automotive
+to  Canada
+to Mexico
+to ROW
+
+Ind supplies
+Consumer goods
+All other
+
+2000 
+
+Levels 
+
+2000 
+
+QI 
+
+Q2  May 
+June 
+1020.1  1054.9  1038.8  1086.8 
+
+734.9 
+52.5 
+9.6 
+672.8 
+
+43.6 
+51.2 
+52.5 
+179.0 
+
+80.3 
+47.5 
+15.9 
+17.0 
+
+767.2  753.0  797.9 
+54.0 
+53.8 
+52.9 
+5.2 
+2.7 
+3.7 
+710.6  696.5 
+738.8 
+
+52.9 
+55.3 
+59.6 
+189.4 
+
+80.1 
+45.0 
+17.3 
+17.8 
+
+56.5 
+52.4 
+57.8 
+182.0 
+
+78.8 
+44.5 
+17.1 
+17.3 
+
+55.5 
+57.1 
+65.1 
+196.5 
+
+84.6 
+46.9 
+18.4 
+19.2 
+
+148.8 
+87.3 
+30.0 
+
+154.1 
+88.7 
+30.4 
+
+152.1 
+86.0 
+31.0 
+
+158.3 
+93.7 
+28.1 
+
+Services exports
+
+285.2  287.6  285.8  288.8 
+
+Amount Change 
+
+_
+
+2000 
+
+Q1 
+21.5
+
+Q2  May 
+34.7 
+
+-0.2 
+
+2000
+
+June
+
+14.6
+2.5
+0.9
+11.2
+
+-9.4
+3.4
+1.2
+7.2
+
+2.8
+0.2
+2.2
+0.4
+
+3.3
+3.7
+-1.1
+
+7.0
+
+32.3
+0.4
+-5.9
+37.8
+
+9.2
+4.1
+7.1
+10.4
+
+-0.2
+-2.5
+1.4
+0.8
+
+5.3
+1.4
+0.4
+
+2.2
+2.8
+-0.6
+0.0
+
+0.1 
+-0.6 
+-0.5 
+
+2.4 
+
+-2.4 
+
+48.0
+
+45.0
+0.2
+2.5
+42.3
+
+-1.0
+4.7
+7.3
+14.5
+
+5.8
+2.5
+1.3
+1.9
+
+6.2
+7.7
+-2.9
+
+3.0
+
+Imports of G&S
+
+1364.8  1420.6  1402.5  1454.2 
+
+61.1
+
+55.7 
+
+-2.5 
+
+51.7
+
+Goods imports
+Petroleum
+Gold
+Other goods
+
+Aircraft & pts
+Computers
+Semiconductors
+Other cap gds
+
+Automotive
+
+from Canada
+from Mexico
+from ROW
+
+Ind supplies
+Consumer goods
+Foods
+All  other
+
+1158.3  1208.1  1190.7  1240.1 
+129.2 
+108.0 
+4.2 
+9.6 
+1040.6  1087.8  1074.7  1106.7 
+
+117.3 
+3.0 
+
+113.7 
+2.3 
+
+23.2 
+83.8 
+43.2 
+173.9 
+
+193.3 
+66.1 
+38.9 
+88.3 
+
+24.7 
+90.0 
+46.4 
+187.5 
+
+195.2 
+63.3 
+40.7 
+91.2 
+
+24.5 
+88.0 
+45.9 
+187.4 
+
+24.5 
+91.5 
+50.2 
+189.6 
+
+187.4  200.1 
+66.2 
+60.7 
+42.4 
+39.2 
+91.6 
+87.5 
+
+171.1 
+
+171.6 
+
+174.5 
+168.4 
+260.5  276.4  276.4  277.5 
+46.1 
+44.6 
+52.7 
+49.6 
+
+45.6 
+48.4 
+
+45.6 
+50.5 
+
+Services imports
+
+206.6  212.5 
+
+211.8 
+
+214.1 
+
+Memo:
+Oil quantity (mb/d) 
+Oil import price  ($/bbl) 
+
+11.35 
+12.11 
+25.98  25.40  25.44  25.44 
+
+12.00 
+
+12.11 
+
+53.0
+22.3
+0.3
+30.4
+
+-0.9
+0.1
+1.5
+8.8
+
+5.3
+0.8
+5.0
+-0.5
+
+6.3
+7.6
+0.0
+1.6
+
+8.1
+
+49.8
+9.3
+-6.6
+47.2
+
+1.5
+6.1
+3.1
+13.5
+
+1.9 
+-2.8 
+1.8 
+2.9 
+
+3.2 
+15.9 
+1.1 
+0.9 
+
+-2.8
+4.6
+-0.0
+-7.4
+
+-0.5
+-2.4
+2.9
+1.8
+
+-10.6 
+-2.3 
+-1.3 
+-7.0 
+
+1.9 
+1.1 
+0.4 
+-2.0 
+
+49.4
+15.5
+1.8
+32.1
+
+-0.0
+3.5
+4.4
+2.2
+
+12.7
+5.5
+3.1
+4.1
+
+3.5
+1.1
+0.5
+4.3
+
+5.9 
+
+0.3 
+
+2.3
+
+0.75 
+3.83 
+
+0.65 
+-0.58 
+
+0.32
+0.11
+
+0.00
+0.00
+
+1. Change  from previous quarter or month.
+Source:  U.S. Department of Commerce, Bureaus of Economic Analysis  and Census.
+
+-7-
+
+Selected  Financial Market Quotations
+(One-day  quotes in percent except  as noted)
+
+Instrument
+
+Short-term
+FOMC intended federal  funds rate
+
+1999 
+
+FOMC* 
+June  30 
+
+I
+
+Treasury bills
+3-month
+6-month
+1-year
+
+Commercial  paper
+
+1-month
+3-month
+
+Large negotiable  CDs  1
+
+1-month
+3-month
+6-month
+
+Eurodollar  deposits 2
+
+1-month
+3-month
+
+Bank prime  rate
+
+Intermediate- and long-term
+U.S. Treasury  (constant maturity)
+
+2-year
+10-year
+30-year
+
+U.S.  Treasury  10-year indexed  note
+Municipal revenue  (Bond Buyer) 3
+
+Private instruments
+10-year swap
+10-year FNMA
+Merrill Lynch  BBB
+High yield 4
+
+Home mortgages  (FHLMC survey rate) 5
+
+30-year fixed
+1-year adjustable
+
+2000
+
+Change to Aug.  17 from
+selected  dates (percentage points)
+
+FOMC** 
+
+May  16  1 
+
+IFOMC***
+June 28
+
+Aug. 17
+
+FOMC* 
+June 30 
+
+I  FOMC**
+May  16
+
+FOMC***
+June 28
+
+6.00
+
+5.94
+6.24
+6.05
+
+6.47
+659
+
+6.55
+6.74
+6.97
+
+6.53
+6.72
+
+9.00
+
+6.88
+6.47
+6.17
+
+4.21
+
+6.23
+
+7.82
+7.70
+8.86
+11.94
+
+852
+6.96
+
+6.50
+
+5.67
+5.96
+5.82
+
+6.56
+6.58
+
+6.66
+6.74
+6.89
+
+6.66
+6.72
+
+9.50
+
+6.50
+6.10
+5.95
+
+4.08
+
+5.99
+
+7.33
+7.15
+8.49
+11.98
+
+8.14 
+7.22 
+
+6.50
+
+6.09
+6.07
+5.89
+
+6.47
+6.47
+
+6.55
+6.61
+6.75
+
+6.53
+6.59
+
+9.50
+
+6.30
+5.81
+5.72
+
+4.02
+
+5.76
+
+7.09
+
+8.25
+11.81
+
+8.04
+7.28
+
+1.75 
+
+.50 
+
+.00
+
+.00 
+-.12 
+
+-.09
+-.11
+
+.00 
+-.13 
+
+.50 
+
+-.13
+-.13
+
+.00
+
+.01 
+
+.14 
+
+-.19 
+
+-.47 
+
+-.06
+
+-.23
+
+.41 
+1.35 
+
+-.48 
+.32 
+
+-.10
+.06
+
+Y -
+
+Record high 
+
+2000
+
+Change to Aug.  17
+from  selected dates (percent)
+
+Stock exchange  index
+
+Level 
+
+Date 
+
+FOMC**  IFOMC***
+June 28 
+
+May  16 
+
+Aug. 17 
+
+Record 
+high 
+
+FOMC** 
+May  16
+
+I FOMC***
+June 28
+
+Dow-Jones  Industrial
+S&P 500 Composite 
+Nasdaq (OTC) 
+Russell 2000 
+Wilshire  5000 
+
+1,527 
+5,049 
+606 
+14,752 
+
+3-24-00 
+3-10-00 
+3-9-00 
+3-24-00 
+
+1,452 
+3,608 
+498 
+13,438 
+
+1,451 
+3,859 
+508 
+13,537 
+
+1,496 
+3,941 
+516 
+13,941 
+
+-2.06 
+-21.94 
+-14.79 
+-5.50 
+
+2.07
+6.19
+2.11
+2.53
+
+1.  Secondary market.
+2.  Bid rates for Eurodollar deposits collected around 9:30 am. Eastern time.
+3.  Most recent Thursday  quote.
+4.  Merrill Lynch  175 high-yield  bond index  composite
+5.  For week ending  Friday previous  to date shown.
+*  Data are as of the  close on June 29,  1999.
+**  Data are as of the close on May  15,2000.
+***  Data are as of the close  on June 27.  2000
+
+BA:DAM
+
+

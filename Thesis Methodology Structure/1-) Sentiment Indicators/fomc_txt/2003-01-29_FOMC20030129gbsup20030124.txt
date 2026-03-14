@@ -1,0 +1,693 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version available 
+based on original copies culled from the files of the FOMC Secretariat at the Board 
+of Governors of the Federal Reserve System.  This electronic document was created 
+through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1
+versions text-searchable.2
+employed, some imperfections may remain. 
+
+ and then making the scanned 
+   Though a stringent quality assurance process was 
+
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+
+1  In some cases, original copies needed to be photocopied before being scanned into electronic 
+format.  All scanned images were deskewed (to remove the effects of printer- and scanner-introduced 
+tilting) and lightly cleaned (to remove dark spots caused by staple holes, hole punches, and other 
+blemishes caused after initial printing). 
+
+2 A two-step process was used.  An advanced optical character recognition computer program (OCR) 
+first created electronic text from the document image.  Where the OCR results were inconclusive, 
+staff checked and corrected the text as necessary.  Please note that the numbers and text in charts and 
+tables were not reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+Content last modified 5/20/2009. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            
+ 
+ 
+Confidential (FR)   Class III FOMC
+
+January 24, 2003
+
+CURRENT ECONOMIC
+AND FINANCIAL CONDITIONS
+
+Supplemental Notes
+
+Prepared for the Federal Open Market Committee
+by the staff of the Board of Governors of the Federal Reserve System
+
+ 
+Contents
+
+The Domestic Financial Economy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+Tables
+
+Commercial Bank Credit . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+Selected Financial Market Quotations . . . . . . . . . . . . . . . . 2
+
+Commercial Bank Credit
+(Percent change, annual rate, except as noted; seasonally adjusted)
+
+Type of credit
+
+2002
+
+Q3 
+2002
+
+Q4 
+2002
+
+      Total
+  1.  Adjusted1
+  2.  Reported
+
+          Securities
+  3.      Adjusted1
+  4.      Reported
+  5.          Treasury & Agency
+  6.          Other2
+
+          Loans3
+  7.      Total
+  8.          Business
+  9.          Real estate
+  10.             Home equity
+  11.             Other
+
+  12.         Consumer
+  13.             Adjusted4
+  14.         Other5
+
+6.6
+6.9
+
+12.4
+13.0
+18.3
+6.0
+
+4.7
+-7.0
+12.8
+36.1
+10.6
+
+4.5
+3.5
+1.0
+
+8.9
+12.3
+
+11.4
+23.3
+23.2
+23.6
+
+8.0
+-8.5
+18.8
+39.9
+16.4
+
+4.2
+1.7
+6.5
+
+11.0
+11.4
+
+12.9
+14.3
+22.3
+3.2
+
+10.3
+-4.9
+19.8
+22.5
+19.5
+
+7.7
+5.8
+7.2
+
+Oct.
+2002
+
+6.9
+6.0
+
+2.5
+-.3
+11.7
+-17.3
+
+8.5
+-6.4
+20.0
+23.9
+19.7
+
+2.7
+6.5
+1.2
+
+Nov.
+2002
+
+Dec.
+2002
+
+Level,
+Dec. 2002
+($ billions)
+
+15.2
+16.0
+
+31.9
+32.7
+35.7
+28.4
+
+9.3
+-3.2
+19.9
+16.4
+20.2
+
+.0
+8.7
+3.8
+
+8.7
+9.9
+
+15.8
+18.8
+13.1
+27.3
+
+6.2
+-2.9
+12.2
+26.6
+10.6
+
+1.8
+2.3
+5.2
+
+5,679     
+5,885     
+
+1,508     
+1,714     
+1,012     
+702     
+
+4,170     
+965     
+2,020     
+212     
+1,808     
+
+586     
+932     
+599     
+
+   Note.  All data are adjusted for breaks caused by reclassifications.  Monthly levels are pro rata averages of weekly (Wednesday)
+levels.  Quarterly levels (not shown) are simple averages of monthly levels.  Annual levels (not shown) are levels for the fourth
+quarter.  Growth rates are percentage changes in consecutive levels, annualized but not compounded. The conversion from a thrift
+to a commercial bank charter added approximately $37 billion to the assets and liabilities of domestically chartered commercial
+banks in the week ending May 8, 2002.
+   1. Adjusted to remove effects of mark-to-market accounting rules (FIN 39 and FIN 115).
+   2. Includes private mortgage-backed securities, securities of corporations, state and local governments, and foreign governments
+and any trading account assets that are not Treasury or Agency securities, including revaluation gains on derivative contracts.
+   3. Excludes interbank loans.
+   4. Includes an estimate of outstanding loans securitized by commercial banks.
+   5. Includes security loans and loans to farmers, state and local governments, and all others not elsewhere classified. Also includes
+lease financing receivables.
+
+  
+III-T-1
+Selected Financial Market Quotations
+(One-day quotes in percent except as noted)
+
+2000
+
+2001
+
+2002
+
+2003
+
+June 26
+
+Sept. 10
+
+Dec. 9
+
+Jan. 23
+
+Change to Jan. 23 from
+selected dates (percentage points)
+
+2000
+June 26
+
+2001
+Sept. 10
+
+2002
+Dec. 9
+
+Instrument
+
+Short-term
+FOMC intended federal funds rate
+Treasury bills 1
+     3-month
+     6-month
+
+Commercial paper (A1/P1 rates)
+     1-month
+     3-month
+Large negotiable CDs 1
+     1-month
+     3-month
+     6-month
+Eurodollar deposits 2
+     1-month
+     3-month
+
+Bank prime rate
+
+Intermediate- and long-term
+U.S. Treasury3
+      2-year
+     10-year
+     30-year
+
+U.S. Treasury 10-year indexed note
+
+Municipal revenue (Bond Buyer) 4
+
+Private instruments
+     10-year swap
+     10-year FNMA
+     10-year AA 5
+     10-year BBB 5
+     High-yield 6
+Home mortgages (FHLMC survey rate) 7
+     30-year fixed
+     1-year adjustable
+
+6.50
+
+5.66
+5.94
+
+6.56
+6.56
+
+6.64
+6.73
+6.89
+
+6.63
+6.69
+
+9.50
+
+6.54
+6.35
+6.22
+
+4.09
+
+5.99
+
+7.38
+7.15
+7.64
+8.40
+12.30
+
+8.14
+7.22
+
+3.50
+
+3.19
+3.13
+
+3.42
+3.24
+
+3.46
+3.26
+3.24
+
+3.41
+3.26
+
+6.50
+
+3.59
+5.14
+5.55
+
+3.26
+
+5.25
+
+5.62
+5.64
+6.30
+7.11
+12.72
+
+6.89
+5.64
+
+1.25
+
+1.21
+1.26
+
+1.31
+1.33
+
+1.36
+1.34
+1.36
+
+1.36
+1.35
+
+4.25
+
+1.90
+4.35
+5.15
+
+2.46
+
+5.24
+
+4.51
+4.58
+5.40
+6.94
+12.45
+
+6.19
+4.21
+
+1.25
+
+1.15
+1.18
+
+1.25
+-
+
+1.27
+1.27
+1.27
+
+1.28
+1.28
+
+4.25
+
+1.70
+4.23
+5.09
+
+2.16
+
+5.17
+
+4.40
+4.45
+5.20
+6.59
+11.42
+
+5.97
+4.03
+
+Record high
+
+2001
+
+2002
+
+2003
+
+Stock exchange index
+
+Dow-Jones Industrial
+S&P 500 Composite
+Nasdaq (OTC)
+Russell 2000
+Wilshire 5000
+
+Level
+
+11,723
+1,527
+5,049
+606
+14,752
+
+Date
+
+Sept. 10
+
+Dec. 9
+
+Jan. 23
+
+1-14-00
+3-24-00
+3-10-00
+3-9-00
+3-24-00
+
+9,606
+1,093
+1,695
+441
+10,104
+
+8,473
+892
+1,367
+386
+8,438
+
+8,369
+887
+1,388
+384
+8,406
+
+       1.  Secondary market.
+       2.  Bid rates for eurodollar deposits collected around 9:30 a.m. Eastern time.
+       3.  Derived from a smoothed Treasury yield curve estimated using off-the-run securities.
+       4.  Most recent Thursday quote.
+       5.  Derived from smoothed corporate yield curves estimated using Merrill Lynch bond data.
+       6.  Merrill Lynch Master II high-yield bond.
+       7.  For week ending Friday previous to date shown.
+       _______________________________________________________________________
+
+       NOTES:
+
+-5.25
+
+-2.25
+
+-4.51
+-4.76
+
+-5.31
+-
+
+-5.37
+-5.46
+-5.62
+
+-5.35
+-5.41
+
+-5.25
+
+-4.84
+-2.12
+-1.13
+
+-1.93
+
+-.82
+
+-2.98
+-2.70
+-2.44
+-1.81
+-.88
+
+-2.17
+-3.19
+
+-2.04
+-1.95
+
+-2.17
+-
+
+-2.19
+-1.99
+-1.97
+
+-2.13
+-1.98
+
+-2.25
+
+-1.89
+-.91
+-.46
+
+-1.10
+
+-.08
+
+-1.22
+-1.19
+-1.10
+-.52
+-1.30
+
+-.92
+-1.61
+
+.00
+
+-.06
+-.08
+
+-.06
+-
+
+-.09
+-.07
+-.09
+
+-.08
+-.07
+
+.00
+
+-.20
+-.12
+-.06
+
+-.30
+
+-.07
+
+-.11
+-.13
+-.20
+-.35
+-1.03
+
+-.22
+-.18
+
+Change to Jan. 23 
+from selected dates (percent)
+
+Record
+high
+
+-28.61
+-41.91
+-72.50
+-36.70
+-43.02
+
+2001
+Sept. 10
+
+-12.87
+-18.78
+-18.11
+-12.94
+-16.81
+
+2002
+Dec. 9
+
+-1.23
+-.52
+1.55
+-.68
+-.39
+
+           June 26, 2000, is the day before the FOMC meeting that ended the most recent period of policy tightening.
+           September 10, 2001, is the day before the terrorist attacks.
+           December 9, 2002, is the day before the most recent FOMC meeting.
+       _______________________________________________________________________
+                                                                                                                                                                                                                                               BA:DAM
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+

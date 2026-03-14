@@ -1,0 +1,2051 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+CONFIDENTIAL  (FR)
+CLASS  II 
+
+FOMC
+
+March  24,  1995
+
+SUPPLEMENT
+
+CURRENT ECONOMIC AND  FINANCIAL CONDITIONS
+
+Prepared for  the
+Federal  Open Market  Committee
+
+By  the  Staff
+Board  of  Governors
+of  the  Federal  Reserve  System
+
+TABLE  OF  CONTENTS
+
+THE  DOMESTIC  NONFINANCIAL  ECONOMY
+
+Business  investment.  . ..  .
+.
+Projection  for  1995:Q01  . . .
+
+.
+.
+
+.
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+...  .
+...  .
+
+.
+
+Tables
+
+Business  capital  spending  indicators  .
+.
+Changes  in  manufacturing and  trade  inventories  .
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+Charts
+
+Orders  and  shipments  of  nondefense  capital  goods  .
+Nonresidential  construction  and  permits.  .
+.
+Inventory-sales  ratio,  by  major  sector .
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+
+THE  FINANCIAL ECONOMY
+
+Tables
+
+Selected financial  market  quotations  .
+Commercial  bank credit  and  short-  and  intermediate-
+.
+
+term  business  credit .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+Page
+
+1
+2
+
+3
+6
+
+4
+5
+7
+
+8
+
+9
+
+SUPPLEMENTAL  NOTES
+
+THE  DOMESTIC NONFINANCIAL ECONOMY
+
+Business  Investment
+
+With  the  receipt  of  revised  data  on  manufacturers'  shipments
+
+and  orders  for  January  and  preliminary  data for  February,  the
+
+outlook  for  current-quarter  equipment  investment  has  improved
+
+noticeably.  In  particular  the  January  drop  in  shipments  of  office
+
+and  computing machines  (OCM) reported  previously is  now shown  to
+
+have  been much  smaller  and  February  shipments  are  reported  to  have
+
+been  up  5-3/4  percent 
+
+(Note:  The  detail  on  OCM  is  unpublished  at
+
+this  point  and.  thus,  is  strictly confidential  )  Moreover,  new
+
+orders  for  OCM  spurted almost  8  percent  in  February  after  a  1  1/4
+
+percent  rise  in  January;  the  previous  report  for  January had  shown
+
+these  orders  dropping  4-1/4  percent
+
+Shipments  of  nondefense  capital  goods,  excluding  aircraft  and
+
+computers,  continued  to  trend  up  at  a  strong  pace,  advancing
+
+2  percent  last  month,  after  a  2-1/2  percent  gain  in  January 
+
+In
+
+February,  orders  for  these  goods  retraced only  about  half  of  their
+
+sizable  January  gain.  Thus,  orders  continued  to  run  ahead  of
+
+shipments,  and  backlogs were  still  rising.  A  number  of  industries
+
+that  saw  particularly large  increases  in  orders  in  January-
+
+including  construction  equipment,  metalworking machinery, and
+
+electrical  industrial  apparatus- -reported partial  retrenchments  in
+
+their  level  of  bookings  last  month.  However  orders  for
+
+communications  equipment  fell  12  percent  after  a  smaller  drop  in
+
+January;  as  a  result  these  orders  have  retraced  a  good  part  of  the
+
+run-up  posted  over  the  second  half  of  1994.
+
+For  nonresidential  structures,  February's  data  on  permits
+
+showed  a  third  monthly  decline,  suggesting  that  some  softening  of
+
+the  uptrend  of  the  past  two  years  may  be  under  way
+
+Manufacturers'  inventory  investment  in  January  was  revised  down
+
+-2-
+
+$3.2  billion  at  an  annual  rate  to  $45.7  billion.
+
+Projection for  1995:Q1
+
+The  new  information  on  shipments  and  orders  of  nondefense
+
+capital  goods  would  lead  us  to  raise  our  projection  of real  outlays
+
+for  producers'  durable  equipment  by  $5 billion.  (This would
+
+increase  the  growth  rate  for  PDE  from  7 percent to  10-3/4  percent,
+
+at  an  annual  rate.  The  change  for  computing equipment  would  go  from
+
+-7 percent  to  +5-3/4  percent.)  But,  given  the  relatively  high
+
+levels  of  inventory  investment we  penciled  in  for  February  and
+
+March,  we  would be  inclined  to  offset  the  bulk of  the  additional  PDE
+
+by  reducing  the  projected  accumulation of  nonfarm  stocks.
+
+BUSINESS  CAPITAL SPENDING INDICATORS
+(Percent change from preceding comparable  period;
+based on seasonally adjusted data, in  current dollars)
+
+1994 
+
+1994 
+
+1995
+
+Q2 
+
+Q3 
+
+Q4 
+
+Dec. 
+
+Jan. 
+
+Feb.
+
+Producers'  durable equipment
+
+Shipments  of  nondefense capital goods 
+
+Excluding aircraft  and parts 
+
+Office and computing 
+All  other categories 
+
+2.3 
+4.6 
+1.7 
+5.4 
+
+3.4 
+3.2 
+2.5 
+3.4 
+
+2.7 
+3.3 
+4.9 
+2.9 
+
+.2 
+.8 
+-1.5 
+1.4 
+
+2.2 
+1.5 
+-1.8 
+2.5 
+
+3.0
+2.8
+5.7
+2.0
+
+Shipments  of  complete aircraft1 
+
+-33.1 
+
+n.a. 
+
+n.a. 
+
+.7  -14.4 
+
+n.a.
+
+Sales  of  heavy trucks 
+
+5.3 
+
+1.3 
+
+8.2 
+
+-8.2 
+
+17.3 
+
+-5.0
+
+Orders of  nondefense capital goods 
+
+Excluding aircraft  and parts 
+
+Office and  computing 
+All other categories 
+
+.2 
+4.2 
+6.7 
+3.5 
+
+3.3 
+3.4 
+3.3 
+3.5 
+
+3.4 
+2.7 
+2.0 
+2.9 
+
+-7.4 
+-1.5 
+-2.9 
+-1.1 
+
+10.9 
+7.8 
+1.2 
+9.7 
+
+.1
+-2.0
+7.9
+-4.5
+
+Nonresidential  structures
+
+Construction put-in-place 
+
+Office 
+Other commercial 
+Institutional 
+Industrial 
+Public utilities 
+Lodging and miscellaneous 
+
+3.6 
+3.7 
+11.9 
+7.4 
+6.6 
+-4.5 
+-.6 
+
+2.4 
+2.8 
+1.9 
+-1.3 
+3.5 
+5.4 
+-4.6 
+
+6.2 
+9.3 
+4.2 
+2.3 
+7.0 
+8.8 
+7.1 
+
+.1 
+.0 
+4.0 
+4.5 
+-7.4 
+-1.0 
+2.8 
+
+-.7  n.a.
+n.a.
+2.8 
+n.a.
+2.0 
+n.a.
+1.1 
+n.a.
+3.6 
+n.a.
+-9.8 
+n.a.
+9.0 
+
+Rotary drilling rigs  in use 
+
+2.3 
+
+-2.1 
+
+-5.3 
+
+-1.7 
+
+.1 
+
+2.2
+
+Memo:
+
+Business fixed  investment2  
+
+Producers' durable  equipment2  
+Nonresidential  structures 2  
+
+9.2 
+6.1 
+20.6 
+
+14.1 
+18.1 
+1.6 
+
+16.1 
+18.2 
+9.3 
+
+n.a. 
+n.a. 
+n.a. 
+
+n.a. 
+n.a. 
+n.a. 
+
+n.a.
+n.a.
+n.a.
+
+1. From the current Industrial Report  "Civil Aircraft and Aircraft Engines."
+Monthly data are seasonally adjusted using FRB seasonal  factors  constrained to
+BEA quarterly seasonal  factors.  Quarterly data  are seasonally adjusted using
+BEA seasonal  factors.
+
+2. Based on constant-dollar data;  percent  change, annual rate.
+n.a. Not available.
+
+Orders and  Shipments of  Nondefense  Capital  Goods
+
+-4-
+
+Office and  Computing  Equipment
+Billions of dollars
+
+19 
+
+-
+
+Months
+
+Ratio,
+unfilled orders  to shipments
+
+1991 
+
+I 
+1992 
+
+I 
+
+I 
+
+I 
+
+1 4 
+
+1 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I
+
+1993 
+
+1994 
+
+1995 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995
+
+Other  Equipment  (Ex.  Aircraft and Computing  Equipment)
+
+Billions of dollars 
+
+- 30 
+
+-
+
+Months
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995
+
+Nonresidential  Construction and  Permits
+(Six-month  moving  average,  Dec.  1982  = 100)
+
+Total Building
+
+Ratio  scale, index
+
+Construction
+
+'A
+
+1 
+A. 
+I
+
+'I
+
+3
+
+I
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+l 
+
+l 
+
+i 
+
+g 
+
+g 
+
+y
+
+1982 
+
+1983  1984  1985  1986 
+
+1987 
+
+1988  1989  1990  1991 
+
+1992 
+
+1993 
+
+1994  1995
+
+Office
+
+Other  Commercial
+
+1983 
+
+1985 
+
+1987  1989 
+
+1991 
+
+1993 
+
+1995
+
+1983 
+
+1985 
+
+1987 
+
+1989 
+
+1991 
+
+1993 
+
+1995
+
+Industrial
+
+Institutional
+
+1983 
+
+1985 
+
+1987 
+
+1989 
+
+1991 
+
+1993 
+
+1995
+
+1983 
+
+1985 
+
+1987  1989 
+
+1991 
+
+1993 
+
+1995
+
+CHANGES  IN MANUFACTURING AND TRADE  INVENTORIES
+(Billions of  dollars at  book value  and  annual  rates;
+based on  seasonally adjusted data)
+
+Total 
+
+Excluding wholesale  and
+
+retail motor vehicles 
+
+Manufacturing 
+Computers 
+Excluding  computers 
+
+Wholesale 
+
+Excluding motor vehicles 
+
+Retail 
+
+Automotive 
+Excluding  auto dealers 
+
+Constant-dollar basis
+
+Total 
+
+Excluding motor vehicles 
+Manufacturing 
+Wholesale 
+
+Excluding motor vehicles 
+
+Retail 
+
+Automotive 
+Excluding auto dealers 
+
+1994 
+
+1994 
+
+1995
+
+Q2 
+
+Q3 
+
+Q4 
+
+Nov. 
+
+Dec. 
+
+Jan.
+
+75.6 
+
+70.6 
+
+57.3 
+
+60.1 
+
+32.3 
+
+96.3
+
+58.9 
+13.3 
+1.2 
+12.2 
+23.0 
+16.6 
+39.4 
+10.4 
+29.0 
+
+39.0 
+35.6 
+.7 
+16.0 
+10.8 
+22.3 
+-1.9 
+24.2 
+
+53.4 
+13.7 
+-3.0 
+16.7 
+22.7 
+23.0 
+34.2 
+17.5 
+16.7 
+
+39.6 
+31.6 
+4.5 
+15.2 
+15.9 
+19.9 
+7.9 
+12.0 
+
+54.9 
+21.1 
+-1.0 
+22.1 
+25.3 
+25.8 
+10.9 
+2.9 
+8.0 
+
+32.8 
+22.2 
+2.5 
+13.7 
+14.4 
+16.6 
+11.2 
+5.4 
+
+55.9 
+23.1 
+-. 8 
+23.9 
+22.2 
+24.4 
+14.7 
+6.3 
+8.5 
+
+30.8 
+23.3 
+5.9 
+11.7 
+13.9 
+13.2 
+9.3 
+3.9 
+
+28.1 
+21.9 
+-4.8 
+26.6 
+12.3 
+17.5 
+-1.9 
+9.4 
+-11.3 
+
+5.5 
+-6.3 
+-1.6 
+.7 
+5.3 
+6.4 
+15.7 
+-9.3 
+
+57.2
+45.7
+9.1
+36.5
+17.4
+8.1
+33.2
+29.7
+3.5
+
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+
+INVENTORIES RELATIVE  TO SALES 1
+(Months supply;  based on seasonally adjusted data at  book value)
+
+1994 
+
+1994 
+
+1995
+
+Q2 
+
+Q3 
+
+Q4 
+
+Nov. 
+
+Dec. 
+
+Jan.
+
+Total 
+
+1.41 
+
+1.41 
+
+1.39 
+
+1.39 
+
+1.37 
+
+1.38
+
+Excluding wholesale  and
+
+retail  motor vehicles 
+
+Manufacturing 
+Computers 
+Excluding computers 
+
+Wholesale 
+
+Excluding motor vehicles 
+
+Retail 
+
+Automotive 
+Excluding auto dealers 
+
+Constant-dollar basis
+
+Total 
+
+Excluding motor vehicles 
+Manufacturing 
+Wholesale 
+
+Excluding  motor vehicles 
+
+Retail 
+
+Automotive 
+Excluding auto dealers 
+
+1.39 
+1.39 
+1.66 
+1.38 
+1.33 
+1.30 
+1.54 
+1.67 
+1.50 
+
+1.46 
+1.51 
+1.43 
+1.41 
+1.39 
+1.56 
+1.57 
+1.55 
+
+1.38 
+1.36 
+1.51 
+1.36 
+1.32 
+1.30 
+1.55 
+1.75 
+1.50 
+
+1.46 
+1.50 
+1.41 
+1.40 
+1.40 
+1.57 
+1.63 
+1.55 
+
+1.37 
+1.35 
+1.41 
+1.35 
+1.32 
+1.30 
+1.53 
+1.66 
+1.49 
+
+1.44 
+1.49 
+1.39 
+1.40 
+1.39 
+1.56 
+1.62 
+1.54 
+
+1.37 
+1.34 
+1.45 
+1.34 
+1.32 
+1.30 
+1.53 
+1.64 
+1.49 
+
+1.44 
+1.49 
+1.38 
+1.40 
+1.39 
+1.55 
+1.58 
+1.54 
+
+1.35 
+1.32 
+1.42 
+1.32 
+1.29 
+1.28 
+1.53 
+1.65 
+1.49 
+
+1.42 
+1.47 
+1.37 
+1.39 
+1.38 
+1.55 
+1.62 
+1.53 
+
+1.35
+1.33
+1.55
+1.32
+1.32
+1.29
+1.53
+1.71
+1.48
+
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+
+1.  Ratio of  end-of-period  inventories to  average monthly sales  for the  period.
+
+-7-
+
+Inventory-Sales Ratio, by  Major  Sector
+(Book value)
+
+Manufacturing
+
+Ratio
+--- 
+
+2.25
+
+2
+
+1.75
+
+1.5
+
+1.25
+
+Jan.
+
+I 
+
+I 
+1980 
+
+I 
+
+I 
+1982 
+
+I 
+
+I 
+1984 
+
+I 
+
+I 
+1986 
+
+I 
+
+I 
+1988 
+
+I 
+
+I 
+1990 
+
+I 
+
+I 
+1992 
+
+-
+
+I 
+
+I 
+
+-
+1994
+
+Wholesale  Excluding  Motor Vehicles
+
+-
+
+Ratio
+-
+
+1.5
+
+- 1.4
+
+Jan. -
+
+1.3
+
+- 1.2
+
+1.1
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+1980 
+
+1982 
+
+1984 
+
+1986 
+
+I 
+
+I 
+1988 
+
+II 
+
+1990 
+
+I 
+1992 
+
+I 
+
+I 
+
+1
+
+1994
+
+Retail
+Ratio 
+
+2.7- 
+
+2.5  -
+
+' 
+
+-
+
+I, 
+
+,'" 
+
+,] 
+
+', 
+
+2.3 
+
+2.1 
+
+1 Q 
+
+GAF group  (left scale)
+
+Ratio
+-
+
+1.7
+
+- 1.6
+
+, 
+
+" 
+
+'-! 
+
+Jan.-  1
+
+1 if 
+
+1
+
+Jan.
+
+Total  excluding  auto (right  scale) 
+
+-
+
+1.4
+
+1982
+
+1984 
+
+1986 
+
+I 
+
+I 
+I1 
+1988 
+
+I  1 
+1990
+
+1992 
+
+1994
+
+1.3
+
+Instrument
+
+SHORT-TERM RATES
+
+Federal  funds
+
+2
+
+3
+
+Treasury  bills
+
+3-month
+6-month
+1-year
+
+Commercial paper
+
+1-month
+3-month
+
+Large negotiable  CDs
+
+1-month
+3-month
+6-month
+
+Eurodollar  deposits
+
+4
+
+1-month
+3-month
+
+SELECTED  FINANCIAL  MARKET  QUOTATIONS
+
+(Percent except  as  noted)
+
+1993 
+
+i 1994
+
+1995 
+
+I Change  to Mar  23,  1995:
+
+Oct
+lows
+
+IFOMC,*I 
+Feb  31Feb  1  IMar  231 
+
+I From  Oct  931  From  I From  FOMC,*
+
+lows 
+
+I Feb  3  I Feb  1
+
+3.07 
+
+3.07 
+
+5.55 
+
+5.97 
+
+2.90
+
+2.90 
+
+0.42
+
+3.01 
+3.09 
+3.23 
+
+3.13 
+3.27 
+3.52 
+
+5.83
+6.13
+6.41
+
+5.71
+5.86
+5-98
+
+3.13 
+3-23 
+
+3.16 
+3.25 
+
+6.09 
+6.24 
+
+6.04 
+6.14 
+
+3.08 
+3.22 
+3.23 
+
+3.11 
+3.25 
+3.41 
+
+6.03 
+6.23 
+6.59 
+
+6.01 
+6.12 
+6.30 
+
+2.70
+2.77
+2.75
+
+2.91
+2.91
+
+2.93
+2.90
+3.07
+
+2.58 
+2.59 
+2.46 
+
+-0.12
+-0.27
+-0.43
+
+2.88 
+2.89 
+
+-0.05
+-0.10
+
+2.90 
+2.87 
+2.89 
+
+-0.02
+-0.11
+-0.29
+
+3.-06 
+3.25 
+
+3.06 
+3.25 
+
+6.00 
+6.19 
+
+6.00 
+6.13 
+
+2.94
+2.88
+
+2.94 
+2.88 
+
+0-00
+-0.06
+
+Bank  prime rate
+
+6.00 
+
+6.00 
+
+8.50 
+
+9-00 
+
+3.00
+
+3.00 
+
+0.50
+
+INTERMEDIATE- AND  LONG-TERM RATES
+
+U.S.  Treasury  (constant maturity)
+
+3-year
+10-year
+30-year
+
+Municipal  revenue
+
+(Bond Buyer)
+
+Corporate--A utility,
+
+recently  offered
+
+Home  mortgages
+
+6
+
+4.06 
+5.19 
+5.78 
+
+4.60 
+5.81 
+6.31 
+
+7.39
+7.60
+7-71
+
+6.87
+7.21
+7.47
+
+2.81
+2.02
+1.69
+
+2.27 
+1.40 
+1.16 
+
+-0.52
+-0.39
+-0.24
+
+5.41 
+
+5.49 
+
+6.78 
+
+6.34 
+
+0.93
+
+0.85 
+
+-0.44
+
+6.79 
+
+7.35 
+
+8.69 
+
+8.39 
+
+1.60
+
+1.04 
+
+-0.30
+
+FHLMC  30-yr.  fixed  rate
+FHLMC  1-yr.  adjustable  rate
+
+6.74 
+4.14 
+
+6.97
+4.12
+
+9.13
+6.75
+
+8.38
+6.44
+
+1.64
+2.30
+
+1.41 
+2.32 
+
+-0.75
+-0.31
+
+Stock  exchange  index 
+
+_ 
+_  __. 
+
+I 
+
+I 
+I 
+
+Record  high
+
+S1989  F
+
+1995
+
+Percentage  change to  Mar  23:
+
+I 
+Level  I 
+I _ 
+
+I  Low,  I FOMC,*  I 
+
+From
+
+I  record
+
+Date  I Jan- 31  Feb  1  I Mar.23  I  high
+
+1 
+
+I 
+
+I
+
+From  i
+I
+1989 
+I
+low 
+
+From FOMC,*
+Feb 1
+
+Dow-Jones  Industrial
+NYSE Composite
+NASDAQ  (OTC)
+Wilshire
+
+4083-68
+268.05
+810-49
+4868.95
+
+3/20/95  2144.64
+3/20/95  154.00
+378.56
+3/20/95 
+3/20/95  2718.59
+
+3843-.86
+255.93
+755.20
+4631.40
+
+4087.83
+267.92
+811.39
+4865.05
+
+0.10
+-0.05
+0.11
+-0.08
+
+90.61
+73.97
+114.34
+78.95
+
+6.35
+4.68
+7.44
+5.04
+
+1. One-day  quotes  except as  noted.
+2- Average  for  two-week  reserve  maintenance
+period closest  to  date  shown.  Last observation
+is  average to  date for  maintenance period ending
+Mar  29,  1995.
+
+3. Secondary  market-
+* Figures  are  as  of  the  close  on Jan  31,  1995-
+
+4. Bid rates  for Eurodollar
+
+deposits  at  11  a.m. London time.
+
+5. Most  recent  observation based on
+
+one-day Thursday  quote  and  futures
+market  index  changes.
+
+6. Quotes  for  week ending Friday
+
+previous  to  date  shown.
+
+COMMERCIAL  BANK CREDIT  AND  SHORT-  AND  INTERMEDIATE-TERM  BUSINESS  CREDIT
+(Percentage  change;  seasonally  adjusted  annual  rate) 1
+
+Type of  credit 
+
+1994 
+
+1 9 9 4  
+03 
+
+1 9 9 4  
+Q4 
+
+1994 
+Dec 
+
+1995 
+Jan 
+
+1995 
+Feb 
+
+Level,
+Feb
+1995
+(billions of $)
+
+1. Total  loans and  securities
+
+2.  Securities
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+U.S.  government
+
+Other
+
+Loans
+
+Business
+
+Real  estate
+
+Consumer
+
+Security
+
+Commercial  bank credit
+
+6.8 
+
+4.9 
+
+0.0 
+
+7.2 
+
+1.3 
+
+4.3 
+
+7.1 
+
+11.3 
+
+4.2  3,363.5
+
+-7.2 
+
+-4.9 
+
+-2.2 
+
+-10.8 
+
+938.2
+
+-4.0 
+
+-11.3 
+
+-7.0
+
+1.8 
+
+-8.0 
+
+715.8
+
+24.6 
+
+20.0 
+
+6.6 
+
+9.1 
+
+1.0 
+
+-14,7 
+
+-19.6 
+
+222.4
+
+12.1 
+
+16.7 
+
+10.1  2,425.3
+
+9.7 
+
+10.6 
+
+10.9 
+
+8.7 
+
+7.6 
+
+9.9 
+
+9.3 
+
+23.8 
+
+22.0 
+
+670.9
+
+18.0 
+
+8.9  1,021.0
+
+7,6 
+
+9,5 
+
+6.3 
+
+14.7 
+
+16.5 
+
+14.7 
+
+14.3 
+
+13.1 
+
+2.6 
+
+455.6
+
+-15.0 
+
+-19.5 
+
+-9.7 
+
+30.1 
+
+-27.7 
+
+-18.4 
+
+70.8
+
+10. 
+
+Other
+
+4.0 
+
+8.9 
+
+5.8 
+
+19.7 
+
+12.9 
+
+3.5 
+
+206.9
+
+11.  Business  loans  net of bankers
+
+9.6 
+
+10.9 
+
+11.4 
+
+10.3 
+
+24.7 
+
+23.8 
+
+663.4
+
+Short- and  intermediate-term  business  credit
+
+acceptances
+
+12.  Loans  at  foreign branches 2
+
+13.  Sum  of  lines  11  and  12
+
+14.  Commercial  paper  issued  by
+
+nonfinancial firms
+
+5.1 
+
+9.4 
+
+1.2 
+
+12.6 
+
+-3.5 
+
+15.9 
+
+26.2 
+
+20.5 
+
+23,8
+
+10.9 
+
+11.0 
+
+10.3 
+
+24.9 
+
+23.5 
+
+687.2
+
+4.5 
+
+25.0 
+
+37.3 
+
+12.3 
+
+20.1 
+
+170.3
+
+15.  Sum  of  lines  13  and  14
+
+7.7 
+
+9.8 
+
+13.6 
+
+15.5 
+
+22.5 
+
+22.8 
+
+857.5
+
+16.  Bankers  acceptances,  U.S.  trade-
+
+-8.3 
+
+-11.5 
+
+-25.7 
+
+-50.5 
+
+-26.4 
+
+n.a. 
+
+5
+
+17.8
+
+related 3 ,4
+
+17.  Loans  at finance companies 4
+
+18.  Total  (sum  of lines  15,  16,  and  17)
+
+12.2 
+
+8.7 
+
+5.2 
+
+8.0 
+
+17.0 
+
+20.0 
+
+22.7 
+
+14.0 
+
+15.8 
+
+21.7 
+
+n.a. 
+
+n.a. 
+
+360.75
+5
+
+1,220.0
+
+1. Except as  noted,  levels are  averages of Wednesday data  and  percentage  changes are based  on  averages of
+Wednesday  data.  For years,  "percentage change"  is  percentage change  in quarterly  average from  fourth quarter
+of preceding year to fourth  quarter of specified year. For quarters,  it is the percentage  change  in  quarterly  average
+from  preceding quarter to  specified quarter,  annualized.  Data  are adjusted for  breaks caused by  reclassification.
+2.  Loans to U.S.  firms  made by foreign  branches of  domestically chartered  banks.
+3.  Acceptances  that finance U.S.  imports,  U.S.  exports, and domestic  shipment  and  storage of goods.
+4.  Levels and  changes  are based on  averages of month-end  data.
+5, January  1995,
+n.a.  Not  available.
+
+

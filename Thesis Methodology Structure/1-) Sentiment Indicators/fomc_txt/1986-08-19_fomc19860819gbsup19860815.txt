@@ -1,0 +1,3941 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+CONFIDENTIAL  (FR)
+CLASS  III  - FOMC
+
+August  15,  1986
+
+SUPPLEMENT
+
+CURRENT ECONOMIC AND  FINANCIAL CONDITIONS
+
+Prepared  for  the
+Federal  Open Market  Committee
+
+By  the  Staff
+Board of  Governors
+of  the  Federal Reserve  System
+
+TABLE  OF  CONTENTS
+
+THE  DOMESTIC  FINANCIAL  ECONOMY
+
+Page
+
+Industrial  production. 
+.
+.
+Producer  prices. 
+Retail  inventories  .
+.
+
+.
+
+.
+.
+.
+
+.
+
+.
+
+Tables
+
+..
+
+.
+
+.
+
+.
+...  . .
+.
+.
+
+.
+
+Industrial  production 
+Recent  changes  in  producer  prices.
+Business  inventories  .
+.
+Inventory/sales  ratios  .
+
+.
+...
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+*
+
+* 
+
+* 
+
+* 
+
+* 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S
+
+S
+
+S 
+
+S 
+
+S 
+
+S 
+
+S
+
+S
+
+THE  FINANCIAL  ECONOMY
+
+Tables
+
+Monetary  aggregates 
+Commercial  bank  credit  and  short-  and  intermediate-
+.
+.
+.
+
+.
+Selected financial market  quotations  .. 
+
+term business  credit  .
+
+.........
+
+. .
+. .
+
+.... 
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+..  .
+. ..
+
+SUPPLEMENTAL NOTES
+
+THE DOMESTIC  NONFINANCIAL ECONOMY
+
+Industrial production
+
+Industrial  production edged  down 0.1 percent in July after declining
+
+0.3  percent  in June and 0.5  percent  in May.  Despite  strike  related  rebounds,
+
+mainly in communication equipment,  activity  remained generally sluggish.
+
+Output of  consumer goods  and durable  materials was  off  in July and weakness
+
+in most business  equipment industries  continued.
+
+Output  of consumer goods  decreased  0.3  percent  in July after a  similar
+
+decline in  June.  Auto assemblies  fell to  a  7.6 million unit  rate,  from an
+
+8.0 million unti  rate in June,  although  the  decline was  largely  offset by
+
+gains  in production  of  light  trucks.  Production of home  goods edged down
+
+in  July and  nondurable goods  output  fell  0.3 percent.  Most  business
+
+equipment groups  posted declines  except  commercial equipment,  which rebounded
+
+1.4  percent  in July owing  largely to  a resumption  of  production of  telephone
+
+equipment  after the  strike-related curtailment  in June.  Elsewhere in  the
+
+equipment  sector,  the  defense  and space  component  continued  to edge up,
+
+while oil  and  gas well  drilling  was  reduced again,  although much  less
+
+than in the  recent  months  and with a  negligible effect  on overall  industrial
+
+output.  Production of  construction supplies  rose  0.4 percent  in July after
+
+a 1.6  percent  drop in June.  Materials  production was  little  changed  in
+
+July as durable  good materials decreased while  nondurable goods,  such as
+
+chemicals  and  paper, as well as  energy materials both  rose.
+
+Producer Prices
+
+2
+
+Producer prices  of  finished goods  fell  0.4 percent  in July-the fifth
+
+decline of  this year-as energy prices  dropped 12  percent.  Food prices,
+
+however, posted  a substantial  increase, and prices  of  other finished  goods
+
+advanced  0.3  percent.
+
+In the  finished  energy component,  refinery  prices of  gasoline  and
+
+fuel oil plunged 19  and 17  percent,  respectively;  both were  little more
+
+than half  of  their  July 1985  levels.  At the wellhead  level,  crude oil
+
+prices  dropped  9 percent to  less  than half  their year-earlier level.  More
+
+recently, spot  prices  of  crude oil have  picked up  in domestic and world
+
+markets,  in  response  to  the recent  OPEC  agreement  on a temprorary production
+
+cutback, suggesting an upturn in domestic  producer prices  of petroleum and
+
+products  in  coming  months.
+
+Producer prices of  finished  foods rose  about  2 percent in  July,
+
+reflecting reduced meat  supplies  as well as weather-related influences  on
+
+prices  of  poultry, eggs, and  apparently, fresh fruits  and vegetables.
+
+At  the farm level,  prices were up sharply  for  livestock and broilers;  but
+
+corn prices  plummeted, and  wheat and  soybeans  also fell.  Price  trends in
+
+agricultural  commodity markets since  the  mid-July PPI  pricing date  indicate
+
+further increases for  livestock and  poultry and declines  for grains  and
+
+soybeans.
+
+Excluding  food  and  energy items,  producer prices  of  finished  consumer
+
+goods rose  0.3 percent  in  July,--more  than in  recent months-with notable
+
+increases  for tobacco products,  pharmaceuticals, and  passenger cars.
+
+The index for  capital  equipment  advanced 0.2  percent-similar to  the average
+
+pace  over the  past  year;  substantial  increases were posted  for  trucks,
+
+cars,  and  commercial  furniture.
+
+At  earlier stages  of  processing, prices  of  intermediate materials
+
+less  food and  energy rose 0.2  percent while  prices of  crude  nonfood materials
+
+less  energy edged up 0.1  percent.  Both are  little  different  from their
+
+year-earlier levels.
+
+Retail  inventories
+
+The book value of  retail inventories  rose at  an annual  rate  of  $11.7
+
+billion in June,  after a $15.5  billion decline in  the preceding month.
+
+About  three-fourths  of  the  June  accumulation was  at automotive outlets.
+
+Most  types  of  stores  selling nondurable goods  reported  inventory declines.
+
+In particular,  the book value of  general merchandise  stocks  fell  at a $3.3
+
+billion rate  in  June, after  a similar drop one month earlier. 
+
+These
+
+consecutive  reductions have notably improved  the general merchandisers'
+
+overall inventory position:  the  inventory-sales ratio for stores  in  this
+
+category  dropped  to  2.26  in June-down from the  recent high of  2.37  observed
+
+in  January this  year.  Similar improvement  was  also seen  for stores  in  the
+
+broader G.A.F.  (general merchandise,  apparel,  and  furniture and  appliances)
+
+grouping, where  the  ratio  dropped to  2.27  in June,  compared  with the  January
+
+high of  2.38.
+
+For all manufacturing and  trade,  inventories rose in  June at  a $27.4
+
+billion annual  rate,  more  than reversing the  $22.5  billion drop  in the
+
+preceding month.  Total  sales  by manufacturers  and retail  and wholesale
+
+establishments  rose  0.5  in  June,  leaving  the overall inventory-sales  ratio
+
+unchanged at  1.39.  For  the second  quarter as  a whole,  inventories in  all
+
+manufacturing and  trade rose at  a $3.3  billion  rate  in book-value  terms,
+
+somewhat  more than  the  accumulation BEA had assumed when the  preliminary
+
+second-quarter GNP  estimates were prepared.
+
+INDUSTRIAL PRODUCTION
+(Percentage change from preceding period;
+based on seasonally adjusted data)
+
+1986 
+1986
+
+Q1 
+
+Q2
+
+1986
+1986
+June 
+
+July
+
+May 
+
+-Annual  rate-
+
+--Monthly rate-
+
+.7  -2.8
+
+-.5 
+
+-.3 
+
+Total Index 
+
+Products 
+
+Final  products 
+
+Consumer goods 
+
+Durable 
+Nondurable 
+
+.2 
+-1.3 
+1.9 
+2.7 
+1.6 
+
+-1.4
+-2.9
+4.3
+-3.3
+7.0
+
+Equipment 
+
+-4.8 
+.3 
+Business 
+-4.0 
+Defense  and  space 
+Oil  and gas  drilling  -59.7 
+
+-10.5
+-6.8
+1.9
+-86.9
+
+Intermediate  products 
+
+5.7 
+Construction supplies  10.8 
+
+Materials 
+
+Durable goods 
+Nondurable goods 
+Energy materials 
+
+1.4 
+.7 
+7.1 
+-2.3 
+
+3.9
+.9
+
+-5.0
+-8.1
+2.3
+-5.3
+
+-.4 
+-.6 
+-.1 
+-2.5 
+.7 
+
+-.6 
+-.7 
+-.3 
+.4 
+-.5 
+
+-1.3 
+-1.3 
+.2 
+-12.8 
+
+-1.1 
+-1.2 
+.1 
+-10.1 
+
+.4 
+.2 
+
+-.3 
+-1.6 
+
+-.7 
+-1.2 
+-.1 
+-.1 
+
+.1 
+-.4 
+.6 
+.5 
+
+-.1
+
+-.1
+-.1
+-.3
+-.1
+-.3
+
+.0
+.0
+.1
+-4.0
+
+.0
+.4
+
+.0
+-.2
+.2
+.4
+
+RECENT CHANGES  IN PRODUCER  PRICES
+
+(Percentage change;  based  on seasonally adjusted data) 1
+
+Relative
+Importance 
+
+Dec.  1985 
+
+1985 
+
+1985 
+Q4 
+
+1986 
+
+1986
+
+Q1 
+
+Q2 
+
+June 
+
+July
+
+-Annual 
+
+rate- 
+
+-Monthly 
+
+rate-
+
+Finished  goods 
+
+Consumer foods 
+Consumer energy 
+Other  consumer  goods 
+Capital  equipment 
+
+100.0 
+24.5 
+12.5 
+40.3 
+22.7 
+
+1.8 
+0.5 
+-0.3 
+2.7 
+2.7 
+
+0.0 
+9.2  -12.5 
+6.0 
+16.0 
+-8.1 
+20.7  -66.9  -25.1 
+1.7 
+2.5 
+4.4 
+1.9 
+0.7 
+5.6 
+
+0.0  -0.4
+1.9
+0.0 
+
+-0.6  -11.9
+
+0.0 
+0.1 
+
+0.3
+0.2
+
+Intermediate materials 2  
+
+Exc.  energy 
+
+95.3 
+79.6 
+
+0.0 
+-0.1 
+
+2.9  -11.8 
+-1.0 
+0.0 
+
+-4.8 
+-1.3 
+
+0.0  -0.7
+0.2
+0.0 
+
+Crude  food materials 
+Crude energy 
+Other crude materials 
+
+52.5 
+31.6 
+15.9 
+
+-6.4 
+-4.9 
+-4.3 
+
+47.0  -24.7 
+-0.2 
+-4.0  -51.3  -33.8 
+6.6 
+-0.2 
+
+1.5 
+
+-0.8 
+-3.0 
+1.1 
+
+3.4
+-2.8
+0.1
+
+1. Changes are  from  final month of  preceding period  to  final month
+of period indicated.
+2. Excludes materials  for food manufacturing and animal  feeds.
+
+BUSINESS INVENTORIES
+(Change at annual rates  in seasonally
+adjusted book value; billions of  dollars)
+
+1985  1985  1986  1986  1986  1986  1986  1986
+Apr  May  June
+Q3 
+
+Mar 
+
+Q2 
+
+Q4 
+
+Q1 
+
+Manufacturing and  trade 
+
+-6.4  17.6  20.1 
+
+3.3  36.0 
+
+5.1  -22.5  27.4
+
+(Pervious) 
+
+Manufacturing 
+Trade,  total 
+Wholesale 
+Retail 
+
+Durable 
+Auto 
+
+Nondurable 
+
+-23.8
+
+-2.1 
+
+-6.6  -8.6  -9.3  -5.2 
+
+.2  26.2  29.4 
+4.5 
+6.1 
+2.3  20.1  24.9 
+-3.0  17.8  21.0 
+-6.8  19.9  15.1  -2.1  20.5  -6.0  -9.2 
+
+8.6  32.0 
+7.4 
+5.9 
+1.2  26.1 
+1.3  27.2 
+
+4.0  -2.6  -12.1  -1.1
+7.6 -10.4  28.6
+.3  5.1  16.8
+7.3 -15.5  11.7
+1.6  -12.8  15.0
+8.8
+5.7  -2.7  -3.2
+
+5.3 
+
+2.3 
+
+3.9 
+
+-.1  -1.2 
+
+Totals may not  add because of  rounding.
+
+INVENTORY/SALES RATIOS
+
+1985  1985  1986  1986  1986  1986  1986  1986
+Mar  Apr  May  June
+Q3 
+
+Q2 
+
+Q4 
+
+Q1 
+
+Manufacturing and trade 
+
+1.36  1.36  1.38  1.39  1.40  1.37  1.39  1.39
+
+r 
+
+p
+
+Manufacturing 
+Trade, total 
+Wholesale 
+Retail 
+
+r - Revised.
+p - Preliminary.
+
+1.46  1.42  1.43  1.43  1.46  1.42  1.44  1.44
+1.28  1.30  1.34  1.35  1.35  1.33  1.35  1.35
+1.18  1.18  1.20  1.24  1.22  1.20  1.25  1.24
+1.37  1.43  1.47  1.45  1.47  1.46  1.44  1.45
+
+MONETARY  AGGREGATES
+(Based  on seasonally adjusted  data  unless otherwise  noted) 1
+
+August  15,  1986
+
+1984:04
+to 
+1985:Q4 
+
+Q1 
+
+Q2 
+
+1986
+May 
+
+June 
+
+JulyP
+
+Growth  from
+04  1985  to
+July  1986P
+
+--- 
+
+Percentage  change at annual rates  --
+
+11.9 
+8.6 
+7.6 
+
+7.7 
+4.3 
+7.4 
+
+15.8 
+10.4 
+8.0 
+
+23.4 
+12.4 
+5.7 
+
+14.6 
+9.5 
+6.6 
+
+16.9
+12.6
+12.9
+
+13.5
+8.5
+8.3
+
+Levels  in billions
+of dollars
+July  1986P
+
+1.  Ml
+2.  M2
+3.  M3
+
+Selected components
+
+4.  Currency
+
+5. 
+
+Demand deposits
+
+7.5 
+
+8.6 
+
+7.5 
+
+6.2
+
+9.6 
+
+5.5 
+
+6.1
+
+3.0 
+
+15.2 
+
+25.7 
+
+14.1 
+
+14.3
+
+6.  Other  checkable  deposits
+
+22.3 
+
+15.0 
+
+25.8 
+
+32.9 
+
+24.0 
+
+8.8 
+
+3.6 
+
+7.8 
+
+-55.4 
+
+7.  M2  minus  M12
+
+7.6 
+
+3.2 
+
+8.7
+
+8. 
+9. 
+
+10. 
+11. 
+
+12. 
+13. 
+14. 
+
+Overnight  RPs  and  Eurodollars,  NSA
+General  purpose  and  broker/dealer  money
+
+market  mutual  fund  shares,  NSA
+
+Commercial  banks
+
+Savings  deposits,  SA,
+plus  MMDAs,  NSA 3
+Small  time  deposits
+
+Thrift  institutions
+
+Savings  deposits,  SA,
+plus  MMDAs,  NSA 3
+Small  time  deposits
+
+18.9
+
+9.3
+9.1
+
+19.0 
+-0.6 
+5.1 
+
+13.7 
+-0.4 
+
+3.0 
+
+-7.1
+
+10.9 
+7.2 
+
+27.8
+5.8
+
+8.7 
+5.3 
+4.3 
+
+1.3 
+6.6 
+
+13.2 
+-3.1 
+7.4 
+
+13.8 
+2.8 
+
+15.8 
+-9.6 
+6.3 
+
+21.4 
+-4.5 
+
+6.  M3 minus M24
+
+3.7 
+
+20.3 
+
+-1.5 
+
+-20.8 
+
+17. 
+18. 
+19. 
+20. 
+
+21. 
+22. 
+
+Large  time deposits
+
+At  commercial  banks,  net 5
+At  thrift  institutions
+
+Institution-only money market
+mutual  fund  shares,  NSA
+
+Term  RPs,  NSA
+Term  Eurodollars,  NSA
+
+15.6 
+18.5 
+10.0 
+
+26.8 
+44.1 
+7.7 
+
+-1.7
+-8.6
+11.0
+
+39.2
+-13.2
+-1.5
+
+-15.4
+-23.0
+-0.7
+
+32.4
+-17.5
+-40.0
+
+11.1 
+-4.6 
+-4.9 
+
+26.7 
+7.5 
+
+21.4 
+-9.7 
+7.5 
+
+24.9 
+-5.2 
+
+-5.1 
+
+-1.9 
+-2.1 
+-2.2 
+
+-17.3
+-44.3
+-10.7
+
+30.2
+
+11.3
+
+99.4
+
+14.6
+6.5
+
+15.8
+-5.3
+6.5
+
+18.0
+-1.9
+
+13.9
+
+2.4
+-0.9
+8.0
+
+40.0
+-1.8
+-23.2
+
+MEMORANDA:
+T. 
+
+Managed  liabilities  at commercial
+
+24. 
+25. 
+26. 
+
+27. 
+
+banks  (24+25)
+Large time  deposits, gross
+Nondeposit  funds
+
+Net  due  to related  foreign
+
+institutions,  NSA
+
+Other 6
+
+--  Average  monthly  change  in  billions  of  dollars  -
+
+2.3 
+1.0 
+1.3 
+
+0.4 
+1.0 
+
+7.5 
+3.4 
+4.1 
+
+2.1 
+2.0 
+
+-5.8
+-2.6
+-3.2
+
+-1.6
+-1.7
+
+-5.3 
+-6.5 
+1.2 
+
+4.1 
+-2.9 
+
+-3.7 
+-0.6 
+-3.1 
+
+-2.0 
+-1.1 
+
+0.3
+-1.3
+1.6
+
+-6.0
+7.5
+
+28.  U.S.  government deposits  at  commercial
+
+banks 7
+
+0.2 
+
+-0.6 
+
+0.9
+
+3.9 
+
+-2.8 
+
+-3.9
+
+177.5
+
+288.3
+
+204.0
+
+2021.0
+
+69.3
+
+200.1
+872.6
+
+492.5
+380.1
+888.3
+
+385.1
+503.3
+
+661.4
+
+446.5
+280.8
+165.7
+
+77.5
+65.1
+76.1
+
+469.5
+338.5
+131.0
+
+-30.3
+161.2
+
+14.6
+
+1.  Quarterly  growth  rates  are  computed  on  a  quarterly  average  basis.  uollar  amounts  snown  under  memoranda  ror  quar-
+terly  changes  are  calculated  on  an  end-month-of-quarter  basis.
+2.  Nontransactions  42  is  seasonally  adjusted  as  a  whole.
+3.  Growth  rates  are  for  savings  deposits,  seasonally  adjusted,  plus  money  market  deposit  accounts  (MMDs),  not  sea-
+sonally  adjusted.  Commercial  bank  savings  deposits  excluding  MMDAs  increased  during  June  and  July  1986  at  rates
+of  17.7  percent  and  23.8  percent,  respectively.  At  thrift 
+during  June  and  July  1986  at  rates  of  29.1  percent  and  22.9  percent,  respectively.
+
+institutions,  savings  deposits  excluding  MMDAs  increased
+
+.The  non-M2  component  of  M3 
+
+is  seasonally  adiusted  as  a  whole.
+
+Rat  of  large-denomination  time  deposits  held  by  money  market  mutual  funds  and  thrift 
+Consists  of  borrowings  from  other  than  commercial  banks  in 
+
+the  form  of  federal  funds  purchased,  securities  sold
+
+institutions.
+
+der  agreements  to  repurchase,  and  other  liabilities 
+
+for  borrowed  money  (including  borrowings  from  the  Federal
+
+Reserve  and  unaffiliated  foreign  banks,  loan  RPs  and  other  minor  items).  Data  are  partially 
+7. Consists of  Treasury demand  deposits and  note  balances  at  commercial banks.
+p--preliminary
+
+estimated.
+
+COMMERCIAL BANK  CREDIT  AND SHORT-  AND INTERMEDIATE-TERM  BUSINESS  CREDIT
+(Percentage  changes  at  annual rates,  based on  seasonally  adjusted data) 1
+
+1985
+04
+
+01 
+
+02 
+
+1986 
+May 
+
+June 
+
+JulyP 
+
+Commercial Bank Credit
+
+1.  Total  loans and  securities
+
+at banks
+
+Securities
+
+11.5 
+
+19.9 
+
+9.3 
+
+2.0 
+
+3.9 
+
+4.9 
+
+5.9 
+
+10.4 
+
+U.S. government securities
+
+-3.5 
+
+-5.3 
+
+7.9 
+
+18.2 
+
+2. 
+
+3. 
+
+3.8
+
+6.3
+
+3.1
+
+4. 
+
+Other securities
+
+62.5 
+
+12.8 
+
+0.7 
+
+-1.3 
+
+11.2
+
+5. 
+
+Total loans
+
+6. 
+
+Business loans
+
+7. 
+
+8. 
+
+9. 
+
+Security loans
+
+Real estate  loans
+
+Consumer loans
+
+10. 
+
+Other  loans
+
+8.9 
+
+11.6 
+
+3.6 
+
+4.6 
+
+6.0 
+
+5.3 
+
+2.1 
+
+-2.6 
+
+3.0
+
+4.7
+
+4.0 
+
+101.7 
+
+-62.0 
+
+-40.1 
+
+-98.5
+
+12.6 
+
+13.0 
+
+13.4 
+
+15.5 
+
+11.6
+
+8.5 
+
+11.0 
+
+6.7 
+
+10.2 
+
+7.3 
+
+-1.6 
+
+7.6 
+
+4.8 
+
+5.9
+
+4.3 
+
+-0.6
+
+-3.6 
+
+August  15,  1986
+
+Levels  In
+Levels  in
+
+bil.  of dollars
+
+JulyPe
+
+1984.2
+
+471.2
+
+285.3
+
+185.9
+
+1513.0
+
+508.7
+
+44.8
+
+455.6
+
+305.6
+
+198.3
+
+12.5 
+
+33.5 
+
+45.9 
+
+15.0 
+
+6.1 
+
+0.0 
+
+64.9 
+
+13.0 
+
+Short-  and Intermediate-Term
+
+Business Credit -
+
+-
+
+11. 
+
+Business loans  net of bankers
+
+acceptances
+
+6.0 
+
+5.2 
+
+1.0
+
+-3.8
+
+3.6
+
+12. 
+
+Loans at  foreign  branches 2
+
+-16.5 
+
+0.0 
+
+-21.5
+
+-26.1
+
+13. 
+
+Sum of  lines 11  & 12
+
+14. 
+
+Commercial paper issued  by
+nonfinancial  firms 3
+
+5.2 
+
+5.1 
+
+0.2
+
+55.5 
+
+-14.4 
+
+-10.3
+
+-4.4
+
+-2.9
+
+0.7
+
+34.1
+
+1.8
+
+-26.7
+
+2.5
+
+13.1
+
+-21.6
+
+503.8
+
+18.1
+
+522.0
+
+81.8
+
+603.8
+
+15. 
+
+Sums of  lines  13 & 14
+
+11.8 
+
+2.1 
+
+-1.2 
+
+-4.2
+
+4.0 
+
+-1.4
+
+16. 
+
+Bankers  acceptances:  U.S.  trade
+
+related4
+
+5
+
+-30.8 
+
+-6.2 
+
+16.3 
+
+18.8 
+
+25.8 
+
+n.a.
+
+33.2  (Jun)
+
+17. 
+
+Line 15 plus bankers  acceptances:
+
+U.S. trade  related
+
+9.5 
+
+1.7 
+
+-0.4 
+
+-3.0
+
+5.1 
+
+18. 
+
+Finance  company loans  to  business
+
+4
+
+19.2 
+
+16.4 
+
+3.8 
+
+-2.3
+
+-2.3 
+
+n.a.
+
+n.a.
+
+637.7  (Jun)
+
+158.5  (Jun)
+
+19. 
+
+Total  short-  and  intermediate-
+term business  credit  (sum  of
+lines  17  & 18)
+
+11.3 
+
+4.5 
+
+0.5 
+
+-2.0
+
+3.8 
+
+n.a.
+
+796.3  (Jun)
+
+available.
+
+n.a.-not 
+p-preliminary
+1.  Average  of  Wednesdays  for  domestically  chartered  banks  and  average  of  current  and  preceding  ends  of  months  for
+foreign-related  institutions.
+2.  Loans  at  foreign  branches  are  loans  made  to  U.S.  firms  by  foreign  branches  of  domestically  chartered  banks.
+3. Average  of Wednesdays.
+4. 
+5. Consists  of  acceptances  that finance  U.S. imports,  U.S. exports  and domestic shipment and  storage  of  goods.
+
+ased  on  average  of  current  and  preceding  ends  of  month.
+
+SELECTED FINANCIAL MARKET QUOTATIONS 1
+(Percent)
+
+1984 
+
+Highs 
+
+1985 
+March 
+highs 
+
+April 
+Lows 
+
+1986 
+FOMC 
+
+July  9  Aug. 14 
+
+Change from:
+April 
+FOMC
+Lows  July  9
+
+11.63
+
+8.58
+
+6.95
+
+6.69 
+
+6.33 
+
+-0.62 
+
+-0.36
+
+10.67
+10.77
+11.13
+
+11.42
+11.35
+
+11.52
+11.79
+12.30
+
+11.89
+12.20
+
+8.80
+9.13
+9.25
+
+8.94
+9.12
+
+8.89
+9.29
+9.92
+
+8.89
+9.58
+
+13.00 
+
+10.50
+
+10.74
+
+5.77
+5.81
+5.79
+
+6.42
+6.30
+
+6.51
+6.39
+6.35
+
+5.88
+5.90
+5.94
+
+5.59
+5.56
+5.66
+
+-0.18
+-0.25
+-0.13
+
+-0.29
+-0.34
+-0.28
+
+6.65 
+6.51 
+
+6.14 
+6.01 
+
+-0.28 
+-0.29 
+
+-0.51
+-0.50
+
+6.61
+6.45
+6.44
+
+6.03
+5.96
+5.95
+
+-0.48
+-0.43
+-0.40
+
+-0.58
+-0.49
+-0.49
+
+6.59 
+6.55 
+
+6.84 
+6.65 
+
+6.33 
+6.26 
+
+-0.26  -0.51
+-0.29  -0.39
+
+8.50 
+
+5.16 
+5.27 
+
+8.50
+
+5.60
+5.59
+
+8.00
+
+5.40
+5.29
+
+-0.50 
+
+-0.50
+
+0.24 
+0.02 
+
+-0.20
+-0.30
+
+Short-term rates
+
+Federal  funds2
+
+Treasury  bills3
+
+3-month
+6-month
+1-year
+
+Commercial paper
+
+1-month
+3-month
+
+Large negotiable CDs 3
+
+1-month
+3-month
+6-month
+
+Eurodollar deposits 4
+
+1-month
+3-month
+
+Bank prime  rate
+Treasury bill  futures
+Sept.  1986 contract
+Dec.  1986 contract
+
+Intermediate- and  long-term rates
+
+U.S. Treasury  (constant
+
+maturity)
+
+3-year
+10-year
+30-year
+
+Municipal revenue5
+
+13.49
+13.99
+13.94
+
+11.22
+12.02
+11.97
+
+6.49
+6.98
+7.14
+
+6.93
+7.31
+7.15
+
+6.51
+7.16
+7.29
+
+0.02
+0.18
+0.15
+
+-0.42
+-0.15
+0.14
+
+(Bond Buyer index)
+
+11.44 
+
+10.25
+
+7.55
+
+7.91
+
+7.64
+
+0.09 
+
+-0.27
+
+15.30 
+
+13.23
+
+9.15 
+
+9.5 4e 
+
+9.55
+
+0.40 
+
+0.01
+
+Corporate--A utility
+Recently offered
+
+Home mortgage rates6
+S&L fixed-rate
+S&L ARM,  1-yr.
+
+Stock prices
+
+14.68 
+12.31 
+
+1984 
+
+Lows 
+
+13.29
+11.14
+
+1985 
+March 
+Lows 
+
+1986 
+Record 
+Highs 
+
+Dow-Jones Industrial  1086.57  1247.35  1909.03 
+145.15 
+NYSE Composite 
+285.19 
+AMEX Composite 
+411.16 
+NASDAQ (OTC) 
+
+85.13 
+187.16 
+225.30 
+
+102.46 
+222.28 
+276.18 
+
+1. One-day quotes except  as  noted. 
+2. Averages  for two-week reserve maintenance period
+closest  to  date shown.  Last observation is  the
+average  to  date for  the maintenance period ending
+August 13,  1986.
+3. Secondary market.
+
+9.60 
+8.41 
+
+10.59 
+8.57 
+
+1986 
+
+10.1
+8.
+
+40
+44
+
+0.80 
+0.03 
+
+-0.19
+-0.13
+
+Percent  change from:
+
+FOMC 
+July 9 
+
+Aug. 14 
+
+Record 
+Highs  July 9
+
+FOMC
+
+-3.36 
+-2.31 
+-4.90 
+-7.70 
+
+1844.91 
+141.79 
+271.22 
+379.52 
+
+1826.07 
+139.55 
+273.71 
+393.39 
+4. Averages  for statement week closest
+to  date  shown.
+5. One-day quotes for preceding Thursday.
+6. One-day quotes  for preceding Friday.
+
+1.03
+1.61
+-0.91
+-3.53
+
+e--estimate
+
+CONFIDENTIAL  F.R.
+CLASS  II  - FOMC
+
+Flow  of  Funds  Projections
+
+August  15,  1986
+
+Division  of  Research  and  Statistics
+Board  of  Governors  of  the  Federal  Reserve  System
+
+AUGUST  15,1986
+DOMESTIC NONFINANCIAL  DFBT
+
+GROWTH  RATES  OF  MAJOR  DEBT  AGGREGATES  BY  SECTOR
+
+Table  I
+
+DOMESTIC  NONFINANCIAL  DEBT
+
+----------------------------------------------------------------
+
+- - - - - - - - - - - - - -DOMESTIC  NONFINANCIAL  SECTORS - - - - - - - - - - - -
+NONFINANCIAL  BUSINESS  STATE  & 
+LONG  SHORT 
+TERM  TERM 
+
+PVT. 
+U.S. 
+GOVT.  NONFIN  TOTAL 
+
+HOME  CONSUMER 
+MTGES  CREDIT 
+
+- HOUSEHOLDS  - - -
+
+LOCAL 
+GOVTS 
+
+TOTAL 
+
+DOETCNNIACA 
+-
+
+-
+
+FOREIGN 
+
+NON- 
+FINAN- 
+CIAL 
+
+MEMO:
+PRIVATE
+FINAN.
+ASSETS
+
+ETR----------------------------------------------------0
+
+TOTAL 
+-------------------
+
+1975
+1976
+77
+-178
+1979
+
+1980
+1981
+1982
+1983
+1984
+
+1985
+1986
+1987
+
+1984  --  I
+
+II
+III
+IV
+
+1985  --  I
+
+II
+III
+IV
+
+1986  --  I
+
+II
+III
+IV
+
+1987  --  I
+
+II
+III
+IV
+
+9.2
+
+10.7
+12.8
+13.1
+12.1
+
+9.5
+9.5
+9.2
+11.6
+14.7
+
+15.0
+11.1
+9.5
+
+12.9
+14.0
+12.7
+16.1
+
+11.4
+12.6
+12.7
+20.2
+
+8.7
+11.3
+12.0
+10.7
+
+9.7 
+9.2 
+9.1 
+8.6 
+
+23.7
+15.5
+11.0
+9.4
+6.0
+
+11.9
+11.8
+19.4
+18.8
+16.9
+
+16.2
+12.3
+8.5
+
+14.7
+14.0
+15.4
+19.5
+
+10.5
+15.7
+11.5
+23.8
+
+7.5
+14.8
+11.7
+13.0
+
+9.4
+8.0
+8.4
+7.0
+
+6.1
+9.5
+13.2
+14.0
+13.6
+
+9.0
+9.0
+6.8
+9.7
+14.0
+
+14.6
+10.8
+9.8
+
+12.3
+14.0
+11.9
+15.1
+
+11.6
+11.7
+13.1
+19.1
+
+9.1
+10.2
+12.1
+10.0
+
+9.8 
+9.6 
+9.3 
+9.1 
+
+7.2
+11.7
+16.3
+17.0
+15.1
+
+8.9
+8.3
+5.6
+11.3
+13.0
+
+14.1
+11.1
+11.1
+
+11.2
+14.0
+11.2
+13.2
+
+11.7
+11.5
+14.8
+15.8
+
+8.1
+11.0
+11.8
+11.9
+
+11.0
+10.7
+10.5
+10.4
+
+ANNUAL  GROTH (PERCENT)
+ANNUAL  GROWTH  (PERCENT)
+
+8.8
+12.6
+16.9
+17.5
+16.1
+
+11.4
+7.9
+4.8
+10.3
+11.1
+
+11.9
+12.4
+13.4
+
+4.5
+11.4
+16.2
+16.9
+13.5
+
+1.2
+6.0
+4.5
+13.6
+20.0
+
+17.0
+10.6
+7.4
+
+5.3
+8.4
+12.4
+12.8
+13.6
+
+9.7
+11.1
+7.6
+7.7
+15.4
+
+11.3
+10.1
+9.2
+
+9.2
+8.9
+11.1
+10.5
+9.9
+
+8.7
+7.6
+7.1
+9.2
+13.2
+
+14.3
+13.4
+11.6
+
+-1.3
+7.4
+14.7
+17.1
+20.1
+
+11.2
+16.6
+8.3
+5.5
+18.7
+
+7.1 
+5.0 
+5.3 
+
+QUARTERLY GROWTH  (PERCENT  - SAAR)
+
+10.5
+11.9
+10.1
+10.3
+
+9.4
+10.4
+13.1
+12.7
+
+7.0
+11.8
+14.4
+14.1
+
+13.2
+13.0
+12.5
+12.3
+
+16.9
+23.4
+17.0
+17.3
+
+18.7
+15.1
+18.0
+12.2
+
+11.1
+11.8
+9.4
+8.7
+
+7.9 
+7.3 
+7.1 
+6.7 
+
+14.6
+15.7
+12.3
+15.8
+
+11.0
+10.2
+8.9
+13.3
+
+11.2
+9.0
+9.3
+9.3
+
+9.5 
+9.1 
+8.7 
+8.3 
+
+9.5
+12.3
+12.9
+15.6
+
+12.4
+13.8
+12.2
+16.0
+
+14.0
+13.5
+11.5
+12.1
+
+11.9
+11.3
+10.8
+10.5
+
+22.3
+20.6
+11.4
+16.0
+
+9.0 
+5.0 
+4.2 
+9.3 
+
+7.0 
+2.0 
+5.8 
+4.8 
+
+5.5 
+5.5 
+5.0 
+4.6 
+
+6.2
+2.3
+8.5
+11.4
+12.2
+
+34.2
+12.3
+6.6
+
+6.5
+5.0
+14.0
+21.5
+
+14.8
+20.4
+25.6
+62.8
+
+4.5
+12.4
+25.5
+4.9
+
+6.6
+6.4
+6.4
+6.4
+
+14.2
+21.2
+12.2
+27.2
+12.5
+
+14.9
+13.0
+6.6
+8.3
+1.1
+
+.6 
+
+3.9 
+1.7 
+
+-2.7
+21.6
+-15.0
+
+1.5
+
+-1.3
+-1.3
+4.7
+
+.3
+
+8.8
+8.1
+-1.3
+.1
+
+1.6 
+1.5 
+1.7 
+2.0 
+
+9.4
+11.1
+12.7
+13.6
+12.1
+
+9.8
+9.7
+9.1
+11.4
+14.1
+
+14.4
+10.9
+
+9.2
+
+12.2
+14.3
+11.5
+15.5
+
+10.9
+12.1
+12.4
+19.5
+
+8.7
+
+11.2
+11.6
+10.3
+
+9.5 
+9.0 
+8.8 
+8.4 
+
+9.5
+10.5
+10.5
+11.0
+11.2
+
+9.4
+11.0
+9.9
+11.7
+14.2
+
+12.8
+8.2
+7.4
+
+12.2
+14.5
+11.9
+15.2
+
+10.9
+10.1
+11.9
+16.0
+
+5.7
+8.5
+9.6
+7.8
+
+7.5
+7.6
+6.8
+6.9
+
+HIGHLIGHT':
+
+i'abio 
+
+2:
+
+FLOW OF  FUNDS  PROJECTIONS' HIGHLIGHTS
+
+HIGHLIGHTS
+
+QUARTERLY, AT  ANNUAL RATES 
+
+QUARTERLY, AT  ANNUAL RATES
+
+NET  FUNDS  BORROWED  BY  DOMESTIC
+NONFINANCIAL  SECTORS
+
+1 
+2  PER CENT  OF GNP  I%)
+
+BANK CREDIT  - F/F BASIS:
+
+C  A  L  E  N  D  A  R 
+1984 
+
+1985 
+
+Y  E  A  R  S  I 
+1987  I 
+
+1986 
+
+1986 
+
+I 
+
+II 
+
+III 
+
+IV 
+
+I 
+I 
+
+1987
+
+I 
+
+II 
+
+III 
+
+IV
+
+765.9 
+20.3 
+
+898.2 
+22.5 
+
+765.6 
+18.2 
+
+723.9 
+16.2 
+
+601.9 
+14.5 
+
+794.8 
+19.0 
+
+869.7 
+20.5 
+
+795.8 
+18.5 
+
+744.5 
+17.1 
+
+720.5 
+16.3 
+
+727.0 
+16.2 
+
+703.5  1
+15.4  2
+
+3 
+4 
+
+TOTAL
+
+BUSINESS LOANS
+
+187.4 
+76.0 
+
+207.5 
+28.9 
+
+122.0 
+20.6 
+
+132.3 
+19.7 
+
+147.2 
+37.4 
+
+73.9 
+14.4 
+
+138.8 
+15.8 
+
+128.1 
+14.9 
+
+131.8 
+19.7 
+
+132.2 
+19.9 
+
+131.9 
+19.6 
+
+133.4  3
+19.4  4
+
+PERCENT OF  TOTAL
+
+5 
+
+FUNDS  BORROWED  (1)
+
+NONFINANCIAL  CORPORATE BUSINESS:
+
+24.4 
+
+23.1 
+
+15.7 
+
+18.2 
+
+23.6 
+
+9.1 
+
+16.0 
+
+16.1 
+
+17.6 
+
+18.3 
+
+18.0 
+
+18.8  5
+
+6 
+
+FINANCING GAP  (2)
+
+59.5 
+
+17.9 
+
+19.2 
+
+42.7 
+
+31.5 
+
+9.5 
+
+13.6 
+
+22.2 
+
+34.5 
+
+40.4 
+
+45.5 
+
+50.3  6
+
+7 
+8 
+9 
+10 
+
+NET  FUNDS RAISED  IN  MARKETS
+
+NET EQUITY  ISSUES
+BONDS AND  MTGS.
+ST  PAPER AND OTHER  DEBT
+
+115.6
+-77.0
+66.0
+126.5
+
+85.6
+-81.6
+99.4
+67.8
+
+76.9
+-73.8
+116.6
+34.0
+
+92.6
+-57.5
+118.0
+32.1
+
+105.7
+-60.0
+105.7
+60.0
+
+61.2
+-75.0
+132.1
+
+4.1
+
+63.0
+-85.0
+107.4
+40.6
+
+77.6
+-75.0
+121.2
+31.4
+
+92.2
+-65.0
+122.4
+34.7
+
+93.6
+-60.0
+117.9
+35.6
+
+91.6
+-55.0
+116.2
+30.4
+
+93.0
+-50.0
+115.3
+27.7
+
+11 
+
+LIQ. ASSETS/S.T.LIABILITIES
+
+27.4 
+
+25.8 
+
+26.1 
+
+25.5 
+
+26.2 
+
+26.3 
+
+26.1 
+
+25.9 
+
+25.8 
+
+25.6 
+
+25.5 
+
+25.3  11
+
+HOUSEHOLDS:
+
+NET ACQUISITION OF  DEPOSITS AND
+
+CREDIT MARKET INSTRUMENT  424.6
+298.7
+126.0
+
+DEPOSITS 
+CREDIT  MKT.INSTRUMENTS  (3) 
+
+364.3
+179.4
+184.9
+
+278.7
+235.3
+43.5
+
+309.3
+237.2
+72.1
+
+185.2
+236.4
+-51.2
+
+296.0
+223.0
+73.0
+
+297.4
+242.7
+54.6
+
+336.4
+238.9
+97.5
+
+313.1
+281.0
+32.1
+
+326.3
+247.2
+79.1
+
+293.5
+189.6
+103.9
+
+304.4
+231.0
+73.4
+
+AS  PERCENT OF  DPI:
+NET ACQUISITIONS  (L. 12)
+
+DEPOSITS  (L. 13)
+CR.MKT.INSTRUMENTS  (L. 14)
+
+15.9 
+11.2 
+4.7 
+
+12.9
+6.3
+6.5
+
+9.3 
+7.9 
+1.5 
+
+9.8 
+7.5 
+2.3 
+
+6,3 
+8.1 
+-1.7 
+
+9.9 
+7.5 
+2.5 
+
+9.9 
+8.1 
+1.8 
+
+11.1 
+7.9 
+3.2 
+
+10.1 
+9.1 
+1.0 
+
+10.4 
+7.9 
+2.5 
+
+9.2 
+6.0 
+3.3 
+
+9.4  15
+7.1  16
+2.3  17
+
+(1)  TOTAL  IN THIS RATIO INCLUDES FOREIGN
+
+BORROWING IN  THE  U.S.
+
+(2)  EXCESS  OF  CAPITAL  EXPENDITURES OVER
+
+GROSS CASH  FLOW
+
+(3)  EXCLUDES CORPORATE  EQUITIES
+
+AUGUST 15,  1986
+Funds  Raised
+
+Table  3
+Funds  Raised  in Credit Markets
+
+Funds  Raised
+
+SEASONALLY  ADJUSTED  ANNUAL  RATES 
+
+SEASONALLY  ADJUSTED ANNUAL  RATES
+
+1984 
+
+1985 
+
+1986 
+
+I 
+1987  I 
+
+III 
+
+1985 
+
+I 
+I 
+
+IV 
+
+I 
+
+1986 
+
+II 
+
+III 
+
+I 
+IV  I 
+
+1987
+
+H1 
+
+H2
+
+Net borrowing in  credit markets  by
+
+domestic nonfinan. sectors 
+
+765.9 
+
+898.2 
+
+765.6 
+
+723.9  809.9  1323.4 
+
+601.9 
+
+794.8 
+
+869.7 
+
+795.8 
+
+732.5 
+
+715.2  1
+
+U.S. Government
+
+198.8 
+
+223.6 
+
+196.5 
+
+152.1 
+
+168.5 
+
+358.(1 
+
+119.5 
+
+241.6 
+
+198.6 
+
+226.2 
+
+158.1 
+
+146.2  2
+
+P  'te  domestic nonfinan.
+
+State + local  govts.
+
+567.1 
+45.0 
+
+674.5 
+140.9 
+
+569.1 
+67.9 
+
+571.7 
+41.0 
+
+641.4 
+115.0 
+
+964.6 
+300.2: 
+
+482.4 
+24.8 
+
+553.2 
+69.4 
+
+671.1 
+147.0 
+
+569.6 
+30.2 
+
+574.4 
+40.6 
+
+569.1  3
+41.4  4
+
+Nonfinancial business
+Bonds  + mortgages
+Loans  + short-term paper
+
+Households
+
+Home mortgages
+Consumer  credit
+Other
+
+283.4
+145.7
+137.7
+
+238.8
+130.0
+94.8
+14.0
+
+241.8
+180.4
+61.4
+
+291.9
+152.6
+96.6
+42.7
+
+237.3
+190.9
+46.4
+
+263.9
+180.1
+70.9
+12.9
+
+238.7
+187.2
+51.5
+
+292.1
+218.7
+54.8
+18.6
+
+201.4
+163.6
+37.8
+
+324.9
+176.9
+111.2
+36.8
+
+305.4
+220.9
+84.  5;
+
+359.01
+177.2:
+78.8;
+103.01
+
+264.8
+199.7
+65.1
+
+192.7
+102.4
+73.9
+16.5
+
+218.0
+199.2
+18.8
+
+265.7
+175.5
+80.8
+9.5
+
+230.8
+175.5
+55.3
+
+293.3
+219.7
+66.4
+7.2
+
+235.5
+189.1
+46.4
+
+303.9
+222.7
+62.7
+18.5
+
+244.0
+189.6
+54.3
+
+289.9
+217.0
+56.5
+16.3
+
+233.4
+184.8
+48.6
+
+294.3
+220.4
+53.0
+20.9
+
+Net  foreign borrowing  in
+U. S. credit markets
+
+Total,  all nonfin. sectors
+
+Net credit market  borrowing by
+
+financial  sectors
+
+Sponsored credit  agencies
+Mortgage pool securities
+Pr.  te  finance
+Ni  ;redit market borrowing by
+
+all  sectors
+
+Borrowing as per cent of  GNP:
+
+Domestic nonfinancial
+
+By U.S. Govt.
+By private domestic nonfin.
+
+2.8 
+768.7 
+
+1.5 
+899.7 
+
+9.8 
+775.3 
+
+4.2 
+728.1 
+
+11.5 
+
+.8 
+
+821.3  1324.2 
+
+22.0 
+623.9 
+
+20.0 
+814.8 
+
+-3.2 
+866.5 
+
+.3 
+796.2 
+
+3.9 
+736.3 
+
+4.6  12
+719.9  13
+
+138.2 
+
+193.7 
+
+208.4 
+
+204.4 
+
+210.0 
+
+230.2 
+
+154.9 
+
+231.3 
+
+230.1 
+
+217.2 
+
+206.0 
+
+202.7  14
+
+30.4
+44.4
+63.3
+
+21.7 
+79.9 
+92.1 
+
+14.2
+128.9
+65.3
+
+30.4
+120.4
+53.6
+
+4.2
+87.3
+118.6
+
+30.4
+99.0
+100.8
+
+3.6
+95.0
+56.3
+
+5.1
+147.2
+78.9
+
+21.2
+138.7
+70.2
+
+26.8
+134.7
+55.7
+
+30.0
+121.6
+54.5
+
+30.8  15
+119.1  16
+52.8  17
+
+906.9  1093.4  980.9 
+
+930.5  1031.4  1554.4 
+
+777.1  1040.3  1094.5  1011.7 
+
+940.4 
+
+920.6  18
+
+20.3 
+5.3 
+15.1 
+
+22.5 
+5.6 
+16.9 
+
+18.2 
+4.7 
+13.5 
+
+16.2
+3.4
+12.8
+
+20.1 
+4.2 
+15.9 
+
+32.4 
+8.8 
+23.6 
+
+14.5 
+2.9 
+11.6 
+
+19.0 
+5.8 
+13.2 
+
+20.5
+4.7
+15.9
+
+18.5
+5.3
+13.3
+
+16.7
+
+3.6
+13.1
+
+15.8  19
+3.2  20
+12.6  21
+
+AUGUST  15,  1986
+Funds  Advanced
+
+Table  4
+Funds  Advanced Directly  in  Credit Markets
+
+Funds  Advanced
+
+ASONALLY ADJUSTED  ANNUAL RATES 
+--------- 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+SEASONALLY  ADJUSTED  ANNUAL RATES
+
+I 
+IV  I 
+----------------------------------------------------------------------
+
+I 
+1987  I  III 
+
+I 
+IV  I 
+
+1985 
+
+1984 
+
+1985 
+
+1986 
+
+1986 
+
+1987
+
+III 
+
+II 
+
+I 
+
+H2
+
+H 
+
+Net direct  lending
+
+To nonfinancial  sectors
+To  financial  sectors
+
+906.9
+768.7
+138.2
+
+1093.4
+899.7
+193.7
+
+980.9
+775.3
+208.4
+
+930.5
+728.1
+204.4
+
+1031.4
+821.3
+210.0
+
+1554.4
+1324.2
+230.2
+
+777.1
+623.9
+154.9
+
+1040.3
+814.8
+231.3
+
+1094.5
+866.5
+230.1
+
+1011.7
+796.2
+217.2
+
+940.4
+736.3
+206.0
+
+920.6
+719.9
+202.7
+
+to  finance
+
+555.6 
+
+555.2
+
+584.8 
+
+545.3 
+
+581.9 
+
+737.8 
+
+591.3 
+
+569.3 
+
+628.8 
+
+549.8 
+
+542.3 
+
+548.3  4
+
+Commercial banking
+
+181.7 
+
+196.6
+
+122.3 
+
+131.7 
+
+191.5 
+
+312.2 
+
+120.1 
+
+103.4 
+
+138.2 
+
+127.5 
+
+131.4 
+
+131.9  5
+
+Thrift  institutions
+Insurance  +  pension funds
+Other private finance
+
+U.S.Government  related
+
+Direct
+Sponsored agencies
+Mortgage  pools
+Federal  Reserve
+
+146.3
+119.0
+108.6
+
+98.8
+17.1
+28.8
+44.4
+8.4
+
+86.0
+125.2
+147.4
+
+140.7
+17.4
+21.7
+79.9
+21.6
+
+112.0
+130.3
+223.0
+
+170.6
+10.3
+16.4
+128.9
+15.0
+
+126.2
+136.5
+152.9
+
+167.7
+4.5
+30.9
+120.4
+11.9
+
+146.1
+137.1
+107.2
+
+115.8
+25.6
+19.8
+87.3
+-16.8
+
+83.5
+160.2
+181.8
+
+161.6
+7.9
+5.0
+99.0
+49.6
+
+66.2
+108.5
+298.2
+
+96.0
+12.1
+-4.2
+95.0
+-6.9
+
+111.8
+147.2
+212.6
+
+206.4
+16.5
+19.4
+147.2
+23.2
+
+143.8
+131.1
+217.8
+
+176.6
+3.2
+19.5
+138.7
+15.3
+
+126.2
+134.4
+163.5
+
+203.5
+9.4
+31.1
+134.7
+28.3
+
+123.0
+135.5
+154.3
+
+165.0
+4.3
+30.7
+121.6
+8.4
+
+129.4
+137.4
+151.6
+
+170.3
+4.6
+31.0
+119.1
+15.5
+
+Foreign
+
+45.9 
+
+75.7 
+
+114.3 
+
+95.6 
+
+96.8 
+
+99.6 
+
+97.5 
+
+124.3 
+
+105.4 
+
+130.0 
+
+128.9 
+
+62.3  14
+
+Households
+Nonfinancial business
+State+local  governments
+
+126.0 
+30.8 
+49.9 
+
+184.9 
+3.2 
+133.7 
+
+43.5 
+2.1 
+65.5 
+
+72.1 
+.8 
+49.1 
+
+110.5 
+11.8 
+114.5 
+
+265.9 
+18.4 
+271.1 
+
+-51.2 
+12.4 
+31.0 
+
+73.0 
+4.7 
+62.4 
+
+54.6 
+-7.9 
+137.0 
+
+97.5 
+-.7 
+31.7 
+
+55.6 
+-.5 
+49.1 
+
+88.7 15
+2.1  16
+49.0 17
+
+Commercial  banking 
+Total  private  finance 
+U.S.Government  related 
+
+of  total  advances  to  nonfinancial
+23.6
+72.3
+12.8
+
+sectors:
+21.9
+61.7
+15.6
+
+15.8
+75.4
+22.0
+
+18.1
+74.9
+23.0
+
+23.3
+70.9
+14.1
+
+23.6
+55.7
+12.2
+
+19.2 
+94.8 
+15.4 
+
+12.7 
+69.9 
+25.3 
+
+15.9 
+72.6 
+20.4 
+
+16.0 
+69.1 
+25.6 
+
+17.8 
+73.6 
+22.4 
+
+18.3
+76.2
+23.7
+
+Net  Issues of Corporate Equities
+
+Total net equity  issues
+
+Domestic nonfinancial  corp.
+Domestic  financial corps.
+Foreign net sales  to  U.S.
+
+Net purchases by:
+
+Households
+Foreign
+Finance
+
+-33.6 
+-77.0 
+42.3 
+1.1 
+
+32.9 
+-81.6 
+110.6 
+4.0 
+
+117.8 
+-73.8 
+186.0 
+5.6 
+
+98.5 
+50.6 
+29.6 
+-57.5  -75.0  -100.0 
+147.4 
+100.6 
+152.3 
+3.2 
+4.0 
+3.8 
+
+181.6 
+-60.0 
+233.2 
+8.4 
+
+113.4 
+-75.0 
+186.4 
+2.0 
+
+89.4 
+-85.0 
+168.4 
+6.0 
+
+86.9 
+-75.0 
+155.9 
+6.0 
+
+94.5 
+-62.5 
+152.1 
+4.9 
+
+102.6  1
+-52.5  2
+152.4  3
+2.7  4
+
+-41.2
+-2.7
+10.3
+
+-15.7
+
+4.7
+43.8
+
+51.5
+20.2
+46.2
+
+24.7
+14.3
+59.6
+
+-14.3
+7.7
+36.2
+
+22.3 
+16.7 
+11.6 
+
+99.0 
+22.7 
+59.8 
+
+47.3 
+23.0 
+43.1 
+
+46.0
+18.0
+25.5
+
+13.6
+17.0
+56.3
+
+21.6
+15.5
+57.4
+
+27.8
+13.0
+61.7
+
+

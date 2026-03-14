@@ -1,0 +1,805 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+CONFIDENTIAL  (FR)
+CLASS  III 
+
+FOMC
+
+September  22.  1995
+
+SUPPLEMENT
+
+CURRENT  ECONOMIC AND  FINANCIAL CONDITIONS
+
+Prepared  for  the
+Federal  Open Market  Committee
+
+By  the  Staff
+Board  of  Governors
+of  the  Federal  Reserve  System
+
+TABLE  OF  CONTENTS
+
+Page
+
+THE  FINANCIAL ECONOMY
+
+Tables
+
+Selected  financial market  quotations  . . . . . . . . .
+Commercial  bank  credit  and  short-  and
+
+intermediate-term business  credit  . . . . . .
+
+Instrument 
+
+Short-term Rates
+
+Federal Funds2 
+
+Treasury  Bills 3
+3-month 
+6-month 
+1-year 
+
+Commercial  paper
+
+1-month 
+3-month 
+
+Large  negotiable  CDs3
+1-month 
+3-month 
+6-month 
+Eurodollar deposits4
+1-month 
+3-month 
+
+Bank Prime Rate 
+
+Intermediate- and Long-term  Rates
+
+U.S.  Treasury (constant  maturity)
+
+3-year 
+10-year 
+30-year 
+
+Municipal  revenue  (Bond Buyer)5  
+
+Corporate-A Utility, recently offered 
+
+Home mortgages 6
+
+FHLMC  30-yr fixed rate 
+FHLMC  1-yr  adjustable rate 
+
+Selected  Financial Market Quotations1
+(Percent except  as noted)
+
+1994 
+
+1995 
+
+Change  to Sep. 21,  1995  from:
+
+Feb. 3 
+
+High 
+
+Aug. 22 
+
+Sep.  21 
+
+FOMC, 
+
+1994 
+
+Feb. 3 
+
+1994 
+
+high 
+
+FOMC,
+
+Aug.  22
+
+3.07 
+
+5.66 
+
+5.72 
+
+5.80 
+
+2.73 
+
+0.14 
+
+0.08
+
+3.13 
+327 
+3.52 
+
+3.16 
+3.25 
+
+3.11 
+3.25 
+3.41 
+
+3,06 
+3.25 
+
+6.00 
+
+4.60 
+5.81 
+6.31 
+
+5.49 
+
+7.35 
+
+6.97 
+4.12 
+
+5.78 
+6.38 
+6.84 
+
+6.13 
+6.32 
+
+6.10 
+6.39 
+6.89 
+
+6.06 
+6.38 
+
+8.50 
+
+7.82 
+8.04 
+8.16 
+
+7.37 
+
+9.05 
+
+9.25 
+6.79 
+
+1989 
+
+Low, 
+
+Jan. 3 
+
+5.46 
+5.45 
+5.54 
+
+5.84 
+5.83 
+
+5.77 
+5.78 
+5.82 
+
+5.78 
+5.81 
+
+8.75 
+
+621 
+6.57 
+6.89 
+
+6.44 
+
+7.87 
+
+7.94 
+5.95 
+
+5.24 
+5.29 
+5.30 
+
+5.80 
+5.69 
+
+5.70 
+5.68 
+5.67 
+
+5.69 
+5.69 
+
+8.75 
+
+5.91 
+6.21 
+6.56 
+
+6.18 
+
+7.50 
+
+7.60 
+5.80 
+
+2.11 
+2.02 
+1.78 
+
+2.64 
+2.44 
+
+2.59 
+2.43 
+2.26 
+
+2.63 
+2.44 
+
+2.75 
+
+1.31 
+0.40 
+0.25 
+
+0.69 
+
+0.15 
+
+0.63 
+1.68 
+
+-0.54 
+-1.09 
+-1.54 
+
+-0.33 
+-0.63 
+
+-0.40 
+-0.71 
+-1.22 
+
+-0.37 
+-0.69 
+
+0.25 
+
+-1.91 
+-1.83 
+-1.60 
+
+-1.19 
+
+-1.55 
+
+-1.65 
+-0.99 
+
+-0.22
+-0.16
+-0.24
+
+-0.04
+-0.14
+
+-0.07
+-0.10
+-0.15
+
+-0.09
+-0.12
+
+0.00
+
+-0.30
+-0.36
+-0.33
+
+-0.26
+
+-0.37
+
+-0.34
+-0.15
+
+1995 
+
+Percentage change to  Sep. 21  from:
+
+Stock Exchange  Index 
+
+Dow-Jones  Industrial 
+
+NYSE Composite 
+
+NASDAQ (OTC) 
+
+Wilshire 
+
+Record  high 
+
+Level 
+
+4801.80 
+
+314.33 
+
+1067.40 
+
+5843.27 
+
+Date 
+
+9/14/95 
+
+9/21/95 
+
+9/13/95 
+
+9/21/95 
+
+FOMC, 
+
+Aug. 22 
+
+Sep. 21 
+
+2144.64 
+
+4620.42 
+
+4767.40 
+
+154.00 
+
+378.56 
+
+300.16 
+
+312.71 
+
+1025.29 
+
+1058.51 
+
+2718.59 
+
+5574.66 
+
+5815.15 
+
+Record 
+
+high 
+
+-0.72 
+
+-0,52 
+
+-0.83 
+
+-0,48 
+
+1989 
+
+low 
+
+122.29 
+
+103.06 
+
+179.61 
+
+113.90 
+
+FOMC.
+
+Aug. 22
+
+3.18
+
+4.18
+
+3.24
+
+4.31
+
+1.  One-day  quotes  except as noted.
+2.  Average  for two-week  reserve  maintenance  period closest to  date shown. Last  observation  is average to date  for  maintenance  period ending
+
+September 27,  1995.
+
+3.  Secondary  market.
+4.  Bid rates  for Eurodollar deposits  at  11  a.m. London  time.
+5.  Most  recent observation  based  on  one-day Thursday  quote and futures  market  index changes.
+6.  Quotes  for week ending Friday  previous to date  shown.
+
+Commercial  Bank  Credit  and  Short- and  Intermediate-Term  Business Credit
+(Percentage  change;  seasonally  adjusted  annual  rate) 1
+
+Type  of credit 
+
+1994 
+
+1995 
+Q1 
+
+1995 
+Q2 
+
+1995 
+Jun 
+
+1995 
+Jul 
+
+1995 
+Aug 
+
+Level,
+Aug
+1995
+(billions of $)
+
+1. Total  loans and  securities
+
+2.  Securities
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+U.S.  government
+
+Other
+
+Loans
+
+Business
+
+Real  estate
+
+Consumer
+
+Security
+
+Commercial  bank credit
+
+6.8 
+
+4.9 
+
+0.0 
+
+23.9 
+
+7.6 
+
+9.2 
+
+6.4 
+
+7.8 
+
+-5.0 
+
+-6.0 
+
+-2.1 
+
+13.1 
+
+17.4 
+
+-5.1
+
+4.8 
+
+-1.7 
+
+-2.0 
+
+3.2 
+
+5.3  3,519.6
+
+-14.0 
+
+-13.1
+
+8.4 
+
+6.9 
+
+975.6
+
+702.0
+
+88.2 
+
+-1.3 
+
+-15.7 
+
+12.4 
+
+273.6
+
+13.0 
+
+11.4 
+
+16.8 
+
+11.1 
+
+11.9 
+
+7.3 
+
+7.4 
+
+4.4 
+
+8.4 
+
+9.9 
+
+7.0 
+
+4.1  2,544.0
+
+3.1 
+
+694.7
+
+11.1 
+
+5.9  1,061.8
+
+15.2 
+
+12.9 
+
+11.7 
+
+13.4 
+
+8.0 
+
+14.0 
+
+487.3
+
+-17.2 
+
+-9.1 
+
+69.3 
+
+11.4 
+
+-26.9 
+
+-57.8 
+
+79.0
+
+10. 
+
+Other
+
+3.6 
+
+15.0 
+
+12.5 
+
+-2.2 
+
+31.2
+
+.5 
+
+221.1
+
+11.  Business  loans net  of bankers
+
+9.4 
+
+17.8 
+
+11.6 
+
+3.5 
+
+6.5 
+
+3.9 
+
+687.9
+
+Short-  and intermediate-term  business credit
+
+acceptances
+
+12.  Loans at foreign branches2
+
+13.  Sum  of lines  11  and  12
+
+14.  Commercial  paper issued by
+
+nonfinancial firms
+
+5.1 
+
+9.2 
+
+1.2 
+
+17.6 
+
+21.9 
+
+17.7 
+
+12.0 
+
+9.6 
+
+3.7 
+
+14.3 
+
+0.0 
+
+25.5
+
+6.8 
+
+3.7 
+
+713.4
+
+22.1 
+
+20.7 
+
+-29.1 
+
+27.8 
+
+30.4 
+
+185.9
+
+15.  Sum  of lines  13  and  14
+
+7.6 
+
+18.6 
+
+13.7 
+
+-3.0
+
+16.  Bankers  acceptances,  U.S.  trade-
+
+related 3,4
+
+-8.3 
+
+-21.2 
+
+-4.5 
+
+-13.6
+
+17.  Loans  at finance companies 4
+
+12.6 
+
+20.3 
+
+14.8 
+
+11.6
+
+18.  Total  (sum of  lines  15,  16,  and  17)
+
+8.7 
+
+18.5 
+
+13.7 
+
+1.2
+
+11.0 
+
+-6.9 
+
+9.1 
+
+899.3
+
+n.a. 
+
+17.35
+
+4.0 
+
+8.7 
+
+n.a. 
+
+n.a. 
+
+387.45
+5
+
+1,297.2
+
+1. Except  as  noted,  levels are  averages of  Wednesday data  and percentage  changes are  based on averages  of
+Wednesday  data.  For years,  "percentage change"  is percentage  change  in quarterly  average  from fourth  quarter
+of preceding  year to fourth  quarter of specified year.  For quarters, it  is the percentage change in  quarterly average
+from  preceding  quarter to  specified quarter,  annualized.  Data are  adjusted for  breaks caused  by reclassification.
+2.  Loans to U.S. firms  made  by foreign  branches  of  domestically  chartered banks.
+3.  Acceptances that finance  U.S.  imports,  U.S.  exports,  and domestic  shipment and storage  of goods.
+4.  Levels  and  changes  are based on  averages of  month-end  data.
+5.  July  1995.
+n.a.  Not available.
+
+

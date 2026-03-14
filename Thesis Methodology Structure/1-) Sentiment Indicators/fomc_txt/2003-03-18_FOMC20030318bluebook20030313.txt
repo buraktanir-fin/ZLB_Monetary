@@ -1,0 +1,6931 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version available 
+based on original copies culled from the files of the FOMC Secretariat at the Board 
+of Governors of the Federal Reserve System.  This electronic document was created 
+through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1
+versions text-searchable.2
+employed, some imperfections may remain. 
+
+ and then making the scanned 
+   Though a stringent quality assurance process was 
+
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+
+1  In some cases, original copies needed to be photocopied before being scanned into electronic 
+format.  All scanned images were deskewed (to remove the effects of printer- and scanner-introduced 
+tilting) and lightly cleaned (to remove dark spots caused by staple holes, hole punches, and other 
+blemishes caused after initial printing). 
+
+2 A two-step process was used.  An advanced optical character recognition computer program (OCR) 
+first created electronic text from the document image.  Where the OCR results were inconclusive, 
+staff checked and corrected the text as necessary.  Please note that the numbers and text in charts and 
+tables were not reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+Content last modified 5/26/2009. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            
+ 
+ 
+Strictly Confidential (F.R.)
+Class II–FOMC
+
+March 13, 2003
+
+MONETARY POLICY ALTERNATIVES
+
+Recent Developments
+
+(1) With the probability of imminent war having increased, investors
+
+apparently shifted away from some aspects of risk taking, intensifying downward
+
+pressure on equity prices and interest rates over the intermeeting period.  The fall in
+
+stock prices, which cumulated to about 3 percent for broad indexes, was amplified by
+
+lackluster earnings reports and disappointing data on auto sales, labor markets, and
+
+consumer confidence.  Financial markets were quite sensitive to shifting perceptions
+
+of the likelihood of war.  For instance, just today equity prices rallied sharply and
+
+bond yields rose markedly, on news of a possible delay in a new U.N. resolution on
+
+Iraq.  On net, market participants seemed to interpret developments over the
+
+intermeeting period as suggesting that the onset of vigorous economic growth would
+
+be a little more delayed than previously expected.  The term structure of money
+
+market futures rates tilted down, as investors appear to have once again put off the
+
+time at which policy is expected to begin tightening, shifting the date from mid-
+
+summer to late in the year, and reducing the expected amount of tightening by the
+
+middle of next year by 35 basis points.1  (Additional detail about policy expectations is
+
+provided in the box on the next page.) 
+
+1  Market participants had almost uniformly anticipated that the Committee
+
+would keep policy on hold at its January 28-29 meeting, so that there was little
+reaction when that expectation proved true.  Over the intermeeting period, the
+effective federal funds rate averaged close to its 1-1/4 percent target.  The Desk met
+reserve drains caused by strong currency growth with outright purchases of $9.4
+billion (settlement basis), about evenly split between bills and coupons, using up all
+but $2.6 billion of its authorization to purchases securities outright (the “leeway”). 
+The Desk met its additional needs through a $2 billion increase in long-term RPs,
+bringing their level to $16 billion.
+
+2
+
+Monetary Policy Expectations
+
+Money market futures suggest that investors have trimmed their expected path of
+the federal funds rate as much as 3/8 percentage point over the intermeeting period
+(Chart 1).  As for the upcoming FOMC meeting, the April federal funds futures
+contract is now trading about 8 basis points below the FOMC’s intended rate of  
+1-1/4 percent, consistent with a one-in-three chance of a 1/4 percentage point
+easing on March 18.  Market chatter seems to put the odds of action lower than
+this, suggesting that the futures rate embodies some possibility of a 1/2 percentage
+point move.  Analysts are increasingly of the view that at this meeting the
+Committee will shift its assessment of the risks to its objectives from balanced to
+tilted toward economic weakness.
+
+According to options prices, the implied probability distribution for the funds rate
+six months hence has become more skewed to the downside.  Indeed, about
+8 percent of the probability mass now rests at levels of the federal funds rate at or
+below 50 basis points. 
+
+(2)
+
+Treasury coupon yields dropped 10 to 30 basis points over the
+
+intermeeting period, on net, pulled down by lower policy rate expectations and
+
+perhaps by enhanced investor demands for safety (Chart 2).  Much of these declines
+
+were accounted for by lower forward rates at the two- to seven-year maturities,
+
+consistent with the view that the level of economic activity would be on a lower track
+
+for some time.   Indexed-debt yields declined by more than those on their nominal
+
+counterparts, implying an edging higher of implied inflation compensation.  Survey
+
+measures of longer-term inflation expectations, in contrast, held steady.
+
+(3)
+
+Despite the evident jitters about the possibility of war and increasing
+
+concerns about economic fundamentals, declines in rates on investment-grade private
+
+instruments somewhat exceeded those on comparable-maturity Treasuries.  Risk
+
+spreads for lower tier instruments were about unchanged at high levels, and measures
+
+of implied volatility in stock and bond markets remained elevated.  The term structure
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+Chart 1
+Policy Expectations
+
+Percent
+
+Expected Federal Funds Rates*
+
+March 13, 2003
+January 28, 2003
+
+Mar. May
+
+July
+2003
+
+Oct.
+
+Dec.
+
+Feb.
+
+Apr.
+
+June
+
+Aug.
+
+Oct.
+
+Dec.
+
+Feb.
+
+Apr.
+
+June
+
+Aug.
+
+2004
+
+2005
+
+*Estimates from federal funds and eurodollar futures with an allowance for term premia and other adjustments.
+
+Expected Balance of Risks*
+(Percent of Respondents)
+
+Percent Expecting Balance Toward
+Weakness at March Meeting*
+
+Percent
+
+March May
+
+June
+
+Weakness
+
+Neutral
+
+Inflation
+
+42
+
+58
+
+ 0
+
+37
+
+63
+
+ 0
+
+36
+
+62
+
+ 2
+
+*From March 7, 2003 Money Market Services survey.
+
+1/31
+
+2/7
+
+2/14
+
+2/21
+
+2/28
+
+3/7
+
+*Responses from Money Market Services surveys.
+
+Implied Distribution of the Federal
+Funds Rate Derived from Options Prices*
+
+Probability of Federal Funds Rate Below
+50 Basis Points*
+
+Percent
+
+01/28/03
+
+03/13/03
+
+0.35
+
+0.30
+
+0.25
+
+0.20
+
+0.15
+
+0.10
+
+0.05
+
+0.0
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+ 5
+
+ 0
+
+25
+
+20
+
+15
+
+10
+
+ 5
+
+ 0
+
+0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+
+*Calculated from 150-day constant maturity eurodollar options.
+
+Jan.
+
+Apr.
+
+July
+
+Oct.
+
+Jan.
+
+*Calculated from 150-day constant maturity eurodollar options.
+
+2002
+
+2003
+
+Chart 2
+Financial Market Indicators
+
+Change in One-Year Treasury Forward Rates
+Since 1/28/03
+
+Basis points
+
+Long-Run Inflation Expectations
+
+Percent
+
+Michigan Survey
+
+Philadelphia Fed Survey
+
+10
+
+0
+
+-10
+
+-20
+
+-30
+
+TIIS Inflation
+Compensation*
+
+10
+
+20
+
+30
+
+Sept.
+
+Feb.
+
+2000
+
+June Oct.
+2001
+
+Feb.
+
+June Oct.
+2002
+
+Feb.
+2003
+
+*The inflation rate that equalizes the price of the January 2012 TIIS and
+the value of a portfolio of nominal securities with the same payments.
+
+1
+
+2
+
+3
+
+5
+
+7
+
+Years Ahead
+
+Spreads of Selected Private Long-Term Yields
+
+Basis points
+
+High-Yield Debt Spreads
+Basis Points
+
+Basis Points
+
+Daily
+
+Ten-year BBB
+
+Ten-year AA
+
+Ten-year Swap
+
+Daily
+
+350
+
+2800
+
+300
+
+2400
+
+250
+
+2000
+
+200
+
+1600
+
+150
+
+1200
+
+100
+
+ 800
+
+ 50
+
+ 400
+
+Telecom Sector
+
+Master II
+
+Sept.
+
+Feb.
+
+2000
+
+June Oct.
+2001
+
+Feb.
+
+June Oct.
+2002
+
+Feb.
+2003
+
+July
+
+Oct.
+
+Jan.
+
+Apr.
+
+2001
+
+July
+2002
+
+Oct.
+
+Jan.
+
+2003
+
+Note. Spreads measured over ten-year Treasury.
+
+Note: Spreads measured over ten-year Treasury.  Source: Merrill Lynch.
+
+One-year Swap Rate Implied Volatilities
+
+Percent
+
+One-year Swap Rate Implied Volatilities
+
+Percent
+
+Six months
+ahead
+
+Ten years
+ahead
+
+Two years
+ahead
+
+Feb.
+
+June
+2001
+
+Oct.
+
+Feb.
+
+Oct.
+
+June
+2002
+
+Feb.
+2003
+
+Note: Solid vertical lines indicate January 28, 2003.
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+March 13, 2003
+
+January 28, 2003
+
+1/4
+
+1/2
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Years Ahead
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1500
+
+1300
+
+1100
+
+ 900
+
+ 700
+
+ 500
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+3
+
+of implied volatilities calculated from options on swap forwards suggest that much of
+
+that uncertainty pertains to the near-term outlook:  Further out this term structure,
+
+those measures of volatility decline sharply.  The reduction in stock prices and yields
+
+on fixed-income securities were accompanied by considerable flows out of equity
+
+mutual funds and into government and, especially, other bond mutual funds (Chart 3). 
+
+Falling equity prices and interest rates further widened the spread between the
+
+forward earnings-price ratio and the real longer-term Treasury yield, a measure of the
+
+equity premium, to levels of the early 1990s.   
+
+(4)
+
+After moving mostly sideways on balance against the major foreign
+
+currencies for the first part of the intermeeting period, the dollar has fluctuated in a
+
+wide range in recent days.  On net, the foreign exchange value of the dollar has
+
+slipped 1 percent against a basket of major foreign currencies, losing 3-1/4 percent
+
+against the Canadian dollar and edging lower against the euro and the yen.  Share
+
+prices have declined substantially in the major foreign markets, reaching multi-year
+
+lows in Japan and Europe before rebounding somewhat at the end of the period. 
+
+Consistent with a global shift toward fixed-income assets, yields on long-term
+
+government securities also were down on net, although the declines were smaller
+
+abroad than in the United States. Additional signs of economic weakness in key euro-
+
+area countries – especially Germany – prompted the ECB to cut its key policy rates 25
+
+basis points on M arch 6.  Policy actions to counter downward pressures on activity
+
+were also taken in the United Kingdom and Switzerland.  The Bank of England
+
+lowered its repo rate 25 basis points in early February, and the Swiss National Bank in
+
+early March cut further its already very low range for policy rates to counteract the
+
+deflationary effects of Swiss franc strength.  In contrast, the Bank of Canada raised its
+
+target for the overnight rate by 25 basis points earlier this month to blunt inflationary
+
+pressures.  In Japan, the announcement that Toshihiko Fukui will become the next
+
+Chart 3
+Financial Market Indicators
+
+Net Inflows to Mutual Funds
+($ billions, at monthly rates)
+
+12-Month Forward Earnings-Price Ratio
+for S&P 500 and 10-Year Treasury
+
+Percent
+
+Monthly
+
+E/P ratio
+
+Equity Funds
+
+Bond Funds
+
+Govt.
+
+Other
+
+Total
+
+2001
+
+2002
+
+2.8
+
+2.3
+
+4.0
+
+6.4
+
+-2.2
+
+5.0
+
+5.4
+
+10.4
+
+2002 Q3
+
+-23.9
+
+10.9
+
+6.1
+
+17.0
+
+2002 Q4
+
+-3.0
+
+2.6
+
+4.9
+
+7.5
+
+2003 Jan.
+
+-0.5
+
+4.1
+
+8.5
+
+12.5
+
+2003 Feb.
+
+-14.3
+
+6.8
+
+13.1
+
+19.9
+
+Real 10-year Treasury yield*
+
++
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+1995
+
+1993
+
+2001
+1997
+* 10-year Treasury yield minus Philadelphia Fed 10-year expected
+inflation.
++ Denotes the latest observation using daily prices and latest earnings
+data from I/B/E/S.
+
+1999
+
+Nominal Trade-Weighted Dollar
+Exchange Rates
+
+Index(8/31/00 = 100)
+
+Daily
+
+Other Important
+Trading Partners
+
+Broad Index
+
+Major
+Currencies Index
+
+120
+
+115
+
+110
+
+105
+
+100
+
+ 95
+
+EMBI+ Index
+
+Daily
+
+Basis Points
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+Brazil
+
+Overall
+
+Sept.
+
+Feb.
+
+2000
+
+June Oct.
+2001
+
+Feb.
+
+June Oct.
+2002
+
+Feb.
+2003
+
+Sept.
+
+Feb.
+
+2000
+
+June Oct.
+2001
+
+Feb.
+
+June Oct.
+2002
+
+Feb.
+2003
+
+Note: Solid vertical lines indicate January 28, 2003.
+
+4
+
+Governor of the Bank of Japan served to diminish expectations that monetary policy
+
+might become considerably more expansionary.  Official yen sales continued as the
+
+dollar moved lower later in the period.2 
+
+(5)
+
+The dollar was about unchanged over the intermeeting period against an
+
+index of the currencies of our other important trading partners.  The dollar rose 
+
+about 6 percent against the Korean won, while Korean stocks declined more than 11 
+
+percent, largely in reaction to rising tensions in that part of the world.  The Mexican
+
+central bank sought to bring inflation down with another round of tightening in early
+
+February, but uncertainties about the strength of the U.S. economic recovery weighed
+
+on the peso at times during the period.  On balance, though, the exchange value of
+
+the peso firmed about 1 percent against the dollar.  Brazilian financial markets
+
+continued to improve, even as the Brazilian central bank tightened policy another
+
+notch in February by raising its target overnight interest rate 1 percentage point.  The
+
+real strengthened about 5-1/2 percent, and the spread over Treasury yields of Brazilian
+
+sovereign debt issued in dollars (Brazil’s EMBI+ spread) narrowed about 320 basis
+
+points during the period. 
+
+(6)
+
+The pace of business borrowing receded in February from the brisker
+
+pace of January, but remained somewhat above that of the fourth quarter (Chart 4). 
+
+Business borrowing continued to be concentrated in bond financing, as firms
+
+exploited the historically low level of longer-term interest rates by paying down
+
+outstanding short-term debt with the proceeds of bond issuance.  Household debt
+
+growth continued to be dominated by heavy mortgage borrowing.  Growth of
+
+2  
+
+accounts of the System or Treasury 
+
+ .
+
+ .  The Desk did not intervene during the period for the
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+
+consumer credit, after stalling in the fourth quarter, jumped at banks in January and
+
+February, in part owing to tax refund anticipation loans.  The pace of federal
+
+borrowing picked up in the first quarter, and federal debt outstanding reached its
+
+statutory limit in mid-February.  However, the Treasury has been able to use
+
+accounting devices to allow its regular auctions to go forward.  Although down from
+
+the high level of late last year, issuance of state and local bonds has remained strong
+
+this year.  Backward-looking measures of corporate asset quality–bond default rates
+
+and C&I loan delinquency rates–are showing signs of stabilization or even some
+
+improvement.  With equity prices in a downdraft, gross equity issuance has remained
+
+subdued and net issuance negative.
+
+(7) M2 growth was exceptionally strong in February, owing mainly to robust
+
+inflows to liquid deposits.  Rapid money growth appeared to reflect earlier tax refunds
+
+(owing to greater use of electronic filing) and hefty mortgage prepayments as record
+
+low interest rates spurred refinancing activity.  Money growth may also have
+
+benefitted from the ongoing retreat from equity markets.  The expansion of liquid
+
+deposits additionally reflected shifts from other components of M2, including retail
+
+money funds–whose yields have fallen to about the same level as MMDA rates–and
+
+small time deposits.  The ample availability of low-cost deposit funds over the past
+
+year has facilitated wide net interest margins at commercial banks, to the benefit of
+
+their profitability, the subject of the box on the next page.
+
+6
+
+Bank Profitability in 2002
+
+Banks’ returns on assets and equity both moved up smartly last year, the former to a three-
+decade high.  A major contributor to the rise in profitability was a large drop in noninterest
+expense, an important part of which appears to be attributable to a regulatory change that
+eliminated the requirement to amortize goodwill unless it is impaired.  A low level of bank
+mergers last year also likely held down noninterest expense.  Salaries and benefits, however,
+which had been falling for several years as a share of revenue, edged up in 2002.  Profitability
+also benefitted considerably from a large widening of interest rate spreads, which in turn
+importantly reflected a surge in low-cost transaction and savings deposits as investors
+responded to the very low opportunity cost of holding liquid assets and adverse
+developments in equity markets.  In addition, falling longer-term interest rates allowed banks
+to realize sizable capital gains on securities holdings for the second consecutive year in 2002. 
+Finally, loan-loss provisioning, which had risen sharply in 2000 and 2001, held steady last
+year, albeit at twice the pace of the mid-1990s.  
+
+Although banks began last year with very comfortable capital levels, they chose to boost
+them further by retaining income at somewhat above the pace of the preceding two years. 
+The rise in risk-based capital measures was particularly large, reflecting the shift in banks’
+portfolios away from full risk-weight business loans toward lower risk-weight residential
+mortgages and mortgage-backed securities.  With the cushion of additional capital,
+commercial banks appear relatively resilient going forward.
+
+7
+
+Policy Alternatives
+
+(8)
+
+The broad contours of the staff forecast remain similar to those of the
+
+January Greenbook, with moderate growth of activity giving way to robust expansion
+
+in the second half of this year.  However, recently some sour economic
+
+releases–particularly indicators of labor market conditions and consumer
+
+sentiment–and lower equity prices and higher oil prices in the baseline forecast have
+
+led the staff to write down somewhat weaker growth of real GDP this year and next as
+
+well as a higher unemployment rate at the end of the Greenbook forecast interval. 
+
+Partly as a result, this forecast assumes that the intended federal funds rate will hold at
+
+1-1/4 percent throughout the forecast period, rather than turning upward in the
+
+second half of 2004 as in the prior Greenbook.  As was true in the January Greenbook,
+
+the current forecast does not embody a specific scenario for resolution of the conflict
+
+with Iraq.  Rather, the forecast is premised on financial assumptions that are guided by
+
+current market quotes that appear to be consistent with a high likelihood of a relatively
+
+short and successful war but that also encompass a range of potential resolutions of
+
+that conflict.  This is most evident for oil prices, which the staff assumes will fall
+
+substantially in coming quarters in line with the current configuration of oil price
+
+futures.  Equity prices are assumed to increase from their current level over the
+
+forecast period at a rate that provides investors with a risk-adjusted return comparable
+
+to that on longer-term bonds.  Corporate bond yields are pulled lower over the
+
+forecast period as a gradual improvement in the economic outlook and a partial lifting
+
+of uncertainty spur a narrowing in risk spreads.  With these assumptions, GDP growth,
+
+after running below that of potential over the first half of this year, begins to pick up
+
+smartly as falling oil prices, improving sentiment, accommodative monetary policy, and
+
+tax cuts provide a lift to household and business spending.  However, even with an
+
+acceleration in GDP in 2004 to a 4-1/2 percent pace, output at the end of the forecast
+
+8
+
+period remains about 3/4 percent below the staff’s estimate of potential GDP and the
+
+unemployment rate is 5-1/2 percent, about 1/2 percentage point above its estimated
+
+natural rate.  The persistent slack in resource usage is large enough to offset the effect
+
+on core inflation of higher oil prices and a weaker dollar; core PCE prices are projected
+
+to rise about 1-1/4 and 1 percent in 2003 and 2004, respectively.
+
+(9)
+
+If the Committee remains of the view that the current setting of the
+
+federal funds rate likely would provide enough stimulus to redress the existing amount
+
+of resource slack over time while maintaining low inflation, it may wish to keep the
+
+target rate unchanged.  To be sure, global tensions have escalated in recent weeks,
+
+and the uncertainties associated with developments in Iraq and the attendant rise in oil
+
+prices seem to be weighing heavily on financial markets and restraining economic
+
+activity.  But the Committee may believe that a significant portion of these
+
+fundamental uncertainties will be resolved before long and–as was the case following
+
+the onset of the Gulf War in 1991–lead to a notable improvement in financial market
+
+conditions (Chart 5).  Moreover, although many observers have worried that higher oil
+
+prices may continue to depress spending, as discussed in the Greenbook, it is persistent
+
+increases in oil prices that have materially adverse implications for activity.  In fact,
+
+futures and options data suggest that market participants do not expect the currently
+
+elevated level and uncertainty about oil prices to persist (Chart 6).  Moreover, while the
+
+nominal price of oil has approached historical highs, the recent spike does not appear
+
+outsized in real terms.  Even if the Committee is concerned that the pace of economic
+
+growth could remain subpar once some of the current uncertainties have been
+
+resolved, it still may see a considerable advantage to deferring policy action at this time
+
+in order to await more information about geopolitical developments.  Indeed, inaction
+
+at this meeting might seem especially attractive if the Committee wants to preserve the
+
+option of easing forcefully if events turn unexpectedly adverse in coming weeks. 
+
+Chart 5
+Gulf War Impact on Selected Financial and Economic Variables
+
+Percent
+
+Stock Prices
+
+Index (1/2/91 = 100)
+
+Treasury Yields
+
+ Gulf War
+
+Two-Year
+Ten-Year
+
+ Gulf War
+
+8.5
+
+8.0
+
+7.5
+
+7.0
+
+Jan.
+
+Feb.
+1991
+
+Mar.
+
+Jan.
+
+S&P 500
+Wilshire 5000
+
+Feb.
+1991
+
+Mar.
+
+Implied Volatility
+
+Gulf War 
+
+S&P 100 (VIX)
+Short-term Eurodollar
+
+Percent
+
+Commodity Prices
+$US
+
+$US
+
+Gulf War 
+
+Oil (left axis)
+Gold (right axis)
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+34
+
+32
+
+30
+
+28
+
+26
+
+24
+
+22
+
+20
+
+18
+
+Jan.
+
+Feb.
+1991
+
+Mar.
+
+Jan.
+
+Feb.
+1991
+
+Mar.
+
+Consumer Confidence
+
+Index (June 1990 = 100)
+
+Conference Board Consumer Confidence Index
+Michigan Survey of Consumer Sentiment
+
+ Gulf War
+
+June
+
+July
+
+Aug.
+
+Sept.
+
+Oct.
+
+Nov.
+
+Dec.
+
+Jan.
+
+Feb.
+
+Mar.
+
+Apr.
+
+May
+
+June
+
+1990
+
+1991
+
+               Note: Solid vertical lines indicate the start of the Persian Gulf War on January 16, 1991.
+
+120
+
+115
+
+110
+
+105
+
+100
+
+ 95
+
+410
+
+400
+
+390
+
+380
+
+370
+
+360
+
+110
+
+100
+
+ 90
+
+ 80
+
+ 70
+
+ 60
+
+ 
+ 
+ 
+ 
+Chart 6
+Crude Oil Outlook
+
+Crude Oil Futures Contracts
+
+$US/barrel
+
+Crude Oil Implied Volatility*
+
+Percent
+
+03/12/2003
+Day before last FOMC Meeting 01/28/2003
+
+03/13/2003
+Day before last FOMC Meeting 01/28/2003
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+Apr.
+
+Aug. Dec.
+
+Apr.
+
+Aug. Dec.
+
+Apr.
+
+Apr.
+
+June
+
+Aug.
+
+Oct.
+
+Dec.
+
+2003
+
+2004
+
+2005
+
+Price of Crude Oil (Refiner’s Acquisition Cost)
+
+Nominal
+Real*
+
+2003
+
+2004
+
+*Derived from options on crude oil futures.
+
+$US/barrel
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+50
+
+40
+
+30
+
+20
+
+10
+
+1970
+
+1973
+
+1976
+
+1979
+
+1982
+
+1985
+
+1988
+
+1991
+
+1994
+
+1997
+
+2000
+
+2003
+
+*Deflated by core CPI (January, 1970 = 1).
+
+9
+
+Moreover, in the current environment, the response of the economy to policy action at
+
+this meeting might be viewed as quite uncertain, and models of optimal monetary
+
+policy under uncertainty would counsel gradualism in adjusting policy.  
+
+(10)
+
+If the Committee viewed the range of possible outcomes for the
+
+economy over the foreseeable future as fairly symmetric around its forecast, it might
+
+also choose to retain a balanced risks assessment at this meeting.  While some
+
+economic data have proved disappointing of late, a successful prosecution of a war in
+
+Iraq could trigger a substantial rally in equity markets and prompt a sharp rebound in
+
+confidence, suggesting that upside risks may be significant.  The Committee might also
+
+favor a neutral balance of risks if it regarded the risks as unusually difficult to assess
+
+and subject to rapid change.  If, instead, the Committee judges that the distribution of
+
+possible outcomes for economic activity is appreciably skewed toward more downbeat
+
+scenarios, it might be inclined to shift the balance of risks toward economic
+
+weakness, although it may be concerned that markets could see such a decision as a
+
+signal of more conviction about the outlook than it actually has.
+
+(11) Because current futures quotes put some odds on an easing at this
+
+meeting, a decision to leave the target rate unchanged and the risk assessment balanced
+
+would likely prompt an increase in market yields and a corresponding downtick in
+
+stock prices.  However, in light of the unusual geopolitical aspect to the uncertainties
+
+about the near-term outlook and the prospect that they may be partly resolved
+
+sometime soon, market participants are not likely to extrapolate this monetary policy
+
+combination very far forward in revising their expectations, which would work to mute
+
+the likely market reaction.  In principle, keeping policy unchanged but shifting the
+
+balance of risks toward economic weakness would come closer to matching current
+
+market expectations, and their heightened expectation of more imminent easing would
+
+tend to offset disappointment about the lack of immediate action.  In practice, though,
+
+10
+
+market participants may infer from the Committee’s decision to alter the risks
+
+assessment that the economic outlook was bleaker than previously expected, pulling
+
+bond yields and stock prices lower.
+
+(12) The Committee might interpret some of the recent data, particularly the
+
+February employment report, as pointing to a weaker trend in economic activity than it
+
+previously thought–and one that might well persist even if global tensions were to
+
+diminish markedly in the weeks ahead.  Against this backdrop, the Committee might
+
+conclude that a policy easing at this meeting is appropriate.  Indeed, the current
+
+setting of the real federal funds rate no longer lies below the lower bound of the range
+
+of staff estimates of equilibrium real rates (Chart 7).  As a result, members might
+
+conclude that a cut in the nominal funds rate would be necessary just to maintain the
+
+effective stance of policy established at the November meeting.  The Committee might
+
+consider a quarter-point policy easing as a measured response to a projected
+
+shortfall of economic growth below that of potential this year.  However, the
+
+Committee might instead favor a more aggressive half-point policy easing if the
+
+possibility of especially adverse shocks and the constraints on policy posed by the zero
+
+bound to nominal interest rates loomed large in its thinking.  The apparent stability of
+
+inflation expectations in the face of higher oil prices and a weaker dollar along with the
+
+Greenbook projection for further declines in core inflation from already low levels
+
+might be viewed as arguing for the more aggressive policy action, inasmuch as its
+
+potential cost in terms of higher risks of inflation pressures would appear to be
+
+minimal.  Indeed, the Committee might even welcome a small uptick in projected
+
+inflation.  Moreover, the market response to a successful prosecution of war in Iraq is
+
+not entirely clear.  In contrast to the experience around the Gulf War in 1991, concerns
+
+about geopolitical tensions may not be punctured by decisive military victory, as
+
+ 4.5
+ 4.5
+
+ 3.5
+ 3.5
+
+ 2.5
+ 2.5
+
+ 1.5
+ 1.5
+
+ 0.5
+ 0.5
+
+-0.5
+-0.5
+
+-1.5
+-1.5
+
+Chart 7
+Actual Real Federal Funds Rate and 
+Range of Estimated Equilibrium Real Rates
+
+Percent
+
+Quarterly
+
+Actual Real Funds Rate
+
+Historical Average: 2.70
+  (1966Q1-2002Q4)
+
+TIIS-Based Estimate
+
+l
+
+l
+
+l
+
+Current Rate
+25 b.p. Easing
+50 b.p. Easing
+
+1990
+
+1991
+
+1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+Note: The shaded range represents the maximum and the minimum values each quarter of four estimates of the equilibrium 
+real federal funds rate based on a statistical filter and the FRB/US model. Real federal funds rates employ four-quarter lagged
+core PCE inflation as a proxy for inflation expectations, with the staff projection used for 2003Q1.
+
+Equilibrium Real Funds Rate Estimates (Percent)
+
+    ____
+    2001
+
+______
+2002H1
+
+______
+2002H2
+
+______
+2003Q1
+
+Statistical Filter
+ - Two-sided:
+     Based on historical data and the staff forecast
+     January Bluebook
+
+ - One-sided:
+     Based on historical data*
+     January Bluebook
+
+FRB/US Model
+ - Two-sided:
+     Based on historical data and the staff forecast
+     January Bluebook
+
+ - One-sided:
+     Based on historical data**
+     January Bluebook
+
+Treasury Inflation-Indexed Securities
+   January Bluebook
+
+1.0
+1.1
+
+2.2
+2.3
+
+2.2
+2.4
+
+2.1
+2.2
+
+3.9
+3.9
+
+0.4
+0.4
+
+1.2
+1.3
+
+1.7
+1.9
+
+1.2
+1.4
+
+3.7
+3.7
+
+0.2
+0.3
+
+0.2
+0.1
+
+1.3
+1.7
+
+0.7
+0.7
+
+3.3
+3.3
+
+ 0.2
+ 0.3
+
+-0.3
+-0.3
+
+ 1.2
+ 1.5
+
+ 0.2
+ 0.4
+
+ 3.1
+ 3.2
+
+* Also employs the staff projection for the current and next quarters.
+** Also employs the staff projection for the current quarter.
+
+ 
+11
+
+questions could still linger about the formulation of a new government in Iraq, the
+
+prospect for terrorist acts, and the situation in other trouble spots.
+
+(13) As noted, market prices can be interpreted as incorporating some odds
+
+on a policy move at this meeting, but a quarter-point easing is far from fully priced in.  
+
+As a result, either a quarter-point or half-point easing at this meeting would have a
+
+substantial element of surprise.  Bond and stock prices would tend to climb in either
+
+case, but the market reaction could be significantly influenced by the choice of the
+
+balance-of-risks assessment and the wording of the announcement.  A balanced risks
+
+assessment would likely be taken by market participants as a sign that the FOMC
+
+would be reluctant to ease more anytime soon, while a balance of risks tilted toward
+
+economic weakness would lead them to place higher odds on further policy easings.  
+
+(14) Under the Greenbook assumptions, growth of domestic nonfinancial
+
+debt is expected to run at about a 7 percent pace this year and next.  In the business
+
+sector, the projected recovery in investment spending is associated with a notable
+
+increase in the financing gap, which in turn, leads to an upturn in business borrowing. 
+
+With credit spreads contracting, the forecast anticipates that much of this increased
+
+demand for financing will be met by firms tapping capital markets.  Businesses are
+
+projected to continue to rely heavily on the bond market, while commercial paper and
+
+bank loans, after running off sharply over the past two years, are expected to be about
+
+unchanged this year and register a modest advance in 2004.  A gradual relaxation in
+
+bank terms and standards may well also to contribute to the projected rise in business
+
+loans.  In contrast, households should rein in the growth of mortgage debt in response
+
+to the assumed leveling off of mortgage rates, which reduces the incentives for cashout
+
+refinancings.  The expansion of consumer credit probably will dip this year, largely
+
+reflecting a moderation in the pace of spending on motor vehicles.  Federal borrowing
+
+is expected to rise over the forecast period, propelled by rising military expenditures
+
+12
+
+and by tax cuts that trim receipts.  State and local debt growth is forecasted to taper
+
+off, with state and local governments anticipated to scale back advance refunding
+
+issuance and also to take steps to restore balanced budgets.  The staff projects M 2 to
+
+advance at a 6-1/2 percent pace this year–somewhat faster than nominal GDP growth. 
+
+The anticipated decline in M2 velocity this year is attributable to the lagged effects of
+
+the policy easing last November and to a further boost to money growth from
+
+mortgage refinancing.
+
+M2 Growth Under Alternative Policy Actions
+
+No Change
+
+25 bp Ease
+
+Monthly Growth Rates
+Nov-02
+Dec-02
+Jan-03
+Feb-03
+Mar-03
+Apr-03
+May-03
+Jun-03
+
+Quarterly Growth Rates
+2002 Q2
+2002 Q3
+2002 Q4
+2003 Q1
+2003 Q2
+
+Annual (Q4/Q4) Growth Rates
+2001
+2002
+
+Growth From
+2002 Q4
+2002 Q4
+Dec-03
+Dec-03
+Feb-03
+
+To
+Mar-03
+Jun-03
+Mar-03
+Jun-03
+Jun-03
+
+8.1
+3.2
+6.1
+11.2
+6.5
+4.0
+10.0
+8.0
+
+4.1
+9.1
+7.1
+6.9
+7.2
+
+10.2
+6.9
+
+7.2
+7.3
+5.7
+5.1
+7.2
+
+8.1
+3.2
+6.1
+11.2
+6.7
+4.6
+10.8
+8.7
+
+4.1
+9.1
+7.1
+6.9
+7.7
+
+10.2
+6.9
+
+7.2
+7.7
+6.2
+5.5
+7.8
+
+* This forecast is consistent with nominal GDP and interest rates in the Greenbook forecast.
+
+13
+
+Directive and Balance-of-Risks Language
+
+(15)
+
+Presented below for the members' consideration is draft wording for
+
+(1) the directive and (2) the “balance of risks” sentence to be included in the press
+
+release issued after the meeting (not part of the directive).
+
+(1) Directive Wording
+
+The Federal Open Market Committee seeks monetary and financial
+
+conditions that will foster price stability and promote sustainable growth
+
+in output.  To further its long-run objectives, the Committee in the
+
+immediate future seeks conditions in reserve markets consistent with
+
+maintaining/INCREASING/REDUCING the federal funds rate at/TO
+
+an average of around ___1-1/4 percent.
+
+(2) “Balance of Risks” Sentence
+
+Against the background of its long-run goals of price stability and
+
+sustainable economic growth and of the information currently available,
+
+the Committee believes that the risks [ARE WEIGHTED MAINLY
+
+TOWARD CONDITIONS THAT MAY GENERATE ECONOMIC
+
+WEAKNESS]  [are balanced with respect to prospects for both goals]
+
+[ARE WEIGHTED MAINLY TOWARD CONDITIONS THAT MAY 
+
+GENERATE HEIGHTENED INFLATION PRESSURES] in the
+
+foreseeable future.
+
+SELECTED INTEREST RATES
+(percent)
+
+Short-term
+
+Treasury bills
+secondary market
+
+CDs
+secondary
+market
+
+Comm.
+paper
+
+Federal
+funds
+
+Off-the-run Treasury yields
+
+Indexed yields
+
+Long-term
+
+4-week
+
+3-month
+
+6-month
+
+3-month
+
+1-month
+
+2-year
+
+5-year
+
+10-year
+
+30-year
+
+5-year
+
+10-year
+
+Moody’s
+Baa
+
+Municipal
+Bond
+Buyer
+
+Conventional home
+mortgages
+primary market
+
+Fixed-rate
+
+ARM
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+1.80
+1.23
+
+1.28
+1.20
+
+1.73
+1.75
+1.75
+1.75
+1.73
+1.74
+1.75
+1.75
+1.34
+1.24
+
+1.24
+1.26
+
+1.21
+1.25
+1.24
+1.26
+1.26
+1.24
+1.28
+1.27
+1.26
+  --
+
+1.80
+1.13
+
+1.23
+1.15
+
+1.79
+1.72
+1.74
+1.71
+1.72
+1.68
+1.67
+1.62
+1.26
+1.20
+
+1.17
+1.20
+
+1.17
+1.17
+1.16
+1.17
+1.17
+1.18
+1.19
+1.23
+1.20
+1.15
+
+1.85
+1.18
+
+1.22
+1.10
+
+1.82
+1.75
+1.76
+1.73
+1.71
+1.65
+1.66
+1.61
+1.25
+1.21
+
+1.19
+1.19
+
+1.20
+1.19
+1.17
+1.18
+1.17
+1.18
+1.19
+1.21
+1.17
+1.10
+
+2.12
+1.26
+
+1.25
+1.09
+
+2.05
+1.97
+1.91
+1.83
+1.74
+1.64
+1.64
+1.59
+1.30
+1.27
+
+1.22
+1.20
+
+1.25
+1.23
+1.20
+1.19
+1.19
+1.19
+1.20
+1.20
+1.18
+1.09
+
+1.97
+1.34
+
+1.31
+1.18
+
+1.91
+1.87
+1.82
+1.81
+1.79
+1.73
+1.76
+1.73
+1.39
+1.34
+
+1.29
+1.27
+
+1.31
+1.30
+1.28
+1.27
+1.27
+1.26
+1.27
+1.27
+1.26
+1.18
+
+1.79
+1.28
+
+1.28
+1.18
+
+1.78
+1.76
+1.75
+1.74
+1.74
+1.72
+1.73
+1.72
+1.34
+1.31
+
+1.25
+1.24
+
+1.25
+1.25
+1.25
+1.24
+1.23
+1.24
+1.25
+1.25
+1.23
+1.18
+
+3.69
+1.69
+
+1.80
+1.45
+
+3.52
+3.40
+3.24
+2.97
+2.52
+2.12
+1.98
+1.92
+1.94
+1.84
+
+1.76
+1.64
+
+1.80
+1.77
+1.69
+1.73
+1.71
+1.65
+1.63
+1.57
+1.47
+1.45
+
+4.94
+2.79
+
+3.13
+2.62
+
+4.80
+4.69
+4.54
+4.24
+3.86
+3.37
+3.01
+3.02
+3.13
+3.09
+
+3.07
+2.92
+
+3.13
+3.12
+2.97
+3.03
+3.04
+2.97
+2.89
+2.78
+2.63
+2.62
+
+1.25
+1.26
+
+1.57
+1.57
+
+1.24
+1.24
+
+1.27
+1.26
+
+1.20
+1.20
+
+1.20
+1.21
+
+1.21
+1.20
+1.23
+
+1.19
+1.21
+1.20
+
+1.20
+1.20
+1.19
+
+1.28
+1.28
+1.311.241.211.201.261.251.572.763.994.910.941.786.96  --  --  --
+1.33
+1.33
+1.20
+1.221.211.181.181.261.221.462.613.864.840.841.706.88  --  --  --
+1.231.201.181.181.261.231.482.653.904.870.841.696.91  --  --  --
+1.201.161.121.111.221.221.412.593.864.840.791.666.89  --  --  --
+1.231.141.081.061.181.191.362.543.814.830.741.636.88  --  --  --
+1.21
+1.231.151.101.081.161.161.452.603.824.800.741.646.86  --  --  --
+  --1.151.121.131.20  --1.622.783.974.910.911.76  --  --  --  --
+
+1.28
+1.23
+1.24
+
+1.53
+1.52
+1.49
+
+1.27
+1.27
+1.27
+
+1.10
+
+1.07
+
+1.17
+
+1.19
+
+1.39
+
+1.15
+
+2.79
+2.77
+
+2.71
+2.67
+2.64
+
+2.56
+
+5.69
+4.01
+
+4.36
+3.86
+
+5.60
+5.49
+5.40
+5.16
+4.90
+4.54
+4.16
+4.25
+4.33
+4.31
+
+4.30
+4.14
+
+4.36
+4.35
+4.21
+4.25
+4.22
+4.19
+4.12
+4.01
+3.88
+3.86
+
+4.04
+4.00
+
+3.94
+3.91
+3.89
+
+6.00
+4.91
+
+5.20
+4.84
+
+5.93
+5.87
+5.82
+5.71
+5.60
+5.27
+4.97
+5.13
+5.16
+5.12
+
+5.14
+5.01
+
+5.20
+5.18
+5.08
+5.08
+5.03
+5.05
+5.02
+4.93
+4.85
+4.84
+
+4.96
+4.93
+
+4.86
+4.85
+4.85
+
+3.31
+1.62
+
+1.77
+0.78
+
+2.94
+2.64
+2.50
+2.46
+2.39
+2.11
+1.80
+1.90
+2.00
+1.89
+
+1.64
+1.21
+
+1.77
+1.69
+1.53
+1.52
+1.42
+1.30
+1.17
+0.95
+0.84
+0.78
+
+0.96
+0.96
+
+0.89
+0.88
+0.85
+
+3.54
+2.17
+
+2.38
+1.66
+
+3.36
+3.16
+3.10
+3.08
+2.92
+2.51
+2.25
+2.40
+2.44
+2.41
+
+2.26
+1.95
+
+2.38
+2.29
+2.16
+2.15
+2.08
+2.00
+1.92
+1.78
+1.70
+1.66
+
+1.79
+1.79
+
+1.72
+1.72
+1.71
+
+8.18
+7.37
+
+7.44
+6.90
+
+8.11
+8.03
+8.09
+7.95
+7.90
+7.58
+7.40
+7.73
+7.62
+7.45
+
+7.35
+7.06
+
+7.44
+7.39
+7.30
+7.21
+7.10
+7.09
+7.06
+6.97
+6.90
+  --
+
+6.99
+6.96
+
+6.92
+6.91
+6.90
+
+5.67
+5.02
+
+5.20
+5.06
+
+5.61
+5.59
+5.54
+5.44
+5.34
+5.30
+5.10
+5.16
+5.25
+5.20
+
+5.19
+5.15
+
+5.20
+5.20
+5.17
+5.20
+5.20
+5.16
+5.14
+5.10
+5.06
+  --
+
+  --
+  --
+
+  --
+  --
+  --
+
+7.18
+5.93
+
+5.97
+5.61
+
+7.01
+6.99
+6.81
+6.65
+6.49
+6.29
+6.09
+6.11
+6.07
+6.05
+
+5.92
+5.84
+
+5.95
+5.97
+5.91
+5.90
+5.88
+5.86
+5.84
+5.79
+5.67
+5.61
+
+  --
+  --
+
+  --
+  --
+  --
+
+5.26
+4.01
+
+4.06
+3.68
+
+5.06
+4.96
+4.79
+4.65
+4.51
+4.38
+4.29
+4.27
+4.16
+4.12
+
+3.99
+3.86
+
+4.03
+4.03
+3.93
+3.89
+3.89
+3.89
+3.81
+3.83
+3.76
+3.68
+
+  --
+  --
+
+  --
+  --
+  --
+
+3.82
+
+4.83
+
+0.73
+
+1.62
+
+6.88
+
+  --
+
+  --
+
+  --
+
+02   -- High
+-- Low
+
+03   -- High
+-- Low
+
+Monthly
+Mar 
+Apr 
+May 
+Jun 
+Jul 
+Aug  
+Sep  
+Oct  
+Nov  
+Dec  
+
+Jan  
+Feb  
+
+Weekly
+
+Jan  
+Jan  
+Jan  
+Jan  
+Feb  
+Feb  
+Feb  
+Feb  
+Mar  
+Mar  
+
+Daily
+
+Feb  
+Feb  
+Feb  
+Feb  
+Mar  
+Mar  
+Mar  
+Mar  
+Mar  
+Mar  
+Mar  
+Mar  
+Mar  
+
+02
+02
+02
+02
+02
+02
+02
+02
+02
+02
+
+03
+03
+
+10
+17
+24
+31
+7
+14
+21
+28
+7
+14
+
+25
+26
+27
+28
+3
+4
+5
+6
+7
+10
+11
+12
+13
+
+03
+03
+03
+03
+03
+03
+03
+03
+03
+03
+
+03
+03
+03
+03
+03
+03
+03
+03
+03
+03
+03
+03
+03
+
+NOTE: Weekly data for columns 1 through 13 are week-ending averages. Columns 2 through 4 are on a coupon equivalent basis. Data in column 6 are interpolated from data on certain commercial paper trades settled by the
+Depository Trust Company. Column 14 is the Bond Buyer revenue index, which is a 1-day quote for Thursday. Column 15 is the average contract rate on new commitments for fixed-rate mortgages (FRMs) with 80 percent
+loan-to-value ratios at major institutional lenders. Column 16 is the average initial contract rate on new commitments for 1-year, adjustable-rate mortgages (ARMs) at major institutional lenders offering both FRMs and
+ARMs with the same number of discount points.
+
+MFMA
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+        
+        
+        
+        
+        
+        
+        
+     
+     
+    
+    
+    
+    
+    
+     
+     
+     
+     
+     
+     
+     
+     
+Money Aggregates
+
+Seasonally adjusted
+
+Strictly  Confidential  (FR)-
+Class II FOMC
+
+M1
+
+1
+
+    -1.7
+     6.8
+     3.2
+
+     5.7
+    -0.6
+     3.1
+     4.5
+
+     6.5
+     2.0
+    -14.5
+     10.9
+      5.9
+      7.3
+    -11.1
+      6.3
+     11.2
+     -0.9
+      7.8
+
+      1.8
+     19.2
+
+   1203.6
+   1202.7
+   1210.5
+   1212.3
+   1231.7
+
+   1239.6
+   1217.6
+   1234.1
+   1232.6
+
+   1248.4
+
+M2
+
+2
+
+     6.0
+    10.2
+     6.9
+
+     6.7
+     4.1
+     9.1
+     7.1
+
+     8.4
+     0.2
+     -2.6
+     14.4
+      6.9
+     10.5
+      8.3
+      5.5
+      8.3
+      8.1
+      3.2
+
+      6.1
+     11.2
+
+   5742.4
+   5781.3
+   5796.5
+   5825.8
+   5880.1
+
+   5856.3
+   5866.9
+   5897.5
+   5877.7
+
+   5894.1
+
+nontransactions  components
+
+In M2
+
+3
+
+In M3 only
+
+4
+
+     8.5
+    11.2
+     8.0
+
+     7.0
+     5.4
+    10.8
+     7.8
+
+     9.0
+    -0.4
+      0.7
+     15.3
+      7.1
+     11.4
+     13.5
+      5.3
+      7.5
+     10.5
+      1.9
+
+      7.2
+      9.1
+
+   4538.8
+   4578.6
+   4586.0
+   4613.5
+   4648.3
+
+   4616.7
+   4649.3
+   4663.4
+   4645.1
+
+   4645.7
+
+    17.3
+    18.3
+     5.3
+
+     3.8
+     4.2
+     4.5
+     8.2
+
+     6.1
+     5.5
+      6.9
+     -0.9
+      2.1
+      0.3
+     14.3
+      7.5
+    -15.3
+     37.2
+     16.9
+
+    -15.2
+      0.1
+
+   2596.5
+   2677.0
+   2714.6
+   2680.2
+   2680.5
+
+   2698.1
+   2680.2
+   2670.6
+   2686.9
+
+   2671.8
+
+M3
+
+5
+
+     9.2
+    12.7
+     6.4
+
+     5.8
+     4.1
+     7.7
+     7.5
+
+     7.7
+     1.8
+      0.4
+      9.5
+      5.4
+      7.3
+     10.2
+      6.2
+      0.8
+     17.2
+      7.5
+
+     -0.7
+      7.7
+
+   8338.9
+   8458.3
+   8511.1
+   8506.0
+   8560.6
+
+   8554.3
+   8547.1
+   8568.1
+   8564.5
+
+   8565.9
+
+Period
+
+Annual growth rates(%):
+Annually (Q4 to Q4)
+  2000            
+  2001            
+  2002            
+
+Quarterly(average)
+  2002-Q1         
+       Q2         
+       Q3         
+       Q4         
+
+Monthly
+  2002-Feb.       
+       Mar.       
+       Apr.        
+       May         
+       June        
+       July        
+       Aug.        
+       Sep.        
+       Oct.        
+       Nov.        
+       Dec.        
+
+  2003-Jan.        
+       Feb. p      
+
+Levels ($billions):
+
+Monthly
+  2002-Oct.        
+       Nov.        
+       Dec.        
+  2003-Jan.        
+       Feb. p      
+
+Weekly
+  2003-Feb.  3     
+            10     
+            17     
+            24p    
+
+       Mar.  3p    
+
+  p        preliminary     
+
+           
+       
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+                                   
+C
+M
+O
+F
+
+I
+I
+
+s
+s
+a
+C
+
+l
+
+l
+
+a
+i
+t
+n
+e
+d
+i
+f
+n
+o
+C
+y
+l
+t
+c
+i
+r
+t
+
+S
+
+5
+s
+P
+R
+
+t
+e
+N
+
+t
+e
+N
+
+e
+g
+n
+a
+h
+C
+
+-
+g
+n
+o
+L
+
+7
+m
+r
+e
+T
+
+-
+t
+r
+o
+h
+S
+
+6
+m
+r
+e
+T
+
+0
+7
+9
+,
+4
+
+8
+2
+1
+,
+4
+
+0
+5
+8
+,
+4
+-
+
+6
+3
+6
+
+7
+1
+5
+
+3
+3
+1
+,
+7
+
+3
+6
+1
+,
+2
+-
+
+2
+9
+4
+,
+3
+
+6
+6
+3
+,
+5
+-
+
+8
+1
+3
+,
+5
+1
+
+6
+9
+4
+,
+1
+4
+
+2
+4
+2
+,
+4
+5
+
+4
+2
+6
+,
+6
+
+7
+4
+8
+,
+0
+1
+
+3
+2
+2
+,
+4
+-
+
+8
+3
+1
+,
+5
+1
+
+2
+5
+1
+,
+4
+-
+
+7
+0
+2
+,
+7
+-
+
+1
+9
+2
+,
+8
+-
+
+8
+8
+5
+,
+4
+
+0
+3
+7
+,
+3
+-
+
+2
+7
+1
+,
+5
+-
+
+9
+5
+
+7
+3
+9
+,
+1
+-
+
+6
+2
+5
+,
+7
+
+0
+1
+6
+,
+9
+
+6
+2
+5
+-
+
+9
+3
+2
+,
+2
+-
+
+4
+3
+5
+,
+4
+
+3
+6
+3
+,
+6
+
+9
+2
+8
+,
+3
+
+3
+8
+3
+,
+7
+-
+
+4
+8
+5
+,
+3
+-
+
+3
+9
+1
+,
+2
+
+3
+2
+7
+,
+6
+-
+
+3
+6
+1
+,
+4
+
+4
+7
+5
+,
+5
+-
+
+7
+0
+8
+,
+1
+1
+
+9
+5
+5
+,
+6
+-
+
+4
+7
+4
+,
+3
+
+6
+7
+1
+,
+8
+-
+
+1
+9
+1
+,
+2
+-
+
+3
+6
+5
+,
+4
+-
+
+5
+2
+2
+,
+5
+-
+
+4
+0
+3
+-
+
+6
+9
+2
+,
+1
+-
+
+5
+4
+6
+,
+4
+-
+
+6
+2
+0
+,
+1
+-
+
+6
+1
+7
+,
+4
+-
+
+6
+1
+6
+,
+4
+
+6
+0
+7
+,
+0
+1
+
+1
+8
+5
+,
+3
+-
+
+2
+6
+2
+,
+2
+-
+
+-
+-
+-
+
+0
+0
+0
+,
+2
+
+0
+0
+0
+,
+6
+
+0
+0
+0
+,
+2
+-
+
+0
+0
+0
+,
+4
+-
+
+0
+0
+0
+,
+5
+-
+
+0
+0
+0
+,
+1
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+0
+0
+0
+,
+2
+
+0
+0
+0
+,
+1
+
+0
+0
+0
+,
+1
+-
+
+1
+6
+9
+,
+1
+-
+
+4
+4
+6
+,
+2
+-
+
+7
+6
+0
+,
+3
+-
+
+2
+9
+8
+,
+4
+
+4
+3
+4
+,
+2
+-
+
+7
+2
+5
+-
+
+4
+8
+0
+,
+1
+
+9
+7
+7
+,
+2
+
+0
+1
+9
+,
+2
+
+7
+9
+0
+,
+1
+-
+
+2
+4
+3
+,
+1
+
+6
+3
+7
+,
+1
+
+3
+6
+3
+
+4
+3
+5
+,
+2
+
+9
+2
+8
+,
+3
+
+3
+8
+3
+,
+5
+-
+
+6
+1
+4
+
+3
+9
+1
+,
+7
+
+3
+2
+7
+,
+5
+-
+
+3
+6
+1
+,
+4
+
+4
+7
+5
+,
+7
+-
+
+7
+0
+8
+,
+1
+1
+
+9
+5
+5
+,
+7
+-
+
+4
+7
+4
+,
+3
+
+6
+7
+1
+,
+7
+-
+
+8
+2
+2
+,
+0
+2
+
+3
+2
+0
+,
+9
+1
+
+9
+8
+0
+,
+4
+1
+
+3
+0
+9
+
+6
+3
+3
+,
+8
+
+5
+6
+6
+,
+3
+
+7
+8
+0
+,
+2
+
+-
+-
+-
+
+0
+5
+2
+
+3
+5
+6
+
+-
+-
+-
+
+4
+3
+5
+,
+7
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+3
+2
+3
+
+4
+5
+5
+,
+1
+
+0
+4
+7
+,
+4
+
+5
+3
+1
+,
+1
+
+2
+6
+5
+,
+1
+
+5
+5
+2
+,
+3
+
+-
+-
+-
+
+5
+5
+2
+,
+3
+
+7
+7
+
+1
+5
+4
+-
+
+0
+0
+0
+,
+2
+
+1
+5
+4
+,
+2
+-
+
+2
+9
+3
+,
+9
+
+4
+s
+g
+n
+d
+o
+h
+
+l
+
+i
+
+e
+g
+n
+a
+h
+c
+t
+e
+N
+
+l
+a
+t
+o
+t
+
+l
+a
+r
+e
+d
+e
+F
+
+y
+c
+n
+e
+g
+A
+
+t
+h
+g
+i
+r
+t
+u
+o
+
+s
+n
+o
+i
+t
+p
+m
+e
+d
+e
+R
+
+5
+1
+2
+,
+1
+3
+
+8
+0
+2
+,
+6
+3
+
+2
+2
+8
+,
+2
+3
+
+t
+e
+N
+
+e
+g
+n
+a
+h
+C
+
+-
+-
+-
+
+9
+7
+7
+,
+3
+
+2
+0
+8
+,
+6
+1
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+1
+5
+
+0
+2
+1
+
+-
+-
+-
+
+)
+-
+(
+
+9
+7
+4
+,
+0
+1
+
+3
+7
+4
+
+1
+0
+4
+,
+3
+1
+
+6
+9
+7
+,
+0
+1
+
+3
+5
+6
+
+2
+7
+9
+,
+7
+
+9
+9
+4
+,
+3
+
+6
+3
+1
+,
+3
+
+7
+3
+3
+,
+1
+
+-
+-
+-
+
+-
+-
+-
+
+3
+5
+6
+
+-
+-
+-
+
+4
+7
+3
+,
+3
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+8
+9
+9
+
+0
+8
+6
+
+6
+9
+6
+,
+1
+
+8
+1
+3
+,
+1
+
+-
+-
+-
+
+2
+9
+6
+,
+4
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+1
+s
+e
+i
+t
+i
+r
+u
+c
+e
+S
+
+l
+
+i
+
+f
+o
+s
+g
+n
+d
+o
+H
+m
+e
+t
+s
+y
+S
+n
+
+i
+
+s
+e
+g
+n
+a
+h
+C
+
+s
+n
+o
+i
+t
+p
+m
+e
+d
+e
+R
+
+3
+
+s
+e
+s
+a
+h
+c
+r
+u
+P
+
+t
+e
+N
+
+)
+-
+(
+
+0
+1
+
+r
+e
+v
+O
+
+0
+1
+-
+5
+
+5
+-
+1
+
+1
+<
+
+t
+e
+N
+
+e
+g
+n
+a
+h
+C
+
+s
+n
+o
+i
+t
+p
+m
+e
+d
+e
+R
+
+t
+e
+N
+
+)
+-
+(
+
+2
+s
+e
+s
+a
+h
+c
+r
+u
+P
+
+s
+n
+o
+p
+u
+o
+C
+y
+r
+u
+s
+a
+e
+r
+T
+
+s
+
+l
+l
+i
+
+B
+y
+r
+u
+s
+a
+e
+r
+T
+
+)
+d
+e
+t
+s
+u
+d
+a
+y
+
+j
+
+l
+l
+
+a
+n
+o
+s
+a
+e
+s
+t
+o
+n
+
+,
+
+s
+r
+a
+
+l
+l
+
+o
+d
+f
+o
+s
+n
+o
+
+i
+l
+l
+i
+
+M
+
+(
+
+3
+0
+0
+2
+
+,
+3
+1
+h
+c
+r
+a
+M
+
+3
+3
+8
+,
+5
+
+1
+3
+5
+,
+8
+
+0
+8
+2
+,
+2
+
+2
+3
+6
+,
+1
+
+7
+2
+9
+,
+1
+
+0
+1
+2
+
+3
+4
+1
+
+-
+-
+-
+
+3
+6
+
+0
+8
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+1
+7
+8
+,
+5
+
+3
+0
+0
+,
+6
+
+4
+7
+0
+,
+5
+
+2
+8
+9
+
+1
+7
+9
+
+1
+7
+4
+,
+2
+
+8
+1
+3
+,
+1
+
+4
+1
+3
+
+7
+7
+5
+
+0
+9
+6
+
+1
+5
+
+-
+-
+-
+
+-
+-
+-
+
+4
+1
+3
+
+-
+-
+-
+
+9
+6
+7
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+8
+6
+
+-
+-
+-
+
+-
+-
+-
+
+1
+0
+7
+
+9
+6
+7
+
+2
+8
+4
+,
+4
+1
+
+4
+1
+8
+,
+2
+2
+
+8
+4
+7
+,
+2
+1
+
+9
+0
+8
+,
+8
+
+3
+6
+6
+,
+5
+1
+
+0
+2
+7
+,
+2
+1
+
+6
+4
+8
+5
+1
+-
+
+,
+
+8
+0
+4
+5
+
+,
+
+1
+2
+4
+1
+2
+
+,
+
+7
+7
+5
+,
+2
+
+3
+5
+1
+,
+6
+
+0
+8
+5
+,
+2
+
+6
+7
+6
+,
+3
+
+9
+3
+3
+
+5
+5
+7
+,
+1
+
+1
+2
+9
+,
+1
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+9
+3
+3
+
+-
+-
+-
+
+7
+2
+1
+,
+2
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+0
+2
+5
+
+5
+9
+9
+
+2
+1
+6
+
+-
+-
+-
+
+-
+-
+-
+
+1
+6
+7
+,
+5
+
+-
+-
+-
+
+9
+4
+3
+,
+4
+
+5
+3
+5
+,
+5
+
+5
+3
+8
+,
+2
+
+5
+4
+4
+
+4
+0
+1
+,
+1
+
+6
+8
+2
+,
+1
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+8
+7
+4
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+8
+7
+4
+
+-
+-
+-
+
+8
+1
+3
+,
+1
+
+9
+5
+6
+4
+
+,
+
+7
+2
+8
+6
+
+,
+
+7
+2
+2
+8
+
+,
+
+7
+1
+1
+6
+
+,
+
+0
+5
+2
+
+8
+3
+8
+4
+
+,
+
+9
+2
+5
+
+0
+5
+7
+
+-
+-
+-
+
+-
+-
+-
+
+0
+5
+2
+
+-
+-
+-
+
+1
+6
+1
+4
+
+,
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+6
+5
+5
+
+3
+2
+3
+
+5
+4
+0
+3
+
+,
+
+5
+5
+4
+
+4
+4
+2
+
+7
+7
+
+7
+2
+1
+,
+2
+
+6
+9
+7
+,
+1
+
+0
+0
+7
+4
+
+,
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+2
+2
+5
+4
+2
+
+,
+
+5
+9
+0
+0
+1
+
+,
+
+6
+7
+6
+8
+
+,
+
+3
+0
+5
+5
+1
+
+,
+
+1
+2
+4
+1
+2
+
+,
+
+9
+5
+6
+4
+
+,
+
+7
+2
+8
+6
+
+,
+
+7
+2
+2
+8
+
+,
+
+7
+1
+1
+6
+
+,
+
+0
+5
+2
+
+8
+3
+8
+4
+
+,
+
+9
+2
+5
+
+0
+5
+7
+
+-
+-
+-
+
+-
+-
+-
+
+0
+5
+2
+
+-
+-
+-
+
+1
+6
+1
+4
+
+,
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+-
+-
+-
+
+6
+5
+5
+
+3
+2
+3
+
+5
+4
+0
+3
+
+,
+
+5
+5
+4
+
+4
+4
+2
+
+7
+7
+
+0
+0
+0
+2
+
+1
+0
+0
+2
+
+2
+0
+0
+2
+
+I
+I
+
+Q
+
+I
+I
+I
+
+Q
+
+I
+
+V
+Q
+
+I
+
+V
+Q
+1
+0
+0
+2
+
+I
+
+Q
+2
+0
+0
+2
+
+l
+
+u
+J
+
+2
+0
+0
+2
+
+g
+u
+A
+
+p
+e
+S
+
+t
+c
+O
+
+v
+o
+N
+
+c
+e
+D
+
+5
+2
+
+c
+e
+D
+
+8
+1
+
+c
+e
+D
+2
+0
+0
+2
+
+1
+
+n
+a
+J
+
+3
+0
+0
+2
+
+b
+e
+F
+
+n
+a
+J
+
+3
+0
+0
+2
+
+5
+1
+n
+a
+J
+
+2
+2
+n
+a
+J
+
+9
+2
+n
+a
+J
+
+5
+
+b
+e
+F
+
+8
+n
+a
+J
+
+2
+1
+
+b
+e
+F
+
+9
+1
+
+b
+e
+F
+
+6
+2
+
+b
+e
+F
+
+5
+
+r
+a
+M
+
+2
+1
+
+r
+a
+M
+
+d
+o
+i
+r
+e
+P
+g
+n
+i
+t
+e
+e
+m
+r
+e
+t
+n
+I
+
+3
+1
+
+r
+a
+M
+3
+0
+0
+2
+
+0
+0
+7
+4
+
+,
+
+3
+1
+
+r
+a
+M
+-
+9
+2
+n
+a
+J
+
+)
+$
+
+.
+l
+i
+
+b
+(
+L
+E
+V
+E
+L
+
+:
+o
+m
+e
+M
+
+3
+1
+
+r
+a
+M
+
+1
+.
+4
+
+0
+.
+6
+1
+
+9
+.
+1
+1
+-
+
+8
+.
+8
+3
+6
+
+0
+.
+0
+
+4
+.
+7
+0
+4
+
+8
+.
+9
+7
+
+7
+.
+1
+5
+
+2
+.
+0
+8
+1
+
+7
+.
+5
+9
+
+.
+
+4
+1
+3
+2
+
+M
+R
+H
+A
+R
+M
+
+:
+
+,
+s
+e
+u
+s
+s
+
+i
+
+g
+n
+i
+r
+u
+t
+a
+m
+
+f
+o
+
+s
+r
+e
+v
+o
+
+l
+l
+
+o
+r
+
+d
+n
+a
+
+s
+t
+f
+i
+
+h
+s
+
+t
+
+y
+t
+i
+r
+u
+a
+m
+s
+e
+d
+u
+c
+x
+E
+
+l
+
+.
+s
+
+l
+l
+i
+
+b
+g
+n
+i
+r
+u
+
+t
+
+a
+m
+
+r
+o
+f
+
+e
+g
+n
+a
+h
+c
+x
+e
+
+n
+
+i
+
+d
+e
+r
+i
+u
+q
+c
+a
+
+.
+
+n
+o
+
+i
+t
+
+a
+s
+n
+e
+p
+m
+o
+c
+
+n
+o
+i
+t
+a
+l
+f
+n
+
+i
+
+f
+o
+
+r
+e
+v
+o
+
+l
+l
+
+o
+r
+
+e
+h
+t
+
+t
+p
+e
+c
+x
+e
+
+.
+s
+e
+i
+t
+i
+r
+u
+c
+e
+s
+
+y
+c
+n
+e
+g
+a
+d
+n
+a
+y
+r
+u
+s
+a
+e
+r
+T
+
+f
+o
+
+)
+-
+(
+
+s
+n
+o
+i
+t
+p
+m
+e
+d
+e
+r
+
+s
+e
+d
+u
+c
+n
+I
+
+l
+
+.
+s
+P
+R
+e
+s
+r
+e
+v
+e
+r
+
+s
+s
+e
+
+l
+
+i
+
+g
+n
+d
+n
+a
+t
+s
+t
+u
+o
+s
+P
+R
+
+.
+s
+s
+e
+
+l
+
+r
+o
+
+s
+y
+a
+d
+
+.
+s
+y
+a
+d
+
+0
+9
+
+o
+t
+
+5
+1
+f
+o
+y
+t
+i
+r
+u
+t
+a
+m
+
+6
+1
+
+f
+o
+
+y
+t
+i
+r
+u
+t
+a
+m
+
+l
+
+a
+n
+g
+i
+r
+
+i
+
+O
+
+l
+
+a
+n
+g
+i
+r
+
+i
+
+O
+
+.
+4
+
+.
+5
+
+.
+6
+
+.
+7
+
+s
+e
+t
+o
+n
+m
+r
+e
+t
+-
+t
+r
+o
+h
+s
+
+s
+e
+d
+u
+c
+n
+I
+
+l
+
+.
+)
+s
+t
+n
+u
+o
+c
+c
+a
+n
+g
+e
+r
+o
+
+i
+
+.
+)
+s
+t
+n
+u
+o
+c
+c
+a
+n
+g
+e
+r
+o
+
+i
+
+f
+
+f
+
+h
+
+t
+i
+
+h
+
+t
+i
+
+w
+d
+n
+a
+
+w
+d
+n
+a
+
+t
+
+e
+k
+r
+a
+m
+n
+i
+(
+
+t
+
+e
+k
+r
+a
+m
+n
+i
+(
+
+s
+e
+a
+s
+
+l
+
+s
+e
+a
+s
+
+l
+
+t
+
+t
+
+h
+g
+i
+r
+t
+
+h
+g
+i
+r
+t
+
+u
+o
+
+u
+o
+
+s
+s
+e
+
+l
+
+s
+s
+e
+
+l
+
+s
+e
+s
+a
+h
+c
+r
+u
+p
+
+s
+e
+s
+a
+h
+c
+r
+u
+p
+
+.
+s
+e
+
+i
+t
+i
+r
+u
+c
+e
+s
+d
+e
+x
+e
+d
+n
+i
+-
+n
+o
+
+i
+t
+
+a
+
+l
+f
+
+n
+
+i
+
+f
+o
+
+l
+
+i
+
+a
+p
+c
+n
+i
+r
+p
+
+e
+h
+t
+
+n
+o
+
+n
+o
+
+i
+t
+a
+l
+f
+n
+
+i
+
+t
+h
+g
+i
+r
+t
+u
+O
+
+t
+h
+g
+i
+r
+t
+u
+O
+
+.
+2
+
+.
+3
+
+f
+o
+
+s
+t
+c
+e
+f
+f
+e
+e
+h
+t
+
+r
+o
+f
+
+n
+o
+i
+t
+a
+s
+n
+e
+p
+m
+o
+c
+
+n
+
+i
+
+s
+e
+g
+n
+a
+h
+c
+
+s
+e
+d
+u
+c
+x
+E
+
+l
+
+.
+
+d
+o
+i
+r
+e
+p
+-
+f
+
+o
+-
+d
+n
+e
+
+o
+
+t
+
+d
+o
+i
+r
+e
+p
+-
+f
+o
+-
+d
+n
+e
+m
+o
+r
+f
+e
+g
+n
+a
+h
+C
+
+.
+1
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

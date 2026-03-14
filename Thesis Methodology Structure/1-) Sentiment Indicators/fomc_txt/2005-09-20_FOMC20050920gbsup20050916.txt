@@ -1,0 +1,3235 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version available 
+based on original files from the FOMC Secretariat at the Board of Governors of the 
+Federal Reserve System.   
+
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+
+Content last modified 03/31/2011. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Confidential (FR)   Class III FOMC 
+
+September 16, 2005 
+
+CURRENT ECONOMIC 
+AND FINANCIAL CONDITIONS 
+
+Supplemental Notes 
+
+Prepared for the Federal Open Market Committee 
+by the staff of the Board of Governors of the Federal Reserve System 
+
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+
+The Domestic Nonfinancial Economy ........................................................ 1 
+
+Consumer Prices ..............................................................................1 
+Productivity and Costs .....................................................................6 
+Insured Unemployment....................................................................8 
+Consumer Sentiment........................................................................8 
+Business Inventories ......................................................................10 
+
+Tables 
+Measures of Consumer Price Inflation ............................................2 
+Measures of Producer Price Inflation ..............................................2 
+Measures of Inflation .......................................................................4 
+Broad Measures of Inflation ............................................................5 
+Surveys of Inflation Expectations....................................................5 
+Labor Output per Hour.....................................................................6 
+Hourly Compensation and Unit Labor Costs...................................7 
+University of Michigan Survey Research Center:  Survey of  
+  Consumer Attitudes ...................................................................9 
+Changes in Manufacturing and Trade Inventories.........................11 
+
+Charts 
+Core Consumer Price Inflation ........................................................3 
+Compensation per Hour ...................................................................7 
+Book-Value Inventories Relative to Shipments and Sales ............11 
+
+The Domestic Financial Economy  .........................................................12 
+
+Tables 
+Commercial Bank Credit ...............................................................12 
+Selected Financial Market Quotations ...........................................13 
+
+i 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-ii- 
+
+The International Economy ....................................................................14 
+
+U.S. Current Account.....................................................................14 
+U.S. International Financial Transactions......................................14 
+
+Tables 
+U.S. Current Account.....................................................................14 
+Summary of U.S. International Transactions.................................16 
+
+ 
+ 
+ 
+Supplemental Notes 
+
+The Domestic Nonfinancial Economy 
+
+Consumer Prices 
+The consumer price index advanced 0.5 percent in August, following a similar increase in 
+July.1  The increase in August, as in July, was primarily the result of a jump in consumer 
+energy prices.  On a twelve-month-change basis, overall CPI inflation was 3.6 percent 
+last month, about a percentage point higher than its pace over the preceding year.  
+Excluding food and energy, the CPI moved up 0.1 percent for the fourth consecutive 
+month; this left the twelve-month change in this index at 2.1 percent, a little above the 
+pace in the year-earlier period.  The increase in the core CPI last month was somewhat 
+less than we had anticipated, mostly because prices for lodging away from home and 
+medical care services were lower than expected. 
+
+Energy prices ran up 5 percent in August as motor fuel prices jumped 8 percent.  This is 
+the second consecutive large monthly increase in gasoline prices, and available survey 
+data point to a rise roughly double this size in September.  In all, consumer energy prices 
+climbed 20 percent over the twelve months ending in August, about twice the rise seen in 
+the preceding twelve months. 
+
+Consumer food prices were unchanged in August after having increased 0.2 percent in 
+July.  Prices of fruits and vegetables fell 1.3 percent, nearly reversing the spike in July.  
+Over the twelve months ending in August, the CPI for food decelerated, rising 
+2¼ percent, compared with a 3½ percent increase over the preceding twelve-month 
+period. 
+
+Prices of core consumer goods rose 0.1 percent last month as prices for apparel jumped 
+1 percent after having fallen by almost this amount in July.  Prices for new motor 
+vehicles declined considerably for a second consecutive month in August, apparently 
+reflecting the continued influence of employee-discount programs at the Big Three 
+domestic automakers.  In August, prices of core goods were ¾ percent above their year-
+earlier level, compared with a decline of 1 percent over the preceding year. 
+
+1 Data for the CPI are collected throughout the entire reference month.  More than 90 percent of the 
+
+prices for August were collected prior to August 29th, the date when Hurricane Katrina struck the Gulf 
+Coast. 
+
+-1- 
+
+                                                
+ 
+ 
+ 
+ 
+ 
+ 
+Measures of Consumer Price Inflation
+(Percent)
+
+12-month change
+
+3-month change
+
+1-month change
+
+Annual rate
+
+Monthly rate
+
+Aug.
+2004
+
+Aug.
+2005
+
+May
+2005
+
+Aug.
+2005
+
+July
+2005
+
+Aug.
+2005
+
+2.7      
+3.5      
+ 10.5      
+1.7      
+-1.1      
+2.9      
+2.1      
+1.4      
+
+2.6      
+3.2      
+ 11.0      
+1.9      
+ -.8      
+3.1      
+1.4      
+4.5      
+
+3.6      
+2.2      
+ 20.2      
+2.1      
+  .7      
+2.7      
+3.0      
+1.8      
+
+2.9      
+1.9      
+ 21.3      
+1.9      
+  .1      
+2.7      
+1.7      
+n.a.      
+
+ 4.4      
+3.9      
+ 28.7      
+2.2      
+  .6      
+2.9      
+...      
+...      
+
+ 3.5      
+3.8      
+ 29.1      
+1.9      
+  .6      
+2.4      
+1.8      
+  2.3      
+
+ 4.2      
+1.1      
+ 38.2      
+1.4      
+-1.4      
+2.4      
+...      
+...      
+
+ 2.9      
+ .9      
+ 40.5      
+ .9      
+-2.4      
+2.4      
+ .9      
+n.a.      
+
+ .5      
+ .2      
+ 3.8      
+.1      
+-.3      
+.3      
+...      
+...      
+
+ .3      
+ .2      
+ 4.0      
+ .1      
+-.3      
+ .2      
+ .0      
+  .1      
+
+ .5      
+ .0      
+ 5.0      
+.1      
+ .1      
+.1      
+...      
+...      
+
+ .4      
+ .0      
+ 5.3      
+ .1      
+ .1      
+ .2      
+ .1      
+n.a.      
+
+Measures
+
+CPI
+Total
+   Food
+   Energy
+   Ex. food and energy
+      Core commodities
+      Core services
+Chained CPI (n.s.a.) 1
+   Ex. food and energy 1
+
+PCE prices 2
+Total
+   Food
+   Energy
+   Ex. food and energy
+      Core commodities
+      Core services
+   Core market-based
+   Core non-market-based
+
+   1.  Higher-frequency figures are not applicable for data that are not seasonally adjusted.
+   2.  PCE prices in August are staff estimates.
+   ...  Not applicable.
+
+Measures of Producer Price Inflation
+(Percent)
+
+12-month change
+
+3-month change
+
+1-month change
+
+Annual rate
+
+Monthly rate
+
+Aug.
+2004
+
+Aug.
+2005
+
+May
+2005
+
+Aug.
+2005
+
+July
+2005
+
+Aug.
+2005
+
+ 3.3      
+ 4.0      
+  9.8      
+1.5      
+1.5      
+ 1.4      
+ 8.0      
+ 7.2      
+ 23.5      
+ 32.3      
+
+ 5.1      
+ 1.2      
+ 19.2      
+2.4      
+2.6      
+ 2.2      
+ 6.1      
+ 3.2      
+ 11.3      
+  -.2      
+
+ 2.6      
+  1.0      
+  5.8      
+ 2.1      
+ 2.0      
+ 2.5      
+ 4.4      
+  .8      
+ 20.3      
+ -9.2      
+
+ 6.7      
+ -6.5      
+ 48.4      
+ 1.3      
+ 1.0      
+  .8      
+ 7.4      
+-1.3      
+ 24.2      
+ 13.4      
+
+ 1.0      
+ -.3      
+ 4.4      
+ .4      
+ .4      
+ .5      
+ 1.0      
+-.1      
+  6.7      
+ 3.1      
+
+  .6      
+ -.3      
+ 3.7      
+ .0      
+-.1      
+-.1      
+  .7      
+-.1      
+  2.3      
+ 4.6      
+
+Measures
+
+PPI
+Total finished goods
+   Food
+   Energy
+   Ex. food and energy
+      Core consumer goods
+      Capital equipment
+Intermediate materials
+   Ex. food and energy
+Crude materials
+   Ex. food and energy
+
+- 2 -Percent
+
+Aug.*
+
+3
+
+2
+
+1
+
+Core Consumer Price Inflation
+(12-month change except where noted)
+
+CPI and PCE ex. Food and Energy
+
+PCE excluding Food and Energy
+
+3  
+
+CPI
+
+Percent
+
+3
+
+3  
+
+2
+
+1
+
+0
+
+5  
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+PCE
+
+CPI
+chained
+
+Aug.*
+
+2
+
+1
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+0
+2006
+
+2
+
+1
+
+0
+
+Market-based components
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+0
+2006
+
+* PCE for August is a staff estimate.
+
+* Staff estimate.
+
+PCE excluding Food and Energy
+
+PCE Goods and Services
+
+Percent
+
+3-month change, annual rate
+
+Aug.*
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+-1
+
+2006
+
+4  
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+-3
+
+Percent
+
+Aug.*
+
+Aug.*
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+Services ex. energy
+
+Goods ex. food and energy
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+-3
+
+2006
+
+* Staff estimate.
+
+* Staff estimate.
+
+- 3 - 
+ 
+ 
+ 
+Measures of Inflation
+(Percent)
+
+12-month change
+
+3-month change
+
+1-month change
+
+Annual rate
+
+Monthly rate
+
+Aug.
+2004
+
+Aug.
+2005
+
+May
+2005
+
+Aug.
+2005
+
+July
+2005
+
+Aug.
+2005
+
+ 2.7      
+  3.5      
+ 10.5      
+ 1.7      
+-1.1      
+ 2.9      
+2.1      
+1.4      
+
+2.6      
+ 3.2      
+ 11.0      
+1.9      
+ -.8      
+ 3.1      
+1.4      
+4.5      
+
+ 3.3      
+  4.0      
+  9.8      
+ 1.5      
+ 1.5      
+ 1.4      
+ 8.0      
+ 7.2      
+ 23.5      
+ 32.3      
+
+ 3.6      
+  2.2      
+ 20.2      
+ 2.1      
+  .7      
+ 2.7      
+3.0      
+1.8      
+
+2.9      
+ 1.9      
+ 21.3      
+1.9      
+  .1      
+ 2.7      
+1.7      
+n.a.      
+
+ 5.1      
+  1.2      
+ 19.2      
+ 2.4      
+ 2.6      
+ 2.2      
+ 6.1      
+ 3.2      
+ 11.3      
+  -.2      
+
+ 4.4      
+  3.9      
+ 28.7      
+ 2.2      
+  .6      
+ 2.9      
+...      
+...      
+
+ 3.5      
+ 3.8      
+ 29.1      
+1.9      
+  .6      
+ 2.4      
+1.8      
+  2.3      
+
+  2.6      
+  1.0      
+  5.8      
+ 2.1      
+ 2.0      
+ 2.5      
+  4.4      
+  .8      
+ 20.3      
+ -9.2      
+
+ 4.2      
+  1.1      
+ 38.2      
+ 1.4      
+-1.4      
+ 2.4      
+...      
+...      
+
+ 2.9      
+  .9      
+ 40.5      
+ .9      
+-2.4      
+ 2.4      
+ .9      
+n.a.      
+
+  6.7      
+ -6.5      
+ 48.4      
+ 1.3      
+ 1.0      
+  .8      
+  7.4      
+-1.3      
+ 24.2      
+ 13.4      
+
+ .5      
+  .2      
+ 3.8      
+ .1      
+-.3      
+  .3      
+...      
+...      
+
+ .3      
+ .2      
+ 4.0      
+ .1      
+-.3      
+ .2      
+ .0      
+  .1      
+
+ 1.0      
+ -.3      
+  4.4      
+  .4      
+  .4      
+  .5      
+ 1.0      
+-.1      
+  6.7      
+ 3.1      
+
+ .5      
+  .0      
+ 5.0      
+ .1      
+ .1      
+  .1      
+...      
+...      
+
+ .4      
+ .0      
+ 5.3      
+ .1      
+ .1      
+ .2      
+ .1      
+n.a.      
+
+  .6      
+ -.3      
+  3.7      
+  .0      
+ -.1      
+ -.1      
+  .7      
+-.1      
+  2.3      
+ 4.6      
+
+Measures
+
+CPI
+Total
+   Food
+   Energy
+   Ex. food and energy
+      Core goods
+      Core services
+Chained CPI (n.s.a.) 1
+   Ex. food and energy 1
+
+PCE prices 2
+Total
+   Food
+   Energy
+   Ex. food and energy
+      Core goods
+      Core services
+   Core market-based
+   Core non-market-based
+
+PPI
+Total finished goods
+   Food
+   Energy
+   Ex. food and energy
+      Core consumer goods
+      Capital equipment
+Intermediate materials
+   Ex. food and energy
+Crude materials
+   Ex. food and energy
+
+   1.  Higher-frequency figures are not applicable for data that are not seasonally adjusted.
+   2.  PCE prices in August are staff estimates.
+   ...  Not applicable.
+   n.a. Not available.
+
+- 4 -Broad Measures of Inflation
+(Percent change, Q2 to Q2)
+
+Measure
+
+2002
+
+2003
+
+2004
+
+2005
+
+Product prices
+GDP price index
+   Less food and energy
+
+Nonfarm business chain price index
+
+Expenditure prices
+Gross domestic purchases price index
+   Less food and energy
+
+PCE price index
+   Less food and energy
+
+PCE price index, market-based components
+   Less food and energy
+
+CPI
+   Less food and energy
+
+Chained CPI
+   Less food and energy
+
+Median CPI
+Trimmed mean CPI
+
+ 1.6     
+2.1     
+
+ 1.0     
+
+ 1.4     
+1.9     
+
+ 1.2     
+1.8     
+
+ .9     
+1.5     
+
+ 1.3     
+ 2.4     
+
+1.0     
+1.9     
+
+ 3.6     
+ 2.2     
+
+ 2.0     
+1.8     
+
+ 1.2     
+
+ 2.1     
+1.7     
+
+ 1.8     
+1.3     
+
+1.7     
+1.2     
+
+ 2.2     
+ 1.5     
+
+1.9     
+1.2     
+
+ 2.2     
+ 1.9     
+
+ 2.8     
+2.5     
+
+ 2.2     
+
+ 3.0     
+2.5     
+
+ 2.7     
+2.0     
+
+2.5     
+1.5     
+
+ 2.8     
+ 1.8     
+
+2.5     
+1.6     
+
+ 2.5     
+ 2.1     
+
+ 2.4     
+2.4     
+
+ 2.4     
+
+ 2.8     
+2.3     
+
+ 2.5     
+1.9     
+
+2.4     
+1.6     
+
+ 2.9     
+ 2.2     
+
+2.5     
+1.8     
+
+ 2.3     
+ 2.2     
+
+Surveys of Inflation Expectations
+(Percent)
+
+       Actual
+         CPI
+     inflation 1
+
+Period
+
+University of Michigan
+
+1 year 2
+
+5 to 10 years 3
+
+Mean
+
+Median
+
+Mean
+
+Median
+
+  Professional
+   forecasters
+    (10-year) 4
+
+2003:Q4
+
+2004:Q1
+         Q2
+         Q3
+         Q4
+
+2005:Q1
+         Q2
+         Q3
+
+2005:Apr.
+         May
+         June
+         July
+         Aug.
+         Sept.
+
+ 1.9       
+
+ 1.8       
+ 2.9       
+ 2.7       
+ 3.3       
+
+ 3.0       
+ 2.9       
+n.a.       
+
+ 3.5       
+ 2.8       
+ 2.5       
+ 3.2       
+ 3.6       
+n.a.       
+
+3.0       
+
+3.1       
+4.0       
+3.3       
+3.4       
+
+3.6       
+3.9       
+4.3       
+
+4.0       
+3.8       
+4.0       
+3.6       
+3.7       
+5.7       
+
+2.6       
+
+2.7       
+3.3       
+2.9       
+3.0       
+
+3.0       
+3.2       
+3.6       
+
+3.3       
+3.2       
+3.2       
+3.0       
+3.1       
+4.6       
+
+3.1       
+
+3.4       
+3.3       
+3.1       
+3.1       
+
+3.2       
+3.3       
+3.5       
+
+3.4       
+3.5       
+3.1       
+3.3       
+3.3       
+3.8       
+
+2.8       
+
+2.9       
+2.8       
+2.8       
+2.8       
+
+2.8       
+2.9       
+2.9       
+
+3.0       
+2.9       
+2.8       
+2.9       
+2.8       
+3.1       
+
+2.5       
+
+2.5       
+2.5       
+2.5       
+2.5       
+
+2.5       
+2.5       
+2.5       
+
+...       
+...       
+ 2.5       
+...       
+...       
+ 2.5       
+
+  1. Percent change from the same period in the preceding year.
+  2. Responses to the question: By about what percent do you expect prices to go up, on
+average, during the next 12 months?
+  3. Responses to the question: By about what percent per year do you expect prices to go up,
+on average, during the next 5 to 10 years?
+  4. Quarterly CPI projections compiled by the Federal Reserve Bank of Philadelphia.
+  ... Not applicable.
+  n.a. Not available.
+
+- 5 - 
+ 
+ 
+ 
+ 
+Prices of non-energy services also moved up 0.1 percent in August.  Shelter prices were 
+unchanged as the volatile “lodging away from home” component fell 1.6 percent—more 
+than reversing the previous month’s increase.  Apart from shelter, prices of core services 
+rose 0.2 percent.  In August, airfares fell for the first time since January, and, for the first 
+time in thirty years, prices of medical care services did not increase during the month.  
+Prices of non-energy services rose 2¾ percent during the year ending in August, 
+¼ percentage point less than their year-earlier rise. 
+
+The chained CPI, or C-CPI-U, rose 3 percent over the twelve months ending in August, 
+0.6 percentage point less than the change in the official index.2  The corresponding 
+change in the core C-CPI-U was 1.8 percent, 0.3 percentage point lower than the official 
+core CPI.         
+
+Productivity and Costs 
+We now estimate that output per hour of all persons in the nonfarm business sector rose 
+at an annual rate of 1.7 percent in the second quarter, following an increase at a 
+3.2 percent rate in the first quarter.3  Over the four quarters ending in 2005:Q2, 
+productivity increased 2.2 percent by our estimate, roughly half of the pace during the 
+preceding four quarters.  With hourly compensation in the nonfarm business sector  
+
+Labor Output per Hour 
+(Percent change from preceding period at an annual rate;
+ seasonally adjusted)
+
+2004
+
+2005
+
+2003:Q2 2004:Q2
+
+Sector
+
+2003
+
+2004
+
+Q4
+
+Q1 
+
+Q21
+
+to
+
+to
+
+2004:Q2 2005:Q21 
+
+Nonfarm business
+   All persons
+   All employees2
+Nonfinancial corporations3
+
+ 5.0   
+ 5.5   
+ 4.5   
+
+ 2.6   
+ 2.5   
+ 4.7   
+
+  2.5    
+  2.1    
+ 8.5    
+
+  3.2    
+  3.7    
+ 2.7    
+
+  1.7    
+  1.5    
+ 6.8    
+
+ 4.2    
+ 4.1    
+ 3.2    
+
+ 2.2    
+ 2.5    
+ 6.3    
+
+  Note. Annual changes are from fourth quarter of preceding year to fourth quarter of year shown.
+  1. Staff estimates.
+  2. Assumes that the growth rate of hours of non-employees equals the growth rate of hours of employees.
+  3. All corporations doing business in the United States except banks, stock and commodity brokers, and finance
+and insurance companies. The sector accounts for about two-thirds of business employment.
+
+2 The chained CPI uses an index number formula that is intended to capture shifts in consumers’ 
+
+expenditure patterns following relative price changes. 
+
+3 The BLS reported last week that productivity rose at an annual rate of 1.8 percent in the second 
+quarter, but that figure does not incorporate data on output and hours received in the past two weeks. 
+
+- 6 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+Hourly Compensation and Unit Labor Costs
+(Percent change from preceding period at compound annual rate; based on seasonally adjusted data)
+
+2003:Q2
+to
+
+2004:Q2
+to
+
+2004
+
+2005
+
+Category
+
+2004:Q2 2005:Q2e
+
+ Q3
+
+ Q4
+
+ Q1
+
+ Q2 e
+
+Compensation per hour
+Nonfarm business
+Nonfinancial corporations 1
+
+Unit labor costs
+Nonfarm business  
+Nonfinancial corporations 1
+
+3.7     
+3.2     
+
+6.5     
+6.7     
+
+ 6.1     
+ 6.3     
+
+10.2     
+10.6     
+
+ 5.5     
+ 5.9     
+
+ 4.4     
+ 4.0     
+
+ -.4     
+  .0     
+
+ 4.3     
+  .3     
+
+ 4.7     
+-1.0     
+
+ 7.6     
+ 1.9     
+
+ 2.2     
+ 3.1     
+
+ 2.6     
+-2.6     
+
+   1.   All corporations doing business in the United States except banks, stock and commodity brokers, and
+finance and insurance companies. The sector accounts for about two-thirds of business employment.
+   e   Staff estimate.
+
+8 
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+1.66
+
+1.64
+
+1.62
+
+1.60
+
+1.58
+
+1.56
+
+1.54
+
+1.52
+
+Compensation per Hour
+(Percent change from year-earlier period)
+
+Productivity and costs
+
+ECI
+
+Percent  
+
+Q2*
+
+Q2
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+1990
+
+1991
+
+1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+* Value for Q2 is a staff estimate.
+
+  Markup, Nonfarm Business
+
+  Markup, Nonfinancial Corporations
+
+Ratio         
+1.66
+
+Q2*
+
+1.64
+
+1.62
+
+1.60
+
+1.58
+
+1.56
+
+1.54
+
+Average, 1968-present
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006
+
+1.52
+
+1.59
+
+1.57
+
+1.55
+
+1.53
+
+1.51
+
+1.49
+
+1.47
+
+1.45
+
+Ratio         
+1.59
+
+Q2*
+
+1.57
+
+1.55
+
+1.53
+
+1.51
+
+1.49
+
+1.47
+
+Average, 1968-present
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006
+
+1.45
+
+   Note. Ratio of output price to unit labor costs.
+* Value for Q2 is a staff estimate.
+
+   Note. Ratio of output price to unit labor costs.
+* Value for Q2 is a staff estimate.
+
+- 7 - 
+ 
+ 
+having risen 6.5 percent over that period, unit labor costs rose 4.3 percent—a noticeable 
+turnaround from the preceding three years during which they were little changed.  We 
+estimate that output per hour in the nonfinancial corporate sector rose at an annual rate of 
+6.8 percent in the second quarter to a level 6.3 percent higher than a year earlier.  Hourly 
+compensation rose 4.3 percent over the year ending in 2005:Q2, and unit labor costs 
+continued to be little changed. 
+
+Insured Unemployment 
+Initial claims for unemployment insurance under state programs jumped 71,000 to 
+398,000 for the week ending September 10, which raised the four-week moving average 
+of new claims 20,000 to 341,000.  According to our contact at the Employment and 
+Training Administration (ETA), nearly all of this week’s increase can be directly 
+attributed to the hurricane.  He also noted that upward revisions to this week’s figure are 
+likely:  Given the nature and scale of the disaster, the states have faced problems in 
+processing new claims, and the ETA will require more time than usual to accurately 
+determine the number of claims and to apportion them among the states.  In addition, 
+some claimants, who are not eligible for regular state programs, may be eligible for 
+Disaster Unemployment Assistance from the Federal Emergency Management Agency; 
+because those claims are reported on a monthly basis, information on the numbers 
+involved may not be available until next month.   
+
+Insured unemployment under state programs for the week ending September 3 was 
+2.6 million, close to the level at which it has held since the beginning of April.  The 
+insured unemployment rate remained at 2 percent. 
+
+Consumer Sentiment 
+The Michigan Survey Research Center (SRC) reported that its overall index of consumer 
+sentiment plunged 12.2 points in early September to 76.9, a level well below its average 
+over the previous twelve months.  The deterioration probably reflects recent increases in 
+the price of gasoline and the effects of Hurricane Katrina, and it is likely restraining 
+consumer spending somewhat. 
+
+The early-September drop in sentiment was the result of striking declines in both the 
+“current conditions” and “expected conditions” components of the index.  Among 
+questions not included in the overall index, consumers reported that their expectations 
+about the change in unemployment over the next twelve months worsened noticeably.  
+
+- 8 - 
+ 
+ 
+ 
+University of Michigan Survey Research Center: Survey of Consumer Attitudes
+ Indexes of consumer sentiment 
+(Not seasonally adjusted)
+
+September 16, 2005
+
+Category
+
+Feb. Mar. Apr. May
+
+June
+
+July Aug.
+
+Sept.P
+
+2005
+
+Composite of current and expected conditions1
+Current conditions1
+Expected conditions1
+
+94.1
+109.2
+84.4
+
+92.6
+
+87.7
+108.0 104.4
+77.0
+
+82.8
+
+86.9
+104.9
+75.3
+
+96.0
+113.2
+85.0
+
+96.5
+89.1
+113.5 108.2
+76.9
+85.5
+
+76.9
+97.7
+63.6
+
+Personal financial situation
+  Now compared with 12 months ago2
+  Expected in 12 months2
+
+Expected business conditions
+  Next 12 months2
+  Next 5 years2
+
+Appraisal of buying conditions
+  Cars
+  Large household appliances2
+  Houses
+
+Expected unemployment change - next 12 months
+
+Prob. household will lose a job - next 5 years
+
+Expected inflation - next 12 months
+  Mean
+  Median
+
+ Expected inflation - next 5 to 10 years
+  Mean
+  Median
+
+121
+127
+
+114
+98
+
+144
+162
+151
+
+111
+
+23
+
+3.3
+2.9
+
+3.1
+2.8
+
+117
+130
+
+104
+98
+
+130
+163
+150
+
+112
+
+23
+
+4.0
+3.2
+
+3.3
+2.9
+
+113
+121
+
+109
+121
+
+96
+91
+
+128
+158
+149
+
+118
+
+27
+
+4.0
+3.3
+
+3.4
+3.0
+
+95
+85
+
+133
+163
+156
+
+119
+
+24
+
+3.8
+3.2
+
+3.5
+2.9
+
+122
+129
+
+109
+103
+
+139
+172
+146
+
+116
+
+23
+
+4.0
+3.2
+
+3.1
+2.8
+
+122
+133
+
+112
+99
+
+152
+172
+145
+
+117
+
+22
+
+3.6
+3.0
+
+3.3
+2.9
+
+117
+121
+
+102
+85
+
+147
+164
+140
+
+123
+
+23
+
+3.7
+3.1
+
+3.3
+2.8
+
+101
+112
+
+65
+76
+
+127
+151
+127
+
+136
+
+23
+
+5.7
+4.6
+
+3.8
+3.1
+
+    Note. Figures on financial, business, and buying conditions are the percent reporting ’good times’ (or
+’better’) minus the percent reporting ’bad times’ (or ’worse’), plus 100.   Expected change in unemployment
+  is the fraction expecting unemployment to rise minus the fraction expecting unemployment to fall, plus 100.
+    P  Preliminary.
+    1.  Feb. 1966 = 100.
+    2.  Indicates the question is one of the five equally-weighted components of the index of sentiment.
+
+- 9 -   
+Appraisals of buying conditions for houses tumbled to their lowest level since February 
+1991, and appraisals of buying conditions for cars fell back to their spring levels. 
+
+The mean of expected inflation over the next twelve months ramped up to 5.7 percent, 
+and the median climbed to 4.6 percent.  The mean of expected inflation over the next five 
+to ten years moved up to 3.8 percent, and the median moved up to 3.1 percent. 
+
+Business Inventories 
+Retail inventories, on a book value basis, plummeted at an annual rate of $99 billion in 
+July and are now estimated to have dropped at a $28 billion rate in June—more than 
+previously reported.  July’s massive run-off, the second-largest in the thirteen-year 
+history of the series, occurred at motor vehicle and parts dealers, likely the result of the 
+employee-discount program on new vehicles.  Elsewhere, retail inventories decreased at a 
+$1 billion pace in July, and the inventory-sales ratio, excluding motor vehicles and parts, 
+edged down to 1.31 months. 
+
+For the entire manufacturing and trade sector excluding motor vehicles and parts, book-
+value inventories increased at an annual rate of $22 billion in July.  In the second quarter 
+as a whole, inventories in this sector rose at a downward-revised annual rate of 
+$29 billion.    
+
+- 10 - 
+ 
+ 
+ 
+ 
+Changes in Manufacturing and Trade Inventories
+ (Billions of dollars; seasonally adjusted book value; annual rate)
+
+Sector
+
+Q1
+
+Q2
+
+2005
+
+May
+
+June
+
+July
+
+Manufacturing and trade
+   Ex. wholesale and retail
+         motor vehicles and parts
+
+   Manufacturing
+      Ex. aircraft
+
+   Wholesale trade
+      Motor vehicles and parts
+      Ex. motor vehicles and parts
+
+   Retail trade
+      Motor vehicles and parts
+      Ex. motor vehicles and parts
+
+  88.6    
+
+  18.7    
+
+  21.7    
+
+  -5.7    
+
+ -74.3    
+
+ 92.0    
+
+ 29.1    
+
+  28.7    
+
+  24.9    
+
+  22.0    
+
+ 42.6    
+ 38.1    
+
+ 30.5    
+-1.1    
+ 31.6    
+
+ 15.5    
+ -2.3    
+ 17.7    
+
+   .9    
+  4.0    
+
+ -5.6    
+-10.2    
+
+  3.5    
+  8.8    
+
+ 27.8    
+ 16.8    
+
+ 20.2    
+ 7.9    
+ 12.4    
+
+ -2.4    
+-18.3    
+ 15.8    
+
+ 13.7    
+  5.4    
+  8.3    
+
+ 18.9    
+ 12.3    
+  6.6    
+
+ -3.6    
+   .8    
+ -4.4    
+
+  13.7    
+ -12.3    
+ 26.0    
+
+ -28.0    
+ -42.8    
+ 14.8    
+
+ -98.5    
+ -97.1    
+ -1.4    
+
+Book-Value Inventories Relative to Shipments and Sales
+
+Ratio         
+
+Retail trade ex. motor vehicles and parts
+
+Manufacturing
+
+Wholesale trade ex. motor vehicles and parts
+
+July
+
+1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+1.6
+
+1.5
+
+1.4
+
+1.3
+
+1.2
+
+1.1
+
+1.0
+
+ISM Customer Inventories: Manufacturing
+
+Inventory-Consumption Ratios, Flow-of-Goods System
+
+Index      
+60
+
+Aug.
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+55
+
+50
+
+45
+
+40
+
+35
+
+Note. A number above 50 indicates inventories are "too high."
+
+58 
+
+56
+
+54
+
+52
+
+50
+
+48
+
+46
+
+Days’ supply     
+58
+
+Total
+Total ex. motor vehicles and parts
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+July
+
+56
+
+54
+
+52
+
+50
+
+48
+
+46
+
+1.6
+
+1.5
+
+1.4
+
+1.3
+
+1.2
+
+1.1
+
+1.0
+
+60 
+
+55
+
+50
+
+45
+
+40
+
+35
+
+- 11 - 
+ 
+ 
+ 
+The Domestic Financial Economy 
+
+Commercial Bank Credit
+(Percent change, annual rate, except as noted; seasonally adjusted)
+
+Type of credit
+
+2003
+
+2004
+
+Q1 
+2005
+
+Q2 
+2005
+
+July
+2005
+
+Aug.
+2005
+
+Level
+($ billions),
+Aug. 2005
+
+      Total
+ 1.  Adjusted1
+ 2.  Reported
+
+           Securities
+ 3.       Adjusted1
+ 4.       Reported
+ 5.            Treasury and agency
+ 6.            Other2
+
+           Loans3
+ 7.       Total
+ 8.            Business
+ 9.            Real estate
+ 10.             Home equity
+ 11.             Other
+ 12.           Consumer
+ 13.              Adjusted4
+ 14.           Other5
+
+5.9
+5.6
+
+8.6
+7.2
+8.9
+4.8
+
+4.9
+-9.4
+11.1
+30.8
+8.8
+5.4
+5.8
+6.8
+
+8.9
+8.5
+
+6.6
+5.2
+4.9
+5.6
+
+9.8
+1.4
+14.0
+43.4
+9.8
+8.8
+6.0
+8.0
+
+14.3
+12.2
+
+22.7
+14.9
+20.7
+6.1
+
+11.2
+16.8
+13.5
+18.7
+12.5
+8.2
+5.8
+-1.8
+
+10.0
+9.6
+
+6.2
+5.3
+-5.6
+22.5
+
+11.4
+13.1
+13.7
+13.1
+13.8
+3.2
+-2.7
+8.6
+
+9.9
+7.9
+
+10.6
+3.1
+3.8
+2.1
+
+9.7
+16.6
+20.4
+13.8
+21.7
+6.1
+4.7
+-37.6
+
+12.3
+12.1
+
+1.8
+2.0
+-3.5
+9.7
+
+16.1
+11.6
+14.6
+6.4
+16.1
+11.3
+5.0
+33.5
+
+7,052     
+7,195     
+
+1,861     
+2,003     
+1,175     
+829     
+
+5,191     
+985     
+2,804     
+434     
+2,370     
+700     
+1,059     
+702     
+
+   Note.  Data are adjusted to remove estimated effects of consolidation related to FIN 46 and for breaks caused by
+reclassifications.  Monthly levels are pro rata averages of weekly (Wednesday) levels.  Quarterly levels (not shown)
+are simple averages of monthly levels.  Annual levels (not shown) are levels for the fourth quarter.  Growth rates are
+percentage changes in consecutive levels, annualized but not compounded.
+   1. Adjusted to remove effects of mark-to-market accounting rules (FIN 39 and FAS 115).
+   2. Includes private mortgage-backed securities, securities of corporations, state and local governments, foreign
+governments, and any trading account assets that are not Treasury or agency securities, including revaluation gains
+on derivative contracts.
+   3. Excludes interbank loans.
+   4. Includes an estimate of outstanding loans securitized by commercial banks.
+   5. Includes security loans and loans to farmers, state and local governments, and all others not elsewhere classified.
+Also includes lease financing receivables.
+
+- 12 - 
+ 
+  
+ 
+III-T-1
+Selected Financial Market Quotations
+(One-day quotes in percent except as noted)
+
+2004
+
+2005
+
+June 28
+
+Dec. 31
+
+Aug. 8
+
+Sept. 15
+
+Change to Sept. 15 from
+selected dates (percentage points)
+
+2004
+June 28
+
+2004
+Dec. 31
+
+2005
+Aug. 8
+
+Instrument
+
+Short-term
+FOMC intended federal funds rate
+Treasury bills1
+     3-month
+     6-month
+Commercial paper (A1/P1 rates)2
+     1-month
+     3-month
+Large negotiable CDs1
+     3-month
+     6-month
+Eurodollar deposits3
+     1-month
+     3-month
+
+Bank prime rate
+
+Intermediate- and long-term
+U.S. Treasury4
+      2-year
+      5-year
+     10-year
+
+U.S. Treasury indexed notes
+      5-year
+     10-year
+
+Municipal general obligations (Bond Buyer)5
+
+Private instruments
+     10-year swap
+     10-year FNMA6
+     10-year AA7
+     10-year BBB7
+     5-year high yield7
+
+Home mortgages (FHLMC survey rate)
+     30-year fixed
+     1-year adjustable
+
+1.00
+
+1.36
+1.74
+
+1.28
+1.45
+
+1.53
+1.82
+
+1.29
+1.51
+
+4.00
+
+2.88
+3.97
+4.90
+
+1.56
+2.25
+
+5.01
+
+5.21
+5.30
+5.59
+6.18
+8.30
+
+6.21
+4.19
+
+2.25
+
+2.18
+2.52
+
+2.29
+2.28
+
+2.50
+2.72
+
+2.32
+2.49
+
+5.25
+
+3.08
+3.63
+4.34
+
+1.03
+1.65
+
+4.49
+
+4.65
+4.61
+4.98
+5.38
+7.34
+
+5.77
+4.10
+
+3.25
+
+3.47
+3.70
+
+3.49
+3.65
+
+3.73
+3.96
+
+3.51
+3.70
+
+6.25
+
+4.19
+4.28
+4.49
+
+1.82
+2.01
+
+4.38
+
+4.85
+4.68
+5.18
+5.68
+7.84
+
+5.89
+4.57
+
+3.50
+
+3.37
+3.65
+
+3.68
+3.77
+
+3.84
+3.97
+
+3.74
+3.83
+
+6.50
+
+3.92
+4.00
+4.30
+
+1.38
+1.72
+
+4.30
+
+4.61
+4.55
+5.01
+5.55
+7.84
+
+5.74
+4.46
+
+Stock exchange index
+
+Dow Jones Industrial
+S&P 500 Composite
+Nasdaq
+Russell 2000
+Wilshire 5000
+
+Record high
+
+2004
+
+2005
+
+Level
+
+11,723
+1,527
+5,049
+689
+14,752
+
+Date
+
+Dec. 31
+
+1-14-00
+3-24-00
+3-10-00
+8-2-05
+3-24-00
+
+10,783
+1,212
+2,175
+652
+11,971
+
+Aug. 8
+
+10,537
+1,223
+2,164
+660
+12,213
+
+Sept. 15
+
+10,559
+1,228
+2,146
+665
+12,271
+
+       1.  Secondary market.
+       2.  Financial commercial paper.
+       3.  Bid rates for Eurodollar deposits collected around 9:30 a.m. eastern time.
+       4.  Derived from a smoothed Treasury yield curve estimated using off-the-run securities.
+       5.  Most recent Thursday quote.
+       6.  Constant-maturity yields estimated from Fannie Mae domestic noncallable coupon securities.
+       7.  Derived from smoothed corporate yield curves estimated using Merrill Lynch bond data.
+       _______________________________________________________________________
+
+       NOTES:
+
+         June 28, 2004, is the day before the most recent policy tightening began.
+         August 8, 2005, is the day before the most recent FOMC meeting.
+
+       _______________________________________________________________________
+
+2.50
+
+2.01
+1.91
+
+2.40
+2.32
+
+2.31
+2.15
+
+2.45
+2.32
+
+2.50
+
+1.04
+.03
+-.60
+
+-.18
+-.53
+
+-.71
+
+-.60
+-.75
+-.58
+-.63
+-.46
+
+-.47
+.27
+
+1.25
+
+1.19
+1.13
+
+1.39
+1.49
+
+1.34
+1.25
+
+1.42
+1.34
+
+1.25
+
+.84
+.37
+-.04
+
+.35
+.07
+
+-.19
+
+-.04
+-.06
+.03
+.17
+.50
+
+-.03
+.36
+
+.25
+
+-.10
+-.05
+
+.19
+.12
+
+.11
+.01
+
+.23
+.13
+
+.25
+
+-.27
+-.28
+-.19
+
+-.44
+-.29
+
+-.08
+
+-.24
+-.13
+-.17
+-.13
+.00
+
+-.15
+-.11
+
+Change to Sept. 15 
+from selected dates (percent)
+
+Record
+high
+
+-9.93
+-19.62
+-57.49
+-3.35
+-16.81
+
+2004
+Dec. 31
+
+2005
+Aug. 8
+
+-2.08
+1.30
+-1.35
+2.13
+2.51
+
+.21
+.38
+-.84
+.88
+.48
+
+- 13 - 
+ 
+  
+ 
+ 
+ 
+   
+The International Economy 
+
+U.S. Current Account 
+In the second quarter, the U.S. current account deficit was $783 billion (s.a.a.r.), an 
+improvement of $12 billion over the first quarter (revised).  Although the trade deficit 
+held relatively steady, a decrease in unilateral transfers dominated the movement in the 
+current account.  The majority of the decrease in transfers is associated with a reduction 
+in grants for military purchases of nearly $15 billion (a.r.)   
+
+The current account deficit in the first quarter was revised down (larger deficit) by $9 
+billion, primarily reflecting a downward revision to net direct investment income 
+receipts. 
+
+U.S. Current Account
+(Billions of dollars, seasonally adjusted annual rate)
+Investment 
+
+Goods and 
+services,     
+
+Other  
+income and 
+transfers, net
+
+Current 
+account 
+balance
+
+Period
+
+Annual
+2003
+2004
+
+Quarterly
+2004:Q3
+Q4
+2005:Q1
+Q2
+
+net
+
+-494.8
+-617.6
+
+-629.9
+-676.9
+-692.2
+-693.3
+
+income,      
+
+net
+
+51.8
+36.2
+
+30.8
+18.8
+8.3
+3.9
+
+-76.7
+-86.7
+
+-68.8
+-95.3
+-110.7
+-93.2
+
+-519.7
+-668.1
+
+-667.9
+-753.4
+-794.7
+-782.6
+
+Change
+Q3-Q2
+Q4-Q3
+Q1-Q4
+Q2-Q1
+     Source:  U.S. Department of Commerce, Bureau of Economic Analysis.
+
+1.1
+-12.0
+-10.5
+-4.4
+
+-21.7
+-47.0
+-15.3
+-1.1
+
+19.2
+-26.5
+-15.4
+17.5
+
+-1.4
+-85.5
+-41.2
+12.1
+
+U.S. International Financial Transactions 
+We have received second quarter Balance of Payments data, which include preliminary 
+estimates of direct investment data and new figures for foreign securities transactions. 
+
+- 14 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The new data report inflows through foreign acquisitions of U.S. securities to be $122 
+billion in the second quarter (line 4), compared with $95 billion estimated in the 
+Greenbook.  The difference reflects adjustment factors applied by BEA that differ from 
+their usual methodology and result in larger net purchases of U.S. securities.  The largest 
+adjustment is to agency bonds (line 4b), with net purchases of nearly $21 billion, up $16 
+billion from the Greenbook estimate.  There are upward adjustments to corporate bonds 
+(line 4c) and corporate stocks swaps (included in line 4d) as well.    
+
+Preliminary data for United States direct investment abroad (line 6) indicate net outflows 
+of $34 billion in the second quarter, with new equity flows and reinvested earnings 
+continuing at their first quarter pace.  For the year to date, outflows have not indicated 
+large remittances by U.S multinationals’ foreign affiliates in response to the partial tax 
+holiday included in the American Jobs Creation Act.  Direct investment into the United 
+States (line 7) slowed in the second quarter to $18 billion.  New equity flows and 
+reinvested earnings continued at their first quarter pace, but the volatile intercompany 
+debt component of direct investment switched to an outflow and pulled down recorded 
+inflows.   
+
+The statistical discrepancy (the last line of the table) in the second quarter is positive $54 
+billion, indicating some combination of over-reporting of the current account deficit or 
+under-reporting of net financial inflows.  For the first half of 2005 the discrepancy is 
+nearly $95 billion.  
+
+- 15 - 
+ 
+ 
+ 
+Summary of U.S. International Transactions
+(Billions of dollars, not seasonally adjusted except as noted)
+
+Official financial flows
+   1. Change in foreign official assets
+             in the U.S. (increase, +)
+      a. G-10 countries + ECB
+      b. OPEC
+      c. All other countries
+
+   2. Change in U.S. official reserve
+             assets (decrease, +)
+
+Private financial flows
+Banks
+   3. Change in net foreign positions
+             of banking offices in the U.S. 1
+
+Securities 2
+   4. Foreign net purchases of U.S.
+             securities (+)
+      a. Treasury securities
+      b. Agency bonds
+      c. Corporate and municipal bonds
+      d. Corporate stocks 3
+
+   5. U.S. net acquisitions (-) of foreign
+             securities
+      a. Bonds
+      b. Stock purchases
+      c. Stock swaps 3
+
+Other flows (quarterly data, s.a.)
+   6. U.S. direct investment (-) abroad
+   7. Foreign direct investment in the U.S.
+   8. Foreign holdings of U.S. currency
+   9. Other (inflow, +) 4
+
+U.S. current account balance (s.a.)
+Capital account balance (s.a.) 5
+Statistical discrepancy (s.a.)
+
+2003
+
+2004
+
+269.0
+
+398.1
+
+267.5
+111.4
+5.9
+150.2
+
+395.3
+161.7
+12.1
+221.5
+
+2004
+
+2005
+
+Q3
+76.1
+
+Q4
+95.2
+
+Q1
+31.3
+
+75.7
+20.4
+3.5
+51.8
+
+94.6
+-3.1
+6.8
+90.8
+
+25.9
+5.5
+-3.9
+24.3
+
+Q2
+81.3
+
+82.1
+-18.2
+4.6
+95.6
+
+1.5
+
+2.8
+
+.4
+
+.7
+
+5.3
+
+-.8
+
+291.7
+
+186.5
+
+40.6
+
+73.7
+
+130.7
+
+61.0
+
+June
+
+21.1
+
+July
+
+23.3
+
+21.2
+-10.5
+.1
+31.7
+
+-.1
+
+...
+
+21.7
+4.0
+-4.5
+22.1
+
+1.7
+
+...
+
+64.7
+
+-23.2
+
+-16.6
+
+-4.8
+
+-7.6
+
+-55.3
+
+-48.4
+
+26.3
+
+338.1
+115.2
+-38.3
+223.9
+37.2
+
+-159.5
+-40.8
+-101.2
+-17.4
+
+-140.6
+67.1
+16.6
+105.2
+
+-519.7
+-3.2
+-37.8
+
+505.6
+121.9
+66.0
+255.9
+61.8
+
+-106.0
+-22.0
+-96.2
+12.2
+
+-252.0
+106.8
+14.8
+-59.6
+
+-668.1
+-1.6
+85.1
+
+88.1
+1.0
+.5
+84.9
+1.7
+
+-38.6
+-21.6
+-16.4
+-.6
+
+-41.2
+35.7
+2.6
+10.7
+
+-167.0
+-.4
+50.7
+
+170.3
+10.0
+43.2
+71.2
+45.8
+
+-17.8
+-8.1
+-35.2
+25.5
+
+-100.0
+31.6
+5.3
+-10.9
+
+-188.4
+-.5
+19.9
+
+157.2
+76.3
+.8
+58.2
+21.9
+
+-38.7
+1.4
+-38.0
+-2.1
+
+-27.0
+35.1
+1.1
+10.7
+
+122.0
+5.5
+20.6
+82.4
+13.5
+
+-42.0
+-17.8
+-22.3
+-1.9
+
+-33.6
+17.6
+4.5
+47.8
+
+-198.7
+-4.5
+41.2
+
+-195.7
+-.3
+53.6
+
+39.9
+-20.2
+6.0
+49.8
+4.4
+
+-14.8
+-1.9
+-12.9
+.0
+
+...
+...
+...
+...
+
+...
+...
+...
+
+65.1
+15.9
+18.4
+20.4
+10.4
+
+-15.7
+-5.8
+-9.9
+.0
+
+...
+...
+...
+...
+
+...
+...
+...
+
+     Note. Data in lines 1 through 5 differ in timing and coverage from the balance of payments data published by the
+Department of Commerce. Details may not sum to totals because of rounding.
+     1. Changes in dollar-denominated positions of all depository institutions and bank holding companies plus certain
+transactions between broker-dealers and unaffiliated foreigners (particularly borrowing and lending under repurchase
+agreements). Includes changes in custody liabilities other than U.S. Treasury bills.
+     2. Includes commissions on securities transactions and therefore does not match exactly the data on U.S. international
+transactions published by the Department of Commerce.
+     3. Includes (4d) or represents (5c) stocks acquired through non-market means such as mergers and reincorporations.
+     4. Transactions by nonbanking concerns and other banking and official transactions not shown elsewhere plus amounts
+resulting from adjustments made by the Department of Commerce and revisions in lines 1 through 5 since publication of the
+quarterly data in the Survey of Current Business.
+     5. Consists of transactions in nonproduced nonfinancial assets and capital transfers.
+     n.a. Not available.   ... Not applicable.
+
+- 16 - 
+ 
+ 
+ 
+ 
+ 
+ 
+

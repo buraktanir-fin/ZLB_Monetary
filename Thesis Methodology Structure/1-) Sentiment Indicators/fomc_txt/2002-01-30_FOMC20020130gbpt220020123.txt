@@ -1,0 +1,6483 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+Confidential (FR)   Class III FOMC
+
+Part 2                                                                                   January 23, 2002
+
+CURRENT ECONOMIC
+AND FINANCIAL CONDITIONS
+
+Recent Developments
+
+Prepared for the Federal Open Market Committee
+by the staff of the Board of Governors of the Federal Reserve System
+
+Confidential (FR)   Class III FOMC
+
+                                                                                                    January 23, 2002
+
+Recent Developments                         
+
+Prepared for the Federal Open Market Committee
+by the staff of the Board of Governors of the Federal Reserve System
+
+                
+Domestic Nonfinancial
+Developments                         
+
+Domestic Nonfinancial Developments
+
+
+Overview 
+Economic activity appears to have contracted a bit further in the fourth quarter 
+after having dropped at an annual rate of 1.3 percent in the third quarter.  Final 
+sales likely posted a moderate gain last quarter, as consumer outlays accelerated 
+sharply and business purchases of equipment and software leveled off after two 
+quarters of steep decline.  However, this pickup in final sales was met by a 
+further deepening in the ongoing liquidation of inventories.  Looking ahead, 
+some recent data suggest that the economy may be bottoming out.  In the 
+manufacturing sector, production fell less steeply in December than in previous 
+months, and the available indicators suggest that an upturn could be near.  More 
+broadly, employment losses in December were much smaller than those earlier 
+in the quarter, aggregate hours of production or nonsupervisory workers were 
+unchanged last month, and initial claims for unemployment insurance have 
+fallen significantly below their levels in late November.  Meanwhile, inflation 
+has been held down by falling energy prices and widespread discounting of 
+goods prices. 
+
+Labor Market Developments 
+The labor market deteriorated further last month, as private nonfarm payrolls 
+dropped 187,000 and the unemployment rate rose 0.2 percentage point, to 
+5.8 percent.  However, the decline in employment was less severe than in the 
+preceding two months, and aggregate hours of production or nonsupervisory 
+workers on private nonfarm payrolls held steady in December, the first month 
+since May that hours did not decline. 
+
+December’s level of aggregate hours was held up by an increase in the 
+workweek, which after two consecutive monthly gains has climbed back to 
+34.2 hours, a level last seen in July.  With a 0.4 hour jump in December, the 
+manufacturing workweek, one of the Conference Board’s leading indicators, 
+reversed its declines over the three preceding months and returned to its August 
+level.  The rise in the factory workweek occurred in concert with a cut in 
+manufacturing jobs of 133,000.  History indicates that the workweek in the 
+manufacturing sector often begins rising from recessionary lows while 
+manufacturing employment is still declining. 
+
+Although the unemployment rate continued to climb in December, other 
+indicators from the household survey were also hinting at a slowing in the pace 
+of reductions in jobs and hours toward year-end.  The percentage of job losers 
+unemployed for fewer than five weeks (a proxy for the layoff rate) fell for the 
+second consecutive month in December after having peaked in October.  In 
+addition, the proportion of employed persons working part-time for economic 
+reasons has changed little since October after having risen precipitously during 
+the preceding two months. 
+
+II-2
+
+II-3
+
+II-4
+
+II-5
+
+
+Recent data on initial claims for unemployment insurance and the insured 
+unemployment rate point to a further moderation in payroll employment 
+declines in January.  The four-week moving average of initial claims (based on 
+FRB seasonals) for the week ended January 12 was 404,000, nearly 34,000 
+below the level a month earlier, and the insured unemployment rate for the 
+week ended January 5 was 2.7 percent, 0.2 percentage point below the level in 
+mid-December.1 
+
+Other indicators of labor market activity have either leveled off or begun to turn 
+up of late.  According to the preliminary Michigan Survey Research Center 
+(SRC) survey, expectations of future employment prospects increased sharply in 
+January, following increases in December reported by both the Michigan and 
+Conference Board surveys.  The National Federation of Independent Business 
+reported that hiring plans remained depressed in December but that the 
+percentage of firms finding job openings difficult to fill ticked back up last 
+month after having declined in November. 
+
+Industrial Production 
+Output in the industrial sector continued to contract in December, but the rate of 
+decline was not as steep as in previous months.  Both total industrial production 
+and manufacturing output edged down 0.1 percent last month after larger 
+declines in October and November.  For the fourth quarter as a whole, industrial 
+output dropped at an annual rate of 7.2 percent after declining 4.7 percent in the 
+third quarter.  Production has fallen about 7 percent since the most recent peak 
+in June 2000, 2-1/2 percentage points more than the 4-1/2 percent cumulative 
+drop during the 1990-91 recession. 
+
+The motor vehicle industry was one of several that showed an increase in 
+production in December.  The output of motor vehicles and parts increased 
+4.1 percent, as assemblies rose to an exceptionally high rate of 12.3 million 
+units, more than a million units above the average assembly rate in October and 
+
+1. As in years past, week-to-week changes in the level of seasonally adjusted initial claims 
+around the Christmas and New Year holidays have been quite large.  Using seasonal adjustment 
+factors developed by the Board’s staff helps to reduce this volatility because FRB seasonals are 
+allowed to evolve more rapidly over time.  FRB-adjusted initial claims have fluctuated between 
+385,000 and 420,000 over the most recent four-week period, while BLS-adjusted initial claims 
+have fluctuated between 386,000 and 451,000. 
+
+Recent week-to-week movements in initial claims may also have been influenced by an 
+increase in unemployment benefits in California for those claimants filing after January 6.  The 
+rise in benefits provided an incentive for some individuals to delay filing until after January 6, 
+and may have held down initial claims before this date and increased them in the most recent 
+week.  Using seasonal factors developed by the Board’s staff, seasonally adjusted initial claims 
+rose 12,000 in California for the week ended January 12. 
+
+II-6
+
+II-7
+
+
+November.  The strong pace of production in December likely was a response 
+by the automakers to the surprisingly robust sales in the preceding two months. 
+
+Production of Domestic Autos and Trucks 
+(Millions of units at an annual rate except as noted; FRB seasonal basis) 
+
+2001 
+
+2002 
+
+2001 
+
+2002 
+
+Q3 
+
+Q4 
+
+Q11 
+
+Nov.  Dec. 
+
+Jan. 1 
+
+Feb.1 
+
+11.6 
+ 4.7
+ 6.9
+
+11.6 
+ 4.8
+ 6.8
+
+11.9 
+ 5.3
+ 6.7
+
+11.8 
+ 4.9
+ 6.9
+
+12.3 
+ 5.1
+ 7.2
+
+12.4 
+ 5.3 
+ 7.1 
+
+11.9 
+5.4 
+6.5 
+
+Item 
+
+U.S. production 
+
+Autos
+Trucks
+
+Days' supply2 
+Autos
+Light trucks3
+
+ 49.1 
+ 74.0 
+
+38.3 
+52.3 
+
+n.a. 
+n.a. 
+
+37.7 
+55.1 
+
+47.4 
+57.6 
+
+n.a. 
+n.a. 
+
+n.a. 
+n.a. 
+
+n.a. 
+
+Inventories4
+
+ 2.69 
+
+2.27 
+
+n.a.
+
+ 2.24 
+
+2.27 
+
+n.a. 
+
+Note. Components may not sum to totals because of rounding. 
+1. Production rates reflect Ward’s Communications’ latest estimates for November and 
+
+schedules for December and the first quarter. 
+
+2. Quarterly average calculated using end-of-period stocks and average reported sales. 
+3. Excludes medium and heavy (classes 3-8) trucks. 
+4. End-of-period stocks; excludes medium and heavy (class 3-8) trucks. 
+n.a.  Not available. 
+
+Another relatively bright spot in industrial production was the output of high-
+tech goods, which rose 0.3 percent in December.  The increase was led by a 
+pickup in the production of semiconductors; output of communications 
+equipment continued to slide, while output of computers posted a moderate gain 
+of 0.7 percent.  For the fourth quarter as a whole, production of high-tech goods 
+ticked up slightly, the first quarterly increase in this category in a year and a 
+sharp reversal from the double-digit declines recorded in each of the previous 
+three quarters. 
+
+Outside of high tech and motor vehicles, production cutbacks were widespread 
+last month, with the most pronounced weakness evident in consumer 
+nondurables and business equipment.  Within business equipment, the largest 
+declines were in commercial aircraft and aircraft equipment, industrial 
+machinery, and farm machinery and equipment.  Among the consumer durables 
+categories not previously discussed, production of appliances, furniture, and 
+carpeting rose for the second month in a row. 
+
+II-8
+
+II-9
+
+
+Although manufacturing production fell sharply over the fourth quarter as a 
+whole, there are some tentative indications that a recovery of sorts might be in 
+the offing.  Real adjusted durable goods orders increased noticeably in October 
+and November.  Moreover, the new orders index from the Institute for Supply 
+Management (ISM; formerly the National Association of Purchasing Managers) 
+survey, which has predictive power for near-term changes in manufacturing, 
+increased sharply in December, moving into the region associated with an 
+expansion in manufacturing activity for the first time in three months;2 the 
+latest Business Outlook Survey from the Federal Reserve Bank of Philadelphia 
+showed a similarly sharp rise in January. 
+
+New Orders for Durable Goods 
+(Percent change from preceding period; seasonally adjusted) 
+
+Component 
+
+Share, 
+2001:H1 
+
+2001 
+
+Q2 
+
+Q3 
+
+Sept.  Oct. 
+
+Nov. 
+
+Total orders 
+Adjusted orders1 
+Computers 
+Communications equipment 
+Semiconductors and related 
+
+devices 
+
+Other capital goods 
+Other2 
+
+Memo: 
+Real adjusted orders
+
+Excluding high tech
+
+100.0 
+73.0 
+5.0 
+4.0 
+
+4.0 
+24.0 
+37.0 
+
+-2.3 
+-4.2 
+-14.0 
+-26.3 
+
+-19.4 
+-2.8 
+.5 
+
+-5.1 
+-5.7 
+-19.4 
+-16.6 
+
+-3.4 
+-5.3 
+-3.4 
+
+-9.2 
+-9.8 
+-7.0 
+-39.8 
+
+17.1 
+-6.4 
+-11.9 
+
+12.4 
+5.3 
+18.7 
+51.5 
+
+-16.7 
+-.3 
+7.1 
+
+ . . . 
+ . . . 
+
+-3.4 
+-1.3 
+
+-4.8 
+-13.9 
+
+-9.3 
+-9.8 
+
+5.5 
+4.2 
+
+-4.8 
+2.2 
+2.7 
+.1 
+
+2.3 
+3.7 
+1.4 
+
+2.4 
+2.1 
+
+1. Orders excluding defense capital goods, nondefense aircraft, and motor vehicle parts. 
+2. Includes primary metals, most fabricated metals, most stone, clay, and glass products, 
+
+household appliances, scientific instruments, and miscellaneous durable goods. 
+
+. . .  Not applicable. 
+
+Weekly production data through January 19 suggest that the weekly aggregate, 
+which makes up nearly one-fifth of the IP index, will contribute roughly 
+0.2 percentage point to the change in total IP this month; in particular, weekly 
+steel production and electricity generation were up noticeably in the first three 
+weeks of the month.  Steel capability utilization rates have reached their highest 
+level since the week ending September 8, 2000. 
+
+2. In the ISM survey, index values greater than 50 typically are associated with an increase 
+
+in manufacturing activity. 
+
+II-10
+
+II-11
+
+
+Capacity utilization in manufacturing edged down to 72.8 percent in December. 
+Despite the anemic rate of capacity expansion in 2001, utilization rates dropped 
+precipitously throughout the year, and the average rate in the fourth quarter was 
+its lowest since 1983; the drop in utilization has been sharpest in the high-tech 
+sector.  In contrast to manufacturing, an increase in capacity at utilities in 2001 
+was the strongest since 1974, reflecting producers’ response to the significant 
+shortfall in generating capacity that had opened up in the western states over the 
+past year or so.  Accordingly, capacity utilization at utilities in December was 
+12.7 percentage points below the most recent peak, in December 2000. 
+
+Motor Vehicles 
+Purchases of light vehicles moved lower again in December, but the pace of 
+sales—at an annual rate of 16-1/4 million units—was still above the third-
+quarter average.  For the fourth quarter as a whole, sales of automobiles and 
+light trucks rose to an annual rate of 18.4 million units—a historical high. 
+Demand for motor vehicles has been bolstered in recent months by a continued 
+high level of incentives.  Manufacturers scaled incentives back a bit last month, 
+but they appear reluctant to cut them too substantially, likely because of 
+concerns about the underlying strength of vehicle demand and the drop-off in 
+sales volume that they presume would ensue if incentives abruptly returned to 
+more normal levels.5  The Michigan Survey index of car-buying conditions shot 
+up over the final months of last year—buoyed by highly favorable consumer 
+assessments of motor vehicle prices and financing rates.  In early January, the 
+index eased a bit as respondents expressed some dissatisfaction with current 
+financing rates after automakers removed zero percent rates from many models. 
+
+Most of the decline in light vehicle sales in December came in retail purchases, 
+which had spiked in October and then dropped back some in November. 
+However, confidential data from automakers indicate that fleet sales also moved 
+lower in December and were down 1/2 million units (annual rate) in the fourth 
+quarter.  With demand for travel down, some rental car companies have 
+aggressively trimmed the size of their fleets.  In contrast, business purchases of 
+medium and heavy trucks rose in the fourth quarter for the first time since the 
+fourth quarter of 1999, and on a three-month moving average basis, net new 
+orders for medium and heavy trucks ticked up in December. 
+
+5. On January 2, GM ended zero percent financing and began offering rebates of $2,002 on 
+many models.  Other models were eligible for reduced-rate financing plus a smaller cash rebate. 
+These offers are scheduled to run through February 28.  Ford has extended its zero percent 
+financing on thirty-six-month loans until March 5 and has offered cash rebates of $1,000 to 
+$2,500 depending on the model.  DaimlerChrysler’s zero percent program ended on January 8. 
+Currently, incentives on its vehicles vary by region and by model. 
+
+II-12
+
+II-13
+
+
+With sales at record levels, inventories of light vehicles fell substantially in the 
+fourth quarter.  Stocks of light vehicles are estimated to have declined to 
+2-1/4 million units last quarter—the lowest level since the first quarter of 1992. 
+The days’ supply of light vehicles stood at fifty-four days in December, 
+relatively lean compared with desired levels of about sixty-five days. 
+
+Although the Big Three automakers continue to expect sales to drop in the first 
+quarter, their latest production plans call for a robust assembly rate of 
+11.9 million units, a shade above the average for the fourth quarter.  If these 
+schedules are maintained and sales fall back, inventories would likely move up 
+sharply in the near term.6 
+
+Consumer Spending 
+Available data indicate that the pace of consumer spending was well maintained 
+through the end of last year.  Real personal consumption expenditures are now 
+expected to have risen at an annual rate of 4-3/4 percent in the fourth quarter, 
+mainly on the aforementioned strength of motor vehicle sales.  Moreover, recent 
+reports from chain stores suggest that their sales, which exceeded expectations 
+in December, have also held up well through the first three weeks of January. 
+
+Although total nominal retail sales declined 0.1 percent in December, spending 
+in the nominal retail control category—which excludes auto dealers and 
+building material and supply stores—edged up last month, and revised data for 
+November show a noticeably smaller decline than had been previously 
+estimated.  Within retail control, sales at stores in the GAF category (general 
+merchandise, apparel, and furniture and appliance stores) posted another 
+noticeable gain in December, despite rather gloomy reports from retail analysts 
+during the Christmas season.  In contrast, nominal retail sales at gasoline 
+stations fell further in December, likely because of lower retail gasoline prices. 
+On the basis of these retail sales data and information showing substantial price 
+declines for goods, we estimate that real PCE for goods excluding autos and 
+trucks increased about 3/4 percent, on average, in November and December. 
+
+According to the most recent data, outlays on services rose 0.2 percent in 
+November, as increases in expenditures for medical services, personal business 
+services, and recreation services more than offset a sizable drop in spending on 
+energy services.  Although temperatures on balance remained unseasonably 
+warm in December, they were down from November and likely led to higher 
+spending on energy services last month.  In contrast, slight decreases in stock 
+
+6. Ford recently announced a restructuring plan that involves closing at least three domestic 
+
+assembly plants in addition to some parts plants.  No domestic assembly plant will be closed 
+before the September 2003 expiration of the current labor contract with the United Auto 
+Workers, but Ford could slow the line speed and drop some production shifts as early as March. 
+Ford plans to close some parts plants within the year. 
+
+II-14
+
+II-15
+
+
+market trading volumes last month probably served to damp expenditures on 
+personal business services. 
+
+On the income side, private wages and salaries appear to have advanced in 
+December after a small decline in November.  Moreover, the overall rise in real 
+disposable personal income last year was well above that seen in previous 
+recessions, aided both by last summer’s tax cuts and by the rapid decline in 
+consumer energy prices through the end of the year.  Meanwhile, the pickup in 
+equity values over the fourth quarter is estimated to have raised the ratio of 
+household net worth to disposable income to close to the level it registered at the 
+end of 2000. 
+
+Sentiment surveys also point to an improvement in the consumer outlook. 
+According to the preliminary report, the Michigan Survey Research Center’s 
+index of consumer sentiment moved up again in January after having posted a 
+series of modest increases since mid-September, and the Conference Board’s 
+index of consumer confidence popped up in December, interrupting a string of 
+declines.  Although assessments of current conditions remain relatively 
+pessimistic, both surveys have shown continued improvements since late last 
+summer in consumers’ expectations about future conditions. 
+
+Housing Markets 
+The pace of homebuilding eased slightly last quarter.  Although single-family 
+starts are estimated to have moved up in December to an annual rate of 
+1.29 million units, the average pace of starts for the fourth quarter as a whole 
+was down about 6 percent (annual rate) from the third-quarter pace.  Meanwhile, 
+multifamily starts were down sharply in December from November’s elevated 
+level, leaving the fourth-quarter pace little changed from that of the third.  The 
+available building-permits data—which are typically less erratic than the starts 
+data—painted a slightly softer picture of single-family activity but a somewhat 
+stronger one of the multifamily sector. 
+
+The underlying trajectory of starts has been obscured by the fallout from the 
+terrorist attacks—which likely restrained building in October—and 
+unseasonably warm and dry weather—which likely boosted activity in 
+November and December.  The exact contributions of these events are 
+uncertain, but it is clear that low mortgage rates helped keep the housing market 
+relatively strong through the end of the year despite the weakening job market. 
+
+Although the pace of starts was well maintained in 2001, the average nominal 
+cost of newly started homes decelerated sharply over the year, contributing to a 
+deceleration in the overall pace of both nominal and real residential investment. 
+In particular, industry anecdotes suggest that at least part of the deceleration in 
+
+II-16
+
+II-17
+
+II-18
+
+II-19
+
+
+the cost per single-family start owes to a shift away from construction of high-
+end homes.7 
+
+New and existing home sales remained brisk through November.  Although the 
+terrorist attacks shook the confidence of both buyers and realtors, the effects 
+were fleeting, with sales rebounding in October and November to their pre-
+September levels.  Mortgage rates backed up somewhat in December, but they 
+have since turned down again, retracing all of the December rise.  Indeed, the 
+Mortgage Bankers Association reported that mortgage applications for a home 
+purchase reached an all-time high in the week ended January 18.  In addition, 
+respondents to the Michigan Survey continue to perceive homebuying 
+conditions as relatively favorable in January. 
+
+Business Fixed Investment 
+
+Equipment and software.  Although the data are still incomplete, real 
+expenditures on equipment and software appear to have leveled off in the 
+fourth quarter, following substantial declines in both the second and third 
+quarters.  Some of the improvement is attributable to a sizable bounceback in 
+business purchases of motor vehicles.  Even excluding this erratic sector, 
+however, declines in equipment spending seem to have been less pronounced, 
+despite falling business output and weak corporate cash flow. 
+
+Business spending on high-tech equipment and software looks to have 
+registered a small gain in the fourth quarter—a marked turnaround from the 
+steep drops posted in the second and third quarters.  In November, the latest 
+month for which we have data, nominal shipments of computers and related 
+products rose 2.2 percent (not at an annual rate), leaving the average pace for 
+the October-November period 1.2 percent above that for the third quarter. 
+Taking into account the ongoing steep declines in prices, real computer 
+expenditures likely rose at a double-digit annual rate last quarter.  In contrast, 
+declines in expenditures on communications equipment show no signs of 
+abating.  Shipments fell again in November, the eighth consecutive month of 
+decrease, and although orders were flat in November, the three-month moving 
+average was down 3.5 percent, setting the stage for continued softness in this 
+category. 
+
+At this point, we estimate that business expenditures on aircraft were little 
+changed in the fourth quarter.  Boeing and Airbus reportedly delivered 
+
+7. The Census Bureau estimates the cost per start using new home prices for homes built for 
+
+sale, contract prices for homes built for the owner, and an adjustment factor for the cost of land 
+and land development. 
+
+II-20
+
+II-21
+
+II-22
+
+II-23
+
+
+101 planes to domestic airlines last quarter, similar to the number of deliveries 
+in the previous quarter.  However, most of the planes delivered last quarter 
+were ordered in 2000.  Orders have fallen sharply since mid-2001, and given 
+the long lags between orders and deliveries, shipments of aircraft are likely to 
+be down substantially this year. 
+
+Outside of the high-tech and transportation sectors, nominal shipments fell 
+2.3 percent in November, and the October-November average was 2.7 percent 
+(not at an annual rate) below the third-quarter pace.  Orders, however, rose 
+3.7 percent in November, led by sizable increases in bookings of new 
+machinery, electrical equipment, ships and boats, and furniture.  The three-
+month moving average of orders fell less rapidly in November than in earlier 
+months, perhaps signaling smaller spending declines in coming months. 
+
+Nonresidential construction.  The incoming data point to another large decline 
+in real spending on private nonresidential construction in the fourth quarter, 
+November and December’s favorable weather notwithstanding.8  In particular, 
+real outlays for private nonresidential buildings fell, on net, over the first two 
+months of the fourth quarter, leaving the level of spending in November down at 
+an annual rate of 14-1/4 percent from the third-quarter average.  By sector, 
+spending has fallen precipitously in the industrial building category, reflecting 
+low capacity-utilization rates and rising vacancies.  For office buildings, for 
+which vacancy rates also moved up further in the fourth quarter, the level of 
+construction in November was about 8 percent at an annual rate below the third-
+quarter average.  In contrast, spending for other commercial construction— 
+which includes retail, wholesale, and warehouse space—was down only about 
+2 percent in November from the third quarter. 
+
+Real spending on new drilling and mining structures declined at an annual rate 
+of 5.3 percent in the third quarter, and given the decline in November and 
+December in the number of oil and gas drilling rigs in operation, another drop 
+seems to have ensued in the fourth quarter. 
+
+Inventories 
+The book value of manufacturing and trade inventories (excluding motor 
+vehicles) fell at an annual rate of $99.9 billion in November following a 
+$92.0 billion liquidation in October.  The average runoff for the two months was 
+
+8. The level of spending in the third quarter was boosted by the lease in July of the World 
+
+Trade Center by the Port Authority to the private sector.  The Bureau of Economic Analysis 
+(BEA) treated the transaction as a purchase, raising the level of private nonresidential 
+construction spending in the third quarter by $10.7 billion.  Reported spending growth in the 
+fourth quarter will be restrained by an offsetting amount.  These accounting effects are exactly 
+offset in the state and local government sector; total GDP is unaffected. 
+
+II-24
+
+II-25
+
+II-26
+
+
+nearly $30 billion greater than the pace of reduction during the third quarter and 
+the fastest since the beginning of the series in the mid-1960s. 
+
+In manufacturing, the pace of liquidation has been hefty since spring, but 
+inventory-sales ratios have remained stubbornly high.  The ratios of inventories 
+to shipments were still elevated in November at manufacturers of metals, 
+minerals, lumber, furniture, computers and electronics products, machinery, and 
+electrical goods, although in all but the last two of these categories, stock-sales 
+ratios are down from their earlier peaks.  For manufacturing as a whole, the ratio 
+appears to have declined somewhat in the first two months of the fourth quarter 
+after having spiked in September. 
+
+The pace of liquidation at wholesalers appears to have steepened in recent 
+months.  The book value of distributors’ inventories (excluding motor vehicles) 
+fell at an average pace of $37.3 billion in the October-November period, about 
+twice the third-quarter rate of reduction.  As a consequence, the ratio of 
+wholesalers’ stocks to sales has diminished.  Nonetheless, distributors in several 
+sectors—such as furniture, hardware, machinery, paper, drugs, and chemicals— 
+still appear to have a worrisome level of inventories relative to sales. 
+
+The book value of retail inventories (excluding stocks held by auto dealers) 
+
+fell at an annual rate of $20.5 billion in November after having declined 
+$6.3 billion in October.  The average decrease for the two months, 
+$13.4 billion, was steeper than the small liquidation posted in the third quarter. 
+Despite fairly weak nominal sales, the inventory-sales ratio edged down 
+further in November and appeared to be at a fairly comfortable level. 
+
+Government Expenditures 
+
+Federal sector.  The budget position of the federal government continues to 
+deteriorate.  According to the Monthly Treasury Statements, the federal budget 
+deficit for the November-December period totaled $28 billion, compared with a 
+$9 billion surplus for the same period last year. 
+
+The less-favorable budget outcome owes primarily to declines in revenue, 
+although a strong increase in government outlays has also been a factor.  On the 
+revenue side, receipts during the November-December period fell 5.2 percent 
+relative to a year earlier.  Net corporate receipts continued their recent decline, 
+falling 33 percent.  Individual tax receipts rose 1.5 percent, reflecting in part an 
+extra Monday, a key day for payroll processing, in December.  According to the 
+Daily Treasury Statements, non-withheld income tax receipts for January 2002 
+are similar to those of last January. 
+
+II-27
+
+II-28
+
+
+II-29
+
+
+On the spending side, after adjusting for routine payment-timing shifts, outlays 
+in the November-December period rose 6 percent over last year.  National 
+defense outlays rose 8.3 percent, in part because of U.S. military activity in 
+Afghanistan.  Health-related spending also rose rapidly, with increases of 
+9 percent for Medicare and 17.8 percent for Medicaid.  In contrast, net interest 
+payments have continued to fall, a result of both lower short-term interest rates 
+and declines in the federal debt over the past year. 
+
+After having failed to reach agreement in December on an economic stimulus 
+package, Congress completed the appropriations process and adjourned.  These 
+appropriations bills, which President Bush has signed, provide $684 billion in 
+non-emergency budget authority for fiscal year 2002, up nearly 8 percent from 
+fiscal 2001.  The largest category, defense, is slated to rise more than 8 percent, 
+to $317 billion, in fiscal 2002.  In addition, Congress appropriated $20 billion in 
+emergency funds, the second half of the $40 billion supplemental appropriation 
+passed in September.  These funds are earmarked primarily for homeland 
+security initiatives and disaster-related assistance for New York. 
+
+The Congressional Budget Office has released a summary of “The Budget and 
+Economic Outlook:  Fiscal Years 2003-2012.”  The full report will be published 
+January 31.  The CBO now forecasts that in the absence of future legislation, the 
+federal government will run small unified deficits in fiscal years 2002 and 2003 
+before returning to surplus in fiscal 2004.  Over the coming decade (2002-11), 
+the CBO projects a unified surplus of $1.6 trillion, a significant downward 
+revision from the $5.6 trillion surplus projected in January 2001.  The $4 trillion 
+downward revision is attributed to legislative changes ($2.4 trillion), changes in 
+economic assumptions ($0.9 trillion), and technical factors ($0.7 trillion). 
+
+State and local governments.  Despite deteriorating budget positions, real 
+spending by state and local governments has been quite robust in recent months. 
+Employment rose 55,000 in December, bringing the monthly average during the 
+fourth quarter to 35,000, and real construction outlays jumped more than 
+6 percent at a monthly rate in November following an even stronger surge the 
+month before.  The strong construction activity in November, which was 
+widespread across all major components, was probably facilitated by the 
+unusually warm and dry weather. 
+
+Most state legislatures begin their new sessions in January, and many states that 
+have not yet acted will be forced to deal with projected gaps in their general 
+fund budgets.  It appears that a variety of strategies will be adopted, including 
+budget cuts, transfers from rainy-day funds and funds backed by tobacco-
+settlement money, greater-than-expected use of tax-exempt debt offerings, and 
+some tax and fee increases.  Major sources of budget pressures include 
+heightened security, greater expenditures for Medicaid, and increased pension-
+
+II-30
+
+II-31
+
+
+funding requirements resulting from poor equity market performance.  Adding 
+to fiscal concern is the fact that welfare rolls in many states have begun to 
+increase again after having dropped substantially during the 1990s.  Official 
+statistics from the Department of Health and Human Services, available only 
+through June of last year, indicate that the number of families on welfare rose in 
+twenty-one states.  Many of these states are in the Midwest and Southeast, the 
+same regions for which a slowing in tax receipts was first apparent last winter 
+and spring.  Indications are that more states experienced growing welfare rolls 
+as the economic weakness spread last year. 
+
+Prices and Labor Costs 
+
+Prices.  Inflation dropped back at year-end, reflecting widespread discounting 
+and a further decline in energy prices.  With the plunge in energy prices in 
+recent months, the twelve-month change in the consumer price index slowed to 
+1.6 percent in 2001, a considerably smaller rise than the 3.4 percent increase in 
+2000.  The core CPI rose 2.7 percent over the twelve months of 2001, a bit 
+higher than the rate for 2000.  By contrast, the core PCE price index appears to 
+have risen only about 1.6 percent last year (official estimates available 
+January 31), down from 1.9 percent in 2000.  In December, the overall CPI fell 
+0.2 percent, led by another drop in gasoline prices, while the core CPI edged up 
+0.1 percent after jumping 0.4 percent in November. 
+
+Consumer energy prices dropped 3.2 percent last month following even larger 
+declines in the previous two months.  The prices of both motor fuel and 
+heating oil fell about 6 percent in December.  However, survey data suggest 
+that retail prices of gasoline turned up in early January.  Elsewhere, the index 
+for natural gas declined 2.1 percent last month, nearly offsetting November’s 
+rise, and electricity rates decreased for the fifth consecutive month.  For the 
+year as a whole, overall consumer energy prices fell 13 percent, compared 
+with a rise of more than 14 percent over 2000.  Among components, prices of 
+petroleum-based products plunged last year, and natural gas prices dropped 
+considerably but did not entirely reverse their run-up in 2000; only electricity 
+rates increased on balance last year, reflecting higher coal input costs and tight 
+generating capacity in the western region. 
+
+Consumer food prices edged down 0.1 percent in December, the same as in 
+November.  Prices of fresh fruits and vegetables dropped sharply, while 
+moderate price declines were posted for many other categories of food at 
+home, reflecting in part the pass-through of the sharp declines in farm prices 
+last fall to the retail level.  The index for food away from home edged up 
+slightly in December for the second month following large increases earlier in 
+
+II-32
+
+II-33
+
+
+the year.  Over the twelve months of 2001, the overall index for food increased 
+2.8 percent, the same as in 2000. 
+
+The index for commodities other than food and energy fell 0.3 percent in 
+December, continuing the see-saw movements brought about by large monthly 
+swings in tobacco prices.  Over the twelve months of 2001, core goods prices 
+moved down 0.3 percent, the largest twelve-month decline in core goods 
+prices in forty years; excluding tobacco, core goods prices edged down in 
+December and declined 3/4 percent last year.  Although discounting of goods 
+was fairly extensive last month, prices for new motor vehicles increased for 
+the third consecutive month and used vehicle prices turned up after having 
+fallen for eight months.  As a result, increases in new vehicle prices in the last 
+three months of 2001 offset nearly all of the decline posted during the first 
+nine months.9 
+
+The CPI for non-energy services rose 0.3 percent last month following 
+November’s 0.5 percent increase.  This index has accelerated considerably over 
+the past two years; indeed, the twelve-month change in 2001—at 4 percent— 
+was the largest increase in eight years.  Owner's equivalent rent and renter’s rent 
+rose another 0.4 percent in December; during 2001, these indexes were up 
+4-1/2 percent and 4-3/4 percent, respectively, a marked pickup from their pace 
+in 2000.  The index for lodging away from home also increased last month, but 
+it remained slightly lower than its year-earlier level.  Elsewhere, airfares 
+declined further in December and are nearly 4 percent lower than a year ago, 
+while prices of medical services edged up 0.1 percent last month after having 
+increased rapidly in the previous two months. 
+
+In contrast to the CPI, changes in core PCE prices slowed last year because, 
+unlike the CPI, PCE prices for non-energy services did not accelerate.  As a 
+result, the gap between twelve-month changes in the core CPI and core PCE 
+prices rose to 1.1 percentage points in 2001, from 0.7 percentage point in 2000. 
+About half of this larger gap reflects the inclusion in PCE services of a number 
+of non-market transactions, whose prices have decelerated markedly over the 
+past year.  Much of the remainder reflects differences in weights—particularly 
+for housing, which is more heavily weighted in the CPI and has accelerated 
+sharply.  In addition, PCE prices for medical services, which are based on 
+
+9. Although we cannot assign weights to the various factors affecting motor vehicle prices, 
+some of the recent increases reflect the shift in the mix of the CPI sample toward 2002 models, 
+which are less heavily discounted than 2001 models. Another factor is that the CPI may not fully 
+capture the value of financing incentives, which have been large in recent months.  Financing 
+incentives are reflected in the CPI only to the extent that these deals include an option for cash 
+rebates.  While many of the recent incentive programs have also offered cash back, the cash 
+rebates have not always been as generous as the financing incentives. 
+
+II-34
+
+II-35
+
+II-36
+
+II-37
+
+
+producer prices indexes (PPIs), have not moved up as quickly as the CPI for 
+medical services in recent years. 
+
+Prices for capital goods as measured by the producer price index edged down in 
+December and decelerated sharply in the last three months of the year, largely 
+because of sizable declines in producer prices of motor vehicles.  Prices of many 
+other capital goods have also softened in recent months.  The pace of computer 
+price declines has eased a bit in recent months from the very rapid clip of 
+summer.  Still, over the twelve months of 2001, the PPI for computers dropped a 
+record 31 percent, more than twice the rate of decline in 2000. 
+
+At earlier stages of processing, the producer price index for core intermediate 
+materials declined another 0.2 percent in December.  Over the past twelve 
+months, this index fell 1.6 percent, a marked reversal of the 1.6 percent rise 
+recorded during 2000.  Meanwhile, the PPI for core crude materials dropped 
+nearly 10 percent over the past year.  Since the last Greenbook, metal 
+prices—particularly those for steel scrap—have turned up, but indexes of 
+industrial materials prices (such as the Journal of Commerce and Commodity 
+Research Bureau commodity price indexes) have remained unchanged or 
+declined somewhat further. 
+
+Near-term inflation expectations from the preliminary Michigan survey moved 
+up somewhat in December and January after plunging in October and 
+November.  The median expectation for inflation over the coming year rose to 
+1.9 percent in January but remained well below the median recorded in 
+September.  The mean of these expectations also moved above its October level 
+but remained below September’s response.  The median expectation of inflation 
+over a five- to ten-year horizon increased in December but fell to 2.6 percent in 
+January, its lowest level ever. 
+
+Labor costs.  Average hourly earnings of production or nonsupervisory workers 
+on private payrolls rose 0.5 percent in both November and December after 
+having increased only 0.1 percent in October.  These recent increases brought 
+the twelve-month change in average hourly earnings to 4.1 percent in 
+December, down only slightly from the change in 2000.  Wage increases in the 
+construction and trade sectors slowed considerably last year, but the slowing 
+was mostly offset by faster wage growth in other industries. 
+
+In contrast to average hourly earnings, compensation per hour in the nonfarm 
+business sector decelerated considerably last year.  Indeed, the BEA reported 
+that third-quarter compensation per hour increased at a slower pace than average 
+hourly earnings for the first time in more than two years, and, on the basis of 
+October and November data on wages and salaries, we estimate that the rise in 
+nonfarm compensation per hour will be considerably smaller than the rise in 
+
+II-38
+
+II-39
+
+
+average hourly earnings in the fourth quarter as well.  Differences between these 
+measures of labor costs may reflect the exclusion from average hourly earnings 
+of white collar pay and non-wage benefits, such as health insurance, as well as 
+various types of labor income, such as bonuses and stock option exercises. 
+Although employer surveys suggest that health insurance costs have continued 
+to rise more rapidly than wages, anecdotal reports suggest that bonuses and 
+stock option exercises have declined.  In particular, for some large high-tech 
+firms for which stock options are important, option exercises dropped 
+substantially over the year ended in the third quarter of 2001.10 
+
+10. In its construction of the wage and salary data in the national accounts, the BEA uses 
+
+state unemployment insurance (UI) records as its primary source, but because these records are 
+available only with a lag, the BEA uses information about average hourly earnings (AHE) to 
+estimate changes in the most recent quarters.  When the BEA saw the UI records for the second 
+quarter of 2001, reported earnings apparently were much lower than implied by the AHE data, 
+suggesting that changes in the types of labor income that are missing from average hourly 
+earnings might be holding down the change in overall compensation.  As a result, the BEA 
+reduced the adjustment factor it applies to average hourly earnings when putting together its 
+estimates of wages and salaries for the third and fourth quarters. 
+
+Domestic Financial
+Developments                         
+
+Domestic Financial Developments
+
+Overview
+Economic data releases over the intermeeting period tended to be on the positive
+side of expectations, but financial markets also had to absorb other more
+negative signals of future economic activity.  In particular, speeches by Federal
+Reserve officials that were interpreted as emphasizing the downside risks for the
+economy, along with fading odds of a fiscal stimulus package, contributed to a
+decline in yields on Treasury and investment-grade corporate bonds.  Moreover,
+disappointing corporate announcements regarding prospects for the year ahead
+kept equity prices in check and contributed to some widening of risk spreads on
+speculative-grade bonds.
+
+The fiscal position of the federal government moved into temporary surplus
+over the intermeeting period, facilitating a net paydown of Treasury debt.  In
+contrast, state and local governments tapped the credit markets in size, reflecting
+in part continued deterioration in fiscal positions at the state and local levels.  In
+the private sector, net debt issuance by nonfinancial corporations slowed, and
+according to the January Senior Loan Officer Opinion Survey, demand for bank
+loans by businesses continued to weaken.   Household borrowing apparently
+remained robust in December.
+
+Policy Expectations, Interest Rates, and Stock Prices
+The nearest-term fed funds futures quotes imply that investors attach about a 
+20 percent probability to a quarter-point rate cut at the upcoming FOMC
+meeting.  Looking beyond this meeting, futures quotes indicate that investors
+now expect somewhat less policy tightening over the coming year than they did
+at the time of the last FOMC meeting.  Uncertainty about the future path of
+policy implied by options on interest rate futures dropped appreciably over the
+period but remains elevated.
+
+Consistent with the downward revision in policy expectations, Treasury coupon
+yields fell 15 to 27 basis points over the intermeeting period.  The drop in
+Treasury yields was reportedly amplified somewhat by a sense that the odds had
+lengthened against the passage of a fiscal stimulus package.  In early January,
+dealers reported that liquidity had improved relative to the end of last year but
+remained depressed relative to levels prior to September 11.
+
+Yields on investment-grade corporate bonds fell in line with those on Treasuries
+over the intermeeting period, leaving risk spreads about unchanged.  In contrast,
+spreads for high-yield bonds rose after disappointing earnings news for some
+lower-rated firms, but they stayed well below their recent highs of September. 
+Risk spreads on commercial paper, while retracing their typical year-end runup,
+remained considerably above pre-September 11 levels.
+
+III-2
+
+III-3
+
+Equity prices posted modest gains in December, with investors reportedly
+encouraged by the positive tone to economic data.  But those gains were erased
+in January, in part as investors reacted to pessimistic news from a number of
+prominent corporations, especially in the technology sector, about expected
+sales and earnings over the coming year.  On net, the Nasdaq Composite fell
+more than 5 percent, while broad stock market indexes were down between 
+1 and 2 percent over the intermeeting period.
+
+Business Finance
+Overall, net debt financing by nonfinancial businesses moderated in December
+from the rapid pace set earlier in the fourth quarter, and the data so far in
+January suggest another month of subdued borrowing.  Gross issuance of
+investment-grade corporate bonds in December and January, while well below
+the extraordinary November pace, was still reasonably strong, with firms
+continuing to use bond proceeds to refinance long-term debt and to replace
+short-term debt.  High-yield firms in a number of industries also issued bonds,
+although new issues generally tended to be from corporations on the upper rungs
+of the speculative-grade ladder.
+
+Outstanding nonfinancial commercial paper rose on net in December and early
+January but was more than offset by a decline in C&I loans at commercial
+banks.  In the January Senior Loan Officer Survey, nearly half of the banks
+reported that, over the past three months, they continued to tighten their terms
+and conditions on C&I loans, mostly in response to the less favorable economic
+outlook.  Just over half of the banks reported weaker demand for C&I loans,
+down from three-fourths in the October survey.  Banks again cited reductions in
+capital spending, diminished M&A activity, and inventory liquidation as reasons
+for the weaker loan demand.
+
+Gross equity issuance continued at a brisk pace in December but has slackened
+since year-end.  Seasoned offerings in December were boosted by energy
+companies issuing shares in an attempt to reduce leverage after the Enron
+debacle prompted closer investor scrutiny of their books and downgrades by the
+major rating agencies.  So far in January, seasoned offerings have slowed as
+share prices have declined.  Initial public offerings picked up slightly over the
+intermeeting period, but remained at only about a third the rate in 1999 and
+2000.  Announcements of share repurchase programs slowed in the fourth
+quarter, and cash-financed mergers and acquisitions were also subdued,
+suggesting that actual equity retirements are likely to have fallen somewhat.
+
+S&P earnings in the fourth quarter appear to be bleak, consistent with analysts’
+expectations.  With about one-third of the companies reporting, S&P 500
+earnings are expected to drop about 20 percent from a year ago.  Revisions of
+analysts’ year-ahead forecasts of corporate earnings were generally small in 
+
+III-4
+
+III-5
+
+III-6
+
+III-7
+
+December and the first half of January, coming on the heels of the sizable
+negative revisions made in October and November.  Even with these downward
+revisions, analysts currently project a substantial recovery in earnings in 2002. 
+Given the current expectations, the ratio of year-ahead earnings to price remains
+low—only slightly above the real long-term AAA-rated bond yield—implying
+that stock valuations remain rich.
+
+The twelve-month trailing average of the rate of junk bond defaults rose to an
+all-time high in December, boosted by the $10 billion Enron failure.  The junk
+bond default rate is likely to remain elevated in January, owing to the default of
+K-Mart, the largest ever by a domestic retailer.  Ratings downgrades continued
+at a rapid rate in December, with telecom companies disproportionately
+represented, while very few upgrades were issued.  Despite these downgrades,
+an estimate of one-year ahead defaults as a percent of firm liabilities dropped
+further in December from its record high in October, reflecting higher firm
+valuations.
+
+Commercial Real Estate
+Commercial mortgage debt is estimated to have grown a bit less rapidly in the
+fourth quarter than in the third quarter.  Nevertheless, originations have been
+strong for some time, and CMBS issuance in the fourth quarter totaled $22
+billion, close to the record set in the second quarter of 1998.  The spread of BBB
+over AAA CMBS yields narrowed a few basis points over the intermeeting
+period, but remains somewhat elevated by historical standards. CMBS
+delinquency rates increased in December to their highest level since early 1997,
+perhaps reflecting the rise in office vacancy rates, which rose to nearly 
+14 percent in the fourth quarter. 
+
+Household Finance
+Interest rates on thirty-year fixed-rate mortgages continued to rise through mid-
+December from the low recorded in October, damping the elevated pace of
+refinancing activity.  In January, however, mortgage rates have retraced their
+increases last month, and refinancing activity again has ticked up.  Meanwhile,
+the MBA purchase index moved up to a record level over the intermeeting
+period.
+
+Residential mortgage growth in the fourth quarter is estimated to have
+moderated from its rapid third-quarter pace, while the growth in consumer credit
+turned up smartly, stimulated by aggressive auto incentives.  The considerable
+rise in debt, together with an unwinding of the boost to incomes from the tax
+rebate, pushed the estimated household debt service burden to 14-1/2 percent in
+the fourth quarter, close to its record high in 1986.
+
+III-8
+
+III-9
+
+III-10
+
+III-11
+
+The most recent readings on household debt-servicing problems have been
+somewhat mixed.  Although delinquency rates on auto loans at captive finance
+companies dropped slightly in October and November, delinquency rates on
+auto loans extended to nonprime borrowers remained on a sharp uptrend
+through November.  Delinquency rates on credit card pools edged up, on net, in
+October and November.  Personal bankruptcy rates—for which we have more
+timely data—moved down in December and January, but remain high by
+historical standards.  According to the January Senior Loan Officer Survey,
+about 20 percent of banks, on net, tightened their standards for credit card and
+other consumer loans, similar to the results from the October survey.
+
+The ratio of household assets to disposable income rose in the fourth quarter. 
+The rise reflects small gains in the equity market as well as the reduction in
+disposable income from the unwinding of the third-quarter tax rebate.  Flows
+into equity and bond mutual funds slowed late in the fourth quarter, as the
+equity market stalled and rising rates reduced bond fund returns.  So far in
+January, flows into mutual funds appear to have strengthened somewhat. 
+Capital gains paid on long-term mutual funds totaled an estimated $73 billion in
+2001, a sharp decline from previous years.
+
+Government and Agency Finance
+Somewhat stronger-than-expected tax receipts in December and January pushed
+the Treasury’s budget position back into surplus over the intermeeting period. 
+As a result, the Treasury paid down marketable debt over the period, with most
+of the adjustment concentrated at the shortest maturities.  The influx of cash
+pushed the Treasury’s balances held at commercial banks up to the capacity of
+the Treasury Tax and Loan System in late January.  In order to improve its
+ability to manage its cash flows the Treasury is finalizing the details of a
+program that it intends to implement in early April, in which it will offer term
+deposits at auction to depository institutions.1
+
+Freddie Mac and Fannie Mae issued revised 2002 calendars for benchmark debt
+issuance.  Both agencies have scaled back their planned issuance of thirty-year
+bonds relative to recent years.  This development reportedly reflects their desire
+to better manage the duration of their liabilities.  The GSE’s pullback from
+thirty-year bond issuance in recent months seems to have affected market
+liquidity.  Despite the Treasury’s cancellation of the long bond—which might
+have been expected to strengthen the demand for long-term agency debt—yields 
+
+1. Currently, the Treasury’s balances at depository institutions are held mostly in demand
+accounts bearing an interest rate set at 25 basis points below the effective federal funds rate.  It is
+expected that the new time deposits offered by the Treasury under this program will be attractive
+to banks and give the Treasury more flexibility in managing its cash flows around tax payment
+dates.
+
+III-12
+
+III-13
+
+on thirty-year agency debt are greater than comparable swap rates, contrary to
+the patterns for shorter maturities.
+
+Gross issuance of long-term debt by state and local governments, both for new
+capital and refundings, totaled a hefty $28 billion in December, down a bit from
+the very rapid pace in November.  Partial data for January suggest some further
+slowing.  Muni yields declined over the intermeeting period, but by less than
+Treasuries, reflecting perhaps the large supply of recently issued debt, and
+perceptions of more supply to come as states rely more on bond financing for
+capital projects.  The credit quality of many state and local governments has
+begun to erode as economic activity has weakened and tax receipts have
+flagged.
+
+Money and Bank Credit
+In December, M2 grew just under 9 percent at an annual rate, down from its
+pace in November, and below the average growth rate for 2001 as a whole.2
+While the weaker economy likely exerted a drag on M2 growth, other
+factors—including overseas demand for currency, an earlier surge in mortgage
+refinancing, and continued stimulus from past policy easings—boosted its
+growth.
+
+Currency grew rapidly as the crisis in Argentina and continued demand from
+Russia generated noteworthy overseas shipments.  Liquid deposits remained
+strong in December, continuing to grow at a 20 percent annual rate.  The peak in
+mortgage refinancings in mid-November likely contributed significantly to the
+December growth in liquid deposits, as normal delays in the disbursement of
+funds from refinanced mortgages underlying mortgage-backed securities caused
+a swelling in demand deposit escrow accounts.  
+
+In contrast, growth of retail money funds slowed in December, as money fund
+yield spreads over bank deposit rates narrowed.  Small time deposits continued
+to contract at a fairly rapid pace; low interest rates make these types of deposits
+especially unattractive, given their relatively low liquidity.  Data for the first
+week of January suggest some further slowing in M2, but it is too early to tell
+how the month as a whole will shape up.
+
+The rate of expansion of the non-M2 component of M3 slowed significantly in
+December.  Institution-only money funds grew less rapidly, and large time
+deposits continued to shrink.
+
+2. These data incorporate the effects of the annual seasonal review and are confidential until
+
+their release that is scheduled for January 31.
+
+III-14
+
+III-15
+
+Bank credit growth slowed in December, falling to 2-3/4 percent at an annual
+rate.  Total loans contracted at a 4-3/4 percent pace, pulled down by another
+sharp reduction in business loans.  The runoff in business loans and commercial
+paper last year was accompanied by a decline in inventories.  Changes in short-
+term credit and changes in inventories have moved together over the past
+decade, suggesting that the continued contraction in short-term credit in
+December and early January signals that businesses were still liquidating
+inventories.
+
+Incoming reports for large bank holding companies show that fourth-quarter
+earnings fell from levels a year ago, but only a few firms have reported
+losses—in particular, those with heavy exposure to Enron and Argentina.  More
+broadly, higher net interest income was offset by higher loan loss provisions.
+
+III-16
+
+International Developments
+
+ 
+International Developments
+
+U.S.  International Transactions
+
+Trade in Goods and Services
+In November, the U.S. trade deficit in goods and services was $27.9 billion,
+down $1.4 billion from October (revised).  For October and November
+combined, the trade deficit was $343 billion at an annual rate, up $35 billion
+from the third quarter.  Excluding September’s one-time insurance payment
+related to the events of September 11, the trade deficit in October-November
+decreased about $10 billion at an annual rate from the third quarter.
+
+Net Trade in Goods and Services
+(Billions of dollars, seasonally adjusted)
+
+2000
+
+Annual rate
+2001
+Q3
+
+Q2
+
+Q4e
+
+Sept.
+
+Monthly rate
+2001
+Oct.
+
+Nov.
+
+-399.1
+
+-406.7
+
+-411.0
+
+n.a.
+
+...
+
+...
+
+...
+
+-375.7
+-452.2
+76.5
+
+-362.2
+-430.6
+68.5
+
+-308.8
+-421.8
+113.0
+
+-343.3
+-414.1
+70.8
+
+-19.0
+-35.5
+16.5
+
+-29.3
+-35.0
+5.7
+
+-27.9
+-34.0
+6.1
+
+Real NIPA1
+Net exports of G&S
+
+Nominal BOP
+Net exports of G&S
+
+Goods, net
+Services, net
+
+1.  Billions of chained (1996) dollars.
+e.  BOP data are two months at an annual rate.
+Source:  U.S. Department of Commerce, Bureaus of Economic Analysis and Census.
+n.a.  Not available.  ...  Not applicable.
+
+The value of exported goods and services rose 0.7 percent in November
+following a 1.1 percent increase in October, but remained 6 percent below the
+average level in July and August.  The rise in exports in November was driven
+by a 4½ percent increase in services receipts, which more than offset a ¾ percent
+drop in goods exports.  A partial recovery of receipts in travel and passenger
+fares from the lows of September and October accounted for the increase in
+services exports, though receipts in these two categories, taken together,
+remained 25 percent below their July-August average.  The value of goods
+exports declined in most categories of trade in November, with the exception of
+machinery, which rose.  For October and November on average, goods exports
+were down 2¾ percent from the third quarter, with declines recorded in all major
+categories of trade except agricultural products.
+
+The value of imported goods and services decreased 0.8 percent in November
+and was 5½ percent below the average level in July and August.  Excluding the
+large drop in the value of imported oil (owing primarily to a lower price, but 
+
+ 
+IV-2
+
+U.S. International Trade in Goods and Services
+
+Net Exports
+
+Bil$, s.a.a.r.
+
+Nominal
+BOP basis
+
+Real
+NIPA basis
+(1996$)
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+ Selected Exports
+
+Bil$, s.a.a.r.
+
+Machinery 2/
+
+Industrial
+supplies 1/
+
+Consumer goods
+
+Aircraft
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+1.  Excludes agriculture and gold.
+2.  Excludes computers and semiconductors.
+
+0
+
+-50
+
+-100
+
+-150
+
+-200
+
+-250
+
+-300
+
+-350
+
+-400
+
+-450
+
+220
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+Contribution of Net Exports to Real GDP Growth
+Percentage points, s.a.a.r.
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+Net trade in computers
+and semiconductors
+
+Bil$, s.a.a.r.
+
+Net automotive trade
+with Canada and Mexico
+
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+
+20
+
+0
+
+-20
+
+-40
+
+-60
+
+     Selected Imports
+310
+
+Bil$, s.a.a.r.     
+290
+
+290
+
+270
+
+250
+
+230
+
+210
+
+190
+
+170
+
+150
+
+130
+
+110
+
+90
+
+70
+
+Consumer goods
+
+Industrial
+supplies 1/
+
+Machinery 2/
+
+Automotive 3/
+  (overseas)
+
+1994
+
+1996
+1.  Excludes oil and gold.
+2.  Excludes computers and semiconductors.
+3.  Excludes Canada and Mexico.
+
+1998
+
+2000
+
+270
+
+250
+
+230
+
+210
+
+190
+
+170
+
+150
+
+130
+
+110
+
+90
+
+70
+
+50
+
+2002
+
+IV-3
+
+U.S. Exports and Imports of Goods and Services
+(Billions of dollars, s.a.a.r., BOP basis)
+
+Levels
+
+Amount Change1
+
+2001
+
+Exports of G&S
+
+Goods exports
+
+Gold
+Other goods
+
+Aircraft & parts
+Computers
+Semiconductors
+Other capital gds
+
+Automotive
+to Canada
+to Mexico
+to ROW
+
+Agricultural
+Ind supplies (ex. ag)
+Consumer goods
+All other goods
+
+Q3
+973.7
+
+695.3
+2.4
+692.9
+
+53.1
+44.5
+38.9
+168.4
+
+77.4
+40.3
+15.6
+21.5
+
+54.9
+140.4
+86.0
+29.2
+
+2001
+
+Q4e
+-38.7
+
+Q4e
+935.1
+
+676.8
+2.7
+674.1
+
+52.4
+41.8
+38.7
+159.4
+
+75.2
+39.0
+18.3
+17.8
+
+57.6
+136.4
+84.7
+28.0
+
+2001
+
+Oct.
+931.7
+
+Nov.
+938.4
+
+679.1
+2.5
+676.6
+
+54.0
+42.3
+38.7
+156.6
+
+75.5
+38.5
+19.2
+17.8
+
+57.5
+138.3
+85.4
+28.2
+
+674.6
+3.0
+671.6
+
+50.8
+41.3
+38.6
+162.2
+
+74.8
+39.5
+17.5
+17.8
+
+57.7
+134.5
+83.9
+27.7
+
+Q3
+-63.5
+
+-48.2
+-5.2
+-43.0
+
+-2.0
+-4.1
+-7.5
+-14.2
+
+1.1
+-2.0
+-0.3
+3.3
+
+1.0
+-7.2
+-7.6
+-2.5
+
+2001
+
+Oct.
+
+10.4
+
+11.9
+0.9
+11.0
+
+3.0
+-0.3
+1.7
+-2.8
+
+-1.8
+-0.1
+2.7
+-4.4
+
+4.8
+2.8
+2.8
+5.1
+
+Nov.
+6.8
+
+-4.5
+0.5
+-5.0
+
+-3.2
+-1.0
+-0.2
+5.6
+
+-0.7
+1.0
+-1.7
+0.1
+
+0.2
+-3.8
+-1.5
+-0.5
+
+-18.4
+0.4
+36.1
+
+-0.7
+-2.7
+-0.3
+-9.0
+
+-2.2
+-1.3
+2.7
+-3.7
+
+2.7
+-4.0
+-1.4
+-1.3
+
+Services exports
+
+278.5
+
+258.2
+
+252.6
+
+263.9
+
+-15.3
+
+-20.2
+
+-1.5
+
+11.3
+
+Imports of G&S
+
+1282.5 1278.3 1283.6 1273.1 -116.9
+
+-4.2
+
+134.1
+
+-10.5
+
+Goods imports
+Petroleum
+Gold
+Other goods
+
+Aircraft & parts
+Computers
+Semiconductors
+Other capital gds
+
+Automotive
+
+from Canada
+from Mexico
+from ROW
+
+Ind supplies
+Consumer goods
+Foods, feeds, bev.
+All other goods
+
+1117.0 1090.9 1099.6 1082.2
+78.5
+2.8
+1012.2 1001.3 1001.8 1000.9
+
+102.7
+2.2
+
+95.0
+2.9
+
+86.7
+2.9
+
+-57.0
+-11.6
+-4.3
+-41.2
+
+-26.1
+-16.0
+0.7
+-10.8
+
+30.7
+67.9
+24.7
+154.0
+
+192.0
+59.0
+40.2
+92.8
+
+164.5
+279.9
+48.0
+50.4
+
+32.0
+68.7
+23.5
+150.2
+
+189.8
+55.4
+42.3
+92.0
+
+155.4
+282.2
+47.9
+51.5
+
+31.5
+69.4
+23.2
+150.6
+
+188.7
+54.2
+43.7
+90.7
+
+157.1
+281.9
+47.9
+51.4
+
+32.5
+68.0
+23.8
+149.9
+
+190.9
+56.7
+40.9
+93.3
+
+153.7
+282.5
+48.0
+51.6
+
+-0.3
+-7.9
+-6.1
+-8.0
+
+0.8
+-2.0
+-0.9
+3.7
+
+-12.7
+-6.4
+2.2
+-2.6
+
+1.3
+0.8
+-1.2
+-3.8
+
+-2.2
+-3.6
+2.1
+-0.8
+
+-9.1
+2.3
+-0.0
+1.1
+
+6.1
+-7.7
+0.6
+13.1
+
+4.7
+5.8
+-1.9
+-1.3
+
+1.5
+-0.7
+3.4
+-1.2
+
+-0.1
+2.7
+-0.0
+1.9
+
+Services imports
+
+165.5
+
+187.4
+
+184.0
+
+190.9
+
+-59.8
+
+21.9
+
+128.0
+
+-17.4
+-16.5
+-0.1
+-0.8
+
+1.0
+-1.4
+0.6
+-0.7
+
+2.2
+2.4
+-2.8
+2.5
+
+-3.4
+0.6
+0.0
+0.2
+
+6.9
+
+Memo:
+Oil quantity (mb/d)
+Oil import price ($/bbl)
+
+11.96
+23.52
+
+12.26
+19.33
+
+12.59
+20.64
+
+11.93
+18.01
+
+-0.96
+-0.70
+
+0.31
+-4.20
+
+0.94
+-3.46
+
+-0.66
+-2.63
+
+1.  Change from previous quarter or month.     e.  Average of two months.
+Source:  U.S. Department of Commerce, Bureaus of Economic Analysis and Census.
+
+IV-4
+
+Prices of U.S. Imports and Exports
+(Percentage change from previous period)
+
+Annual rates
+2001
+Q3
+
+Q2
+
+Q4
+
+Monthly rates
+2001
+Nov.
+
+Oct.
+
+Dec.
+
+    ------------- BLS prices (1995 weights)-------------
+                                                                                                                              -0.9
+                                                                                                                              -6.3
+                                                                                                                              -0.3
+
+Merchandise imports
+                                                                                                                          -1.4
+                                                                                                            -2.3
+                                                                                            -13.4
+                                                                                -7.3
+                                                                 -6.9
+                                                               -10.9
+                                                                                                                        -11.4
+                                                                                                          -15.3
+                                                                                            -64.0
+                                                                              -12.3
+                                                                                                                          -0.2
+                                                                                                            -0.6
+                                                                                              -4.0
+                                                                                -6.3
+                                                                 -6.4
+
+Oil
+Non-oil
+
+Core goods*
+
+                                                                                                                          -0.3
+                                                                                                            -0.5
+                                                                                              -3.8
+                                                                                -6.2
+                                                                 -6.1
+                                                                 -0.6
+                                                                                                                          -0.2
+                                                                                                             0.2
+                                                                                              -0.1
+                                                                                -1.3
+                                                                 -1.0
+                                                                                                                          -0.1
+                                                                                                             0.2
+                                                                                               1.3
+                                                                                -0.5
+                                                                 -1.2
+                                                                                                                          -0.1
+                                                                                                            -0.2
+                                                                                              -1.5
+                                                                                -1.1
+                                                                 -8.8
+                                                                                                                            0.6
+                                                                                                            -0.6
+                                                                                               0.0
+                                                                                -7.1
+                                                                                                                          -0.8
+                                                                                                            -2.3
+                                                                                            -14.8
+                                                                              -21.1
+                                                               -18.1
+
+                                                                                                                              -0.3
+                                                                                                                              -0.3
+Cap. goods ex comp & semi
+Automotive products
+                                                                                                                               0.1
+Consumer goods
+                                                                                                                              -0.1
+Foods, feeds, beverages
+                                                                                                                              -0.7
+                                                                                                                              -0.9
+Industrial supplies ex oil
+
+                                                               -12.6
+                                                                                                                            0.0
+                                                                                                            -1.5
+                                                                                            -12.5
+                                                                              -13.5
+                                                                                                                            0.0
+                                                                                                             0.2
+                                                                                              -0.6
+                                                                                -1.1
+                                                                 -6.2
+
+                                                                                                                              -0.4
+                                                                                                                               0.0
+
+Computers
+Semiconductors
+
+                                                                                                                          -0.4
+Merchandise exports
+                                                                                                            -0.7
+                                                                                              -4.3
+                                                                                -2.8
+                                                                 -2.1
+
+                                                                                                                              -0.2
+
+Core goods*
+
+                                                                 -1.7
+                                                                                                                          -0.4
+                                                                                                            -0.6
+                                                                                              -3.7
+                                                                                -2.1
+                                                                   1.3
+                                                                                                                            0.1
+                                                                                                             0.0
+                                                                                               0.0
+                                                                                -0.4
+                                                                                                                          -0.1
+                                                                                                             0.1
+                                                                                               0.1
+                                                                                 0.0
+                                                                   0.5
+                                                                 -1.0
+                                                                                                                            0.1
+                                                                                                            -0.1
+                                                                                               0.7
+                                                                                 0.7
+                                                                 -2.9
+                                                                                                                          -1.4
+                                                                                                            -1.7
+                                                                                              -8.5
+                                                                                 6.1
+                                                                                                                          -1.3
+                                                                                                            -1.6
+                                                                                            -10.9
+                                                                              -10.9
+                                                                 -6.3
+
+                                                                                                                              -0.2
+                                                                                                                               0.0
+Cap. goods ex comp & semi
+                                                                                                                               0.0
+Automotive products
+                                                                                                                               0.0
+Consumer goods
+Agricultural products
+                                                                                                                               1.1
+                                                                                                                              -1.2
+Industrial supples ex ag
+
+                                                                                                                          -0.6
+                                                                 -4.9
+                                                                                                             0.0
+                                                                                              -5.7
+                                                                                -8.1
+                                                                                                                            0.0
+                                                                 -7.1
+                                                                                                            -4.5
+                                                                                            -16.2
+                                                                                -7.0
+
+                                                                                                                              -1.9
+                                                                                                                               0.3
+
+Computers
+Semiconductors
+
+Chain price index
+                                                                 -6.0
+                                                                              -17.1
+                                                                                -6.7
+                                                                 -5.6
+                                                                                -6.2
+                                                                 -5.0
+
+     ---Prices in the NIPA accounts (1996 weights)---
+...
+...
+...
+
+Imports of goods & services
+Non-oil merchandise
+
+Core goods*
+
+n.a.
+n.a.
+n.a.
+
+...
+...
+...
+
+...
+...
+...
+
+Exports of goods & services
+
+Total merchandise
+Core goods*
+
+                                                                 -1.0
+                                                                                -1.7
+                                                                 -1.5
+                                                                                -2.2
+                                                                                -1.5
+                                                                 -1.0
+*/  Excludes computers and semiconductors.
+n.a.  Not available.    ...  Not applicable.
+
+n.a.
+n.a.
+n.a.
+
+...
+...
+...
+
+...
+...
+...
+
+...
+...
+...
+
+Oil Prices
+
+Dollars per barrel       
+40
+
+Spot West Texas Intermediate
+
+Import unit value
+
+  1992
+
+  1993
+
+  1994
+
+  1995
+
+  1996
+
+  1997
+
+  1998
+
+  1999
+
+  2000
+
+  2001
+
+  2002
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+IV-5
+
+also to a smaller quantity), goods imports declined only slightly.  A modest
+decrease in imports of industrial supplies was mostly offset by increased
+automotive imports (mainly parts).  Imports of capital goods and consumer
+goods were little changed.  Services imports increased 3.8 percent in November,
+resulting from a modest rebound in travel and passenger fares (receipts in these
+two categories remained 30 percent below the July-August average).  For
+October and November on average, non-oil goods imports fell 1 percent from
+the third quarter.  The largest decline occurred in industrial supplies, which was
+driven mainly by a drop in the value of imported natural gas. 
+
+Prices of Internationally Traded Goods
+Oil.  The BLS price of imported oil continued to fall in December, although not
+as sharply as in the two preceding months.  For the fourth quarter on average the
+price of imported oil was down more than 60 percent at an annual rate from the
+third quarter.  The spot price of West Texas Intermediate has recently been
+trading between $18 and $19 per barrel, down about $3 per barrel from early
+January, but about unchanged from early December.  Oil prices generally moved
+higher during December as OPEC and several non-OPEC producers worked out
+a production restraint arrangement, with OPEC agreeing to cut its production
+target 1.5 million barrels per day.  More recently, however, the spot price of WTI
+has retraced those gains as increases in U.S. crude oil inventories, along with
+doubts that OPEC will sharply cut production, have weighed on oil prices.
+
+Non-oil imports.  The price of imported non-oil (and core) goods fell again in
+December, the eleventh consecutive month of declining or unchanged prices. 
+Among major categories of core goods, the largest decline was in prices for
+industrial supplies and materials, particularly lumber and natural gas.  The price
+index for food also fell sharply in December, reversing the previous month’s
+increase.  The price indexes for imported capital equipment (other than
+computers and semiconductors) and consumer goods both fell slightly in
+December, while the price index for automotive products edged up.  For the
+fourth quarter on average, the price of core goods was down nearly 4 percent at
+an annual rate from the third quarter, somewhat less than the decline recorded in
+the second and third quarters.   The price decline over this period was again led
+by a decrease in the price of imported industrial supplies.  The price of consumer
+goods showed a small decline in the fourth quarter, whereas prices for capital
+goods excluding computers and semiconductors were little changed, and the
+price for automotive products rose slightly. 
+
+Exports.  Prices of U.S. goods exports (total and core) also fell again in
+December, although the decline was not as steep as in November.  The decrease
+in December was again led by sharp declines in prices of industrial supplies,
+particularly for exported fuels.  Prices in other major categories were unchanged,
+
+IV-6
+
+with the exception of the price index for agricultural products, which  largely
+reversed its November decline.  For the fourth quarter on average, the price of
+exported core goods fell nearly 4 percent at an annual rate from the third quarter,
+primarily reflecting declines in prices of industrial supplies and agricultural
+products.
+
+U.S. Current Account
+In the third quarter of 2001, the U.S. current account deficit narrowed, for the
+third consecutive quarter, to $380 billion at a seasonally adjusted annual rate. 
+The $50 billion decline largely resulted from the one-time recording of estimated
+foreign insurance payments related to the events of September 11, which
+reduced reported service imports by $44 billion.  The remaining decline of $6
+billion resulted from a non-insurance related decline in the trade deficit.
+
+The trade deficit narrowed as the world economic slowdown, along with
+transactions disruptions stemming from September 11, decreased exports less
+than imports.   Income on investments also reflected sagging global conditions,
+with declines in income receipts on U.S.-owned assets abroad (both portfolio
+and direct) slightly exceeding decreases in income payments on foreign-owned
+assets in the United States.   Unilateral transfer payments rose slightly, primarily
+due to an increase in private remittances and other private transfers.
+
+U.S. Current Account
+(Billions of dollars, seasonally adjusted annual rate)
+Investment 
+
+Goods and 
+services,     
+
+Other  
+income and 
+transfers, net
+
+Current 
+account 
+balance
+
+Period
+
+Annual
+1999
+2000
+
+Quarterly
+2000:Q4
+2001:Q1
+Q2
+Q3
+
+net
+
+-261.8
+-375.7
+
+-401.2
+-380.1
+-362.2
+-310.3
+
+income,      
+
+net
+
+-8.5
+-9.6
+
+7.9
+-14.6
+-14.6
+-14.9
+
+-54.0
+-59.3
+
+-72.0
+-52.4
+-53.5
+-54.7
+
+-324.4
+-444.7
+
+-465.3
+-447.1
+-430.3
+-379.9
+
+Change
+Q4-Q3
+Q1-Q4
+Q2-Q1
+Q3-Q2
+     Source:  U.S. Department of Commerce, Bureau of Economic Analysis.
+
+-14.6
+19.6
+-1.1
+-1.2
+
+-11.8
+21.1
+17.9
+51.8
+
+22.4
+-22.5
+0.0
+-0.2
+
+-4.1
+18.2
+16.8
+50.4
+
+IV-7
+
+U.S. International Financial Transactions
+Foreign private net purchases of U.S. securities set a record in October and
+remained at a high level in November, in sharp contrast to the unusually low
+level of net purchases recorded in September (line 4 of the Summary of U.S.
+International Transactions table).  Through November, foreign net purchases
+have already exceeded the record level set in 2000.  The pattern of foreign net
+purchases suggests some flight-to-quality after the events of September 11th.  
+Net purchases of Treasuries (line 4a) in October-November were the highest for
+any two-month period since November-December 1998.  Net purchases of
+agency securities (line 4b) were also strong, with record purchases in October,
+perhaps fueled in part by an unusually high level of new issuances by Fannie
+Mae and Freddie Mac.  Of note in October were large net purchases from Japan
+of both Treasury ($10 billion) and agency securities ($14 billion).  In November,
+most of the activity in Treasury securities was through the Caribbean financial
+centers.  Foreign net purchases of corporate debt (line 4c) continued strong and
+foreign net purchases of equities (line 4d) returned to their pre-September trend
+levels after net sales were recorded in September for the first time since
+September 1998.
+
+U.S. residents made modest net purchases of foreign securities in October-
+November (line 5) following large net sales in the third quarter, especially in
+September.  Purchases of foreign equities (line 5b) returned to approximately
+their pre-September levels in October, but were largely offset by net sales in
+November.  U.S. residents made small net purchases of foreign bonds in
+November following seven straight months of sales totaling $35 billion.
+
+Foreign official assets held in the United States (line 1) increased in both
+October and November.  Gains were recorded over the period for Japan ($12
+billion) and Venezuela ($5 billion) that exceeded a decline in Argentina’s
+holdings ($5 billion).  While increases in official Japanese holdings in the
+United States over the September-October period were significantly less than the
+reported size of the Japanese intervention late in the third quarter, published
+Japanese reserve data show an increase in foreign securities holdings on the
+order of the intervention, indicating a substantial amount of foreign securities
+were acquired from non-U.S. sources.  To the extent that private Japanese
+supplied these securities, part of the large inflow attributed to private Japanese 
+purchases of Treasuries and agencies could represent replenishment of their
+holdings.  (The U.S. reporting system will not capture the official/private
+transactions outside the United States and will thus overstate private holdings
+and understate official holdings.)  Partial data from FRBNY indicate that in
+December foreign official assets decreased by $2 billion.
+
+IV-8
+
+There were large net banking inflows (line 3) in both October and November,
+resulting primarily from deposits and other interoffice activity with Caribbean
+branches of both U.S.-chartered and foreign-based institutions. 
+
+In the third quarter, U.S. direct investment abroad (line 6) was the highest ever
+recorded and exceeded foreign direct investment in the United States (line 7) for
+the first time since the first quarter of 2000.  U.S. direct investment abroad was
+bolstered by $20 billion in retained earnings and the $13 billion Citigroup
+takeover of a Mexican bank.  Foreign direct investment in the United States was
+unusually low, reflecting a reduced level of foreign acquisitions of U.S. firms in
+the quarter.
+
+The statistical discrepancy in the third quarter was positive $58 billion,
+following a negative $47 billion discrepancy in the second quarter.
+
+IV-9
+
+Summary of U.S. International Transactions
+(Billions of dollars, not seasonally adjusted except as noted)
+
+ 1999
+
+2000
+
+2000
+Q4
+
+Q1 
+
+Q2 
+
+2001
+Q3
+
+Oct.
+
+Nov.
+
+Official financial flows
+
+55.0
+
+39.3
+
+-5.4
+
+4.8
+
+-21.3
+
+13.2
+
+8.7
+
+1. Change in foreign official assets
+
+in the U.S. (increase, +)
+a.  G-10 countries
+b.  OPEC countries
+c.  All other countries
+
+2. Change in U.S. official reserve
+
+assets (decrease, +)
+
+Private financial flows
+Banks
+
+3. Change in net foreign positions
+of banking offices in the U.S.1
+
+Securities2
+
+4. Foreign net purchases of U.S.
+
+46.4
+49.7
+2.0
+-5.3
+
+39.6
+12.3
+10.7
+16.6
+
+-4.0
+-.8
+.6
+-3.8
+
+4.6
+-5.5
+.8
+9.2
+
+-20.0
+-6.1
+-2.1
+-11.8
+
+16.8
+-5.6
+-4.7
+27.0
+
+8.6
+321.7
+
+-.3
+404.0
+
+-1.4
+119.2
+
+.2
+98.8
+
+-1.3
+
+-3.6
+175.7    23.5
+
+8.3
+10.4
+1.3
+-3.4
+
+.4
+...
+
+7.4
+
+7.2
+3.5
+2.4
+1.3
+
+.1
+...
+
+-12.4
+
+-6.7
+
+13.4
+
+-79.4
+
+29.1
+
+-12.1
+
+31.7
+
+54.2
+
+securities (+)
+a. Treasury securities
+b. Agency bonds
+c. Corporate and municipal bonds
+d. Corporate stocks3
+
+333.2
+-19.9
+71.9
+158.8
+122.4
+
+435.7
+-52.4
+111.9
+182.1
+194.0
+
+5. U.S. net acquisitions (-) of
+
+foreign securities
+a. Bonds
+b. Stock purchases
+c. Stock swaps3
+
+-112.9 -101.1
+-4.1
+-13.1
+-84.0
+
+-5.7
+15.6
+-122.9
+
+Other flows (quarterly data, s.a.)
+
+6. U.S. direct investment (-) abroad
+7. Foreign direct investment in U.S.
+8. Foreign holdings of U.S. currency
+9. Other (inflow, + )4
+
+-155.4 -152.4
+287.7
+301.0
+1.1
+22.4
+-60.2
+-54.2
+
+117.8
+-10.1
+38.3
+50.8
+38.8
+
+-17.8
+3.3
+3.6
+-24.7
+
+-39.1
+84.7
+6.2
+-46.1
+
+149.0
+.7
+38.8
+68.9
+40.7
+
+-21.0
+-2.0
+-16.4
+-2.6
+
+-40.9
+52.5
+2.3
+36.3
+
+125.8
+-8.5
+29.4
+70.4
+34.5
+
+-44.1
+8.8
+-18.7
+-34.2
+
+-41.1
+65.2
+2.8
+38.0
+
+74.0
+-9.3
+33.1
+37.3
+12.9
+
+19.2
+25.4
+-6.1
+.0
+
+-52.1
+26.4
+8.2
+-40.1
+
+U.S. current account balance (s.a.)
+Capital account balance (s.a.)5
+Statistical discrepancy (s.a.)
+
+-324.4 -444.7 -116.3 -111.8 -107.6
+.2
+
+.7
+.7
+
+.2
+2.4
+
+.2
+8.1
+
+-95.0
+.2 
+-47.0      58.1
+
+-3.5
+-48.8
+
+67.2
+15.2
+25.3
+19.6
+7.1
+
+-2.8
+.3
+-3.1
+.0
+
+...
+...
+...
+...
+...
+
+...
+...
+
+50.1
+8.0
+11.0
+18.0
+13.1
+
+1.8
+-.9
+2.7
+.0
+
+...
+...
+...
+...
+...
+
+...
+...
+
+NOTE.  The sum of official and private financial flows, the current account balance, the capital account balance, and the
+statistical discrepancy is zero.  Details may not sum to totals because of rounding.
+
+1.  Changes in dollar-denominated positions of all depository institutions and bank holding companies plus certain
+transactions between broker-dealers and unaffiliated foreigners (particularly borrowing and lending under repurchase
+agreements). Includes changes in custody liabilities other than U.S. Treasury bills.
+
+2.  Includes commissions on securities transactions and excludes adjustments BEA makes to account for incomplete
+coverage; therefore does not match exactly the data on U.S. international transactions published by the Department of
+Commerce.
+
+3.  Includes (4d) or represents (5c) stocks acquired through mergers.
+4.  Transactions by nonbanking concerns and other banking and official transactions not shown elsewhere plus
+amounts resulting from adjustments made by the Department of Commerce and revisions in lines 1 through 5 since
+publication of the quarterly data in the Survey of Current Business
+
+5. Consists of transactions in nonproduced nonfinancial assets and capital transfers.
+
+n.a. Not available.    ...  Not applicable.  
+
+IV-10
+
+Foreign Exchange Markets
+
+The major currencies index of the exchange value of the dollar has risen
+2 percent on balance since the December FOMC meeting.  This gain was due, in
+large part, to a 6 percent appreciation versus the yen.  Market participants have
+interpreted an absence of objections from Japanese officials while the yen was
+falling as an implicit endorsement for a weaker yen.  The moribund state of the
+Japanese economy also continued to weigh on the yen, particularly as optimism
+in the market waned that the Koizumi administration would undertake many of
+the sweeping structural changes called for during the election campaign last
+year.  Even the Japanese government, which has perennially been more
+optimistic than private forecasters, expects Japan’s economy to stagnate over the
+coming fiscal year which begins in April.  The Bank of Japan decision to
+increase its target for balances held at the BOJ to around ¥10 trillion-15 trillion
+at its policy meeting on December 19 may also have helped to weaken the yen. 
+
+Exchange Value of the Dollar
+
+December
+FOMC
+
+Index, December 10, 2001 = 100
+
+103
+
+Daily
+
+Other Important
+Trading Partners
+
+Broad
+
+Major Currencies
+
+October
+
+November
+
+December
+
+January
+
+102
+
+101
+
+100
+
+99
+
+98
+
+97
+
+The dollar appreciated ½ percent, on balance, against the euro over the
+intermeeting period.  At the turn of the new year, the euro rose against the dollar
+after the successful introduction of the notes and coins.  These gains were
+retraced, however, as the focus in the market shifted back to the character of the
+global recovery, with a firm consensus believing that the U.S. economy will
+come out of this slowdown sooner and more forcefully than the euro area.  
+
+IV-11
+
+The U.S. dollar has appreciated 2 percent, on net, against the Canadian dollar
+since the December FOMC meeting, eclipsing the previous record high reached
+last year.  On January 15, the Bank of Canada lowered its overnight target rate
+25 basis points, to 2 percent.
+
+The index of the exchange value of the dollar in terms of the currencies of our
+other important trading partners rose 1 percent over the intermeeting period, in
+part due to the Argentine peso, which depreciated sharply against the dollar after
+Argentine authorities ceased to support one-to-one convertibility between the
+peso and dollar.   In early January a dual exchange rate system was created, with
+a fixed exchange rate of 1.40 pesos per dollar for some foreign trade and
+government-sanctioned transactions, and a floating exchange rate for other
+transactions.  On January 11, trading at the floating rate began, and the currency
+immediately weakened to a value below that of the fixed rate.  
+
+ .  Nonetheless, the floating peso has
+
+weakened to as much as 2 pesos per dollar.  Other Latin American currencies
+appeared to be little affected by these developments.  The Brazilian real
+depreciated 2 percent, the Chilean peso weakened slightly, and the Mexican peso
+appreciated ½ percent.  The Korean won depreciated 4 percent against the dollar
+amid comments from Chinese and Korean officials expressing
+ concern over the yen’s weaker level and warning of potential domino effects
+from competitive devaluation. 
+
+Financial Indicators in Major Industrial Countries
+
+Three-month rate
+
+Ten-year yield
+
+   Equities
+
+Jan. 23
+(Percent)
+
+Percentage
+Point
+Change
+
+Jan. 23
+(Percent)
+
+Percentage
+Point
+Change
+
+Percent
+Change
+
+2.01
+
+.04
+
+3.36
+
+3.91
+
+1.65
+
+4.31
+
+1.73
+
+-.11
+
+.01
+
+.00
+
+-.05
+
+-.04
+
+.00
+
+-.08
+
+5.35
+
+1.44
+
+4.84
+
+4.86
+
+3.51
+
+5.88
+
+4.89
+
+-.17
+
+.08
+
+.01
+
+-.08
+
+.00
+
+.05
+
+-.28
+
+-.01
+
+-4.70
+
+-2.00
+
+-.46
+
+-.58
+
+1.88
+
+-1.81
+
+2.02
+
+-.03
+
+4.54
+
+-.04
+
+n.a.
+
+Country
+
+Canada
+
+Japan
+
+Euro area
+
+United Kingdom
+
+Switzerland
+
+Australia
+
+United States
+
+Memo:
+Weighted-average
+foreign
+
+NOTE.  Change is from December 10  to January 23 (10 a.m. EDT).
+ n.a.  Not available.
+
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+IV-12
+
+Long-term interest rates in the foreign industrial countries, as measured by the
+yield on ten-year government bonds, were little changed, on average, over the
+intermeeting period.  The yield of the Canadian government ten-year bond fell
+17 basis points, largely mirroring movements of Treasuries.  Japanese equities
+were among the worst performing of the industrial countries over the period,
+with the broad-based Topix index setting a new post-bubble low, falling to a
+level last seen in 1985.  A wide range of sectors declined over the period, with
+retailers hurt the most.  The Japanese banking sector was among the worst
+performers throughout 2001, with share prices falling to a new 17-year low over
+the period as investors appeared to grow impatient with the slow pace of
+financial reform.  Prime Minister Koizumi suggested that further capital
+infusions into the banking sector could be forthcoming.  Amid these discussions,
+the yield on the benchmark Japanese government bond rose 8 basis points.
+
+Financial Indicators in Latin America, Asia, and Russia
+
+Currency/
+ US dollar
+
+Short-term
+ Interest rates1
+
+Dollar-denominated
+ bond spread2
+
+Equity
+ prices
+
+Economy
+
+Jan. 23
+
+Mexico
+
+Brazil
+
+Argentina3
+
+9.15
+
+2.39
+
+1.40
+
+Chile
+
+667.70
+
+China
+
+Korea
+
+Taiwan
+
+Singapore
+
+Hong Kong
+
+Malaysia
+
+Thailand
+
+8.28
+
+1331.50
+
+35.08
+
+1.84
+
+7.80
+
+3.80
+
+44.20
+
+Indonesia
+
+10395.00
+
+Philippines
+
+Russia
+
+51.25
+
+30.57
+
+Percent
+Change
+
+Jan.22/23
+(Percent)
+
+Percentage
+Point
+Change
+
+Jan.22/23
+(Percent)
+
+Percentage
+Point
+Change
+
+Percent
+Change
+
+-.44
+
+1.81
+
+40.14
+
+.48
+
+-.01
+
+3.81
+
+1.74
+
+.33
+
+.00
+
+.01
+
+.71
+
+1.66
+
+-1.16
+
+1.53
+
+6.74
+
+18.90
+
+ 6.75
+
+5.54
+
+n.a.
+
+4.15
+
+2.58
+
+ .88
+
+1.81
+
+2.90
+
+2.13
+
+17.55
+
+ 7.25
+
+n.a.
+
+.72
+
+-.15
+
+-4.75
+
+-.89
+
+n.a.
+
+.00
+
+.02
+
+-.06
+
+-.04
+
+.00
+
+-.88
+
+-.23
+
+-2.56
+
+n.a.
+
+2.94
+
+8.34
+
+43.65
+
+2.36
+
+1.50
+
+1.17
+
+...
+
+...
+
+...
+
+1.64
+
+3.66
+
+5.22
+
+4.70
+
+6.03
+
+-.24
+
+-.45
+
+...
+
+.21
+
+.02
+
+-.16
+
+...
+
+...
+
+...
+
+-.04
+
+-.25
+
+.23
+
+-.23
+
+-.99
+
+7.57
+
+-3.12
+
+89.64
+
+-3.21
+
+-17.37
+
+11.04
+
+8.43
+
+3.51
+
+-8.68
+
+3.22
+
+7.52
+
+16.08
+
+17.54
+
+23.88
+
+NOTE.  Change is from December 10 to January 22/23.
+1.  One month interbank interest rate, except Chile: 30-day deposit rate; Korea: 1-week call rate.
+
+No reliable short-term interest rates exist for China or Russia.
+
+2.  Spread over similar maturity U.S. Treasury security yield.  Mexico, Brazil, Argentina, Korea,
+the Philippines and Russia:  EMBI+ yield.  Chile and China:  Global bond yield. Malaysia:  Eurobond
+yield.  Thailand and Indonesia:  Yankee bond yield.  Taiwan, Singapore, and Hong Kong do not have
+outstanding sovereign bonds denominated in dollars.
+
+3.  The fixed exchange rate in Argentina’s dual rate system used for some trade and government transactions.
+
+It was set at 1.40 pesos/dollar in early January.  The Argentina sub-component of J.P. Morgan’s EMBI+
+index was reweighted on December 31, reducing the spread and making a precise comparison over the
+intermeeting period difficult.
+
+n.a.  Not available.    ...  Not applicable.
+
+IV-13
+
+Optimism over an impending global recovery helped share prices in Asia,
+particularly in the countries with substantial exports of information technology
+goods.  A sharp rebound in the price of semiconductor memory chips helped lift
+shares on the Malaysian, Taiwan and Korean stock markets 3 to 11 percent,
+continuing a rally that began in late September.  Share prices performed even
+better in Indonesia and the Philippines, rising more than 15 percent over the
+period.
+
+Owing primarily to uncertainty over changing banking and exchange rate
+regulations and a lack of liquidity with which to conduct transactions, the stock
+market in Argentina was closed for much of the intermeeting period.  It reopened
+last week to soaring gains, as Argentine residents sought protection from a
+depreciating peso, particularly in light of the government’s announcement that
+dollar deposits will be converted to pesos at a rate that has yet to be determined.  
+Following the default on some of its debt, the prices of Argentina’s bonds,
+which were at distressed levels before the December FOMC meeting, have fallen
+even further.  Thus far, there has been little sign of spillover to other markets
+from the default and devaluation in Argentina.  Share prices have declined about
+3 percent in Brazil and Chile since the December FOMC meeting and have risen
+more than 7 percent in Mexico.  The yield spread over Treasuries of Brazilian
+and Mexican debt has narrowed a bit, while Chilean debt widened a touch.
+
+The price of gold rose 3 percent, on balance, over the intermeeting period.  A
+short squeeze in the silver market had driven 1-month silver lease rates above 20
+percent for a couple of weeks, but more supply came on the lease market,
+sending silver lease rates back below 5 percent.
+
+ .  The Desk did not intervene during the period for the accounts of
+
+the System or the Treasury.
+
+ 
+ 
+ 
+ 
+IV-14
+
+Developments in Foreign Industrial Countries
+
+The latest GDP data confirm that activity in foreign industrial countries was
+weak in the third quarter and indicators point to a slightly weaker fourth quarter. 
+In Japan, third-quarter real GDP declined sharply, and more recent data suggest
+the economy continued to deteriorate in the last three months of the year.  Euro-
+area data suggest that fourth-quarter activity may have contracted, while the
+United Kingdom’s rate of expansion likely slowed.  Canadian activity is
+recovering from a steep fall in September, but remains below third-quarter
+levels, suggesting a contraction on average in the last three months of 2001.
+
+Inflation continued to decline, primarily reflecting lower oil prices.  The twelve-
+month rate of consumer price inflation fell below the Bank of Canada’s target
+range in the fourth quarter, while retail price inflation in the United Kingdom
+remained below the Bank of England’s 2½ percent target.  Euro-area inflation
+retreated to 2.1 percent, just above the European Central Bank’s (ECB) target
+ceiling.  Deflation continued in Japan.
+
+Data released late in the previous intermeeting period revealed that Japanese
+real GDP declined 2.2 percent (s.a.a.r.) in the third quarter of last year, following
+a revised 4.8 percent drop in the second quarter.  Personal consumption dropped
+markedly, as households curtailed spending amid rising unemployment and
+falling real income.  A sharp rundown in inventories subtracted ½ percentage
+point from growth.  Private investment showed surprising strength, however,
+with business fixed investment rising about 4 percent.  Residential investment
+also rose about 4 percent, albeit from depressed levels.  Public investment
+rebounded following a steep drop in the second quarter, adding about ¾
+percentage point to growth.  Both exports and imports continued to slide, with
+net exports making a slight positive contribution to growth. 
+
+Indicators suggest that the economy continued to deteriorate in recent months. 
+The all-industry index fell 1 percent in October and November on average from
+the third quarter, with industrial production declining 2.8 percent over the same
+period.  On average, core machinery orders in October and November were
+roughly 10 percent below their third-quarter average level.  Shipments of
+machinery declined 2.1 percent in November.  Residential and nonresidential
+building starts also posted declines in October and November on average
+compared with the third-quarter.  Personal consumption presents a mixed
+picture, with household expenditures up about 3½ percent on average in October
+and November from the third-quarter, while new passenger car registrations
+ticked up in October but were still down slightly from their average third-quarter
+pace.
+
+IV-15
+
+Japanese Real GDP
+(Percent change from previous period, except as noted, s.a.a.r.)
+
+Component
+
+20001
+
+Q3
+
+Q4
+
+Q1
+
+2000
+
+2001
+
+Q2
+
+Q3
+
+GDP
+
+2.3
+
+-2.9
+
+1.1
+
+4.1
+
+-4.8
+
+-2.2
+
+Total domestic demand
+
+Consumption
+
+Private investment
+
+Public investment
+
+Government consumption
+
+Inventories2
+
+Exports
+
+Imports
+
+Net exports2
+
+1. Q4/Q4.
+
+2.2
+
+.3
+
+11.0
+
+-3.0
+
+-5.4
+
+5.3
+
+2.9
+
+2.6
+
+4.9
+
+7.7
+
+12.8
+
+-11.3
+
+-3.6
+
+-4.3
+
+3.8
+
+-2.4
+
+-6.6
+
+4.4
+
+-11.3
+
+-11.8
+
+-17.3
+
+40.5
+
+-35.4
+
+13.5
+
+4.1
+
+.1
+
+9.7
+
+10.7
+
+.1
+
+.7
+
+-.2
+
+4.1
+
+4.3
+
+.1
+
+.4
+
+.2
+
+-1.0
+
+19.0
+
+-1.7
+
+4.5
+
+.1
+
+-6.9
+
+-1.7
+
+-.6
+
+6.4
+
+-.0
+
+-18.4
+
+-10.0
+
+-1.2
+
+.4
+
+-.5
+
+-12.4
+
+-17.1
+
+.2
+
+     2. Percentage point contribution to GDP growth, s.a.a.r.
+
+Conditions in the labor market also worsened.  The unemployment rate rose to a
+record 5.5 percent in November, and the job-offers-to-applicants ratio fell to
+0.53, its lowest level since March 2000.  Prices have continued to decline.  Core
+consumer goods prices in the Tokyo area (which exclude fresh food but include
+energy) were down 1 percent in December from a year earlier.  Deflation in
+wholesale prices for domestic goods has intensified, in part owing to lower
+energy prices.  The merchandise trade surplus (customs-clearance basis)
+widened  in November, as exports ticked up and weakening domestic demand
+continued to push imports lower. 
+
+The Bank of Japan’s Tankan index of business conditions worsened further in
+December, with the diffusion index for all enterprises falling to -40 from -36 in
+September.  Survey respondents project a further decline in the index for March. 
+The deterioration in December was broad based, with similar declines recorded
+in the manufacturing and non-manufacturing sectors.  Other indicators from the
+Tankan survey suggest that deflationary conditions are expected to persist. 
+Expectations for sales growth in FY2001, which ends in March 2002, were
+revised down and profits are now expected to slump 18.7 percent in FY2001,
+
+IV-16
+
+worse than the 9.2 percent fall expected in September.  Capital investment is
+expected to fall about 6 percent in FY2001, roughly unchanged from projections
+in September.
+
+Japanese Economic Indicators
+(Percent change from previous period, except as noted, s.a.)
+
+Indicator
+
+Industrial production1
+
+All-industry index
+
+Housing starts
+
+Machinery orders2
+
+Machinery shipments
+
+New car registrations 
+
+Unemployment rate3
+
+Job offers ratio4
+
+Business sentiment5
+
+CPI (Core, Tokyo area)6
+
+Wholesale prices6
+
+2001
+
+Q2
+
+Q3
+
+Q4
+
+Sept.
+
+Oct.
+
+Nov.
+
+Dec.
+
+-4.1
+
+-2.0
+
+-2.9
+
+1.1
+
+-7.2
+
+1.7
+
+4.9
+
+.61
+
+-27
+
+-1.3
+
+-.7
+
+-4.3
+
+-1.9
+
+5.4
+
+-5.7
+
+-5.3
+
+-.3
+
+5.1
+
+.59
+
+-36
+
+-1.2
+
+-1.0
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+-40
+
+-1.0
+
+-1.3
+
+-2.9
+
+-.9
+
+-3.4
+
+-.2
+
+-.5
+
+-3.0
+
+-1.7
+
+.4
+
+8.0
+
+-13.2
+
+-10.1
+
+14.9
+
+-5.7
+
+-13.7
+
+5.3
+
+.57
+
+...
+
+-1.2
+
+-1.1
+
+.0
+
+1.2
+
+5.4
+
+.55
+
+...
+
+-1.0
+
+-1.1
+
+-2.1
+
+n.a.
+
+5.5
+
+.53
+
+...
+
+-1.0
+
+-1.4
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+...
+
+-1.0
+
+-1.4
+
+1. Mining and manufacturing.
+
+      2. Private sector, excluding ships and electric power.
+
+3. Percent.
+4. Level of indicator.
+5. Tankan survey, diffusion index.
+6. Percent change from year earlier, n.s.a.
+n.a.  Not available.  ...  Not applicable.
+
+On December 19, the Bank of Japan (BOJ) voted to ease monetary policy,
+raising its target for the outstanding balance of financial institutions’ accounts
+held at the BOJ to ¥10 trillion-15 trillion from "above ¥6 trillion." Since then,
+the balance has been around ¥14 trillion-15 trillion.  As part of the effort to ease
+policy, the BOJ voted to increase the monthly amount of outright purchases of
+long-term JGBs from ¥600 billion to ¥800 billion.  In addition, the BOJ decided
+to increase the amount of commercial paper it will accept under repurchase
+agreements.  The BOJ also announced measures to broaden the range of
+instruments that can be used in open-market operations to include asset-backed
+commercial paper and real-estate backed securities.  The BOJ cited the
+
+IV-17
+
+"deterioration in the financial environment", including a tightening in credit
+conditions, as the explanation for its decision.  On January 16, the BOJ voted to
+expand the range of government bonds eligible for outright purchase to include
+bonds issued within the past year, excluding the two most recent issues. 
+Previously, the BOJ only bought bonds that had not been issued within the past
+twelve months.  
+
+The Cabinet approved the draft budget outline for FY2002 on December 24. 
+The budget was submitted to the Diet in late January, with final approval
+expected in March.  The budget implies a slightly contractionary stance, even
+when FY2001's second supplementary budget (the spending from which will not
+occur until FY2002) is included.  Expenditures would be reduced 1.7 percent
+(about ¼ percent of GDP) relative to FY2001's initial budget.  Public works
+spending is slated to decline about 10 percent, while outlays to public
+corporations would be cut roughly 20 percent, reflecting the government’s
+efforts to streamline such corporations.  Tax revenues are projected to decline
+about 5½ percent from recently revised FY2001 estimates, although an increase
+in non-tax revenues is assumed.  The budget will require new bond issues
+totaling ¥30 trillion, consistent with Prime Minister Koizumi’s pledge to cap
+new bond issuance at that amount.
+
+In the euro area, economic activity likely contracted in the fourth quarter of last
+year following third-quarter GDP growth of only ½ percent.  Industrial
+production declined 1.4 percent in October and a further .8 percent in
+November; for the two months on average, production was 1.8 percent below the
+average in the third quarter.  The purchasing managers index (PMI) for euro-area
+manufacturing edged up in December, but remained below its third-quarter
+average, and signaled contraction in the manufacturing sector for the ninth
+consecutive month.  Service sector PMIs recovered more vigorously in
+December to slightly below September levels, but for the fourth quarter on
+average are also consistent with contracting activity.  
+
+More forward-looking indicators provide tentative signs of improvement.  The
+volume of German industry orders picked up in November for the first time
+since August.  Foreign orders recovered more than 2 percent but domestic orders
+weakened a bit further.  Although euro-area economic sentiment remains at
+relatively depressed levels, it edged up in December, the first monthly
+improvement in a year.  In the industrial survey, production expectations edged
+up slightly although levels of inventory stocks appear to remain high.  In the
+consumer survey, the outlook for the general economic situation also improved
+somewhat.
+
+IV-18
+
+Labor market data for the euro area as a whole continue to show only slight
+deterioration, as the harmonized unemployment rate edged up to 8.5 percent in
+September and remained at that rate in October and November.  National
+statistics show more pronounced increases in the French and German
+unemployment rates, while the Italian unemployment rate moved a bit lower.
+
+Euro-Area Economic Indicators1
+(Percent change from previous period except as noted, s.a.)
+
+2001
+
+Indicator
+
+Industrial production2
+
+Retail sales volume
+
+Unemployment rate3
+
+Consumer confidence4
+
+Industrial confidence5
+
+Mfg. orders, Germany
+
+CPI6
+
+Producer prices6
+
+M36
+
+Q2
+
+Q3
+
+Q4
+
+Sept.
+
+Oct.
+
+Nov.
+
+Dec.
+
+-1.0
+
+.2
+
+8.5
+
+-1.7
+
+-5.3
+
+-1.5
+
+3.1
+
+3.9
+
+5.4
+
+-.6
+
+.3
+
+8.4
+
+n.a.
+
+n.a.
+
+n.a.
+
+-.6
+
+.0
+
+8.5
+
+-1.4
+
+-1.1
+
+8.5
+
+-.8
+
+n.a.
+
+8.5
+
+n.a.
+
+n.a.
+
+n.a.
+
+-7.7
+
+-10.7
+
+-9.0
+
+-10.0
+
+-12.0
+
+-10.0
+
+-10.0
+
+-17.0
+
+-11.0
+
+-16.0
+
+-18.0
+
+-17.0
+
+-2.7
+
+2.7
+
+1.7
+
+6.8
+
+n.a.
+
+2.2
+
+n.a.
+
+n.a.
+
+-4.1
+
+2.5
+
+.9
+
+6.8
+
+-.4
+
+2.4
+
+-.5
+
+7.4
+
+.7
+
+2.1
+
+-1.1
+
+8.0
+
+n.a.
+
+2.1
+
+n.a.
+
+n.a.
+
+1. Euro-area indicators include Greece only from January 2001.
+2. Excludes construction.
+3. Euro-area standardized to ILO definition.  Includes Eurostat estimates in some cases.
+4. Diffusion index based on European Commission surveys in individual countries;
+Averages of responses to questions on financial situation, general economic situation, and
+purchasing attitudes.
+
+5. Diffusion index based on European Commission surveys in individual countries;
+
+Averages of responses to questions on production expectations, orders, and stocks.
+
+6. Eurostat harmonized definition, 12-month percent change.     
+n.a.  Not available.
+
+The twelve-month rate of euro-area consumer price inflation moved down to 2.1
+percent in November and remained at that rate in December, just above the
+ECB’s 2 percent target ceiling.  Core consumer price inflation (which excludes
+food, energy, alcohol and tobacco) edged up to 2.3 percent in December on a
+twelve-month basis.  Producer prices continued to move lower, declining  in
+October and November from their year-earlier levels.
+
+IV-19
+
+The introduction of euro notes and coins is proceeding smoothly.  The ECB said
+that by mid-January almost 95 percent of all cash transactions were conducted in
+euros.  The ECB also stated that by January 17 the value of euro banknotes in
+circulation rose to 58 percent of the total value of all banknotes in circulation,
+including the national banknotes issued but not yet redeemed by national central
+banks.  For most euro-area countries, the change-over period, during which old
+national currencies can continue to be used, extends through the end of February.
+
+Usage of cash machines in the euro area was two to four times the normal
+volume in the first few days of the new year, and banks experienced long lines of
+customers.  At the same time many people instead spent their remaining old
+currency notes at retail establishments, which were supposed to give change in
+euros, and for that reason the number of cash transactions was higher than
+normal in many countries while credit card and debit payments declined,
+contrary to forecasts.  While the new euro notes are being introduced mainly by
+banks and their ATMs, retailers have borne the burden of introducing the bulk of
+the euro coins and retiring the national currency coins.  Large retailers generally
+had prepared well in advance and reported few difficulties.  Smaller retailers, on
+the other hand, were generally less well prepared and faced some initial
+difficulties, including occasional shortages of euros for change.
+
+Recent data for the fourth quarter in the United Kingdom are mixed.  British
+consumers continued to spend, as retail sales rose 1.3 percent for the quarter,
+though December sales were disappointing.  Although service sector growth has
+been robust in recent quarters, the latest surveys suggest growth in this sector
+slowed in the fourth quarter.  In contrast, the manufacturing sector continues to
+be very weak with industrial production declining substantially in recent months.
+
+Indicators for the current quarter remain mixed.  Both December consumer
+confidence and January manufacturing business confidence recovered from
+recent lows to levels closer to their September values.  This recovery indicates
+manufacturing firms remain relatively pessimistic about the future, but suggests
+that the manufacturing sector may have bottomed out after declining for the past
+year.
+
+Notwithstanding the recent slowing in activity, labor market conditions remain
+tight.  The official claims-based unemployment rate remained at 3.2 percent in
+December, while the labor force survey measure of the unemployment rate
+remained at 5.1 percent for the three months centered in October.  Both
+unemployment rates are near record lows.
+
+The twelve-month rate of retail price inflation (excluding mortgage interest
+payments) rose slightly to 1.9 percent in December but still remains well below
+
+IV-20
+
+the Bank of England’s official target of 2.5 percent.  Growth in average earnings
+dropped to 3.9 percent in November, below the 4.5 percent rate (from a year
+earlier) that the Bank of England believes to be compatible with its inflation
+target.
+
+U.K. Economic Indicators
+(Percent change from previous period except as noted, s.a.)
+
+Indicator
+
+Q2
+
+Q3
+
+Q4
+
+Oct.
+
+Nov.
+
+Dec.
+
+Jan.
+
+2001
+
+2002
+
+Industrial production
+
+Retail sales
+
+Unemployment rate1
+
+      Claims-based
+
+      Labor force survey2
+
+Business confidence3
+
+Retail prices4
+
+Producer input prices5
+Average earnings5
+
+-1.1
+
+1.7
+
+3.2
+
+5.0
+
+-.7
+
+2.3
+
+4.4
+
+4.7
+
+-.8
+
+1.5
+
+3.1
+
+5.1
+
+-6.0
+
+2.4
+
+-3.4
+
+4.4
+
+n.a.
+
+1.3
+
+3.2
+
+n.a.
+
+-1.5
+
+.2
+
+3.2
+
+5.1
+
+-.3
+
+1.1
+
+3.2
+
+n.a.
+
+n.a.
+
+-.4
+
+3.2
+
+n.a.
+
+-24.0
+
+-23.0
+
+-21.0
+
+-28.0
+
+2.0
+
+-9.1
+
+n.a.
+
+2.3
+
+-9.0
+
+4.4
+
+1.8
+
+-10.8
+
+3.9
+
+1.9
+
+-7.5
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+-13
+
+n.a.
+
+n.a.
+
+n.a.
+
+1. Percent.
+2. Three-month average centered on month shown.
+3. Percentage of firms expecting output to increase in the next four months less percentage
+
+expecting output to decrease.
+
+4. Excluding mortgage interest payments.  Percent change from year earlier.
+5. Percent change from year earlier.
+n.a.  Not available.
+
+In Canada, indicators for the fourth quarter have been mixed. GDP declined 0.3
+percent in October from its average third-quarter level, but rebounded somewhat
+from September’s depressed figure.  Industrial production followed a similar
+pattern in October, partially recovering from September’s steep fall but
+remaining 1.4 percent below the third-quarter average. In November
+merchandise exports increased 1.3 percent from October, ending a seven-month
+string of declines.  Imports fell slightly, reaching a level last seen in September
+1999.  Manufacturing shipments increased 1.7 percent in November, ending a
+five-month period of negative or flat manufacturing sector indicators. 
+Encouraged by local “zero-percent financing” incentives, motor vehicle sales
+surged 8.5 percent in November, with preliminary industry data indicating
+further increases in December.  Retail sales excluding motor vehicles increased
+1.1 percent in October, more than reversing September’s fall.  In November,
+however, the large increase in auto sales masked a 0.6 percent decline in non-
+
+IV-21
+
+auto sales.  Residential construction, driven by low vacancy rates and low
+financing costs, remained strong in the fourth quarter with December housing
+starts reaching the highest level since 1991.  
+
+Canadian Economic Indicators
+(Percent change from previous period except as noted, s.a.)
+
+Indicator
+
+GDP at basic prices
+
+Industrial production
+
+New mfg. orders
+
+Retail sales
+
+Employment
+
+Unemployment rate1
+
+Consumer prices2
+
+Consumer attitudes3
+
+Business confidence3
+
+2001
+
+Q2
+
+Q3
+
+Q4
+
+Sep.
+
+Oct.
+
+Nov.
+
+Dec.
+
+.2
+
+-.1
+
+1.2
+
+2.1
+
+.3
+
+7.0
+
+3.6
+
+-.4
+
+-2.3
+
+-3.4
+
+-.8
+
+-.1
+
+7.1
+
+2.7
+
+113.1
+
+108.0
+
+131.6
+
+93.0
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+.1
+
+7.6
+
+1.1
+
+n.a.
+
+n.a.
+
+-.8
+
+-2.3
+
+-1.4
+
+-1.5
+
+.1
+
+7.2
+
+2.6
+
+...
+
+...
+
+.3
+
+.2
+
+-4.0
+
+1.8
+
+.0
+
+7.3
+
+1.9
+
+...
+
+...
+
+n.a.
+
+n.a.
+
+2.7
+
+1.4
+
+.1
+
+7.5
+
+.7
+
+...
+
+...
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+-.1
+
+8.0
+
+.7
+
+...
+
+...
+
+1. Percent.
+2. Percent change from year earlier, n.s.a.
+3. Level of index, 1991 = 100.
+n.a.  Not available.  ...  Not applicable.
+
+Labor market conditions softened dramatically in December as the
+unemployment rate jumped to 8 percent, reflecting both declining employment
+and a large increase in the labor force.  The fall in employment was the largest
+monthly decline since 1998, and the first sign of reversal in what previously had
+been a remarkably resilient labor market.
+
+The twelve-month rate of consumer price inflation declined to 0.7 percent in
+November, and remained at that level in December.  This places the rate of
+inflation slightly below the Bank of Canada’s 1 to 3 percent target range.  The
+drop primarily reflects lower energy prices, though other prices decelerated a bit
+as well.
+
+On January 15, the Bank lowered its policy rate 25 basis points to 2 percent,
+bringing the cumulative reduction since the beginning of last year to 375 basis
+points.  The accompanying statement cited weak business confidence both in
+
+IV-22
+
+Canada and abroad as the motivation for the latest cut, while also stating that the
+move was consistent with returning the rate of inflation to its target level.
+
+Country
+and balance
+
+Japan
+Trade
+Current account
+
+Euro area
+Trade1
+Current account1
+
+Germany
+Trade
+Current account
+
+France
+Trade
+Current account
+
+Italy
+Trade
+Current account1
+
+United Kingdom
+Trade
+Current Account
+
+Canada
+Trade
+Current Account
+
+External Balances
+(Billions of U.S. dollars, s.a.a.r.)
+
+2001
+
+Q2
+
+Q3
+
+Q4
+
+Sep.
+
+Oct.
+
+Nov.
+
+Dec.
+
+50.3
+67.0
+
+55.6
+97.8
+
+n.a.
+n.a.
+
+72.1
+119.8
+
+37.3
+118.0
+
+55.9
+132.9
+
+26.4
+-39.9
+
+66.1
+-8.0
+
+-.5
+1.5
+
+6.5
+-5.4
+
+61.5
+-3.7
+
+87.4
+.1
+
+.9
+5.6
+
+-1.5
+9.3
+
+n.a.
+n.a.
+
+48.7
+-14.2
+
+104.0
+1.1
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+73.8
+-4.1
+
+89.4
+50.7
+
+.3
+3.2
+
+2.8
+n.a.
+
+10.9
+-2.7
+
+n.a.
+25.0
+
+-52.8
+-26.0
+
+-46.0
+-11.7
+
+n.a.
+n.a.
+
+-39.6
+...
+
+-40.3
+...
+
+59.0
+n.a.
+
+49.6
+1.4
+
+3.5
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+...
+
+44.2
+23.4
+
+32.2
+14.3
+
+n.a.
+n.a.
+
+33.1
+...
+
+31.0
+...
+
+34.4
+...
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+...
+
+n.a.
+...
+
+1. Not seasonally adjusted.
+n.a.  Not available.  ...  Not applicable.
+
+IV-23
+
+Industrial Production in Selected Industrial Countries
+
+Japan
+
+1994=100
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+France
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+Italy
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+140
+
+130
+
+120
+
+110
+
+100
+
+90
+
+140
+
+130
+
+120
+
+110
+
+100
+
+90
+
+140
+
+130
+
+120
+
+110
+
+100
+
+90
+
+Germany
+
+1994=100
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+United Kingdom
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+Canada
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+140
+
+130
+
+120
+
+110
+
+100
+
+90
+
+140
+
+130
+
+120
+
+110
+
+100
+
+90
+
+140
+
+130
+
+120
+
+110
+
+100
+
+90
+
+IV-24
+
+Consumer Price Inflation in Selected Industrial Countries
+(12-month change)
+
+Japan
+
+Germany
+
+Percent
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+France
+
+Percent
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+Italy
+
+Percent
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Percent
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+United Kingdom
+
+Percent
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+Canada
+
+Percent
+
+1994 1995 1996 1997 1998 1999 2000 2001
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+-1
+
+-2
+
+IV-25
+
+Economic Situation in Other Countries
+
+Economic conditions in Latin America remain unfavorable.  Continued political
+turmoil in Argentina has taken a further toll on the country’s already collapsing
+economy, and indicators point to stagnant growth in Brazil and Mexico.  In the
+Asian developing countries, conditions are mixed.  Growth in China remains
+robust, while Korea and the ASEAN countries are beginning to show signs of
+recovery from last year’s economic downturn.  In Hong Kong and Taiwan,
+however, indicators suggest continued weakness.
+
+The situation in Argentina worsened considerably over the intermeeting period. 
+The implementation of capital controls, including limits on bank account
+withdrawals, in early December led to widespread protests and violence that
+brought down the de la Rua government on December 21.  Three presidents
+followed in quick succession before the current president, Eduardo Duhalde, was
+elected by a national assembly to serve out the final two years of de la Rua’s
+term.  One of the first acts of the new government was to suspend Argentina’s
+currency board and establish a temporary dual exchange rate system comprised
+of a fixed exchange rate of 1.4 pesos per dollar primarily for trade and
+government transactions and a floating rate for other transactions.   The
+government has indicated its intention to remove the exchange rate peg within
+six months and implement a single floating exchange rate system.  
+
+Following the resignation of de la Rua, the government announced the
+suspension of debt payments to its private creditors.  Payments to the
+international financial institutions have so far been met, however.  To relieve
+some of the financing burden, the IMF board voted in mid-January to approve
+Argentina’s request for a year deferment of a $900 million repayment due under
+the Supplemental Reserve Facility.  The IMF has sent several advisory teams to
+Argentina to help the new government, but formal negotiations regarding a new
+IMF program have not yet begun.
+
+Amid changes in leadership and domestic unrest, the government has yet to
+submit a 2002 budget for discussion.  The Duhalde government has lessened
+only slightly the significant restrictions placed on bank accounts.  Tension over
+the importance of placating angry depositors versus protecting the financial
+sector led to the resignation of the central bank president.  Public protests
+targeted at banks continue, and the political situation in the country remains
+highly volatile.
+
+IV-26
+
+In tandem with the political upheaval has come severe economic disruption. 
+International transactions, including trade, have all but ceased over the past
+month.  Domestic output has also been impeded as payment systems have
+broken down.  There is some evidence that prices are already moving up in the
+aftermath of the exchange rate depreciation.
+
+Incoming data, which generally reflect conditions prior to the resignation of
+de la Rua, are uniformly bad–imports fell 40 percent from their year-earlier level
+in November, tax revenues were abysmal for December, and prices dropped
+1.5 percent over the twelve months ended December.  Argentine foreign-
+currency-denominated sovereign debt is trading at about a quarter of its face
+value.  The local stock market was closed from January 4 through January 16. 
+Since reopening, the market is up about 25 percent, on balance, as Argentine
+residents seek to switch from cash to other assets.  Transactions on the foreign
+exchange market, which opened on January 11, have so far been very limited but
+have pushed the floating exchange rate toward 2 pesos per dollar, despite
+intervention by the central bank.  
+
+Argentine Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2001
+
+Q3
+
+Q4
+
+Oct. Nov.  Dec.
+
+Real GDP1 
+
+Industrial production 
+
+Unemployment rate2
+
+Consumer prices3 
+
+Trade balance4
+
+Current account5
+
+-1.9
+
+-1.8
+
+15.1
+
+-.7
+
+2.6
+
+-8.9
+
+n.a.
+
+n.a.
+
+17.4
+
+-1.5
+
+n.a.
+
+n.a.
+
+-14.1
+
+-3.1
+
+...
+
+-1.1
+
+9.5
+
+-3.3
+
+n.a.
+
+n.a.
+
+18.3
+
+-1.6
+
+n.a.
+
+n.a.
+
+...
+
+-2.9
+
+18.3
+
+-1.7
+
+10.7
+
+...
+
+...
+
+-.9
+
+...
+
+-1.6
+
+12.5
+
+...
+
+...
+
+n.a.
+
+...
+
+-1.5
+
+n.a.
+
+...
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent, n.s.a.  Data are released for May and October only.  Figures for Q4 reflect data
+
+for October.
+
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+In Mexico, weak external demand continued to sap the economy, although
+production data provided some tentative signs of an improvement.  Overall
+economic activity (a monthly proxy for real GDP) declined in October and
+exports fell over 3½ percent in November.  However, industrial production rose
+more than 1 percent in November.  The trade deficit widened considerably in
+
+IV-27
+
+November as imports fell much less than exports.  Inflation continued on its
+downward trend; the twelve-month inflation rate for December was around
+4½ percent–half the rate in 2000 and well below the government’s 2001
+year-end target of 6½ percent.
+
+In early January, the Mexican congress passed the fiscal budget for 2002 and
+approved new tax measures.  The fiscal deficit for this year is targeted at
+0.65 percent of GDP.  This is the same as last year’s deficit and indicates a
+continued commitment to fiscal discipline.  The new tax package is estimated by
+the government to bolster tax revenues by over 1 percent of GDP, but it falls
+well short of the tax reform bill proposed by the government last April and fails
+to address the fundamental issue of how to improve tax collection.  In early
+January, the Mexican government issued $1.5 billion in 10-year global bonds at
+a spread of just 270 basis points above comparable U.S. treasuries.
+
+Mexican Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2001
+
+Q3
+
+Q4
+
+Oct. Nov. Dec.
+
+Real GDP1
+
+Overall economic activity
+
+Industrial production 
+
+Unemployment rate2
+
+Consumer prices3 
+
+Trade balance4
+
+Imports4
+
+Exports4
+
+Current account5
+
+5.2
+
+6.7
+
+6.4
+
+2.2
+
+9.0
+
+-8.0
+
+174.5
+
+166.5
+
+-18.1
+
+n.a.
+
+n.a.
+
+n.a.
+
+2.4
+
+4.4
+
+n.a.
+
+-.9
+
+-.3
+
+-.6
+
+2.4
+
+6.0
+
+n.a.
+
+n.a.
+
+n.a.
+
+2.8
+
+5.2
+
+...
+
+-.7
+
+-1.0
+
+3.0
+
+5.9
+
+...
+
+n.a.
+
+1.2
+
+2.6
+
+5.4
+
+-9.5
+
+n.a.
+
+-10.7
+
+-14.3
+
+n.a. 165.6
+
+n.a. 164.0
+
+162.0
+
+n.a. 156.1
+
+n.a. 153.3
+
+147.6
+
+n.a.
+
+-12.6
+
+n.a.
+
+...
+
+...
+
+...
+
+n.a.
+
+n.a.
+
+2.8
+
+4.4
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent; counts as unemployed those working one hour a week or less.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+In Brazil, incoming data point to continued weakness in the fourth quarter. 
+Industrial output rose 1.4 percent in November, reflecting the end of the
+Petrobras strike, but was down significantly from year-earlier levels.  The
+unemployment rate edged up to 7 percent in November.  Inflation nevertheless
+ended the year at 7.7 percent, up from 6 percent in 2000, and above the 6 percent
+
+IV-28
+
+upper limit of the government’s target range for inflation.  The rise reflected, in
+part, the strong depreciation of the currency through the third quarter of 2001. 
+The depreciation, as well as weak activity, contributed to an improvement in the
+trade balance, which shifted from a small deficit in 2000 to a surplus of about
+$2½ billion in 2001. 
+
+So far, Brazil has been affected relatively little by the turmoil in Argentina, with
+asset prices boosted by good news on the fiscal front and the improving trade
+balance.  The primary (non-interest) fiscal balance for the combined public
+sector in 2001 through November was over 4 percent of GDP.  Although a
+public sector deficit is anticipated for December, for the year as a whole, the
+primary fiscal surplus is expected to be over the country's IMF program target of
+3.4 percent of GDP.  The central bank has nevertheless kept its benchmark
+overnight interest rate at 19 percent to curb inflationary pressures.  In early
+January, the Brazilian government issued $1.25 billion in 10-year bonds in
+global markets at a spread of 750 basis points above U.S. Treasuries. 
+
+Brazilian Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2001
+
+Q3
+
+Q4
+
+Oct.
+
+Nov. 
+
+Dec.
+
+Real GDP1
+
+Industrial production
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+Current account5
+
+4.3
+
+6.6
+
+7.1
+
+6.0
+
+-.7
+
+n.a.
+
+n.a.
+
+n.a.
+
+7.7
+
+2.6
+
+.5
+
+-1.8
+
+6.1
+
+6.6
+
+6.3
+
+n.a.
+
+n.a.
+
+n.a.
+
+7.5
+
+9.2
+
+...
+
+-1.8
+
+6.8
+
+7.2
+
+8.0
+
+...
+
+1.4
+
+7.0
+
+7.6
+
+10.0
+
+-24.6
+
+n.a.
+
+-16.3
+
+n.a.
+
+-29.2
+
+-19.1
+
+...
+
+n.a.
+
+n.a.
+
+7.7
+
+9.7
+
+n.a.
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent.  “Open” unemployment rate.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.  Price
+
+index is IPC-A.
+
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+Indications are that Venezuelan GDP for 2001 likely rose at a rate well below
+the almost 6 percent registered in 2000.  Inflation remained relatively subdued,
+coming in at 12.3 percent for the year ended December.  Government revenues
+have been declining in step with oil prices, and projections are for a sizable
+fiscal imbalance in 2002.  In response, President Chavez proposed tax increases
+in January, including the imposition of a bank transaction tax.  With the
+
+IV-29
+
+weakening economy and heightened political uncertainty, capital continues to
+leave the country and the exchange rate is coming under increasing pressure. 
+For 2001, reserves (including the macroeconomic stabilization fund) fell
+$2 billion.  In the first few weeks of January, the decline was almost $1 billion. 
+The rate of crawl of the peg has been adjusted to 10 percent in 2002 compared
+with 7 percent last year.
+
+Venezuelan Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2001
+
+Q3
+
+Q4
+
+Oct.
+
+Nov.
+
+Dec.
+
+Real GDP1 
+
+Unemployment rate2
+
+Consumer prices3
+
+Non-oil trade balance4
+
+Trade balance4
+
+Current account5
+
+5.7
+
+13.4
+
+13.4
+
+-10.8
+
+18.0
+
+13.4
+
+n.a.
+
+n.a.
+
+12.3
+
+n.a.
+
+n.a.
+
+n.a.
+
+1.3
+
+13.4
+
+12.7
+
+n.a.
+
+n.a.
+
+3.2
+
+n.a.
+
+n.a.
+
+...
+
+n.a.
+
+...
+
+n.a.
+
+...
+
+n.a.
+
+12.4
+
+12.3
+
+12.7
+
+12.3
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+...
+
+n.a.
+
+n.a.
+
+...
+
+n.a.
+
+n.a.
+
+...
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent, n.s.a. 
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+In Korea, recent indicators suggest that activity has continued to move up. 
+Industrial production increased strongly in November, more than reversing the
+decline of the previous month.  Department store sales and producers’ shipments
+also rose in November, as the inventory to shipments ratio declined further. 
+Production has held up this year despite a substantial fall off of exports.  This
+divergence between production and exports–unusual in Korea’s history–has
+reflected the strength of domestic demand.  Domestic demand has been
+surprisingly robust this past year, with demand shifting in recent months from
+consumption to construction investment and government spending.  Both
+business and consumer sentiment moved up smartly in November, the latter
+probably boosted by a further decline in the unemployment rate.
+
+IV-30
+
+Korean Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2001
+
+Q3
+
+Q4
+
+Oct.
+
+Nov.
+
+Dec.
+
+Real GDP1
+
+Industrial production
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+Current account5
+
+5.2
+
+17.0
+
+4.1
+
+3.1
+
+16.9
+
+11.4
+
+n.a.
+
+n.a.
+
+3.7
+
+3.2
+
+n.a.
+
+n.a.
+
+5.1
+
+1.6
+
+3.5
+
+4.3
+
+11.9
+
+3.8
+
+n.a.
+
+n.a.
+
+3.4
+
+3.4
+
+n.a.
+
+n.a.
+
+...
+
+-1.5
+
+3.5
+
+3.5
+
+6.6
+
+3.0
+
+...
+
+1.9
+
+3.5
+
+3.4
+
+12.0
+
+8.3
+
+...
+
+n.a.
+
+3.3
+
+3.2
+
+n.a.
+
+n.a.
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent.
+3. Percent change from year earlier, except annual changes, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+Since the last Greenbook, data from the ASEAN region indicate that last year’s
+steep economic downturn may have ended in the fourth quarter.  Recent
+industrial production data have been positive in much of the region, and for
+Malaysia and Singapore–the countries hit hardest by last year’s economic
+swoon–the surge in production has been particularly strong.  Recent trade data
+have been mixed, with trade surpluses in Indonesia and Malaysia, the region’s
+net oil exporters, shrinking somewhat in November, and surpluses widening in
+the rest of the region.  Inflation has slowed in every country in the region except
+for Malaysia, where it is still at a very low level.
+
+IV-31
+
+ASEAN Economic Indicators:  Growth
+(Percent change from previous period, s.a., except as noted)
+
+Indicator and country
+
+1999
+
+2000
+
+2001
+
+Q2
+
+Q3
+
+Sept.
+
+Oct.
+
+Nov.
+
+Real GDP1
+Indonesia
+Malaysia
+Philippines
+Singapore
+Thailand
+
+Industrial production2 
+Indonesia3
+Malaysia
+Philippines
+Singapore
+Thailand
+
+6.4
+11.5
+5.1
+8.0
+6.4
+
+-.9
+9.1
+3.6
+13.9
+12.5
+
+5.7
+6.4
+3.9
+11.0
+3.1
+
+11.6
+19.1
+14.9
+15.3
+3.2
+
+6.2
+-8.5
+6.4
+-9.7
+.8
+
+3.1
+-5.3
+-1.1
+-6.3
+-.3
+
+-1.0
+1.0
+2.7
+-11.1
+.9
+
+-1.9
+1.2
+5.2
+-8.5
+.3
+
+...
+...
+...
+...
+...
+
+-.4
+-1.3
+-6.6
+-4.8
+-.1
+
+...
+...
+...
+...
+...
+
+2.4
+.2
+1.1
+7.7
+1.5
+
+.5
+3.1
+n.a.
+7.7
+1.0
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Annual figures are annual averages.
+3. Staff estimate.
+n.a.  Not available.    ...  Not applicable.
+
+ASEAN Economic Indicators:  Trade Balance
+(Billions of U.S. dollars, s.a.a.r.)
+
+Country
+
+2000
+
+2001
+
+Q3
+
+Q4
+
+Indonesia
+
+Malaysia
+
+Philippines
+
+Singapore
+
+Thailand
+
+n.a.  Not available.
+
+28.6
+
+16.0
+
+6.7
+
+3.3
+
+5.5
+
+n.a.
+
+n.a.
+
+n.a.
+
+5.8
+
+n.a.
+
+27.8
+
+15.0
+
+-.1
+
+4.7
+
+3.7
+
+n.a.
+
+n.a.
+
+n.a.
+
+6.5
+
+n.a.
+
+2001
+
+Oct.
+
+29.8
+
+13.0
+
+6.0
+
+2.0
+
+1.6
+
+Nov.
+
+Dec.
+
+23.2
+
+11.4
+
+6.2
+
+8.4
+
+1.9
+
+n.a.
+
+n.a.
+
+n.a.
+
+9.0
+
+n.a.
+
+IV-32
+
+ASEAN Economic Indicators:  CPI Inflation
+(Percent change from year earlier, except as noted)
+
+Country
+
+20001
+
+20011
+
+2001
+
+Q3
+
+Q4
+
+Oct.
+
+Nov.
+
+Dec.
+
+Indonesia
+
+Malaysia
+
+Philippines
+
+Singapore
+
+Thailand
+
+9.3
+
+1.3
+
+6.7
+
+2.1
+
+1.3
+
+12.5
+
+12.8
+
+12.6
+
+12.5
+
+12.9
+
+12.5
+
+1.2
+
+3.9
+
+n.a.
+
+.8
+
+1.4
+
+6.4
+
+.8
+
+1.6
+
+1.2
+
+4.6
+
+n.a.
+
+1.0
+
+.9
+
+5.4
+
+.2
+
+1.4
+
+1.5
+
+4.4
+
+-.2
+
+1.0
+
+1.2
+
+3.9
+
+n.a.
+
+.8
+
+1. December/December.
+n.a.  Not available.
+
+In China, recent indicators point to continued growth.  China's GDP rose
+7.5 percent in 2001 supported, in part, by fixed-asset investment by state-owned
+enterprises and inflows of foreign direct investment (FDI).  Indicators of future
+inflows of FDI remain strong.  Industrial production edged up in December, but
+consumer prices declined modestly in November and December, largely as a
+result of a government freeze on school fees and a price liberalization, which
+lowered the cost of some services.  Exports and imports fell in December, but
+both were up significantly relative to a year earlier.
+
+Chinese Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2001
+
+Q3
+
+Q4
+
+Oct.
+
+Nov.
+
+Dec.
+
+Real GDP1
+
+Industrial production2
+
+Consumer prices2
+
+Trade balance3
+
+8.0
+
+11.4
+
+1.5
+
+24.1
+
+7.5
+
+8.9
+
+-.3
+
+23.1
+
+7.1
+
+8.5
+
+.8
+
+8.3
+
+7.1
+
+8.5
+
+-.1
+
+...
+
+8.8
+
+.2
+
+...
+
+7.9
+
+-.3
+
+...
+
+8.7
+
+-.3
+
+36.3
+
+30.6
+
+42.4
+
+35.9
+
+1. Annual rate.  Quarterly data estimated by staff from reported four-quarter growth rates. 
+
+Annual figures are Q4/Q4.
+
+2. Percent change from year earlier.  Annual figures are year over year.
+3. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+...  Not applicable.
+
+IV-33
+
+China announced that, in light of the expected pickup in investment following
+entry into the WTO, it plans to abolish the favorable tax treatment granted to
+foreign firms for the past two decades.  Foreign firms currently pay 15 percent in
+income tax, as compared with 33 percent for domestic firms.  Various proposals
+are under consideration, but the most likely would be to raise the corporate tax
+rate for foreign firms while lowering the rate for domestic corporations.
+
+Data received since the last FOMC meeting suggest that economic conditions in
+Hong Kong have deteriorated.  The unemployment rate increased to 6.1 percent
+in the fourth quarter, the highest level since 1999.  The index of retail sales
+volume was up nearly 2 percent in November, but remains well below the level
+at the end of the summer.  The trade deficit widened in November as exports and
+imports both declined modestly, and consumer prices fell 3.5 percent over the
+twelve months ended December.
+
+Hong Kong Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2001
+
+Q3
+
+Q4
+
+Oct.
+
+Nov.
+
+Dec.
+
+Real GDP1
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+6.6
+
+5.1
+
+-2.1
+
+-11.0
+
+n.a.
+
+4.9
+
+-3.5
+
+1.6
+
+5.3
+
+-1.0
+
+n.a.
+
+-14.0
+
+n.a.
+
+6.1
+
+-2.1
+
+n.a.
+
+...
+
+5.5
+
+-1.2
+
+-9.9
+
+...
+
+5.8
+
+-1.4
+
+-11.8
+
+...
+
+6.1
+
+-3.5
+
+n.a.
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent.  Monthly numbers are averages of the current and previous two months.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+n.a.  Not available.    ...  Not applicable.
+
+Indicators released over the past month for Taiwan were negative, on balance. 
+The unemployment rate edged up to 5.3 percent in November, industrial
+production fell 3.7 percent in December, and consumer prices declined in
+November and December from a year earlier.  However, the trade balance
+improved with exports and imports both registering significant increases in
+December, and the Council of Economic Planning and Development’s index of
+leading indicators rose in November.  
+
+ 
+IV-34
+
+Taiwan Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2000
+
+2001
+
+2001
+
+Q3
+
+Q4
+
+Oct.
+
+Nov.
+
+Dec.
+
+Real GDP1
+
+Unemployment rate2
+
+Industrial production
+
+Consumer prices3
+
+Trade balance4
+
+Current account5
+
+3.8
+
+3.0
+
+7.4
+
+1.7
+
+8.3
+
+8.9
+
+n.a.
+
+n.a.
+
+-7.5
+
+-1.7
+
+15.7
+
+n.a.
+
+-3.1
+
+4.9
+
+-1.6
+
+.0
+
+11.7
+
+17.9
+
+n.a.
+
+n.a.
+
+1.8
+
+-.6
+
+...
+
+5.2
+
+8.0
+
+1.0
+
+21.3
+
+16.4
+
+n.a.
+
+...
+
+...
+
+5.3
+
+-1.3
+
+-1.1
+
+21.9
+
+...
+
+...
+
+n.a.
+
+-3.7
+
+-1.7
+
+25.6
+
+...
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+

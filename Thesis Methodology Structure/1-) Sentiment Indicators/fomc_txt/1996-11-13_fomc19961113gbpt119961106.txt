@@ -1,0 +1,8509 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+Strictly  Confidential  (FR)  Class  II  FOMC
+
+Part  1
+
+November  6.  1996
+
+CURRENT  ECONOMIC
+AND  FINANCIAL  CONDITIONS
+
+Summary  and  Outlook
+
+Prepared  for  the  Federal  Open  Market  Committee
+By the  staff  of the  Board  of  Governors  of the  Federal  Reserve  System
+
+Strictly  Confidential  (FR)  Class  II FOMC
+
+November 6,  1996
+
+SUMMARY  AND  OUTLOOK
+
+Prepared for the  Federal Open  Market Committee
+by the staff of the Board  of Governors  of the  Federal  Reserve System
+
+DOMESTIC  DEVELOPMENTS
+
+Final  demand  decelerated  even more  sharply  this  summer  than  we
+
+had  expected,  with  a  marked  weakening  of  consumer  spending.  But  a
+
+pickup  in  inventory  investment  largely  filled  the  gap,  and  real  GDP
+
+growth  in  the  third  quarter  once  again  exceeded  2  percent.  Although
+
+the  recent  pace  of  stock  accumulation is  unsustainable, there  is  no
+
+major  inventory overhang,  and  businesses  seem to  be  confident  that
+
+their  sales  will  be  healthy  in  the  near  term--witness  their
+
+willingness  to  add  substantially  to  their payrolls  last  month.
+
+Our  guess  is  that  real  GDP  growth  will  decelerate  to  a  bit  less
+
+than  2  percent  in  the  current  quarter,  with  the  effects  of  the
+
+CAW/UAW strikes  against GM  accounting for  a  good  part  of  the  further
+
+slowing.  A  catchup  in  auto  production  should  give  a  fillip  to
+
+manufacturing  activity  into  the  early  part  of  1997,  but  we  continue
+
+to  think that  GDP  growth  generally  will  run  just  a  shade  above
+
+2  percent  over  the  next  two  years  if present  money market  conditions
+
+are  maintained.  The  softening in  demand  in  the  third quarter  has
+
+stimulated  some  talk of possible  recession--shades  of  late  1995.
+
+However,  we would  judge  the  risks  attending  our  output  path to  be  at
+
+least  as  great  on  the  upside  over  the  next  few  quarters.  Fiscal
+
+policy  restraint  seems  likely  to  be  limited  in  the near  term,  and
+
+credit  supplies  are  ample.  Notably,  the  stock market  has  posted
+
+impressive  gains,  and  absent  a  more  sudden  and  jarring  correction
+
+than we  are  inclined to  forecast,  equity  values  should  remain a  plus
+
+for  demand  for  a  while.
+
+Given  the  projected  GDP  growth,  the  unemployment  rate  is
+
+expected  to  hold  in  the  recent  low  range.  On  the  labor  cost  side,
+
+the  third-quarter  increase in ECI  hourly compensation  fell  short  of
+
+our  expectations,  and  based  on  another  quarter's  "surprise,"  we  have
+
+shaved  our  effective  NAIRU  a  couple  of  tenths.  Nonetheless,
+
+I-2
+
+even  with this  adjustment,  labor markets  would be  characterized  as
+
+tight,  implying  some  further  upward  drift  in  compensation  rates.  As
+
+regards  prices,  the  latest  news  was  in  line  with our  earlier
+
+thinking.  However,  looking  forward,  the  more  favorable  labor  cost
+
+projection  has  led  us  to  trim  our  forecast  of price  inflation.
+
+Assuming  some  relief  from food  and  energy  supply pressures,  we now
+
+anticipate  that  the  overall  CPI  will  rise  just  under 3 percent  in
+
+both  1997  and  1998,  compared  with about  3-1/4 percent  this  year.  We
+
+remind  the  reader,  though,  that  the  year-to-year  progression  of
+
+inflation rates  is  being  damped  by  technical changes  in  the  CPI;  an
+
+adjusted  series  would  show  a gradual  upcreep,  especially in  the  core
+
+CPI.
+
+Key  Background Factors  in  the  Forecast
+
+Bond  markets  have  rallied  strongly  in  response  to  the  latest
+
+economic  data,  and  concerns  about  prospective Fed  tightening  actions
+
+have  evaporated.  Given  our baseline  assumption of  an unchanged
+
+federal  funds  rate  and  our  expectations  for the  economy, we  see no
+
+reason  to  anticipate  a major  sustained  backup  in  yields.  Rather, we
+
+are  projecting that  bond  rates  will  remain mainly  in the  recent
+
+range  through  1998.
+
+Credit  still  seems  readily  available  to most  borrowers  and  is
+
+not  expected to be  a  significant  constraint  on  spending over  the
+
+projection period.  In the  consumer  loan market,  banks have  become
+
+less  aggressive  in marketing  new  credit cards  to  marginal  borrowers
+
+and have tightened terms  on  some  accounts.  These  selective  actions
+
+are  likely to  continue  a while  longer,  but  on the  whole, banks  are
+
+unlikely to  retreat  in  any  significant way  from their  relatively
+
+profitable  consumer  lending  business.  In  the  business  sector,  firms
+
+should  continue  to  enjoy relatively  easy  access  to  credit  at
+
+favorable  spreads.
+
+Stock prices  have  reached  new highs  since the  last  FOMC
+
+meeting,  reflecting the  decline  in  interest  rates  as  well  as  third-
+
+quarter  earnings  reports  that  again  exceeded  expectations.
+
+However,  even with  a more  favorable  forecast  of labor  costs,  we
+
+believe that  corporate profit  growth  is  likely to  prove  less  robust
+
+than  anticipated  by many  financial  analysts.  This  factor,  along
+
+with what  simply  seems  to  be  a very thin  equity premium  currently,
+
+leads  us  to  persist  in anticipating that  there will  be  a correction
+
+in  the  stock market  before  long.  Nonetheless,  the  level  of  share
+
+prices  is  higher  throughout  this  forecast  than in  the  last,
+
+especially  in  the  near term--a marginal  plus  for  business  investment
+
+and  consumer  spending,  relative  to  our  previous  expectations.
+
+The  elections  produced  no  significant  change  in the  existing
+
+balance  of  power between  the  President  and  the  Congress.  Given
+
+campaign  promises,  there  is  likely to  be  an  effort  to  enact  some  tax
+
+cuts,  but  longer-range budget-balancing  objectives  are  likely to
+
+curb  any  tendency toward  fiscal  laxness.  We  continue  to  assume  that
+
+federal  spending will  be  restrained  enough to  give  a slightly
+
+restrictive  cast  to  federal  fiscal  policy.  However,  the  unified
+
+deficit  is  projected  to  stay  about  flat  in  fiscal  1997  and  then  rise
+
+$33  billion  to  $141  billion  in  fiscal  1998.  The  year-to-year
+
+pattern  reflects  a bunching of tax  payments  in  fiscal  1996
+
+(associated with the  surge  in individual  income tax  liabilities),
+
+$14  billion  in expected  spectrum  auction  proceeds  in  fiscal  1997,
+
+and  a  return to  more normal  growth  in  outlays  for mandatory
+
+programs.
+
+The trade-weighted  foreign exchange  value  of the  dollar  is
+
+little  changed  on  net  since  the  September  meeting of the  FOMC,  and
+
+we  expect  it  to  remain  near  current  levels  over  the  forecast  period.
+
+1.  The  profits  implicit  in  BEA's  advance  estimate  appear  weak
+
+relative to  what  is  suggested by  available  corporate reports.
+
+I-4
+
+This  expectation  represents  an  elevation  of about  1 percent  from the
+
+path in  the  September  Greenbook.  Our  projections  of  economic
+
+activity  abroad  also  are  little  changed  from the  last  forecast:
+
+After  growing  3-1/4  percent  in  1996,  foreign real  GDP  is  projected
+
+to  rise  between 3-1/2  percent  and  4 percent  in  1997  and  1998.
+
+Oil  prices  have  been  quite  volatile  since  the  time  of  the last
+
+Greenbook,  rising  initially in  response  to  uncertainty  about  the
+
+unrest  in  Northern  Iraq and  concern  about  the adequacy  of heating
+
+oil  stocks  in the  United  States.  Prices  have  fallen  back in  the
+
+past  week  as  the  Iraqi  situation  has  stabilized,  but  the  spot  price
+
+of  WTI  now is  expected to  average  $23.50  per  barrel in  the  fourth
+
+quarter--about  $1.50  higher  than  in  our  previous  forecast.  Oil
+
+prices  are  expected to  average  $22  per  barrel  in the  first  quarter
+
+of  1997,  before  dropping to  $19.50  by  the third  quarter  of  1997  in
+
+the wake  of the  arrival  of  Iraqi  oil  on  the market;  oil  prices
+
+remain  at  this  level  for  the  balance  of the  forecast  period.
+
+Recent  Developments and  the  Prospects  for the  Current  Quarter
+
+Our  current  point  estimate  of  real  GDP  growth  in the  third
+
+quarter  is  2.5  percent  at  an  annual  rate--0.3  percentage point  above
+
+BEA's  advance  figure  and  about the  same  as  in  the  last  Greenbook.
+
+The  expected upward revision  reflects  the  September  data  on
+
+manufacturers'  inventories, which  came  in  above  BEA's  assumption, as
+
+well  as  greater  strength in  shipments  of nondefense  capital  goods
+
+and  in  construction put  in place.
+
+Turning  to the  fourth quarter,  the  data  in  hand  are  quite
+
+limited--the most  important  being  those from the labor  market.
+
+Despite  a sizable  gain  in  employment,  production-worker  hours
+
+dropped  appreciably  in October,  implying  a sharp  drop  in  the  average
+
+workweek.  However,  the workweek  has  been following  a sawtooth
+
+pattern,  and we  expect  some  recovery  in November-December.
+
+Certainly,  initial  claims  for  jobless  benefits  suggest  an  ongoing
+
+vitality  of  labor  demand  into  early November.  For  the  quarter  as  a
+
+whole,  production-worker  hours  are  projected to  increase
+
+1-1/2  percent  (annual rate).  This  increase,  and  the  recent
+
+stability of  the  unemployment  rate,  would be  consistent  with
+
+moderate  output  growth.
+
+SUMMARY OF  THE  NEAR-TERM  OUTLOOK
+(Percent  change,  annual  rate)
+
+1996:Q3
+
+Sept.  BEA 
+
+GB 
+
+Adv. 
+
+Nov.
+GB
+
+1996:04
+
+Sept, 
+GB 
+
+Nov.
+GB
+
+Real  GDP
+
+2.4 
+
+2.2 
+
+Private  domestic  final  sales
+
+2.4 
+
+1.9 
+
+2.5
+
+2.0
+
+2.2 
+
+3.4 
+
+1.8
+
+3.2
+
+Change  in  billions  of chained
+
+(1992)  dollars
+
+Inventory  investment
+
+24.0 
+
+32.5 
+
+33.6 
+
+-4.7
+
+18.1
+
+Government  outlays  for
+
+consumption and  investment
+
+-8.5
+
+-4.4
+
+-1.5
+
+-2.3
+
+Net  exports
+
+-8.3
+
+-17.5
+
+-18.9
+
+-3.3
+
+-2.4
+
+6.1
+
+Strikes  by  the  Canadian  Auto  Workers  (CAW) and  United  Auto
+
+Workers  (UAW) against  General  Motors  reduced  U.S.  light  vehicle
+
+assemblies  by  1.2  million units  (annual  rate)  in October  and  early
+
+November.  These  work  stoppages  are now  over,  but  the  lost  output
+
+probably cannot  be made up  in the  current  quarter  because  many  of
+
+the  affected  assembly  plants  had  been operating  at  capacity  prior  to
+
+the  strikes.  On  balance, we  estimate that  the  resultant decline  in
+
+motor  vehicle  output  will  reduce  real  GDP  growth by  around
+
+0.3  percentage  point  in the  fourth  quarter.
+
+Consumer  spending  is  projected  to  be  the  driving  force behind  a
+
+resurgence  in  final  sales  this  quarter.  Income  growth  has  been
+
+quite  strong this  year,  the  rise  in  the  stock market  has  boosted
+
+I-6
+
+household  wealth,  and  indexes  of consumer  sentiment  remain near  the
+
+high  end  of the  range  experienced  in this  expansion.  Even
+
+considering the  less  favorable  consumer  debt  situation,  some
+
+reversal  of the  summer jump  in the  personal  saving  rate would  seem
+
+to  be  in  store.  At  this  point,  though, there is  no  real  statistical
+
+evidence  to  support  this  prediction:  Non-auto  retail  sales  did  turn
+
+up  in  September, but  sales  of  light  vehicles  were  down  slightly  in
+
+October  (perhaps hindered  a little by the  strikes).
+
+Real  business  fixed  investment  is  expected  to  grow relatively
+
+slowly  in  the  current  quarter,  reflecting  sizable  cutbacks  in
+
+business  purchases  of motor  vehicles.  We  anticipate  that,  in  the
+
+wake  of the  CAW/UAW  strikes,  GM will  allocate  a greater  fraction of
+
+the  available  supply of vehicles  to  retail  customers,  temporarily
+
+curtailing  its  fleet  sales.  Outside  of motor vehicles,  the  outlook
+
+for  equipment  spending  is  considerably brighter.  Positive trends  in
+
+orders  and  shipments,  coupled  with  further  rapid  price  declines,
+
+suggest  another  robust  quarter  of  real  spending  on  computers  and
+
+communications  equipment.  Recent trends  in  indicators  of
+
+nonresidential construction  point  to  small  increases  in  this  sector.
+
+Residential  construction  is  expected  to  decline  in  the current
+
+quarter.  The  drop would  stem mainly  from the  earlier  falloff  in
+
+single-family  starts,  but we  are also  anticipating that  such  starts
+
+will  run lower  this  quarter  than the  average  pace  over  the  summer.
+
+Recent  indicators  of housing  demand remain mixed, however.  On the
+
+positive  side,  mortgage  rates  have  fallen,  consumer perceptions  of
+
+homebuying  conditions have  improved  again,  and mortgage  applications
+
+have  been well maintained.  In  contrast,  builders'  ratings  of new
+
+home  sales  have tailed  off since  the  spring.
+
+In  the  government  sector,  the decline  in  federal  purchases  is
+
+expected to  steepen  in the  fourth  quarter, with  spending  reductions
+
+concentrated  in  defense  consumption  expenditures.  State  and  local
+
+purchases  are  forecast  to  pick up  in  the  fourth  quarter,  with  the
+
+largest  gains  in  construction  spending.
+
+After widening  over  the  first  three  quarters  of  this  year,  the
+
+deficit  on  real  net  exports  is  projected to  narrow temporarily  in
+
+the  fourth  quarter--contributing  a little  to the  growth of  real  GDP.
+
+A  key  element  in the  current-quarter  forecast  is  the
+
+expectation that  growth  in  the  stock  of  nonfarm  inventories  will
+
+drop  back  to  a sustainable pace  after  a 4-1/4  percent  increase
+
+(annual rate)  in  the  third  quarter.  Inventory-sales  ratios  had
+
+fallen to  relatively  low  levels  at  the  beginning  of the  summer,  and
+
+the  additional  stockbuilding  just  moved  stock-sales  ratios  back  to
+
+the  middle  of the  recent  range.  Anecdotal  reports  generally  find
+
+businesses  to  be  satisfied with  current  stock levels,  but  they have
+
+no  obvious  incentive to  build their  inventories  further  relative  to
+
+what  is  perceived  to  be  a moderate  sales  growth trajectory.  Nonfarm
+
+inventories  thus  are  projected to  increase  at  a 2 percent  annual
+
+rate  in the  current  quarter,  and this  downshifting  in  the  pace  of
+
+accumulation restrains  real  GDP  growth by more  than  1 percentage
+
+point.
+
+The  CPI  is  projected to  rise  at  a 3-1/4  percent  annual  rate  in
+
+the  fourth  quarter--slightly  less  than  in the  September Greenbook.
+
+The  rate  of  increase  in food  prices  should  slow  somewhat  from the
+
+elevated  pace  of  the  third quarter.  Estimates  of  the  size  of  this
+
+year's  harvest  have  been boosted,  and  crop  prices  have  fallen
+
+substantially.  Near-term energy price  increases  also  have  been
+
+scaled back despite  the  higher  crude  oil prices  in this  projection;
+
+this  reflects  favorable  developments  in  the  markets  for  natural  gas
+
+and  electricity.  Excluding  food  and  energy, we  forecast that  the
+
+I-8
+
+CPI  will  increase  close  to  3  percent  in  the  current  quarter--
+
+essentially  the  same  as  in  the  last  Greenbook.
+
+As  a  result  of  the more  favorable trends  in  the  incoming  data,
+
+we  have  trimmed  the  projected  increase  in  the  ECI  in  the  fourth
+
+quarter  to  3-1/2  percent  at  an  annual  rate.  The  acceleration
+
+between  the  third  and  fourth  quarters  is  concentrated  in  wages  and
+
+salaries  and  reflects  the  tautness  in  labor  markets  as  well  as  the
+
+hike  in  the  minimum wage.  We  have  stuck by  our  estimate that  the
+
+higher minimum wage  will  add  almost  1/2  percentage  point  to  the
+
+annual  rate  of  increase  in  the  ECI  in  the  current  quarter,  even
+
+though  the  evidence  of  such  an  effect was  not  striking in  the
+
+October  data  on  average hourly  earnings.  Although  average  hourly
+
+earnings  were  flat  overall  last  month, there  was  a  large  increase  in
+
+the  retail  trade  sector,  in  which many minimum-wage  workers  are
+
+employed.
+
+The  Outlook  for  the  Economy Beyond  the  Current  Quarter
+
+Real  GDP  is  projected  to  grow  a  little more  than 2  percent  in
+
+both  1997  and  1998.  The  forecast  for  1997  has  been raised  slightly
+
+to  reflect  the  makeup  of motor  vehicle  output  lost  as  a  result  of
+
+the  CAW/UAW  strikes.  This  added  output  boosts  real  GDP  growth  by
+
+almost  1/2  percentage  point  (at  an  annual  rate)  in  the  first  quarter
+
+of  1997.  Thereafter,  the  projection  is  virtually  the  same  as  in  the
+
+September  Greenbook.  With no  imbalances  to  speak  of and  no  major
+
+monetary or  fiscal  policy  shocks,  economic  growth  settles  down to
+
+about  its  trend pace.
+
+Consumer  spending.  After  rebounding  in the  current  quarter,
+
+personal  consumption  expenditures  are  forecast  to  move  closely  in
+
+line  with disposable  income,  holding the  personal  saving  rate
+
+essentially  flat  at  about  5  percent.  As  in  past  Greenbooks,  we view
+
+this  projection  as  balancing  several  conflicting  influences  on
+
+I-9
+
+consumption.  Confidence  is  high,  and  the  higher  values  of the  stock
+
+market  probably have  boosted the  consumption  of  some  households  and
+
+could  buoy  spending  in  coming  quarters,  even with the  correction
+
+built  into  the  forecast.  Other  segments  of the  population  are
+
+likely  finding  their  spending  capacity  restricted  by heavy  debt-
+
+service burdens,  and  the  tightening  of  credit  card  standards  that
+
+has  been  under way  will  put  a further  damper  on  spending,  albeit  a
+
+minor  one.  Still  other  households  probably  are  earmarking more  of
+
+their  income to  retirement  saving  or  to  college  funds  for  their
+
+children.
+
+SUMMARY  OF  STAFF  REAL  GDP  PROJECTION FOR  1996-98
+(Percent change,  Q4  TO  Q4,  unless  otherwise  noted)
+
+Real  GDP 
+
+Previous 
+
+Real  PCE 
+
+Previous 
+
+Real  BFI 
+
+Previous 
+
+Real  residential  investment 
+
+Previous 
+
+Change in  billions  of chained
+
+(1992)  dollars
+
+1996 
+
+1997 
+
+1998
+
+2.7 
+2.8 
+
+2.8 
+2.9 
+
+8.7 
+7.6 
+
+2.3 
+4.1 
+
+2.2 
+2.1 
+
+2.7 
+2.7 
+
+5.1 
+5.1 
+
+-1.1 
+-2.2 
+
+2.1
+2.1
+
+2.4
+2.4
+
+5.6
+5.6
+
+1.3
+1.0
+
+Net  exports 
+Previous 
+
+-42.6 
+-41.1 
+
+-24.3 
+-15.6 
+
+-18.8
+-18.4
+
+Reflecting these  crosscurrents,  real  PCE  is  forecast  to  grow
+
+2-3/4 percent  in  1997  and  2-1/2  percent  in  1998.  Sales  of  new cars
+
+and  light  trucks  have  been  running  at  a fairly  high level  for a
+
+while,  and  underlying  stock  relationships  would  not  seem to  support
+
+a sustained  further  advance.  Similarly,  with the  projected
+
+softening in  housing  activity, we  do  not  foresee  large  increments  to
+
+spending on  furniture  and  appliances.  In  contrast,  the  growth  in
+
+I-10
+
+demand  for  computers  and  other  home  electronic  equipment  probably
+
+will  be maintained  at  a high  level,  given the  large  price  declines
+
+and  product  innovations  in this  area.  We  are projecting  fairly
+
+steady  growth  in  spending  on  nondurables  and  services.
+
+Residential  investment.  We  have  raised the  forecast  for
+
+housing  activity  slightly,  reflecting  the  lower  level  of mortgage
+
+rates  in  this  forecast.  Single-family  housing  starts  are  projected
+
+to  edge  down closer  to  a  1.1  million unit  rate  in  the  next  few
+
+quarters  and  to  remain there  through  1998.  Although we  have
+
+anticipated no  changes  in  the  tax treatment  of  owner-occupied
+
+housing, the  risks  probably are  in  the  positive  direction  for
+
+demand:  There  were  campaign promises  of further  enhancement of  the
+
+shelter  from  capital  gains  taxes,  while more  fundamental tax  reforms
+
+that  might make  homeownership less  advantageous  do  not  appear  to  be
+
+imminent.  In  the  multifamily  market,  starts  are  projected to  hold
+
+steady  at  300,000  units  over the  forecast  period.  Vacancy  rates
+
+have  risen,  and  profitability  concerns  are  likely to  inhibit
+
+construction.
+
+The  projected  level  of  overall  starts  is  relatively high  and
+
+might  be  regarded  as  more  than  ample  in  relation to  longer-term
+
+trends  in the  pace  of  household  formation.  However,  those  trends
+
+have  proved  quite  difficult  to predict  and, moreover,  have  not  been
+
+a particularly  reliable  guide  to  construction in the  short  run.  The
+
+cash-flow affordability  of  single-family homes  is  very  good by  the
+
+standards  of  recent  decades,  and the  rapid  growth  of employment  over
+
+the  past  few years  probably  has  positioned  a greater number  of
+
+people  to  establish households.
+
+Business  fixed  investment.  After  the  large  gains  of  recent
+
+years,  real  BFI  is  projected  to  decelerate  to  a 5 percent  pace  in
+
+1997  and  to  grow  5-1/2  percent  in  1998.  The  slowing  reflects  the
+
+I-11
+
+waning  of  accelerator effects  and the  less  rapid  growth in  corporate
+
+cash  flow.
+
+Real  PDE  is  forecast  to  rise  around  7 percent  in both  1997  and
+
+1998.  Growth  in  gross  spending  on  office  and computing  equipment  is
+
+expected  to  remain  quite  strong--though well  below the  astronomical
+
+pace  of  earlier  years.  Continued technological  change  and  large
+
+price  declines  are  expected  to  produce  a hefty  demand  in  this
+
+sector.  Similarly, we  are  anticipating an  acceleration  in  spending
+
+on  communications  equipment  over  the  next  few years,  as  the
+
+introduction  of new technologies  coupled  with  deregulation  of this
+
+industry  prompts  substantial  new investment.  Spending on new
+
+aircraft  also  should  pick  up,  given the  improved  finances  of
+
+domestic  air  carriers;  industry production will  be  boosted  as  well
+
+by  rising deliveries  to  foreign  customers.  Outside  of these  areas,
+
+spending  for  new motor vehicles  and  the more  traditional  types  of
+
+industrial  equipment  is  projected to  grow slowly  as  current  levels
+
+of  investment  probably are  already  sufficient  to meet  most
+
+anticipated needs  for  such  capital.  In  some materials  industries,
+
+especially,  concerns  have  begun  to  arise  about  potential  excess
+
+capacity.
+
+Nonresidential investment  is  expected  to  only  inch  up  over  the
+
+projection  period.  Construction  contracts  have  flattened out  as
+
+overbuilding  in  some  areas  (such as  retail  outlets)  is  now starting
+
+to  restrain new  construction.
+
+Inventory  investment.  With the  exception  of  the  near-term
+
+outlook  discussed  above,  the  forecast  for  nonfarm inventory
+
+investment  is  essentially unchanged  from the  September  Greenbook.
+
+We  expect  businesses  to maintain  a focus  on  paring  stocks  to  their
+
+operational minimum, and we  anticipate  that  inventory-sales  ratios
+
+will  trend downward  over  the  projection period.  In  such  an
+
+I-12
+
+environment,  nonfarm  inventory investment  has  an  essentially neutral
+
+influence  on  real  GDP  growth  in  1997  and  1998.
+
+As  regards  farm inventories,  we  have  strengthened  our
+
+projection  for  the  second  half  of  1996  in light  of the  favorable
+
+outcome  of  the  current  harvest.  After  a rocky  start,  this  year's
+
+corn,  wheat,  and  soybean  output  looks  to  be  quite  a bit  better  than
+
+anticipated just  three months  ago,  when  it  was  feared  that  stocks
+
+might  be  exhausted.  Futures  prices  have  eased now  that  stockpiles
+
+are  expected to  be  adequate to meet  demand.  Assuming  normal
+
+harvests  in  1997  and  1998,  we  expect  farm inventories  to  rise
+
+somewhat  further  over  the  forecast period.
+
+Government.  Real  federal  expenditures  on  consumption  and  gross
+
+investment  are  projected to  fall  2-1/2  percent  in  1997  and
+
+3-1/2  percent  in  1998.  This  is  an  upward  revision  from the
+
+September  Greenbook and  reflects  the  additional  outlays  for  defense
+
+approved by the  Congress  before  it  adjourned.  Defense  purchases  now
+
+are  expected to  fall  3-1/4  percent  in  1997  and  4-1/2  percent  in
+
+1998.  Nondefense  purchases  are  forecast  to  decline  1 percent  in
+
+1997  and  1-3/4  percent  in  1998,  reflecting  anticipated  reductions  in
+
+federal  employment.
+
+Most  state  and  local  governments  find themselves  in  reasonably
+
+good  financial  shape at  the  moment,  and  we  anticipate moderate
+
+growth  in  real  purchases  over  the  next  two  years.  State  and  local
+
+consumption  and  investment  expenditures  are  projected  to  rise
+
+2-1/2  percent  in  both  1997  and  1998.
+
+Net  exports  of goods  and  services.  The  outlook for  the  U.S.
+
+external  balances  has  weakened in  this  forecast  relative  to  the
+
+September  Greenbook.  Exports  are  expected  to  grow  6-3/4 percent  in
+
+1997  and  6-1/4  percent  in  1998,  while  the  growth in  imports  is
+
+somewhat  faster  than that:  8-1/4 percent  in  1997  and  7-1/4  percent
+
+I-13
+
+in  1998.  The  widening of  the  deficit  on  real  net  exports  subtracts
+
+about  1/3  percentage  point  from real  GDP  growth  in  1997  and  1998.
+
+(A more  detailed  discussion  of  the  outlook  for  net  exports  is
+
+contained  in the  International  Developments  section.)
+
+Labor markets.  Growth  in  nonfarm payrolls  is  projected to
+
+taper  down to  about  130,000  per  month  in  early  1997.  With  the
+
+economy  growing  at  about  its  potential pace  and  only a  slight
+
+further  increase  expected  in the  labor  force participation  rate,  the
+
+unemployment  rate  is  projected to  hold  steady  at  5.2  percent  over
+
+the  forecast period.
+
+STAFF LABOR MARKET  PROJECTIONS
+
+(Percent change,  04  TO 04,  unless  otherwise
+
+noted)
+
+1996 
+
+1997
+
+~
+
+1998
+
+Output  per  hour,  nonfarm business 
+
+Previous 
+
+Nonfarm payroll employment 
+
+Previous 
+
+Civilian unemployment  ratel 
+
+Previous 
+
+.6 
+.9 
+
+2.1 
+2.2 
+
+5.2 
+5.4 
+
+.9
+.9
+
+1.3
+1.2
+
+5.2
+5.4
+
+Labor  force  participation  rate I  
+
+Previous 
+
+66.8 
+66.8 
+
+66.9
+66.8
+
+1.0
+1.0
+
+1.2
+1.3
+
+5.2
+5.4
+
+66.9
+66.9
+
+1. Average  for  the  fourth  quarter.
+
+In  putting together  this  forecast, we  have  assumed that  growth
+
+in  labor  productivity will  move back to  its  trend  rate  of  around
+
+1 percent.  In  doing  so,  we  have heavily  discounted  its  recent  poor
+
+performance.  It  is  possible that  depletion of  the  supplies  of  well-
+
+qualified  workers has  now  started to  take  its  toll  on productivity
+
+gains.  But  we  think it  more  likely that  productivity simply has
+
+been underestimated.  When  output  is  estimated  from the  "income"
+
+side  of  the  accounts,  recent  productivity growth  looks  better  than
+
+the  published product-side  measure.  Furthermore, we  find  it
+
+I-14
+
+difficult  to believe  that  actual  efficiency  gains  have  markedly
+
+slowed in  an  environment of  robust  capital  spending,  rapid
+
+technological  change,  and  ongoing  corporate  restructuring.  Thus,  we
+
+have  let the  growth  in  labor  productivity move  back to  its  trend.
+
+However,  it  is  important  to  note  that  this  assumption  is  not  without
+
+its  risks.  If  trend  growth  in productivity truly has  slowed
+
+recently,  the  staff  forecast may  seriously  understate  the  potential
+
+inflationary pressures  in  the  economy.
+
+Wages  and  prices.  As  in  past Greenbooks,  a key  influence  on
+
+the  medium-term outlook  for wage  and  price  inflation  is  the  amount
+
+of  slack in  labor  and product  markets.  Given current  and
+
+prospective  levels  of  investment,  physical  capacity  in the
+
+industrial  sector  would not  appear  to  be  a concern.  Rather,  it  is
+
+in the  availability  of  qualified labor  where the  tensions between
+
+aggregate  demand  and  supply  appear  to be  arising.  As  noted  above,
+
+looking  at  the  trends  in  compensation with the  receipt  of  another
+
+quarter's  data,  we have  judged  that  the  upcreep  in  pay  rates  is
+
+slower  than we  had thought.  This  suggests that  a somewhat  lower
+
+level  of unemployment may  in  fact  be  compatible with  stability  in
+
+inflation--and,  in effect,  we  have  lowered  the  NAIRU  implicit  in  our
+
+forecast to  something more  like  5.6  percent,  a  couple  of  tenths
+
+below that  embedded  in  our  previous  forecast.  That  said,  the  staff
+
+forecast continues  to  show the  actual  unemployment  rate  below the
+
+sustainable  level,  and  thus  includes  a  gradual uptrend  in inflation.
+
+ECI hourly  compensation  is  projected to  rise  from  a rate  of
+
+3 percent  in  1996  to  3.4  percent  in  1997  and  3.6  percent  in  1998.
+
+In  addition to  the  tightness  in  labor markets,  the  direct  effect  of
+
+the  hikes  in  the  minimum wage  and  the  associated  feedback  effects
+
+through higher  price  inflation add  0.2  percentage  point  to  the
+
+increases  in  the  ECI  in both  1997  and  1998.
+
+I-15
+
+The  influence  of  economic  slack is  more  difficult  to  identify
+
+in  the  CPI  forecast  because  of methodological  changes  to  the  index
+
+and  developments  in  food  and  energy markets.  After  an  increase  of
+
+2.7  percent  in  1996,  core  CPI  inflation is  projected to  rise  to
+
+3 percent  in  1997,  and  it  is  expected  to  hold  at  that  level  in  1998
+
+as  reweighting of  the  index masks the  underlying upward movement  in
+
+prices  induced  by  excessively tight  markets.  In  addition,  a gradual
+
+updrift  in  non-oil  import  prices  is  expected  to  be  a marginal
+
+addition  to  inflationary  pressures--in  contrast  to  the  damping
+
+effect  of  import  price  declines  over  the  past  year.
+
+(Percent  change,  Q4  TO  Q4,  unless  otherwise
+
+noted)
+
+STAFF  INFLATION  PROJECTIONS
+
+1996 
+
+1997
+
+1998
+
+Consumer
+
+Previou
+
+price  index 
+s 
+
+Food
+
+Previ
+
+ous 
+
+Energy
+
+Previ
+
+ous 
+
+Excludi
+Previ
+
+ng  food  and  energy 
+ouIs 
+
+ECI  for  compensation  of
+
+private  industry workers
+
+Previous
+
+Memo:
+
+Core  CPI  adjusted  for
+
+methodology  changes
+Previous
+
+1. December  to  December.
+
+3.2 
+3.2 
+
+3.9 
+4.1 
+
+7.1 
+7.6 
+
+2.7 
+2.7 
+
+3.0
+3.3
+
+2.9
+2.9
+
+2.8
+3.1
+
+2.9
+3.7
+
+.3
+1.6
+
+3.0
+3.1
+
+3.4
+3.6
+
+3.3
+3.4
+
+2.8
+2.9
+
+2.8
+2.4
+
+1.0
+1.9
+
+3.0
+3.1
+
+3.6
+3.8
+
+3.4
+3.5
+
+The  overall  CPI  is  projected to  decelerate  from an  increase  of
+
+3.2  percent  in  1996  to  2-3/4  percent  in  1997  and  1998,  reflecting
+
+favorable  developments  in  food  and  energy markets.  The  outlook  for
+
+energy  prices  is  largely  determined by the  path  of  crude  oil  prices.
+
+The  recent  run-up  in  crude  costs  is  expected to  show up  at  the  pump
+
+I-16
+
+in the  next  few months.  As  crude  oil  prices  drop  over  the  first
+
+half  of  1997,  the  rate  of  increase  in  energy  prices  slows.  On
+
+balance,  we  are  forecasting  increases  in CPI  energy  prices  of  just
+
+0.3  percent  in  1997  and  1 percent  in  1998.
+
+The  changes  to  the  food  price  projection mainly  reflect  the
+
+more  favorable  outlook  for both  crop  and  livestock production.  As
+
+noted,  the  larger  harvest  now  expected  for  this  year  has  put
+
+downward  pressure  on  corn,  wheat,  and  soybean  prices.  With  lower
+
+input  prices,  the  expected  run-up  in  retail  food  prices  has  been
+
+scaled  back.  In  addition,  feed  prices  have  fallen  sufficiently  to
+
+again make  it  profitable  to  put  young  calves  on  feed,  and  an
+
+increase in meat  supplies  is  expected  during  1997.  As  a result  of
+
+these influences,  we  have  cut  the  expected  increase  in  CPI  food
+
+prices  next  year  3/4  percentage  point,  to  3 percent.  Assuming
+
+normal  harvests  in  1998,  food prices  are  projected to  decelerate
+
+further  to  an  increase  of  2-3/4  percent.
+
+Monetary and  credit  flows.  With  short-term market  interest
+
+rates  assumed  to be  about  unchanged  over  the  projection period,
+
+deposit  interest  rates  and  the  opportunity  cost  of  holding  M2  are
+
+expected to  be  about  flat,  and consequently M2  growth  remains
+
+roughly in  line  with that  of  nominal  GDP  in  the  staff  forecast.  M2
+
+should  finish  1996  in  the  upper half  of its  annual  range.  M3  is
+
+likely  to  close the  year  around  the  upper  end  of  its  range.  Over
+
+the  next two  years,  M3  growth  should  remain  relatively brisk,
+
+reflecting,  in part,  a strengthening  in bank credit  expansion.
+
+After  a 5 percent  increase  this  year,  growth  in the  debt  of  the
+
+domestic nonfinancial  sector  is  expected  to  be  a little  over
+
+4-1/2  percent  in  1997  and  1998--close to  the  expansion of  nominal
+
+GDP.  The  sectoral  composition  of debt  growth is  projected to  shift,
+
+however.
+
+I-17
+
+Business  borrowing has  picked up  in  recent months,  following a
+
+lull  during  the  summer.  Business  debt  growth is  projected to  move
+
+up  slightly further  as  the  slackening  in the  growth  of  profits  and
+
+the  continued  strength in  capital  spending  in the  forecast boosts
+
+financing needs  in  1997  and  1998.  The  staff  anticipates that  merger
+
+and  acquisition  activity will  run  close  to  its  current  pace  through
+
+1998  and  share  repurchase  programs  will  dip  only  slightly  from
+
+recent  high  levels;  both  factors  will  tend  to  support  business
+
+borrowing  in  the  period ahead.  Borrowing  conditions  should  remain
+
+accommodative  for businesses,  with attractive  bank  lending  terms  and
+
+narrow  rate  spreads  in the  securities  markets.
+
+Growth  in household  debt  is  expected  to  edge  lower but  to  stay
+
+above  that  of  nominal  income.  The  projected moderation  in  the
+
+growth  of  spending  on  durable  goods  suggests  a less  robust  demand
+
+for  consumer  credit,  which already  has  slowed markedly  in  recent
+
+months.  On  the  supply  side,  banks  and  other  lenders  continue to
+
+tighten  standards  selectively while  pursuing well-qualified
+
+borrowers.  Overall,  consumer  credit  availability  is  expected  to
+
+impose  only mild  restraint  on consumer  outlays.  Home  mortgage
+
+credit  should  remain  in  plentiful  supply but  borrowing  likely will
+
+edge  lower  in the  quarters  ahead  as  housing  activity  softens.
+
+In  the  state  and  local  government  sector,  debt  retirements
+
+associated  with the  completion of  advance  refundings  are  expected to
+
+slow and  net  debt  issuance  is  projected  to  turn  slightly  positive
+
+over  the  forecast  period.  The  growth  of  federal  government  debt
+
+remains modest  over  1997  and  1998.
+
+Alternative  Simulations
+
+Two  alternative  simulations  examine the  implications  of
+
+different  assumptions  about  the  path  of the  federal  funds  rate.  In
+
+the  first  scenario,  increases  in  the  funds  rate begin  immediately
+
+I-18
+
+and  cumulate to  100  basis  points  by  the  fourth  quarter  of  1997;  the
+
+funds  rate  is  held  constant  thereafter.  The  tighter  financial
+
+conditions  reduce  the  increase  in  real  GDP  0.4  percentage  point  in
+
+1997  and  lower  growth  0.6  percentage  point  in  1998.  The
+
+unemployment  rate  is  0.1  percentage  point  higher  than the  Greenbook
+
+baseline by the  fourth quarter  of next  year  and  0.5  percentage point
+
+higher by  the  end  of  1998.  The  additional  slack  reduces  CPI
+
+inflation by  0.1  percentage  point  in  1997  and  0.5  percentage  point
+
+in  1998.  The  alternative  scenario with  lower  interest  rates  has
+
+symmetrical  effects.
+
+ALTERNATIVE FEDERAL  FUNDS  RATE ASSUMPTIONS
+(Percent change,  Q4  to  Q4,  except  as  noted)
+
+Real  GDP
+
+Baseline 
+Higher  funds  rate 
+Lower  funds  rate 
+
+Civilian  unemployment rate 1
+
+Baseline 
+Higher  funds  rate 
+Lower  funds  rate 
+
+CPI
+
+Baseline 
+Higher  funds  rate 
+Lower  funds  rate 
+
+1. Average  for  the  fourth  quarter.
+
+1996 
+
+1997 
+
+1998
+
+2.7 
+2.7 
+2.7 
+
+5.2 
+5.2 
+5.2 
+
+3.2 
+3.2 
+3.2 
+
+2.2 
+1.8 
+2.6 
+
+5.2 
+5.3 
+5.1 
+
+2.8 
+2.7 
+2.9 
+
+2.1
+1.5
+2.7
+
+5.2
+5.7
+4.7
+
+2.8
+2.3
+3.3
+
+Strictly  Confidential 
+Class  II  FOMC
+
+<FR>
+
+STAFF  PROJECTIONS  OF  CHANGES 
+
+IN  GDP,  PRICES,  AND  UNEMPLOYMENT
+
+(Percent, annual  rate)
+
+November  6,  1996
+
+ANNUAL
+
+1994
+1995
+1996
+1997
+1998
+
+QUARTERLY
+
+1995 
+
+1996 
+
+1997 
+
+1998 
+
+Q1
+Q2
+Q3
+Q4
+
+01
+Q2
+03
+04
+
+01
+02
+Q3
+Q4
+
+01
+Q2
+Q3
+04
+
+TWO-  UARTER
+
+3
+
+1995 
+
+1996 
+
+1997 
+
+1998 
+
+02
+04
+
+Q2
+04
+
+Q2
+Q4
+
+02
+04
+
+FOUR-QUARTER
+
+4
+
+1994 
+1995 
+1996 
+1997 
+1998 
+
+04
+04
+04
+04
+Q4
+
+2.3 
+2.5 
+2.2 
+2.6 
+2.7 
+
+3.3 
+2.4 
+2.1 
+2.1 
+
+2.3 
+2-2 
+2.1 
+2.6 
+
+3.0 
+2.7 
+2.6 
+2.7 
+
+2.9 
+2.7 
+2.8 
+2.8 
+
+2.9 
+2.1 
+
+2.3 
+2.4 
+
+2.8 
+2.6 
+
+2.8 
+2.8 
+
+2.3 
+2.5 
+2.2 
+2.5 
+2.6 
+
+3.3 
+2.4 
+2.1 
+2.1 
+
+2.3 
+2.2 
+1.9 
+2.5 
+
+2.9 
+2.4 
+2.4 
+2.4 
+
+2.7 
+2.5 
+2.7 
+2.7 
+
+2.9 
+2.1 
+
+2.3 
+2.2 
+
+2.7 
+2.4 
+
+2-6 
+2.7 
+
+2.6 
+2.8 
+3.0 
+3.1 
+2.9 
+
+2.7 
+3.5 
+2.1 
+2.4 
+
+3.2 
+3.9 
+2.4 
+3.5 
+
+3.4 
+2.9 
+2.B 
+3.1 
+
+2.9 
+2.9 
+2.9 
+2.9 
+
+3.2 
+2.2 
+
+3.5 
+3.0 
+
+3.2 
+3.0 
+
+2.9 
+2.9 
+
+2.6 
+2.8 
+2.9 
+2.9 
+2.8 
+
+2.7 
+3.5 
+2.1 
+2.4 
+
+3.2 
+3.9 
+2.3 
+3.3 
+
+3.1 
+2.6 
+2.6 
+2.9 
+
+2.8 
+2.8 
+2.8 
+2.9 
+
+3.2 
+2.2 
+
+3.5 
+2.8 
+
+2.9 
+2.7 
+
+2.8 
+2.9 
+
+6.1 
+5.6 
+5.4 
+5.4 
+5.4 
+
+5-5 
+5.7 
+5.6 
+5.5 
+
+5.6 
+5.4 
+5.3 
+5.4 
+
+5.4 
+5.4 
+5.4 
+5.4 
+
+5.4 
+5.4 
+5.4 
+5.4 
+
+0.1 
+-0.2 
+
+-0.1 
+-0.0 
+
+-0.0 
+-0.0 
+
+0.0 
+-0.0 
+
+-1.0
+-0.1
+-0.1
+-0.0
+0.0
+
+6.1
+5.6
+5.4
+5.2
+5.2
+
+5.5
+5.7
+5.6
+5.5
+
+5.6
+5.4
+5.2
+5.2
+
+5.2
+5.2
+5.2
+5.2
+
+5.2
+5.2
+5.2
+5.2
+
+0.1
+-0.2
+
+-0.1
+-0.2
+
+0.0
+0.0
+
+-0.0
+-0.0
+
+-1.0
+-0.1
+-0.3
+0.0
+-0.0
+
+1.  For all  urban consumers.
+2.  Level,  except as  noted.
+Percent change  from  two  quarters  earlier;  for  unemployment rate, change  in  percentage points.
+3. 
+4.  Percent  change  from  four  quarters  earlier;  for  unemployment  rate,  change  in  percentage  points.
+
+Strictly 
+
+Confidential  <FR>
+
+REAL  GROSS  DOMESTIC  PRODUCT  AND  RELATED 
+
+ITEMS,  ANNUAL  VALUES
+
+Class  II  FOMC
+
+(Seasonally  adjusted  annual  rate)
+
+November  6, 
+
+1996
+
+Units
+
+I
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996 
+
+1997 
+
+1998
+
+-
+
+-
+
+- Projected  -
+
+-
+
+-
+
+Change  in  bus.  inventories
+
+Bill.  Ch.  $
+
+Item
+
+EXPENDITURES
+
+Nominal GDP
+Real  GDP
+
+Real  GDP
+Gross  domestic purchases
+Final  sales
+Priv.  dom.  final purchases
+
+Personal  cons.
+
+expenditures
+
+Durables
+Nondurables
+Services
+
+Business  fixed  investment
+
+Producers'  dur. equipment
+Nonres.  structures
+Residential structures
+
+Exports
+Imports
+
+Gov't. cons.  & investment
+
+Federal
+
+Defense
+
+State  & local
+
+Nonfarm
+Net exports
+
+Nominal GDP
+
+EMPLOYMENT  AND  PRODUCTION
+
+Nonfarm  payroll  employment
+Unemployment  rate
+
+Industrial  prod. 
+Capacity util. rate  - mfg.
+
+index
+
+Housing starts
+Light  motor  vehicle  sales
+North Amer. produced
+Other
+
+INCOME AND  SAVING
+
+Nominal  GNP
+Nominal  GNP
+Nominal personal income
+Real  disposable  income
+Personal saving rate
+
+Corp. profits,  IVA  &  CCAdj.
+
+Profit share of GNP
+
+(excluding FR  banks)
+
+Federal  surpl./deficit
+State  & local surpl./def.
+Ex.  social  ins.  funds
+
+PRICES AND  COSTS
+
+GDP  implicit deflator
+GDP  chn.-wt. price  index
+Gross  Domestic Purchases
+chn.-wt. price  index
+
+CFI
+
+Ex.  food  and energy
+
+ECI,  hourly compensation2
+
+Nonfarm  business  sector
+
+Output per  hour
+Compensation  per Hour
+Unit labor  cost
+
+Bill.  $
+Bill.  Ch
+
+% change
+
+5743.8 
+6138.7 
+
+5916.7
+6079.0
+
+6244.4
+6244.4
+
+6553.0
+6386.4
+
+6935.7
+6608.7
+
+7253.8
+6742.9
+
+7572.4
+6901.9
+
+7922.9
+7065.3
+
+8264.6
+7215.5
+
+-0.2 
+-0.8 
+0.6 
+-0.6 
+
+0.5 
+-3.2 
+-0.5 
+2.0 
+
+-2.5 
+-2.0 
+3.5 
+-15.1 
+
+7.2 
+0.5 
+
+2.6 
+1.6 
+0.3 
+3.3 
+
+0.4
+-0.0
+-0.4
+-0.8
+
+-0.2
+-3.1
+-1.0
+0.9
+
+-6.0
+-2.6
+12.5
+1.1
+
+8.6
+4.1
+
+-0.7
+-3.1
+-5.3
+1.0
+
+3.7
+4.0
+3.9
+4.9
+
+4.2
+9.4
+3.4
+3.6
+
+5.5
+9.6
+-3.4
+16.9
+
+4.1
+7.4
+
+1.7
+1.3
+-1.3
+2.0
+
+2.2
+2.9
+2.0
+3.5
+
+2.5
+7,3
+1.5
+2.1
+
+8.5
+11.5
+1.6
+8.1
+
+4.8
+
+10.5
+
+-0.5
+-5.4
+-6.8
+3.1
+
+3.5
+3.8
+2.9
+4.0
+
+3.1
+7.0
+3.5
+2.0
+
+10.1
+12.6
+3.6
+5.7
+
+9.9
+11.8
+
+0.0
+-3.1
+-5.7
+
+2.2
+
+1.3
+1.0
+1.9
+2.3
+
+1.9
+1.3
+1.1
+2.4
+
+6.4
+6.9
+5.1
+
+-1.5
+
+7.4
+4.2
+
+-1.3
+-6.7
+-6.8
+
+2.1
+
+2.7
+3.3
+2.6
+3.5
+
+2.8
+6.6
+2.0
+2.3
+
+8.7
+
+10.7
+3.1
+2.3
+
+4.8
+9.1
+
+2.0
+1.3
+0.0
+2.4
+
+10.4 
+7.8 
+-61.9 
+
+-3.0
+-1.2
+-22.3
+
+7.3
+1.9
+-29.5
+
+19.1
+26.4
+
+-72.0
+
+58.9
+46.8
+-105.7
+
+33.2
+37.2
+-107.6
+
+16.8
+19.6
+-119.9
+
+2.2
+2.5
+2.2
+2.9
+
+2.7
+4.7
+2.5
+2.4
+
+5.1
+6.7
+0.6
+-1.1
+
+6.7
+8.3
+
+0.7
+-2.5
+-3.2
+2.5
+
+26.1
+22-3
+
+-142.1
+
+2.1
+2.3
+2.2
+2.9
+
+2.4
+4.4
+1.9
+2.2
+
+5.6
+7.2
+0.7
+1.3
+
+6.3
+7.2
+
+0.3
+
+-3.6
+-4.6
+2.4
+
+22.6
+17.4
+-163.2
+
+%  change
+
+4.4 
+
+3.8
+
+6.3
+
+4.8
+
+5.9
+
+3.8
+
+4.7
+
+4.5
+
+4.4
+
+Millions
+
+% change
+
+Millions
+
+Bill.  $
+%  change
+
+%
+
+% change
+%
+
+Bill.  $
+
+%  change
+
+109.4
+5.6
+
+-0.2
+81.3
+
+1.19
+14.05
+10.85
+3.20
+
+108.3
+6.8
+
+0.2
+78.0
+
+1.01
+12.52
+9.74
+2.77
+
+108.6
+7.5
+
+4.0
+
+79.5
+
+1.20
+12.85
+10.51
+2.34
+
+110.7
+6.9
+
+3.2
+80.6
+
+1.29
+13.87
+11.72
+2.15
+
+114.2
+
+6.1
+
+6.6
+83.3
+
+1.46
+15.02
+12.88
+2.13
+
+117.2
+5.6
+
+1.6
+
+83.0
+
+1.35
+14.74
+12.82
+1.91
+
+119.5
+
+5.4
+
+121.4
+5.2
+
+3.8
+
+82.0
+
+1.47
+14.98
+13.29
+1.69
+
+3.1
+81.8
+
+1.42
+14.98
+13.21
+1.77
+
+122.8
+5.2
+
+3.2
+81.6
+
+1.41
+14.80
+13.07
+1.73
+
+5764.9
+4.6
+6.4
+1.0
+5.0
+
+5932.4
+3.5
+3.7
+0.8
+5.7
+
+6.2
+6.4
+6.0
+
+3.9
+6.4
+6.1
+
+6255.5
+6.2
+7.3
+4.0
+5.9
+
+12.7
+6.4
+6.1
+
+6563.5
+4.7
+3.6
+0.9
+4.5
+
+19.9
+7.1
+6.8
+
+6931.9
+
+5.7
+5.2
+2.7
+3.8
+
+11.3
+7.6
+7.4
+
+7246.7
+3.9
+5.6
+3.1
+4.7
+
+7565.5
+4.7
+5.4
+2.4
+4.8
+
+7908.3
+4.4
+4.7
+2.7
+5.0
+
+7.2
+8.1
+7.8
+
+1.7
+8.5
+8.2
+
+5.7
+8.3
+8.0
+
+8243.7
+
+4.3
+4.7
+2.4
+5.0
+
+2.7
+8.1
+7.9
+
+-154.7
+80.1
+20.2
+
+-196.0
+75.8
+11.5
+
+-280.9
+$6.3
+18.3
+
+-255.6
+94.9
+28.0
+
+-190.2
+99.7
+36.9
+
+-161.7
+95.0
+36.8
+
+-126.8
+91.9
+35.9
+
+-112.4
+83.1
+28.5
+
+-109.6
+75.8
+22.0
+
+4.6
+4.7
+
+5.2
+6.3
+5.3
+
+4.6
+
+-0.6 
+5.9 
+6.5 
+
+3.4
+3.3
+
+2.7
+3.0
+4.4
+
+4.4
+
+2.2 
+4.7 
+2.5 
+
+2.6
+2.6
+
+2.7
+3.1
+3.5
+
+3-5
+
+3.6
+4.6
+1.0
+
+2.5
+2.5
+
+2,3
+2,7
+3.1
+
+3.6
+
+-0.3 
+1.8 
+2.1 
+
+2.3
+2.3
+
+2.4
+2.6
+2.8
+
+3.1
+
+0-5
+2.5
+2.0
+
+2.5
+2.5
+
+2.3
+2.7
+3.0
+
+2.6
+
+0.3 
+4.1 
+3.8 
+
+1.9
+2.2
+
+2.2
+3.2
+2.7
+
+3.0
+
+0.6
+3.8
+3.3
+
+2.3
+2.5
+
+2.2
+2.8
+3.0
+
+3.4
+
+0.9
+3.7
+2.8
+
+2.2
+2.7
+
+2.5
+2.8
+3.0
+
+3.6
+
+1.0
+3.6
+2.6
+
+Changes  are  from  fourth
+
+1. 
+2.  Private-industry  workers
+
+quarter  to  fourth  quarter.
+
+-I 
+
+*
+
+Strictly  Confidential  <FR>
+Class  II  FOMC
+
+REAL GROSS  DOMESTIC PRODUCT  AND RELATED  ITEMS,  QUARTERLY VALUES
+(Seasonally adjusted, annual  rate except as  noted)
+
+November  6,  1996
+
+I-21
+
+Units 
+
+1994 
+01 
+
+1994 
+02 
+
+1994 
+03 
+
+1994 
+04 
+
+1995 
+01 
+
+1995 
+Q2 
+
+1995 
+Q3 
+
+1995 
+04 
+
+1996 
+Q1 
+
+1996
+Q2
+
+Bill.  $
+Bill.  Ch.
+
+6776.0
+6508.5
+
+6890.5
+6587.6
+
+6993.1
+6644.9
+
+7083.2
+6693.9
+
+7149.8
+6701.0
+
+7204.9
+6713.5
+
+7309.8
+6776.4
+
+7350.6
+6780.7
+
+7426.8
+6814.3
+
+7545.1
+6892.6
+
+% change
+
+2.5
+3.5
+1.2
+3.9
+
+2.8
+5.8
+3.9
+1.6
+
+7.3
+15.5
+-11.8
+12.8
+
+-1.5
+8.2
+
+-4.3
+-11-4
+-17.4
+0.7
+
+40.5
+29.7
+-99.3
+
+4.9
+5.3
+3.0
+4-4
+
+3.5
+4.3
+3.2
+3.5
+
+7.1
+4.1
+15.7
+12.7
+
+15.9
+18.4
+
+-0.8
+-5.3
+0.7
+2.2
+
+3.5
+3.7
+4.2
+3.8
+
+2.8
+5.6
+3.8
+1.6
+
+13.8
+19.4
+0.2
+-1.8
+
+9.7
+10.7
+
+7.0
+11.5
+13.5
+4.2
+
+3.0
+2.5
+3.5
+4.0
+
+3.1
+12.4
+3-2
+1.2
+
+12.2
+11.9
+13.0
+-0.1
+
+16.5
+10.3
+
+-1.4
+-5.9
+
+-16.1
+
+1.6
+
+0.4
+1.4
+0.6
+2.3
+
+1.0
+-8.9
+2.4
+2.4
+
+15.4
+17.4
+9.9
+-6.3
+
+2.6
+11.2
+
+-1.2
+-6.5
+-7.4
+
+2.3
+
+0.7
+0.7
+2.1
+2.3
+
+3.1
+7.0
+1.8
+3.0
+
+3.5
+3.5
+3.4
+
+-13.4
+
+5.9
+4.5
+
+0.8
+-1-3
+0.6
+2.1
+
+3.8
+2.6
+3.6
+3.0
+
+2.4
+9.3
+0.5
+2.0
+
+4.9
+4.3
+6.3
+9.2
+
+10.7
+-0.0
+
+-0.6
+-5.6
+-7.6
+2.7
+
+74.5
+54.0
+-107.3
+
+64.5
+50.5
+-111.7
+
+56.1
+53.0
+-104.3
+
+54.5
+57.4
+-122.5
+
+30.5
+33.7
+-121.4
+
+33.0
+38.6
+-101.6
+
+0.3
+-0.7
+1.4
+1.4
+
+1.1
+-1.0
+-0.4
+2.3
+
+2.5
+3.0
+1.0
+6.4
+
+10.7
+1.6
+
+-4.3
+-13.2
+-12.3
+
+1.5
+
+14.6
+19.0
+-84.9
+
+2.0
+3.0
+3.0
+4.7
+
+3.5
+8.2
+3.7
+2.4
+
+11.6
+13.1
+
+7.7
+7.4
+
+1.8
+10.6
+
+1.6
+6.0
+4.1
+-0.9
+
+4.7
+5.2
+4.1
+4.1
+
+3.4
+11.4
+1.3
+2.7
+
+3.8
+6.7
+-3.7
+16.3
+
+5.6
+9.9
+
+7.7
+9.4
+10.0
+6.7
+
+-3.0
+2.9
+-104.0
+
+7.1
+11.7
+-114.7
+
+%  change
+
+5.3
+
+6.9
+
+6.1
+
+5.3
+
+3.8
+
+3.1
+
+6.0
+
+2.3
+
+4.2
+
+6.5
+
+Item 
+
+EXPENDITURES
+
+Nominal GDP
+Real  GDP
+
+Real  GDP
+Gross  domestic purchases
+Final  sales
+Priv.  dom.  final purchases
+
+Personal  cons.
+
+expenditures
+
+Durables
+Nondurables
+Services
+
+Business  fixed investment
+
+Producers'  dur.  equipment
+Nonres.  structures
+Residential structures
+
+Exports
+Imports
+
+Gov't. cons.  &  investment
+
+Federal
+
+Defense
+
+State  & local
+
+Nonfarm
+Net exports
+
+Nominal GDP
+
+EMPLOYMENT  AND PRODUCTION
+
+Nonfarm payroll  employment
+Unemployment rate
+
+Industrial  prod.  index
+Capacity  util. 
+
+rate  - mfg.
+
+Housing  starts
+Light  motor vehicle  sales
+North Amer. produced
+Other
+
+INCOME  AND  SAVING
+
+Nominal  GP
+Nominal  GNP
+Nominal  personal  income
+Real  disposable  income
+Personal  saving  rate
+
+Change in  bus.  inventories
+
+Bill.  Ch.  $
+
+Millions
+
+% change
+
+Millions
+
+Bill. $
+% change
+
+112.6
+6.6
+
+8.4
+
+82.2
+
+1.38
+15.07
+12.94
+2.13
+
+113.7
+6.2
+
+7.0
+83.2
+
+1.47
+14.85
+12.69
+2.16
+
+114.7
+6.0
+
+115.6
+5.6
+
+116.5
+
+5.5
+
+117.0
+
+5.7
+
+117.4
+5.6
+
+4.6
+83.4
+
+1.46
+14.99
+12.79
+2.20
+
+6.4
+
+84.3
+
+1.48
+15.16
+13.12
+2.05
+
+3.9
+
+84.3
+
+1.31
+14.56
+12.52
+2.04
+
+-1.4
+83.0
+
+1.29
+14.44
+12.46
+1.97
+
+3.2
+82-6
+
+1.42
+15.04
+13.18
+1.86
+
+117.9
+5.5
+
+0.6
+82.0
+
+1.41
+14-92
+13.13
+1.79
+
+118.5
+5.6
+
+119.3
+5.4
+
+3.0
+81.6
+
+1.47
+15.18
+13.49
+1.69
+
+6.7
+82.2
+
+1.49
+15.13
+13.41
+1.72
+
+6781.0
+5.4
+-3.4
+-5,4
+2.7
+
+-35.4
+
+6.8
+6.5
+
+6888.3
+6.5
+13.3
+9.7
+4.0
+
+82.5
+7.8
+7.5
+
+6987.0
+5.9
+4.9
+2.9
+4.1
+
+7071.4
+4.9
+6.7
+4.2
+4.3
+
+14.8
+7.9
+7.7
+
+13.5
+
+8.1
+7-8
+
+7146.8
+
+4.3
+7.1
+3.7
+4.9
+
+-7.4
+
+7.8
+7.5
+
+7202.4
+3.1
+4.7
+0.3
+4.1
+
+7293.4
+5.1
+4.9
+4.3
+4.5
+
+1.7
+7.8
+7.5
+
+40.8
+
+8.4
+8.1
+
+7344.3
+
+2.8
+5.8
+4.4
+5.2
+
+-0.5
+8.3
+8.0
+
+7426.6
+4.6
+4.8
+2.0
+4.8
+
+7537.5
+6.1
+6.8
+1.3
+4.3
+
+23-6
+8.7
+8.4
+
+6.8
+8.7
+8.4
+
+Corp.  profits,  IVA  & CCAdj.
+
+% change
+
+Profit  share  of  GNP
+
+(excluding  FR  banks)
+
+Federal  surpl./deficit
+State  &  local  surpl./def.
+Ex.  social  ins.  funds
+
+Bill.  $
+
+-212.7
+94,8
+29,0
+
+-169.6
+105.2
+
+41.1
+
+-188.5
+99.6
+37.9
+
+-190.1
+99-3
+39.4
+
+-172.6
+99.0
+40.2
+
+-161.1
+99.0
+40.9
+
+-158.5
+93.9
+35.8
+
+-154.5
+
+88.1
+30.5
+
+-155.2
+91.0
+34.1
+
+-126.7
+101.0
+44.6
+
+%  change
+
+PRICES AND  COSTS
+
+GDP  implicit deflator
+GDP  chn.-wt. price  index
+Gross  Domestic  Purchases
+chn.-wt.  price  index
+
+CPI
+
+Ex.  food and  energy
+
+ECI, hourly compensation1
+
+Nonfarm business  sector
+
+Output per  hour
+Compensation  per  hour
+Unit  labor cost
+
+1.  Private-industry workers.
+
+2.8
+2.9
+
+2.4
+1.9
+2.9
+
+3.0
+
+-2.0 
+2.8 
+4.8 
+
+1.9
+1.9
+
+2.3
+2.8
+2.9
+
+3.4
+
+1.0
+1.4
+0.3
+
+2.5
+2.4
+
+3.0
+3-6
+3.1
+
+3.3
+
+2.0
+2.1
+0.1
+
+2.2
+2.1
+
+2.0
+2.4
+2.3
+
+2.3
+
+0.9
+3.9
+2.9
+
+3.4
+3.3
+
+2.8
+2.7
+3.3
+
+2.9
+
+-1.6 
+3.7 
+5.4 
+
+2.4
+2.4
+
+2.8
+3.5
+3.3
+
+2.9
+
+2.0 
+4.6 
+2.6 
+
+2.1
+2.1
+
+1.6
+2.1
+2.8
+
+2.6
+
+2.0 
+4.0 
+1.9 
+
+2.0
+2.1
+
+1.9
+2.4
+2.7
+
+2.6
+
+-1.1 
+4.1 
+5.2 
+
+2.2
+2.3
+
+2.3
+3.2
+2.7
+
+2.9
+
+1.8 
+3.3 
+1.5 
+
+1.8
+2.2
+
+2.1
+3.9
+2.7
+
+3.2
+
+0.5
+3.7
+3-2
+
+Strictly  Confidential 
+Class  II  FOMC 
+
+(FR> 
+
+REAL  GROSS  DOMESTIC  PRODUCT  AND  RELATED  ITEMS,  QUARTERLY  VALUES 
+
+November  6,  1996
+
+(Seasonally  adjusted, 
+
+annual  rate 
+
+except  as  noted)
+
+I-22
+
+-
+
+-
+
+-
+
+-
+-
+
+-
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Projected 
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Units 
+
+1996 
+03 
+
+1996 
+Q4 
+
+1997 
+Q1 
+
+1997 
+02 
+
+1997 
+03 
+
+1997 
+04 
+
+1998 
+Q1 
+
+1998 
+Q2 
+
+1998 
+Q3 
+
+1998
+Q4
+
+Bill.  $ 
+Bill.  Ch,  $  6934.5  6966.3 
+
+7621.1  7696.5  7798.6  7882.0  7965.0  8045.9  8133.9  8220.3  8307.0  8397.4
+7272.6
+
+7008.1 
+
+7121.5 
+
+7046.3 
+
+7158.6 
+
+7196.5 
+
+7234.2 
+
+7085.4 
+
+%  change 
+
+2,5 
+3.5 
+0.5 
+2.0 
+
+0.4 
+-0,8 
+-0.3 
+1.1 
+
+16.2 
+19.7 
+6.5 
+-6.6 
+
+0.4 
+8.8 
+
+-0.5 
+-4.0 
+-5.1 
+1.7 
+
+1.8 
+1.5 
+2.9 
+3.2 
+
+3.8 
+8.1 
+3.6 
+2.9 
+
+3.6 
+4.1 
+2.4 
+-6.0 
+
+11.7 
+7.3 
+
+-0.7 
+-5.5 
+-7.8 
+2.2 
+
+2.4 
+2.6 
+2.4 
+3.4 
+
+3.3 
+7.3 
+3.3 
+2.4 
+
+6.0 
+8.0 
+0.2 
+-2.4 
+
+6.5 
+7.5 
+
+-1.1 
+7.0 
+-9.9 
+2,4 
+
+2.2 
+2.4 
+2.0 
+2.6 
+
+2.5 
+2.4 
+2.5 
+2.5 
+
+4.5 
+5.9 
+0.4 
+-2.2 
+
+8.3 
+9.3 
+
+0.9 
+-1.7 
+-2.0 
+2.4 
+
+2.2 
+2.8 
+2.0 
+3.0 
+
+2.6 
+4.6 
+2.3 
+2.4 
+
+5.1 
+6.5 
+0.9 
+-0.4 
+
+2.3 
+6.6 
+
+1.3 
+0.7 
+-0.6 
+2.5 
+
+2.1 
+2.2 
+2.4 
+2.8 
+
+2.5 
+4.6 
+2.0 
+2.3 
+
+5.0 
+6.4 
+0.8 
+0.5 
+
+9.7 
+9.8 
+
+2.1 
+2.2 
+2.2 
+2.8 
+
+2.5 
+4.3 
+2.0 
+2.3 
+
+5.3 
+6.8 
+0.6 
+1.2 
+
+4.5 
+4.9 
+
+2.1 
+2.3 
+2.2 
+2.9 
+
+2.5 
+4.4 
+2.0 
+2.3 
+
+5.6 
+7.1 
+0.7 
+1.3 
+
+8.7 
+9.1 
+
+2.1 
+2.6 
+2.1 
+2.9 
+
+2.4 
+4.3 
+2.0 
+2.2 
+
+5.9 
+7.5 
+0.7 
+1.4 
+
+2.3 
+5.9 
+
+1.5 
+-0.4 
+-0.0 
+2.6 
+
+-0.2 
+-5.0 
+-5.9 
+2.5 
+
+-0.1 
+-4.6 
+-6.4 
+2.5 
+
+1.2 
+-1.0 
+-0.9 
+2.4 
+
+2.1
+2.2
+2.3
+2.8
+
+2.4
+4.5
+1,9
+2.1
+
+5.9
+7.5
+0.7
+1.3
+
+9.8
+8.9
+
+0.3
+-3.7
+-5.1
+2.4
+
+40.7 
+42.9 
+-133.6 
+
+22.6 
+20.7 
+-127.5 
+
+23.7 
+20.4 
+-131.7 
+
+26.5 
+23.2 
+-136.7 
+
+29.8 
+26.0 
+-148.1 
+
+24.3 
+19.5 
+-151.8 
+
+23.5 
+18.7 
+-154.5 
+
+23.1 
+18.1 
+-158.6 
+
+23.2 
+17.9 
+-169.0 
+
+20.5
+14.9
+-170.6
+
+%  change 
+
+4.1 
+
+4.0 
+
+5.4 
+
+4.4 
+
+4.3 
+
+4.1 
+
+4.4 
+
+4.3 
+
+4.3 
+
+4.4
+
+Item 
+
+EXPENDITURES
+
+Nominal  GDP 
+Real  GDP 
+
+Real  GDP 
+Gross  domestic  purchases 
+Final 
+Priv.  dom.  final  purchases 
+
+sales 
+
+Personal  cons.  expenditures 
+
+Durables 
+Nondurables 
+Services 
+
+Business  fixed  investment 
+
+Producers'  dur.  equipment 
+Nonres.  structures 
+Residential  structures 
+
+Exports 
+Imports 
+
+Gov't.  cons.  &  investment 
+
+Federal 
+
+Defense 
+
+State  &  local 
+
+Nonfarm 
+Net  exports 
+
+Nominal  CDP 
+
+EMPLOYMENT  AND  PRODUCTION
+
+Change  in  bus. 
+
+inventories 
+
+Bill.  Ch.  $ 
+
+Nonfarm payroll  employment  Millions 
+Unemployment  rate 
+
+% 
+
+119.9 
+5.2 
+
+120.4 
+5.2 
+
+120.8 
+5.2 
+
+121.2 
+5.2 
+
+121.6 
+5.2 
+
+121.9 
+5.2 
+
+122.3 
+5.2 
+
+122.6 
+5.2 
+
+123.0 
+5.2 
+
+123.4
+5.2
+
+Industrial prod.  index 
+Capacity util. rate  - mfg. 
+
+%  change 
+% 
+
+4.4 
+82.4 
+
+1.1 
+81.7 
+
+3.8 
+81.9 
+
+3.0 
+81.8 
+
+2.9 
+81.8 
+
+2.7 
+81.6 
+
+3.2 
+81.6 
+
+3.3 
+81.6 
+
+3.0 
+81.6 
+
+3.4
+81.6
+
+Housing starts 
+Light  motor vehicle  sales 
+North Amer.  produced 
+Other 
+
+Millions 
+
+1.48 
+14.95 
+13.30 
+1.65 
+
+1.45 
+14.67 
+12.96 
+1.71 
+
+1.43 
+15.21 
+13.45 
+1.76 
+
+1.42 
+14.88 
+13.11 
+1.77 
+
+1.41 
+14.92 
+13.14 
+1.78 
+
+1.41 
+14.93 
+13.15 
+1.78 
+
+1.41 
+14.88 
+13.12 
+1.76 
+
+1.41 
+14-82 
+13.08 
+1-74 
+
+1.41 
+14.77 
+13.05 
+1.72 
+
+1.41
+14.72
+13.02
+1.70
+
+INCOME  AND  SAVING
+
+Nominal  GNP 
+Nominal  GNP 
+Nominal  personal  income 
+Real  disposable  income 
+Personal saving rate 
+
+Bill.  $ 
+%  change 
+
+% 
+
+7610.5 
+3.9 
+5.5 
+4.7 
+5.4 
+
+7687.5  7787.2 
+5.3 
+5.5 
+3.8 
+5.1 
+
+4.1 
+4.6 
+1.7 
+4.9 
+
+7868.1 
+4.2 
+4.5 
+2.6 
+5.1 
+
+7949.6 
+4.2 
+4.4 
+2.5 
+5.0 
+
+8028.3  8115.6 
+4.4 
+5.0 
+3.5 
+5.2 
+
+4.0 
+4.3 
+2.1 
+4.9 
+
+8200.3 
+4.2 
+4.7 
+2.2 
+5.1 
+
+8285.8 
+4.2 
+4.5 
+2.0 
+5.0 
+
+8373.0
+4.3
+4.3
+1.8
+4.9
+
+Corp.  profits,  IVA & CCAdj. 
+
+Profit  share  of  GNP 
+
+(excluding FR banks) 
+
+% change 
+% 
+% 
+
+-4.6 
+8.5 
+8.2 
+
+-15.0 
+8.1 
+7.8 
+
+18.4 
+8.3 
+8.1 
+
+3.1 
+8.3 
+8,0 
+
+2.4 
+8.3 
+8.0 
+
+-0.0 
+8.2 
+7.9 
+
+2.4 
+8.2 
+7.9 
+
+3.6 
+8.1 
+7.9 
+
+3.2 
+8.1 
+7.9 
+
+1.7
+8.1
+7.8
+
+Federal  surpl./deficit 
+State  &  local  surpl./def. 
+Ex.  social  ins. funds 
+
+Bill.  $ 
+
+%  change 
+
+PRICES  AND  COSTS
+
+GDP  implicit  deflator 
+GDP  chn.-wt.  price  index 
+Gross  Domestic  Purchases
+chn.-wt.  price  index 
+
+CPI 
+
+Ex. 
+
+food  and  energy 
+
+ECI,  hourly  compensation
+
+1  
+
+Nonfarm  business  sector
+
+Output  per  hour 
+Compensation  per  hour 
+Unit  labor  cost 
+
+1.  Private-industry  workers.
+
+-119.9  -105.3  -114-6  -112.3  -107.9  -114.8  -116.7  -110.5  -105.1  -106.2
+74.5
+21.0
+
+75.0 
+21.3 
+
+76.4 
+22.5 
+
+77.3 
+23.2 
+
+79.0 
+24.7 
+
+81.3 
+26.8 
+
+87.0 
+32.1 
+
+84.9 
+30.2 
+
+85.5 
+30.4 
+
+89.9 
+34.5 
+
+1.5 
+1.9 
+
+1.8 
+2.3 
+2.4 
+
+2.5 
+
+0.0 
+4.3 
+4.3 
+
+2.1 
+2.5 
+
+2.6 
+3.3 
+2.9 
+
+3.5 
+
+0.1 
+4.3 
+4.1 
+
+2.9 
+2.9 
+
+2.5 
+3.1 
+2.8 
+
+3.3 
+
+0.5 
+3-8 
+3.3 
+
+2.1 
+2.4 
+
+2.1 
+2-6 
+2.9 
+
+3.3 
+
+1.1 
+3.6 
+2.4 
+
+2.0 
+2-4 
+
+2.1 
+2.6 
+3.0 
+
+3.7 
+
+1.0 
+3.7 
+2.6 
+
+2.0 
+2.4 
+
+2.3 
+2.9 
+3.1 
+
+3.5 
+
+1.0 
+3.8 
+2.7 
+
+2.3 
+2.7 
+
+2.6 
+2.8 
+2.9 
+
+3.5 
+
+1.0 
+3.6 
+2.5 
+
+2.1 
+2.5 
+
+2.5 
+2.8 
+3.0 
+
+3.6 
+
+1.0 
+3.7 
+2.6 
+
+2.1 
+2.7 
+
+2-5 
+2.8 
+3.0 
+
+3.6 
+
+1.0 
+3-7 
+2.6 
+
+2.2
+2.7
+
+2.6
+2.9
+3.1
+
+3.7
+
+1.1
+3.7
+2.5
+
+Strictly  Confidential  <FR>
+Class  II  FOMC
+
+CONTRIBUTIONS  TO  GROWTH  IN  REAL GROSS  DOMESTIC PRODUCT  AND  RELATED  ITEMS
+
+November  6,  1996
+
+Item 
+
+Real  GDP
+
+Gross dom.  purchases
+
+Final  sales
+
+Priv.  dom.  final  purchases
+
+Personal cons.  expenditures
+
+Durables
+Nondurables
+Services
+
+Business  fixed  investment
+Producers'  dur.  equip.
+Nonres.  structures
+Residential  structures
+
+Net exports
+Exports
+Imports
+
+Government  cons.  &  invest.
+
+Federal
+
+Defense
+Nondefense
+State  and  local
+
+Change  in  bus.  inventories
+
+Nonfarm
+Farm
+
+GDP  residual
+
+1995 
+Q4 
+
+1996 
+01 
+
+1996 
+02 
+
+1996 
+03 
+
+1996 
+04 
+
+1997 
+01 
+
+1997 
+02 
+
+1997 
+Q3 
+
+1997 
+04 
+
+95Q4/ 
+94Q4 
+
+9604/ 
+9504 
+
+9704/
+9604
+
+0.3 
+-0.7 
+
+1.4 
+1.2 
+
+0.7 
+-0.1 
+-0.1 
+0.8 
+
+0.9 
+1.1 
+-0.2 
+
+-0.8 
+-0.9 
+-0.6 
+-0.3 
+0.2 
+
+-1.0 
+-1.2 
+0.1 
+
+2.0 
+3.1 
+
+3.0 
+3.9 
+
+2.4 
+0.7 
+0.7 
+0.9 
+
+-1.1 
+0.2 
+-1.3 
+
+0.3 
+0.4 
+0.2 
+0.2 
+-0.1 
+
+-1.0 
+-0.9 
+-0.1 
+
+4.7 
+5.3 
+
+4.1 
+3.4 
+
+2.3 
+0.9 
+0.3 
+1.1 
+
+0.4 
+0.5 
+-0.1 
+0.6 
+
+-0.6
+0.6
+-1.2
+
+1.4
+0.6
+0.4
+0.2
+0.8
+
+0.5
+0.5
+0.1
+
+2.5 
+3.6 
+
+0.5 
+1.7 
+
+0.3 
+-0.1 
+-0.1 
+0.4 
+
+1.7
+1.5
+0.2
+
+-0.3
+
+-1.1
+0.1
+1.2
+
+-0.1
+-0.3
+-0.2
+-0.0
+0.2
+
+2.0
+1.8
+0.2
+
+1.8 
+1.5 
+
+2.9 
+2.7 
+
+2.6 
+0.7 
+0.7 
+1.1 
+
+0.4
+0.3
+0.1
+
+-0.2
+
+0.3
+1.3
+1.0
+
+-0.1
+-0.4
+-0.4
+-0.0
+
+0.3
+
+-1.0 
+-1.3 
+0.2 
+
+-0.0 
+
+0.0 
+
+-0.0 
+
+-0.0
+
+-0.0 
+
+2.4 
+2.7 
+
+2.4 
+2.8 
+
+2.2 
+0.6 
+0.7 
+0.9 
+
+0.7
+0.7
+0.0
+-0.1
+
+-0.2
+0.8
+1.0
+
+-0.2
+-0.5
+-0.5
+-0.0
+
+0.3
+
+0.1 
+-0.0 
+0.1 
+
+0.0 
+
+2.2 
+2.5 
+
+2.0 
+2.1 
+
+1.7 
+0.2 
+0.5 
+1.0 
+
+-0.3 
+1.0 
+1.3 
+
+0.2
+-0.1
+-0.1
+-0.0
+0.3
+
+0.2 
+0.2 
+0.0 
+
+0.0 
+
+2.2 
+2.9 
+
+2.0 
+2.5 
+
+1.8 
+0.4 
+0.5 
+0.9 
+
+-0.6 
+0.3 
+0.9 
+
+0.2
+-0.0
+-0.0
+-0.0
+0.3
+
+0.2 
+0.2 
+0.0 
+
+0.1 
+
+2.1 
+2.3 
+
+2.4 
+2.3 
+
+1.7 
+0.4 
+0.4 
+0.9 
+
+-0.2
+1.2
+1.4
+
+-0.3 
+-0.4 
+0.1 
+
+0.0 
+
+1.3 
+1.0 
+
+1.9 
+1.8 
+
+1.3 
+0.1 
+0.2 
+0.9 
+
+0.7
+0.5
+0.1
+-0.1
+
+0.3
+0.8
+0.5
+
+-0.3
+-0.5
+-0.3
+-0.2
+0.2
+
+-0.6 
+-0.5 
+-0.1 
+
+2.7 
+3.3 
+
+2.6 
+2.9 
+
+1.9 
+0.6 
+0.4 
+0.9 
+
+0.1
+0.0
+0.1
+
+0.0 
+
+-0.0
+
+2.2
+2.6
+
+2.2
+2.4
+
+1.9
+0.4
+0.5
+0.9
+
+0.6
+0.6
+0.0
+
+-0.0
+
+-0.3
+0.8
+1.2
+
+0.1
+-0.2
+-0.1
+-0.0
+0.3
+
+0.0
+
+-0.0
+0.0
+
+0.0
+
+Components  may  not  sum  to  total  due  to  rounding.
+
+Strictly Confidential  <FR>
+Class  II  FOMC
+
+Item 
+
+Real  GDP
+
+Gross  dom. purchases
+
+Final sales
+
+Priv.  dom.  final  purchases
+
+Personal  cons.  expenditures
+
+Durables
+Nondurables
+Services
+
+Business  fixed investment
+Producers'  dur.  equip.
+Nonres.  structures
+Residential  structures
+
+Net  exports
+Exports
+Imports
+
+Government  cons.  &  invest.
+
+Federal
+
+Defense
+Nondefense
+State  and  local
+
+Change in  bus.  inventories
+
+Nonfarm
+Farm
+
+GDP  residual
+
+CONTRIBUTIONS  TO GROWTH  IN  REAL GROSS DOMESTIC  PRODUCT AND  RELATED  ITEMS
+
+November  6, 
+
+1996
+
+1996 
+04 
+
+1997 
+Q1 
+
+1997 
+02 
+
+1997 
+03 
+
+1997 
+04 
+
+1998 
+01 
+
+1998 
+02 
+
+1998 
+03 
+
+1998 
+04 
+
+9604/ 
+9504 
+
+9704/ 
+96Q4 
+
+9804/
+97Q4
+
+1.8 
+1.5 
+
+2.9 
+2.7 
+
+2.6 
+0.7 
+0.7 
+1.1 
+
+2.4 
+2.7 
+
+2.4 
+2.8 
+
+2.2 
+0.6 
+0.7 
+0.9 
+
+2.2 
+2.5 
+
+2.0 
+2.1 
+
+1.7
+0.2
+0.5
+1.0
+
+2.2 
+2.9 
+
+2.0 
+2.5 
+
+2.1 
+2.3 
+
+2.4 
+2.3 
+
+2.1 
+2.2 
+
+2.1 
+2.3 
+
+-0.6 
+0.3 
+0.9 
+
+0.2 
+-0.0 
+-0.0 
+-0.0 
+0.3 
+
+0.2 
+0.2 
+0.0 
+
+0.1 
+
+-1.0 
+-1.3 
+0.2 
+
+-0.0
+
+0.1
+-0.0
+0.1
+
+0.0 
+
+0.0 
+
+-- 
+
+~---
+
+-0.2 
+1.2 
+1.4 
+
+0.3 
+-0.0 
+-0.0 
+-0.0 
+0.3 
+
+-0.3 
+-0.4 
+0.1 
+
+-0.1 
+0.6 
+0.7 
+
+-0.0 
+-0.3 
+-0.3 
+-0.1 
+0.3 
+
+-0.0 
+-0.0 
+0.0 
+
+0.0 
+
+0.0 
+
+0.0 
+
+0.1 
+
+2.1 
+2.4 
+
+2.2 
+2.4 
+
+1.7 
+0.4 
+0.4 
+0.9 
+
+0.6 
+0.6 
+0.0 
+0.1 
+
+-0.2 
+1.1 
+1.3 
+
+-0.0 
+-0.3 
+-0.3 
+-0.0 
+0.3 
+
+-0.0 
+-0.0 
+0.0 
+
+2.1 
+2.7 
+
+2.1 
+2.5 
+
+1.6 
+0.4 
+0.4 
+0.8 
+
+0.7 
+0.7 
+0.0 
+0.1 
+
+-0.6 
+0.3 
+0.9 
+
+0.2 
+-0.1 
+-0.0 
+-0.0 
+0.3 
+
+0.0 
+-0.0 
+0.0 
+
+2.1 
+2.2 
+
+2.3 
+2.3 
+
+1.6
+0.4
+0.4
+0.8
+
+0.7
+0.7
+0.0
+0.0
+
+-0.1
+1.2
+1.3
+
+0.0
+-0.2
+-0.2
+-0.0
+0.3
+
+-0.1
+-0.2
+0.0
+
+-0.0
+
+2.7 
+3.3 
+
+2.6
+2.9
+
+1.9
+0.6
+0.4
+0.9
+
+0.9
+0.9
+0.1
+0.1
+
+-0.6
+
+0.6
+1.2
+
+0.4
+0.1
+0.0
+0.1
+0.3
+
+0.1
+0.0
+0.1
+
+-0.0
+
+2.2 
+2.6 
+
+2.2 
+2.4 
+
+1.9
+0.4
+0.5
+0.9
+
+0.6
+0.6
+0.0
+-0.0
+
+-0.3
+0.8
+1.2
+
+0.1
+-0.2
+-0.1
+-0.0
+0.3
+
+0.0
+
+-0.0
+0.0
+
+2.1
+2.4
+
+2.2
+2.4
+
+0.1
+-0.2
+-0.2
+-0.0
+0.3
+
+-0.1
+-0.1
+0.0
+
+0.0 
+
+0.0
+
+Components  may not  sum  to  total  due  to  rounding.
+
+November  6,  1996
+I
+
+1998
+
+Strictly  Confidential 
+Class  II FOMC
+
+(FR)
+
+STAFF  PROJECTIONS  OF  FEDERAL SECTOR ACCOUNTS  AND RELATED  ITEMS
+(Billions of  dollars except  as  noted)
+
+Item
+UNIFIED  BUDGET
+
+Receipts 1
+Outlays1
+surplus/deficit
+
+1
+
+on-budget
+Off-budget
+
+surplus  excluding
+
+deposit  insurance
+
+2
+
+Means  of  financing
+Borrowing
+Cash decrease
+Other
+
+3
+
+Cash operating  balance,
+
+end  of  period
+
+NIPA  FEDERAL SECTOR
+
+Receipts
+Expenditures
+
+Consumption  expend.
+
+Defense
+Nondefense
+
+other expenditures
+Current  account  surplus
+Gross  investment
+Current  and  capital
+
+account  surplus
+
+FISCAL  INDICATORS 4
+
+High-employment  (HEB)
+surplus/deficit
+Change  in  HEB,  percent
+of  potential  GDP
+Fiscal  impetus  (FI),
+
+percent,  cal.  year
+
+Fiscal  yearS
+
+1996
+
+1995a
+
+a
+
+1996
+
+1997
+
+1998
+
+1- 
+
+Qla 
+
+Q2 a
+
+Q03 
+
+Q4 
+
+I
+
+1997
+
+.1
+
+Not  seasonally  adjusted
+
+1355
+1519
+-164
+-226
+62
+
+-182
+
+171
+-2
+-5
+
+1453
+1560
+-107
+-174
+67
+
+-116
+
+130
+-6
+-16
+
+1518
+1627
+-108
+-178
+69
+
+-116
+
+122
+4
+-18
+
+1568
+1709
+-141
+-214
+74
+
+-143
+
+161
+0
+-20
+
+-75 
+
+52 
+
+-35 
+
+-61 
+
+-74 
+
+50 
+
+-32 
+
+-64 
+
+-79 
+
+37 
+
+-37 
+
+-61
+
+-30 
+-15 
+-6 
+
+40
+-5
+-4
+
+38 
+
+44 
+
+40 
+
+40
+
+22 
+
+38 
+
+44 
+
+30 
+
+20 
+
+35 
+
+40 
+
+30 
+
+20 
+
+35 
+
+40 
+
+30
+
+1459
+1629
+455
+304
+151
+1175
+-171
+65
+
+-236
+
+-268
+
+0
+
+-5.5
+
+1544
+1683
+457
+303
+155
+1226
+-139
+63
+
+-202
+
+-242
+
+-. 4
+
+-1.9
+
+1629
+1739
+457
+298
+159
+1282
+-110
+63
+
+-173
+
+-230
+
+-.2
+
+-3.8
+
+1695
+1807
+460
+299
+161
+1347
+-112
+62
+
+-173
+
+-239
+
+.1
+
+-3.5
+
+Seasonally  adjusted,  annual  rate
+
+1523
+1678
+454
+299
+155
+1225
+-155
+65
+
+1576
+1702
+463
+307
+156
+1239
+-127
+66
+
+1583
+1703
+461
+304
+156
+1243
+-120
+64
+
+1615
+1720
+457
+300
+157
+1264
+-105
+64
+
+1616
+1731
+455
+296
+158
+1276
+-115
+62
+
+1633
+1745
+456
+297
+159
+1289
+-112
+62
+
+1653
+1760
+459
+299
+160
+1302
+-108
+62
+
+1671
+1786
+461
+301
+160
+1325
+-115
+62
+
+1684
+1800
+461
+300
+161
+1339
+-117
+62
+
+1702
+1813
+458
+297
+161
+1354
+-111
+62
+
+1723
+1829
+460
+299
+162
+1368
+-105
+61
+
+-220 
+
+-193 
+
+-184 
+
+-169 
+
+-177 
+
+-175 
+
+-170
+
+-178 
+
+172 
+
+-167 
+
+-167
+
+-246 
+
+-233 
+
+-230 
+
+-221
+
+-233 
+
+-234 
+
+-233 
+
+-242
+
+-243 
+
+-240 
+
+-237 
+
+-241
+
+.1 
+
+-. 2 
+
+0 
+
+-. 1 
+
+.2 
+
+0
+
+1.3 
+
+1.8 
+
+-. 2 
+
+-2.2 
+
+-1.9 
+
+-.4 
+
+-,2 
+
+.1 
+
+-1 
+
+0
+
+0 
+
+0
+
+-1.3 
+
+-1.2 
+
+-.2 
+
+-1.1
+
+1. OMB's  July  1996  baseline  deficit estimates  (assuming the  enactment  of  the  President's  proposals)  are  $126  billion  in  FY97  and  $94  billion  in  FY98
+
+CBO'S April  1996  baseline  deficit estimates  are  $171  billion  in  FY97  and  $194  billion  in  FY98.  Budget  receipts,  outlays,  and  surplus/deficit  include
+corresponding Social  Security  (OASDI) categories.  The  OASDI  surplus  is  excluded  from the  on-budget deficit  and  shown  separately as  off-budget,  as
+classified  under current  law.  The  Postal  Service deficit  is  included  in off-budget outlays  beginning in  FY90.
+
+2. OMB's  July  1996  baseline  deficit  estimates  (assuming the enactment of  the  President's  proposals),  excluding deposit  insurance  spending,  are
+
+$134  billion  in  FY97  and  $96-billion  in  FY98.  CBO'S  April  1996  baseline  deficit  estimates,  excluding deposit  insurance, are  $175  billion in  FY97  and
+$196  billion  in  FY98.
+
+3. Other means  of  financing  are  checks  issued  less  checks  paid,  accrued  items,  and  changes  in  other  financial  assets  and  liabilities.
+
+4.  HEB  is  the  NIPA current and  capital  account surplus  in  current dollars,  with cyclically  sensitive  receipts and  outlays  adjusted  to  the  level
+of  potential  output  generated  by  1.8  percent  real  growth  and  an  associated  unemployment  rate  of  6 percent,  Quarterly  figures  for change  in  HEB  and
+FI  are not  at  annual  rates.  Change  in  HEB,  as  a  percent of  nominal  potential  GDP,  is  reversed  in  sign.  FI  is  the  weighted difference  of  discretionary
+changes  in  federal  spending  and  taxes  (in  chained  (1992)  dollars),  scaled  by  real  federal  consumption plus  investment.  For  change  in  HEB and  FI,
+negative  values  indicate  restraint.
+
+5.  Fiscal  1995  data  for  the unified  budget  come  from  OMB,  fiscal  1996  and  quarterly data  come  from the  Monthly  Treasury  Statement and  may  not  sum  to
+
+OMB  fiscal  year  totals.
+
+a--Actual.
+b--Preliminary.
+
+Confidential  FR  Class  II
+November  6,  1996
+
+CHANGE  IN  DEBT OF  THE DOMESTIC  NONFINANCIAL  SECTORS 1
+(Percent)
+
+Nonfederal
+
+Total
+
+Federal
+government
+
+Total
+
+Total
+
+Households  -
+Home
+mortgages
+
+Consumer
+credit
+
+Business 
+
+State and  local
+governments
+
+Memo:
+Nominal
+GDP
+
+9.6
+5.0
+7.2
+6.0
+2.0
+
+-1.7
+0.6
+7.7
+14.6
+14.3
+
+7.6
+6.0
+5.5
+
+13.8
+15.1
+14.8
+10.7
+
+11.5
+7.0
+4.8
+6.3
+
+6.0
+5.9
+5.7
+5.7
+
+Quarter (seasonally  adjusted  annual  rates)
+
+1995:1 
+2 
+3 
+4 
+
+1996:1 
+2 
+3 
+4 
+
+1997:1 
+2 
+3 
+4 
+
+6.4 
+6.5 
+4.3 
+4.3 
+
+6.3 
+4.9 
+4.2 
+4.3 
+
+5.0 
+4.4 
+4.5 
+4.5 
+
+7.1
+5.2
+2.4
+1.6
+
+6.6
+1.7
+4.3
+2.0
+
+5.2
+1.9
+4.0
+3.0
+
+1. Data after 1996.Q2 are staff projections. Changes are measured from end of the preceding period to
+end of period indicated except for annual nominal GDP growth, which is calculated from Q4 to Q4.
+On a  monthly average basis, total debt grows 5.0 percent in 1996, 4.6 percent in 1997, and 4.8 percent in 1998.
+Federal debt rises 3.6 percent in 1996, 33 percent in 1997, and 4.1 percent in 1998.
+Nonfederal debt increases 5.5 percent in 1996, 5.1 percent in 1997, and 5.0 percent in 1998.
+
+2.6.3  FOF
+
+Confidential FR  Class II
+November  6,  1996
+
+Net funds raised  by domestic
+nonfinancial sectors
+
+1  Total
+2  Net equity issuance
+3  Net debt  issuance
+
+Borrowing  sectors
+Nonfinancial  business
+
+4  Financing  gap 2
+5  Net equity issuance
+6  Credit  market  borrowing
+
+Households
+
+7  Net borrowing,  of which:
+8  Home mortgages
+Consumer credit
+9 
+10  Debt/DPI (percent) 3
+
+State and  local  governments
+
+11  Net borrowing
+12  Current surplus 4
+
+Federal  government
+
+FLOW  OF FUNDS  PROJECTIONS: HIGHLIGHTS 1
+(Billions  of dollars)
+
+1993 
+
+1994 
+
+Calendar year 
+1995 
+1996 
+
+1997 
+
+1998 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+HI 
+
+H2
+
+1996 
+
+-
+
+1997  -
+
+649.8 
+21.3 
+628.5 
+
+575.5 
+-44.9 
+620.4 
+
+648.0 
+-74.2 
+722.3 
+
+623.0 
+-73.1 
+696.1 
+
+583.6 
+-96.0 
+679.6 
+
+639.4 
+-83.5 
+722.9 
+
+763.0 
+-106.8 
+869.8 
+
+672.6 
+-16.8 
+689.4 
+
+497.3 
+-106.8 
+604.1 
+
+558.8 
+-62.0 
+620.8 
+
+609.0 
+-80.4 
+689.4 
+
+558,1
+-111.6
+669.7
+
+3.8 
+21.3 
+55.5 
+
+254.6 
+152.1 
+61.5 
+86.6 
+
+3.8 
+-44.9 
+139.3 
+
+368.7 
+194.5 
+126.3 
+88.9 
+
+57.7 
+-74.2 
+242.9 
+
+380.6 
+195.9 
+141.6 
+90.9 
+
+21.9 
+-73.1 
+201.1 
+
+368.5 
+248.5 
+85.7 
+93.3 
+
+48.3 
+-96.0 
+233.3 
+
+59.5 
+-83.5 
+247.0 
+
+2.5 
+-106.8 
+206.6 
+
+-5.7 
+-16.8 
+199.1 
+
+56.4 
+-106.8 
+185.3 
+
+311.8 
+213.9 
+72.5 
+94.6 
+
+311.2 
+220.2 
+70.5 
+95.4 
+
+435.9 
+296.3 
+129.7 
+92.7 
+
+391.0 
+247.5 
+81.1 
+93.6 
+
+331.5 
+235.2 
+57.0 
+93.8 
+
+34.3 
+-62.0 
+213.4 
+
+315.6 
+215.2 
+75.0 
+94.2 
+
+44.6 
+-80.4 
+235.7 
+
+52,1
+-111.6
+230.9
+
+312.1 
+213.7 
+73.0 
+94.3 
+
+311.6
+214.2
+72.0
+95.0
+
+62.3 
+109.9 
+
+-43.4 
+107.4 
+
+-45.7 
+106.8 
+
+-8.4 
+106.2 
+
+0.6 
+103.7 
+
+17.8 
+99.8 
+
+-12.5 
+99.0 
+
+36.8 
+116.8 
+
+-74.0 
+106.1 
+
+16.2 
+102.9 
+
+7.8 
+105.3 
+
+-6.7
+102.1
+
+13  Net  borrowing
+14  Net borrowing  (quarterly, n.s.a.)
+15  Unified  deficit  (quarterly,  n.sa.)
+
+16  Funds supplied  by depository  institutions
+
+Memo:  (percent  of GDP)
+17  Domestic  nonfinancial  debt 3
+18  Domestic  nonfinancial  borrowing
+19 
+20  Nonfederal
+
+Federal  government
+
+256.1 
+256.1 
+226.3 
+
+140.4 
+
+186.4 
+9.6 
+3.9 
+5.7 
+
+155.9 
+155.9 
+185.0 
+
+144,4 
+144.4 
+146.4 
+
+134.8 
+134.8 
+107.0 
+
+133.9 
+133.9 
+116.9 
+
+146.9 
+146.9 
+137.3 
+
+239.9 
+80.5 
+72.3 
+
+62.4 
+-23.5 
+-53.7 
+
+161.3 
+39.3 
+33.3 
+
+75.6 
+38.5 
+55.1 
+
+133.8 
+43.6 
+22.4 
+
+133.9
+90.3
+94.5
+
+198.3 
+
+274.6 
+
+179.2 
+
+203.1 
+
+220.4 
+
+123.9 
+
+229.5 
+
+193.7 
+
+169.7 
+
+199.8 
+
+206.5
+
+185.3 
+8.9 
+2,2 
+6.7 
+
+186.5 
+10.0 
+2.0 
+8.0 
+
+188.0 
+9.2 
+1.8 
+7.4 
+
+188.3 
+8.6 
+1.7 
+6.9 
+
+189.0 
+8,7 
+1.8 
+7.0 
+
+188.4 
+11.7 
+3.2 
+8.5 
+
+188.1 
+9.1 
+0.8 
+8.3 
+
+188.3 
+7.9 
+2.1 
+5.8 
+
+188.5 
+8.1 
+1.0 
+7.1 
+
+188.2 
+8.8 
+1.7 
+7.1 
+
+188.6
+8.4
+1.7
+6.7
+
+1.  Data after 1996:Q2 are staffprojections.
+2.  For corporations: Excess of capital expenditures over U.S. internal funds.
+3. Average debt levels  in the period (computed as the average of period-end debt positions) divided by nominal GDP.
+4. NIPA surplus less changes in retirement fund assets plus consumption offixed capital.
+5. Excludes government-insured mortgage pool securities.
+
+2.6.4  FOF
+
+Recent  Developments
+
+INTERNATIONAL  DEVELOPMENTS
+
+The  weighted-average  foreign  exchange  value  of  the  dollar  in
+terms  of  the  other  G-10  currencies  has  changed  little,  on  balance,
+since  the  September FOMC  meeting.  The  dollar  has  moved  disparately
+against  individual  currencies,  however,  rising  4 percent  against  the
+yen  and  falling  5  percent  against  sterling  and  3 percent  against  the
+Canadian  dollar.
+
+The  yen  came  under  downward  pressure  as  prospects  for  a
+supplemental  budget  package  to  cushion  the  fiscal  contraction now
+under  way  in  Japan waned  in  the  aftermath  of  the  recent  Japanese
+
+election,  thereby  diminishing  prospects  for  a firming  move by  the
+Bank  of  Japan.  The  Liberal  Democratic  Party made  gains  in  the
+
+election but  encountered  unexpected  difficulties  in  forming a
+
+coalition  government.  Sterling  was  boosted  by,  among  other  factors,
+
+the  release  of  favorable  data  on  the  U.K. economy  and  a  surprise
+
+25-basis-point  increase  in  the  Bank  of England's  minimum  lending
+
+rate.  The  Canadian dollar  could  well  be  benefitting  from Canada's
+
+monetary  and  fiscal  rectitude  as well  as  from a current  account  that
+
+has  recently moved  into  surplus.  The  U.S.  dollar  has  changed  little
+
+on balance  against  the  mark and  most  other  major  continental
+
+European currencies;  an  exception was  the  Swiss  franc,  against  which
+
+the  dollar  appreciated  3 percent.
+
+Short-term  interest  rates  in  the  major  foreign  industrial
+
+countries  declined  10  basis  points  on  average,  with  the  decline  more
+
+than  accounted  for  by  Canada,  Italy,  France,  and  Sweden.  Official
+
+rates  were  cut  75  basis  points  in  Canada  and  Italy,  about  50  basis
+
+points  in  Sweden  and  Switzerland,  and  15  basis  points  in  France.
+
+Short-term  rates  moved  up  somewhat  in  the  United  Kingdom, Germany,
+
+and  the  Netherlands.  Ten-year  bond  rates  abroad  moved  down more
+
+than  40  basis  points  on  average,  a bit  less  than  the  decline  in U.S.
+
+rates.  Substantial  declines  in  Italian  and  Canadian bond  rates
+
+(roughly 100  basis  points  each)  reflected  improving  fiscal  prospects
+
+and  moderating  inflation  in  these  countries.  Italy's  announcement
+
+that  the  lira  would  rejoin  the  ERM by  the  end  of the  year  further
+
+bolstered  the  Italian  bond  market.
+
+The  Mexican  peso  has  depreciated  5 percent  since the  September
+
+FOMC  meeting,  to  a level  just  below  8 pesos  per  dollar,  and  Mexican
+
+stock and  Brady  bond prices  have  declined.  A  reassessment  of
+
+I-28
+
+I-29
+
+Mexico's  prospects  in  the  context  of  slowing  of  progress  on
+
+privatization  and  eroding political  support  for  the  governing  party
+
+were among  the  factors  cited  in  the  downturn  of  Mexican financial
+
+markets.
+
+The
+
+Desk  did  not  intervene  during  the  period,  setting  a  record  for  the
+
+longest  period  of  nonintervention  (449  days  as  of  November  6)  during
+
+the  period  of  floating exchange  rates  since  March  1973.
+
+Economic  activity  in  the  major  foreign  industrial  countries  on
+
+average  expanded  at  a  moderate  pace  during  the  third  quarter.  In
+
+Japan,  industrial  production  and  housing  starts  advanced  strongly.
+
+German  industrial  production  grew at  a  3-1/4  percent  annual  rate,
+
+and  orders  strengthened  further.  U.K.  GDP  (preliminary) grew  at  a
+
+3  percent  rate,  and  survey  data  for  the  fourth  quarter  suggest
+
+continued  strength.  Indicators  in  Canada  were  mixed:  industrial
+
+output  and  orders  rose  moderately  in  July-August, but  employment
+
+grew only  slightly  in  the  third  quarter.  In  France,  an  incentive
+
+program  for  car  sales  strengthened  consumption  of  manufactured  goods
+
+substantially,  but  other  indicators  have  been weak.  Industrial
+
+output  in  Italy  declined  significantly  further  in  July-August.
+
+Consumer  price  inflation  in  the  foreign G-7  countries  has
+
+remained  generally  low.  In  Germany,  France,  and  Canada,  the  twelve-
+
+month  change  in  consumer  prices  through  September  continued  at  about
+
+1-1/2  percent,  and  in  the  United  Kingdom,  it  edged  up  but  remained  a
+
+bit  under  3 percent.  In  Japan,  12-month  inflation  through  October
+
+dipped below  zero  again,  and  in  Italy it  fell  to  3 percent.
+
+Activity  in  key developing  countries  has  remained  fairly
+
+robust  on  average.  Industrial  production  advanced  strongly  (twelve-
+
+month  change)  through August  in  Mexico  and  Argentina.  In  Brazil,
+
+GDP  surged  at  a 7 percent  annual  rate  in the  second  quarter,  but
+
+industrial  output  fell  back  somewhat  in  July-August.  Growth  in
+
+China  remained  strong  through  the  third  quarter.
+
+The  nominal  deficit  in  U.S.  international  trade  in  goods  and
+
+services narrowed  somewhat  in  August,  but  the  July-August  average
+
+was  a good  deal  larger  than  that  in  the  second  quarter.  Exports  in
+
+July-August were  2 percent  less  than  in  the  second  quarter,  while
+
+imports  rose  slightly.  The  decline  in  exports  was  largely  accounted
+
+for  by  reduced  shipments  of  aircraft  and  nonmonetary  gold.
+
+I-30
+
+Prices  of  exports  declined  in  the  third quarter,  primarily
+
+because  the  prices  for  agricultural  exports  reversed  most  of  their
+
+sharp  increases  over  the  preceding year.  Prices  of  non-oil  imports
+
+continued  their  broad-based  decline  at  a  somewhat  faster  pace  than
+
+during  the  first  half  of  the  year.  The  price  of  imported  oil  fell
+
+slightly  in  the  third  quarter  after  its  strong  increase  in  the  first
+
+half  of the  year.  Spot  WTI  is  currently  trading  just  below  $23  per
+
+barrel,  slightly  above  the  level  at  the  time  of  the  September
+
+Greenbook, but  nearly  $2 below the  level  on  the  day  of  the  September
+
+FOMC.  Prices  were pushed  up  shortly  before  the  September meeting
+
+and  further  early  in  the  intermeeting  period  by  the  resumption  of
+
+fighting  in  the  Kurdish  region  of Northern  Iraq  and  by  concern  about
+
+the  level  of  heting  oil  stocks  in  the  United  States  and  Europe.  In
+
+the  past  week,  the  announcement  of  a tentative  settlement  of  the
+
+dispute  among the  Kurds  resulted  in  a decline  of  about  $2 per
+
+barrel.
+
+SUMMARY  OF  STAFF  PROJECTIONS
+(Percent change  from end  of  previous  period)
+
+H1 
+
+3.1 
+3.1 
+
+3.7 
+3.8 
+
+10.3 
+10.3 
+
+1996
+
+Q3 
+
+3.5 
+3.3 
+
+0.4 
+1.3 
+
+8.7 
+4.8 
+
+Q4 
+
+1997 
+
+1998
+
+3.6 
+3.7 
+
+11.7 
+9.8 
+
+7.3 
+10.0 
+
+3.9 
+3.9 
+
+6.7 
+7.2 
+
+8.3 
+7.9 
+
+3.6
+3.6
+
+6.3
+7.9
+
+7.2
+8.6
+
+Foreign  output 
+Previous 
+
+Real  exports 
+
+Previous 
+
+Real  imports 
+
+Previous 
+
+Outlook
+
+The  staff  projects  growth  of  real  output  in  our major  trading
+
+partners  (weighted by  U.S.  nonagricultural  export  shares)  to  pick  up
+
+to  a  3-1/2  to  4 percent  annual  rate  during  the  fourth  quarter  and
+
+through  1997-98.  This  outlook  is  little  changed  from  that  in  the
+
+September  Greenbook.  The  projected  path  of  the  dollar  is  slightly
+
+higher  than  in  September  and has  led  us  to  mark  down  the  path  of
+
+real  net  exports  a bit.  Our  forecast  for  the  growth  of  exports,
+
+imports,  and  net  exports  also  has  been  revised  down  as  a result  of
+
+the  effects  of  recent  revisions  to  historical  data  on  our
+
+I-31
+
+forecasting model.1  The  effects  of  some  residual  seasonality  and
+
+the  CAW/UAW  auto  strike  lead  us  to  expect  real  net  exports  to  rise
+
+somewhat  in  the  fourth  quarter.  Beyond  the  current  quarter,
+
+however,  we  see  net  exports  resuming  their  downtrend  and  subtracting
+
+0.3  percentage  point  from  GDP  growth  during  1997  and  1998.
+
+The  dollar.  We  project  the  foreign  exchange value  of  the
+
+dollar  in  terms  of  the  other  G-10  currencies  to  remain  little
+
+changed  from  its  recent  levels  throughout  the  forecast  period.  This
+
+is  slightly higher  than  the  level  forecast  in  the  previous
+
+Greenbook,  reflecting  the  somewhat  higher  level  the  dollar  has
+
+maintained  in  the  intermeeting period.  In  the  September  Greenbook,
+
+the  staff  had  anticipated  some  downward  pressure on  the  dollar  on
+
+the  assumption  that  the  FOMC,  contrary to  market  expectations,
+
+would  not  act  to  increase  interest  rates  at  the  September  meeting.
+
+In  the  event,  the  dollar  did  not  decline,  in  part because  of  the
+
+market's  interpretation of  subsequent  economic  and  financial
+
+developments  in  other  G-10  countries.  The  current  forecast involves
+
+some  risk  of  downward  pressure  on  the  dollar  to  the  extent  that  the
+
+market  expects  some  narrowing  of  the  U.S.  current  account  deficit,
+
+contrary  to  the  staff projection.  We  expect  that  the  CPI-adjusted
+
+value  of  the  dollar  in  terms  of  the  currencies  of  key  developing
+
+countries  will  depreciate  at  a  moderate  rate  throughout  the  forecast
+
+period.
+
+Foreign  G-7  countries.  We  project  real  GDP  in  the  foreign G-7
+
+countries  (weighted by  U.S.  nonagricultural  export  shares)  to  expand
+
+at  an  annual  rate  of  between  2-1/2  and  2-3/4  percent  during  the
+
+second  half of  this  year  and  through  the  projection  period.  In
+
+Europe  and  Canada,  stimulus  to  private  domestic  demand  from recent
+
+declines  in  interest  rates  should  support moderate  GDP  growth  in
+
+most countries  despite  ongoing  fiscal  contraction.
+
+Real  GDP  growth  in  Germany  and  France  is  projected  to  average
+
+a  little more  than a  2  percent  annual  rate  over  the  forecast  period,
+
+led  by  expansions  of  investment.  In  the  United Kingdom, we  expect
+
+the  recent  strong  growth  of  final  domestic  demand  to  hold  up  through
+
+1997  and  then  to  slow  a  bit  in  1998  in  response  to  higher  interest
+
+1  Recent  BEA  revisions  to  historical  data  for  the  chain-
+weighted measure  of  real  nonagricultural  exports  have  resulted  in
+significant  shifts  in  some  of  the  key  estimated parameters  in  our
+trade  equations.
+
+I-32
+
+rates.  Because  the  recent  decline  in  Italian  interest  rates
+
+probably will  not  be  enough  to  offset  the  relatively  large  fiscal
+
+contraction  in  train  in  that  country, we  expect  Italian  GDP  growth
+
+to  be  sluggish--in  the  vicinity  of  a  1-1/2  percent  rate--over  the
+forecast period. 2
+
+Real  GDP  growth  in  Japan  is  expected  to  strengthen  through  the
+
+first  quarter  of  1997  as  consumers  spend  in  anticipation  of  the
+
+planned  increase  in  the  consumption  tax  on  April  1,  1997;  growth
+
+should  slow  after  the  tax  takes  effect.  We  project  Japanese  net
+
+exports  to  begin  to  make  a  positive  contribution  to  GDP  growth  over
+
+the  next  several  quarters  in  response  to  the  depreciation  of  the  yen
+
+during  the  past  year.
+
+In  Canada,  a  positive  inventory  swing  and  robust  investment
+
+should  boost  output  growth  in  the  near  term.  The  Canadian  auto
+
+strike  should  shave  growth  in  the  fourth  quarter  by  a  couple  of
+
+tenths  and  boost  first-quarter  growth  by  a  like  amount.  In  the
+
+longer  term,  investment  and  net  exports  will  help  sustain  moderate
+
+growth.
+
+We  forecast  that  average  consumer  price  inflation  for  the
+
+foreign  G-7  countries  (weighted by  bilateral U.S.  import  shares)
+
+will  rise  to  about  1-3/4  percent  next  year,  from a  little  over
+
+1  percent  this  year,  as  the  Japanese  price  level  jumps  because  of
+
+the  rise  in  the  consumption  tax.  Inflation  abroad  is  expected  to
+
+move back  below  1-1/4  percent  in  1998.
+
+We  assume  that  average  short-term market  interest  rates  in  the
+
+major  foreign  industrial  countries  will  remain  about  unchanged
+
+through  the  middle  of  next  year  and  then  will  rise  about  50  basis
+
+points  by  the  end  of  1998.  One  exception  is  Italy,  where  rates  are
+
+assumed  to  decline  further  over  the  year  ahead.  Long-term  rates
+
+abroad  are  projected  to  remain  little  changed  on  average  over  the
+
+2 The  Italian  government  has  announced  a  budget  for  1997  that
+
+would  meet  the  Maastricht  target  of  3  percent  of  GDP.  However,  the
+budget  for  1996  is  running  well  above  target,  and  an  outcome  of
+closer  to  4  percent  of  GDP  seems  more  likely  for  1997.  The
+government's budget  announcement  did  lead  us  to  mark down  our
+forecast  for  Italy's  GDP  growth  in  1997,  however.  We  continue  to
+assume  that  Italy  will  not  qualify  for  first-round  EMU  membership
+when  Stage  Three  begins  on  January  1,  1999.  However,  some  special
+status  for  Italy,  such  as  assured  "second-round"  membership,  is
+likely.
+
+I-33
+
+forecast  period,  with sizable  declines  in  Italy  and  small  declines
+
+elsewhere  in  continental  Europe  offsetting a  sizable  increase  in
+
+Japan and  small  increases  in  Canada  and  the  United  Kingdom.
+
+Other  countries.  Real  GDP  of major  U.S.  trading partners
+
+among  developing  countries  (weighted by U.S.  exports)  is  projected
+
+to  grow  about  5 percent  during  1996  and  closer  to  6 percent  over  the
+
+next  two  years.  Most  of  the  acceleration reflects  faster  growth  in
+
+Mexico  and  Venezuela.
+
+We  forecast  real  GDP  in  Mexico  to  expand  at  an  annual  rate  of
+
+3-1/2  percent  during  the  second half  of  1996  and  4 to  5 percent  per
+
+year  during  1997-98.  However,  the  weak  balance-sheet  positions  of
+
+households  and  banks  and  the  possibility  of  renewed  volatility  in
+
+financial markets  pose  risks  to  this  outlook.  Elsewhere  in  Latin
+
+America,  we  project  growth  in Argentina  to  be  about  5 percent  per
+
+year  over  the  forecast  period.  However,  widening fiscal  deficits
+
+and  possible  social  unrest  are  risks  for  Argentina  for  1997-98.  In
+
+Brazil,  we  expect  that  an  overvalued currency  and  tight monetary
+
+policy  will  restrain  growth  to  about  2 percent  per  year  during
+
+1997-98.  The  downturn  in  Venezuela  appears  to  be  abating,  and  we
+
+are  projecting  a moderate  recovery  over  the  next  two  years.
+
+Real  output  in  our  major  trading  partners  in  Asia is  expected
+
+to  expand  at  an  annual  rate  of  about  5-3/4  percent  during  the  second
+
+half  of  1996.  The easing  of monetary  policies  as  inflation  has
+
+abated  in  some  Asian  economies  should  allow  annual  growth  in  the
+
+region  to  rise  to  about  6-3/4  percent  during  1997-98.
+
+U.S.  real  exports  and  imports  of  goods  and  services.  We
+
+project  growth  of  exports  of  real  goods  and  services  to  strengthen
+
+from  a bit  less  than  5 percent  during  1996  to  a  little more  than
+
+6 percent  during  1997  and  1998.  Exports  of  computers  are  expected
+
+to  continue  to  grow  rapidly  in  real  terms  and  exports  of
+
+semiconductors  to  recover  from their  slump  earlier  this  year.  Other
+
+exports  of  goods will  be  boosted  in  the  fourth  quarter  by  an  upturn
+
+in  aircraft  shipments  and  by  a residual  seasonal  increase  in  other
+
+categories  that  more  than  offset  a decline  in  auto  shipments  to
+
+Canada  associated with  the  CAW/UAW  strike.  The  growth  of  other
+
+exports  should  pick  up  a bit  in  1997,  compared  with  its  average  rate
+
+in  1996,  but  then  drop  back  in  1998.  These  exports  will  be
+
+bolstered  in  1997,  and  to  a  slightly  lesser  extent  in  1998,  by
+
+stronger  growth  abroad.  Moreover,  net  gains  in  the  price
+
+I-34
+
+competitiveness  of  U.S.  exports  over  the  past  two  years  will
+
+continue  to  contribute to  export  growth  through  1997.
+
+QUANTITIES OF GOODS AND SERVICES
+(Percent change from end of previous period, SAAR)
+
+-------------- Projection------------
+
+HI 
+
+1996
+Q3 
+
+Q4 
+
+1997 
+
+1998
+
+Exports of G&S 
+
+3.7 
+
+0.4 
+
+11.7 
+
+6.7 
+
+Services 
+Agricultural products 
+Computers 
+Semiconductors 
+Other goods 
+
+2.8 
+-15.5 
+38.4 
+-11.2 
+4.4 
+
+-0.7 
+25.0 
+21.6 
+2.1 
+-3.9 
+
+7.1 
+3.5 
+36.1 
+24.8 
+11.2 
+
+3.2 
+3.6 
+29.3 
+21.6 
+4.6 
+
+6.3
+
+2.7
+3.6
+28.7
+21.6
+3.3
+
+Imports  of G&S 
+
+10.3 
+
+8.7 
+
+7.3 
+
+8.3 
+
+7.2
+
+Services 
+Oil 
+Computers 
+Semiconductors 
+Other goods 
+
+6.9 
+11.6 
+25.3 
+-19.8 
+11.9 
+
+5.8 
+
+-6.9 
+25.3 
+-22.3 
+11.4 
+
+1.3 
+15.4 
+28.6 
+21.6 
+4.8 
+
+3.1 
+3.6 
+24.5 
+21.6 
+7.1 
+
+2.9
+4.1
+23.9
+21.6
+4.9
+
+Note: NIPA basis, chained (1992) dollars.
+
+Growth  of  real  imports  of  goods  and  services  is  projected  to
+
+slow  somewhat  over  the  forecast  period  from  the  rapid  rate  observed
+
+earlier  this  year  as  the  growth  of  U.S.  domestic  demand  slows.  As
+
+with  exports,  the  growth  of  imports  of  computers  should  remain
+
+robust  and  that  of  semiconductors  should  recover.  We  expect  the
+
+auto  strike will  reduce  imports  in  the  fourth  quarter  by  more  than
+
+exports,  and  that  the  shortfalls  in  both will  be  largely  made  up  in
+
+the  first  quarter. 
+
+The  quantity  of  oil  imports  should  rise
+
+somewhat  this  quarter  and  during  the  remainder  of the  forecast
+
+period:  consumption  will  rise  with  the  increase  in  U.S.  economic
+
+activity  and  U.S.  oil  production  should  continue  to  trend  down,
+
+although  at  a  somewhat  slower  pace  than we  assumed  in the  previous
+
+Greenbook.
+
+Oillprices.  In  light  of  the  temporary  increase  in  spot  oil
+
+prices  over  the  past  six weeks,  we  have  raised  the  projected  price
+
+of  imported  oil  for  the  fourth  quarter  about  $1.50  per  barrel,  to  a
+
+3 The  net  effect  of  the  auto  strike  on  trade flows  will  be  to
+
+increase  the  level  of  real  net  exports  in  the  fourth  quarter  by
+about  $2 billion  and  to  reduce the  level  in  the  first  quarter  by  a
+slightly  smaller  amount.
+
+I-35
+
+little  over  $21  per  barrel.  Thereafter,  the  import  price  is
+projected  to  return  to  $18  per  barrel  by  the  second  quarter  and  $17
+per  barrel  by  the  fourth  quarter  of  1997  (a level  consistent with
+$19.50  per barrel  for  WTI),  in  line  with  our  previous  projection.
+We  continue  to  assume  that  Iraq will  begin  shipping  800,000  b/d
+under  U.N.  auspices  next  April  and  that  planned  increases  in  oil
+production  during  1998  will  be  sufficient  to  hold  oil  prices  about
+unchanged  from  their  end-1997  levels.
+
+(Percent change  from  end  of  previous  period  except  as  noted,  AR)
+
+SELECTED  PRICE  INDICATORS
+
+Ag.  exports1  
+Nonag.  exports 1  
+Non-oil  imports' 
+Oil  imports
+
+------------- Projection-----------
+
+1996
+Q3 
+
+Q4 
+
+1997 
+
+1998
+
+-18.03 
+-1.5 
+-3.1 
+
+-4.4 
+1.6 
+-0.7 
+
+1.7 
+0.9 
+-1.0 
+
+2.4
+1.7
+1.06
+
+H1 
+
+18.3 
+-2.4 
+-3.4 
+
+(Q4  level,  $/bl) 
+
+19.52 
+
+19.55 
+
+21.22 
+
+17.05 
+
+17.00
+
+1.  NIPA  chain-weighted  basis,  including computers  and
+
+semiconductors.
+
+Prices  of  non-oil  imports  and  exports.  Prices  of  agricultural
+
+exports  are  projected  to  decline  moderately  during  the  fourth
+
+quarter  before  rising  in  1997  and  1998.  Prices  of  nonagricultural
+
+exports,  held  down  by  price  declines  for  computers  and
+
+semiconductors,  should be  little  changed  over  the  second  half  of
+
+this  year  and  rise  only  slightly  over  the  remainder  of  the  forecast
+
+period.  We  anticipate  that  the  prices  of  non-oil  imports  will  show
+
+little  movement  over  the  forecast  period  as  inflation  abroad  remains
+
+very  low  and  the  dollar  is  unchanged.
+
+Nominal  trade  and  current  account  balances. 
+
+The  nominal
+
+trade  deficit  on  goods  and  services  is  projected  to  widen  from  its
+
+second-quarter  level  of  $112  billion  to  about  $125  billion  in  1998.
+
+The  balance  on  net  investment  income  is  projected  to  deteriorate
+
+slightly  as  well.  Accordingly,  the  current  account  balance  should
+
+move  from  a deficit  of  about  $155  billion  in  the  second  quarter  to
+
+$165  billion  in  1997  and  $180  billion  in  1998.
+
+Strictly  Confidential  (FR) Class  II-FOMC
+
+REAL  GDP AND  CONSUMER  PRICES,  SELECTED  COUNTRIES,  1995-98
+(Percent, quarterly  change  at  an  annual  rate  except  as  noted)
+
+Projected 
+
+1996 
+
+1997
+
+Projected
+
+Measure  and  Country 
+
+1995 
+
+1996 
+
+1997 
+
+1998 
+
+Q1 
+
+Q2 
+
+03 
+
+Q4 
+
+Q1 
+
+Q2 
+
+Q3
+
+REAL GDP
+
+Canada 
+France 
+Germany 
+Italy 
+Japan 
+United  Kingdom 
+
+Average weighted by  1987-89  GDP 
+
+Average weighted by  share  of
+
+U.S. nonagricultural  exports
+
+Total  foreign 
+Foreign  G-7 
+Developing  Countries 
+
+0.7 
+0.4 
+1.1 
+2.4 
+2.5 
+1.7 
+
+1.7 
+
+2.3 
+1.6 
+2.1 
+0.9 
+3.2 
+2.7 
+
+2.3 
+
+3.0 
+2.3 
+2.1 
+1.3 
+2.6 
+2.9 
+
+2.8 
+2.2 
+2.3 
+1.7 
+2.2 
+2.3 
+
+1.3 
+4.6 
+-1.9 
+1.7 
+12.2 
+2.6 
+
+1.3 
+-1.4 
+6.1 
+-1.6 
+-2.9 
+2.2 
+
+3.8 
+3.0 
+2.1 
+2.0 
+1.4 
+3.0 
+
+2.9 
+0.2 
+2.3 
+1.6 
+2.7 
+3.0 
+
+3.7 
+2.3 
+2.0 
+1.5 
+4.3 
+3.0 
+
+2.6 
+2.2 
+2.1 
+1.5 
+1.7 
+3.0 
+
+2.4 
+
+2.2 
+
+4.9 
+
+-0.0 
+
+2.3 
+
+2.2 
+
+3.0 
+
+2.1 
+
+2.8
+2.4
+2.2
+1.0
+2.2
+2.8
+
+2.2
+
+1.7 
+1.3 
+2.4 
+
+3.3 
+2.4 
+5.0 
+
+3.9 
+2.7 
+5.9 
+
+3.6 
+2.5 
+5.7 
+
+4.4 
+3.5 
+6.9 
+
+1.9 
+0.7 
+2.6 
+
+3.5 
+2.9 
+5.0 
+
+3.6 
+2.6 
+5.5 
+
+4.1 
+3.4 
+5.9 
+
+3.7 
+2.3 
+6.0 
+
+3.8
+2.5
+6.0
+
+CONSUMER PRICES  (1)
+
+Canada 
+France 
+W.  Germany 
+Italy 
+Japan 
+United Kingdom  (2) 
+
+2.1 
+1.9 
+1.6 
+5.8 
+-0.8 
+2.9 
+
+1.5 
+1.6 
+1.5 
+2.8 
+-0.0 
+2.9 
+
+1.3 
+1.8 
+1.6 
+2.5 
+1.7 
+2.7 
+
+Average weighted  by  1987-89  GDP 
+
+1.7 
+
+1.4 
+
+1.9 
+
+1.3 
+1.8 
+1.7 
+2.8 
+0.5 
+2.8 
+
+1.6 
+
+1.7 
+2.9 
+2.5 
+2.9 
+-0.3 
+3.0 
+
+1.7 
+
+3.1 
+3.2 
+1.9 
+4.9 
+1.9 
+6.1 
+
+3.2 
+
+0.6 
+-0.9 
+1.6 
+0.9 
+-1.2 
+1.1 
+
+0.6 
+1.3 
+
+-0.2 
+2.6 
+-0.4 
+1.4 
+
+1.0 
+4.1 
+2.6 
+2.5 
+-0.2 
+1.5 
+
+1.8 
+2.8 
+2.0 
+5.2 
+8.1 
+6.4 
+
+1.6
+-1.9
+1.9
+-0.3
+-1.2
+1.5
+
+0.1 
+
+0.6 
+
+1.6 
+
+5.2 
+
+-0.1
+
+Average weighted  by  share  of
+U.S.  non-oil  imports 
+
+1.1 
+
+1.1 
+
+1.7 
+
+1.2 
+
+1.2 
+
+2.8 
+
+-0.0 
+
+0.3 
+
+1.0 
+
+4.8 
+
+0.2
+
+Note:  Annual  values  are  measured  from  Q4  to  Q4.
+1. Not  seasonally  adjusted.
+2. CPI excluding  mortgage  interest  payments,  which
+
+mortgage  interest  payments  was  shown.
+
+is  the  targeted  inflation  rate.  Previously  the  CPI  including
+
+Strictly  Confidential  (FR)  Class  II-FOMC
+
+OUTLOOK  FOR  U.S.  INTERNATIONAL  TRANSACTIONS
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+-------  Projected  -------
+1998
+
+1997 
+
+1996 
+
+NIPA  REAL  EXPORTS  and  IMPORTS
+
+percentage point  contribution  to GDP  growth,  Q4/Q4
+
+Net  Goods  and  Services 
+Exports  of  Goods  and  Services 
+Imports  of  Goods  and  Services 
+
+0.6 
+0.6 
+-0.1 
+
+0.4 
+0.8 
+-0.4 
+
+-0.4 
+0.4 
+-0.8 
+
+-0.7 
+0.5 
+-1.1 
+
+-0.4 
+1.0 
+-1.4 
+
+0.3 
+0.8 
+-0.5 
+
+-0.6 
+0.6 
+-1.2 
+
+percent change,  Q4/Q4
+
+Exports  of  Goods  and  Services 
+
+Services 
+Agricultural  Goods 
+Computers 
+semiconductors 
+other Goods  1/ 
+
+Imports  of  Goods  and  Services 
+
+Services 
+Oil 
+Computers 
+Semiconductors 
+Other Goods  2/ 
+
+7.2 
+8.9 
+-7.3 
+12.3 
+61.5 
+6.0 
+
+0.5 
+5.8 
+-15.8 
+2.9 
+60.9 
+-0.3 
+
+8.6 
+7.1 
+10.1 
+21.7 
+41.8 
+7.0 
+
+4.0 
+-2.7 
+8.1 
+35.9 
+55.3 
+2.5 
+
+4.1 
+-0.9 
+10.4 
+25.2 
+64.8 
+2.3 
+
+7.5 
+1.5 
+12.1 
+45.1 
+42.0 
+5.4 
+
+4.8 
+3.9 
+-5.4 
+22.7 
+45.1 
+3.6 
+
+10.5 
+3.6 
+10.1 
+38.8 
+44.9 
+9.4 
+
+9.9 
+4.8 
+17.1 
+28.8 
+68.7 
+7.4 
+
+11.8 
+0.8 
+-0.2 
+37.3 
+47.4 
+12.5 
+
+7.4 
+5.1 
+-3.0 
+49.5 
+29.7 
+5.2 
+
+4.2 
+4.1 
+0.9 
+43.8 
+57.1 
+-1.2 
+
+4.8 
+2.9 
+-1.7 
+33.5 
+0.2 
+3.9 
+
+9.1 
+5.2 
+7.6 
+26.1 
+-11.7 
+9.9 
+
+in  billions  of  chained  1992$
+
+-0.3 
+0.8 
+-1.2 
+
+6.7 
+3.2 
+3.6 
+29.3 
+21.6 
+4.6 
+
+8.3 
+3.1 
+3.6 
+24.5 
+21.6 
+7.1 
+
+-0.3
+0.8
+-1.1
+
+6.3
+2.7
+3.6
+28.7
+21.6
+3.3
+
+7.2
+2.8
+4.1
+23.9
+21.6
+4.9
+
+Net  Goods  and  Services 
+Exports  of  Goods  and  Services 
+Imports  of  Goods  and  Services 
+
+-61.9 
+564.4 
+626.3 
+
+-22.3 
+599.9 
+622.2 
+
+-29.5 
+639.4 
+668.9 
+
+-72.0 
+658.3 
+730.3 
+
+-105.7 
+712.0 
+817.6 
+
+-107.6 
+775.4 
+883.0 
+
+-120.0 
+821.3 
+941.3 
+
+-142.1 
+875.7 
+1017.8 
+
+-163.2
+930.5
+1093.7
+
+in  billions  of  dollars
+
+US  CURRENT ACCOUNT BALANCE 
+
+Net  Goods  +  Services  (BOP) 
+
+Exports  of G+S  (BOP) 
+Imports  of G+S  (BOP) 
+
+Net  Investment  Income 
+
+Direct,  Net 
+Portfolio, Net 
+
+Net  Transfers 
+
+-94.7 
+
+-80.3 
+536.8 
+617.1 
+
+20.9 
+55.9 
+-35.0 
+
+-35.2 
+
+-9.5 
+
+-62.6 
+
+-99.9 
+
+-148.4 
+
+-148.2 
+
+-160.0 
+
+-164.3 
+
+-178.7
+
+-29.9 
+580.7 
+610.6 
+
+15.8 
+55.6 
+-39.8 
+
+-38.3 
+617.7 
+655.9 
+
+11.2 
+51.6 
+-40.4 
+
+-72.0 
+643.0 
+715.0 
+
+9.7 
+55.9 
+-46.2 
+
+-104.4 
+698.3 
+802.7 
+
+-105.1 
+786.5 
+891.6 
+
+-115.1 
+832.3 
+947.4 
+
+-118.3 
+883.0 
+1001.3 
+
+-126.3
+941.4
+1067.7
+
+-4.2 
+47.4 
+-51.6 
+
+-8.0 
+57.5 
+-65.5 
+
+-5.7 
+65.7 
+-71,4 
+
+-13.5 
+70.3 
+-83.7 
+
+-19.9
+71.8
+-91.7
+
+4.5 
+
+-35.5 
+
+-37.6 
+
+-39.9 
+
+-35.1 
+
+-39.2 
+
+-32.5 
+
+-32.5
+
+1/  Merchandise  exports  excluding agricultural  products,  computers,  and  semiconductors.
+2/  Merchandise  imports  excluding oil,  computers,  and  semiconductors.
+
+Strictly  Confidential  (FR) Class  II-FOMC
+
+OUTLOOK FOR  U.S.  INTERNATIONAL  TRANSACTIONS
+
+1994
+
+1995
+
+1996
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Q2
+
+NIPA  REAL  EXPORTS and  IMPORTS
+
+percentage point  contribution  to  GDP  growth
+
+Net  Goods  and  services
+Exports  of  Goods  and  Services
+Imports  of  Goods  and  Services
+
+-1.1
+-0.2
+-0.9
+
+-0.5
+1.6
+-2.1
+
+-0.3
+1.0
+-1.3
+
+0.4 
+1.7 
+-1.2 
+
+-1.1
+0.3
+-1.4
+
+0.1
+0.7
+-0.6
+
+1.0 
+1.2 
+-0.2 
+
+-1.1
+0.2
+-1.3
+
+-0.6
+0.7
+-1.3
+
+Exports  of  Goods  and  Services
+
+Services
+Agricultural  Goods
+Computers
+Semiconductors
+Other  Goods  1/
+
+Imports  of  Goods  and  Services
+
+Services
+Oil
+Computers
+Semiconductors
+Other Goods  2/
+
+-1.6
+0.8
+
+-24.4
+
+24.5
+131.4
+-6.6
+
+8.2
+1.8
+-8.6
+45.0
+65.3
+7.0
+
+percent  change, AR
+
+15.9
+9.7
+6.8
+16.6
+16.2
+20.2
+
+18.4
+7.5
+27.2
+30.9
+7.3
+19.9
+
+9.7
+3.4
+43.0
+27.6
+45.8
+6.6
+
+10.7
+-1.6
+33.5
+24.8
+43.4
+9.5
+
+16.5
+5.5
+62.9
+48.6
+106.7
+11.1
+
+10.3
+-4.0
+-36.2
+49.9
+85.8
+14.1
+
+2.6
+-1.1
+-0.6
+33.0
+43.6
+0.1
+
+11.2
+21.7
+-2.4
+29.6
+49.3
+6.9
+
+5.9
+4.1
+-19.9
+29.8
+19.9
+7.6
+
+4.5
+-6.7
+5.5
+32.2
+61.0
+2.4
+
+10. 8
+18.6
+16.8
+79.9
+28.8
+0.6
+
+-0.0
+6.0
+22.1
+64.3
+76.4
+-10.9
+
+10.7
+-0.2
+-4.7
+60.7
+27.6
+13.3
+
+1.6
+-2.6
+
+-17.5
+51.8
+43.6
+-2.3
+
+1.8
+2.7
+8.9
+58.6
+-0.0
+-4.2
+
+10.7
+13.0
+-22.1
+27.7
+4.6
+12.1
+
+5.7
+2.8
+-33.7
+21.0
+-20.7
+13.8
+
+10.0
+1.3
+59.9
+23.0
+-38.5
+11.5
+
+in  billions  of  chained  1992$,  SAAR
+
+Net Goods  and  services
+Exports  of  Goods  and  Services
+Imports  of  Goods  and  Services
+
+-99.3
+677.6
+777.0
+
+-107.3
+703.1
+810.4
+
+-111.7
+719.6
+831.3
+
+-104.3
+747.6
+851.9
+
+-122.5
+752.3
+874.9
+
+-121.3
+763.3
+884.6
+
+-101.7
+783.0
+884.6
+
+-84.9
+803.1
+888.0
+
+104.1
+806.7
+910.8
+
+-114.8
+817.9
+932.7
+
+US  CURRENT ACCOUNT  BALANCE 
+
+-118.8  -144.1  -160.0  -170.6  -156.2  -163.9  -150.8  -121.7  -139.5  -155.8
+
+in  billions  of  dollars,  SAAR
+
+Net Goods  + Services  (BOP) 
+
+Exports  of G+S  (BOP) 
+Imports  of  G+S  (BOP) 
+
+-90.8  -103.5  -113.8  -109.4  -118.1  -127.3 
+662.3 
+778.9 
+753.1 
+906.2 
+
+686.1 
+789.6 
+
+736.5 
+845.9 
+
+755.9 
+874.0 
+
+708.3 
+822.1 
+
+Net  Investment  Income 
+Direct,  Net 
+Portfolio,  Net 
+
+4.7 
+49.5 
+-44.8 
+
+-2.5 
+46.0 
+-48.5 
+
+-6.4 
+47.4 
+-53.7 
+
+-12.4 
+46.9 
+-59.3 
+
+-3.6 
+57.4 
+-61.0 
+
+-3.4 
+59.9 
+-63.3 
+
+-97.3 
+796.8 
+894.2 
+
+-17.4 
+51.3 
+-68.7 
+
+-77.6 
+814.5 
+892.0 
+
+-7.6 
+61.3 
+-68.9 
+
+-96.9  -112.2
+836.4
+820.6 
+917.5 
+948.6
+
+1.0 
+66.1 
+-65.0 
+
+-6.4
+62.1
+-68.6
+
+Net  Transfers 
+
+-32.7 
+
+-38.0 
+
+-39.9 
+
+-48.9 
+
+-34.6 
+
+-33.2 
+
+-36.0 
+
+-36.6 
+
+-43.6 
+
+-37.2
+
+1/  Merchandise  exports  excluding  agricultural  products,  computers,  and  semiconductors.
+2/  Merchandise  imports  excluding  oil,  computers,  and  semiconductors.
+
+Strictly  Confidential  (FR)  Class  II-FOMC
+
+OUTLOOK  FOR U.S.  INTERNATIONAL  TRANSACTIONS
+
+--------------------------------------- 
+
+1996 
+
+1997 
+
+Projected 
+
+----------------------------
+1998
+
+03 
+
+04 
+
+01 
+
+Q2 
+
+Q3 
+
+04 
+
+01 
+
+Q2
+
+Q3 
+
+Q4
+
+NIPA REAL EXPORTS and  IMPORTS
+
+Net  Goods  and  Services
+Exports of  Goods  and Services
+Imports  of  Goods  and  Services
+
+Exports of  Goods  and  Services
+
+Services
+Agricultural Goods
+Computers
+Semiconductors
+Other Goods  1/
+
+Imports  of  Goods  and  Services
+
+Services
+Oil
+Computers
+Semiconductors
+Other Goods  2/
+
+-1.1
+0.1
+-1.1
+
+0.4
+-0.7
+25.0
+21.6
+2.1
+
+-3.9
+
+8.7
+5.8
+-6.9
+25.3
+
+-22.3
+
+11.4
+
+percentage point  contribution  to GDP growth
+
+0.3 
+1.3 
+-1.0 
+
+-0.2
+0.8
+-1.0
+
+-0.3
+1.0
+-1.3
+
+-0.7
+0.3
+-0.9
+
+-0.2 
+1.2 
+-1.4 
+
+-0.1
+0.6
+-0.7
+
+percent  change, AR
+
+11.7
+7.1
+3.5
+
+36.1
+24.8
+11.3
+
+7.3
+1.3
+15.4
+28.6
+21.6
+4.8
+
+6.5
+3.2
+3.6
+
+31.1
+21.6
+4.5
+
+7.5
+3.7
+-22.6
+26.2
+21.6
+8.3
+
+8.3
+3.5
+3.6
+28.7
+21.6
+7.6
+
+9.3
+2.9
+47.1
+23.9
+21.6
+5.5
+
+2.3
+3.3
+3.5
+28.7
+21.6
+-3.2
+
+6.6
+2.8
+14.8
+23.9
+21.6
+3.7
+
+9.7
+2.9
+3.6
+28.7
+21.6
+10.1
+
+9.8
+2.8
+-11.8
+23.9
+21.6
+10.9
+
+4.5
+2.9
+3.6
+28.7
+21.6
+0.5
+
+4.9
+2.9
+-5.5
+23.9
+21.6
+2.6
+
+in  billions  of  chained  1992$,  SAAR
+
+-0.2
+
+1.1
+
+-1.3
+
+8.7
+3.0
+3.6
+28.7
+21.6
+7.8
+
+9.1
+2.7
+32.8
+23.9
+21.6
+5.7
+
+-0.6 
+0.3 
+-0.9 
+
+-0.1
+1.2
+-1.3
+
+2.3
+2.7
+3.6
+
+28.7
+21.6
+-4.0
+
+5.9
+2.7
+13.8
+23.9
+21.6
+2.1
+
+9.8
+2.4
+3.6
+28.7
+21.6
+9.6
+
+8.9
+2.9
+-17.6
+23.9
+21.6
+9.6
+
+Net  Goods  and  Services
+Exports  of  Goods  and  Services
+Imports  of  Goods  and  Services
+
+133.6
+818.8
+952.3
+
+-127.5
+841.7
+969.2
+
+-131.7
+855.2
+986.9
+
+-136.7
+872.4
+1009.1
+
+-148.1
+877.3
+1025.5
+
+-151.8
+898.0
+1049.8
+
+-154.5
+908.0
+1062.5
+
+-158.6
+927.2
+1085.8
+
+-169.0
+932.4
+1101.4
+
+-170.6
+954.5
+1125.1
+
+US  CURRENT  ACCOUNT  BALANCE 
+
+-171.1  -173.7  -157.4  -158.2  -164.7  -176.9  -167.6  -172.1  -181.6  -193.3
+
+in  billions  of dollars,  SAAR
+
+Net  Goods  +  Services  (BOP) 
+
+Exports of  G+S  (BOP) 
+Imports of  G+S  (BOP) 
+
+-128.'6  -122.8  -117.1  -115.4  -120.3  -120.4  -120.4  -123.2  -131.5  -130.0
+966.5
+917.7 
+879.2 
+994.7  1005.0  1027.1  1038.1  1061.4  1074.9  1096.5
+
+861.4 
+978.5 
+
+847.4 
+970.3 
+
+824.8 
+953.4 
+
+938.2 
+
+906.8 
+
+943.4 
+
+884.6 
+
+Net  Investment  Income 
+Direct, Net 
+Portfolio, Net 
+
+-9.6 
+64.4 
+-74.0 
+
+-7.9 
+70.0 
+-77.8 
+
+-10.3 
+70.3 
+-80.5 
+
+-12.8 
+69.9 
+-82.7 
+
+-14.4 
+70.5 
+-84.8 
+
+-16.5 
+70.4 
+-86.9 
+
+-17.2 
+71.5 
+-88.7 
+
+-18.9 
+71.6 
+-90.5 
+
+-20.1 
+72.5 
+-92.7 
+
+-23.3
+71.7
+-95.1
+
+Net  Transfers 
+
+-33.0 
+
+-43.0 
+
+-30.0 
+
+-30.0 
+
+-30.0 
+
+-40.0 
+
+-30.0 
+
+-30.0 
+
+-30.0 
+
+-40.0
+
+1/  Merchandise  exports excluding  agricultural products,  computers,  and  semiconductors.
+2/  Merchandise  imports  excluding  oil, computers,  and  semiconductors.
+
+

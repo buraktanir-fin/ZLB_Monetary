@@ -1,0 +1,1151 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+CONFIDENTIAL  (FR)
+CLASS  III  - FOMC
+
+November  9.  1995
+
+SUPPLEMENT
+
+CURRENT  ECONOMIC  AND  FINANCIAL  CONDITIONS
+
+Prepared for  the
+Federal  Open Market  Committee
+
+By  the  Staff
+Board  of Governors
+of the  Federal Reserve  System
+
+TABLE  OF  CONTENTS
+
+THE  DOMESTIC NONFINANCIAL  ECONOMY
+
+Producer  prices.  .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. ....  .. 
+
+Tables
+
+Recent  changes  in producer  prices.  .
+Recent  changes  in  producer  prices--
+
+relative contribution  .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. .. 
+
+THE FINANCIAL ECONOMY
+
+Page
+
+1
+
+2
+
+2
+
+The  November  Senior  Loan Officer  Opinion  Survey
+
+on  Bank  Lending Practices  .
+
+.
+
+.
+
+.
+
+.
+
+Table
+
+Selected  financial  market  quotations  .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+3
+
+.
+
+SUPPLEMENTAL  NOTES
+
+THE DOMESTIC  NONFINANCIAL ECONOMY
+
+Producer  Prices
+
+The  PPI  for  finished  goods  edged  down  0.1  percent  in  October.
+
+Food  prices were  flat, with  declines  in fresh fruits  and  vegetables
+
+offset by increases  in other  components,  particularly rice,  pasta,
+
+meat,  and  dairy products.  Energy  prices  declined  for  the  fifth
+
+consecutive month,  reflecting  declines  in  all  categories  except
+
+electricity.  Excluding  food  and  energy, finished  goods  prices were
+
+unchanged,  the  best  performance  in  a year.  The  PPI  for  intermediate
+
+materials  other  than  food  and  energy dropped  0.3  percent,  its  first
+
+decline  since  July  1993.
+
+Prices  of  finished  consumer  goods  other  than  food  and  energy
+
+increased  0.1  percent.  Prices  of  nondurables  rose  0.2  percent  as
+
+apparel  prices  posted their  largest  increase  (0.4  percent)  in more
+
+than three years.  Prices  of durables  were flat,  with  increases  for
+
+passenger cars  offset by  declines  for  trucks  and  other  consumer
+
+durables.  In  recent  years,  light  truck prices  have  increased  faster
+
+than  car  prices.  Last  month, however,  the  twelve-month  change  in
+
+prices  of  light  trucks  dropped below those  of  new car  prices.
+
+The  drop  in  prices  of  light  trucks  also  contributed to  a small
+
+decline  in  the  index for  capital  equipment.  Prices  for  computers
+
+fell  last  month as  well,  but  the  decrease  (0.6  percent)  was  only
+
+half the  average monthly  decline  over  the  past twelve  months.
+
+The  drop  in  the  PPI  for  intermediate materials  other than  food
+
+and  energy  reflects  the  largest  decline  in  prices  of manufacturers'
+
+materials  in  recent  years.  Significant decreases  were posted  for
+
+metals  and  plastic  resins  as  well  as  industrial  and  some
+
+agricultural  chemicals.
+
+RECENT CHANGES IN  PRODUCER PRICES
+(Percent change;  based on  seasonally adjusted data) 1
+
+Relative 
+importance,
+Dec.  1994 
+
+1993 
+
+1994 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Sept. 
+
+Oct.
+
+1995 
+
+1995
+
+----- Annual  rate------  -Monthly rate-
+
+Finished goods 
+
+Consumer foods 
+Consumer energy 
+Other finished goods 
+
+Consumer goods 
+Capital equipment 
+
+Intermediate materials2  
+
+Excluding food and energy 
+
+Crude food materials 
+Crude energy 
+Other crude materials 
+
+100.0 
+22.8 
+13.6 
+63.7 
+40.2 
+23.5 
+
+95.6 
+82.9 
+
+40.4 
+34.5 
+25.1 
+
+.2 
+2.4 
+-4.1 
+.4 
+-.4 
+1.8 
+
+.8 
+1.6 
+
+1.7 
+1.1 
+3.5 
+1.6 
+1.4 
+2.0 
+
+4.8 
+5.2 
+
+7.2 
+-12.3 
+10.7 
+
+-9.4 
+-.1 
+17.3 
+
+3.2 
+-1.2 
+11.3 
+2.9 
+2.9 
+3.0 
+
+10.6 
+10.5 
+
+-4.6 
+-4.5 
+21.9 
+
+.6 
+-4.6 
+1.5 
+2.6 
+3.2 
+1.8 
+
+3.9 
+4.2 
+
+1.3 
+8.8 
+-14.3 
+2.3 
+2.3 
+2.1 
+
+-.6 
+1.8 
+
+.3 
+1.0 
+-.5 
+.2 
+.3 
+.1 
+
+-.1 
+.1 
+
+-.1
+.0
+-.9
+.0
+.1
+-.1
+
+-.4
+-.3
+
+-.8 
+14.6 
+4.6 
+
+42.3 
+-22.0 
+-18.2 
+
+4.2 
+3.2 
+-2.1 
+
+2.1
+-.4
+-2.6
+
+1. Changes are  from final month of preceding period to final month  of period indicated.
+2. Excludes materials  for food manufacturing and animal feeds.
+
+RECENT CHANGES  IN PRODUCER  PRICES  -- RELATIVE CONTRIBUTION 1
+(Percent change;  based on seasonally adjusted data)2
+
+Relative 
+importance
+Dec.  1994 
+
+1993 
+
+1994 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Sept. 
+
+Oct.
+
+1995 
+
+1995
+
+Finished goods 
+
+Consumer foods 
+Consumer energy 
+Other finished goods 
+
+Consumer goods 
+Capital  equipment 
+
+100.0 
+22.8 
+13.6 
+63.7 
+40.2 
+23.5 
+
+.2 
+.5 
+-.6 
+.2 
+-.2 
+.4 
+
+1.7 
+.3 
+.5 
+1.0 
+.6 
+.5 
+
+3.2 
+-.3 
+1.5 
+1.9 
+1.2 
+.7 
+
+.6 
+-1.0 
+.2 
+1.7 
+1.3 
+.4 
+
+1.3 
+1.9 
+-2.1 
+1.5 
+.9 
+.5 
+
+.3 
+.2 
+-.1 
+.1 
+.1 
+.0 
+
+-.1
+.0
+-.1
+.0
+.0
+-.0
+
+-----Annual rate------  -Monthly rate-
+
+1. Data may not add due to rounding.
+2. Changes  are from final  month of preceding period to final  month of period indicated.
+
+THE  FINANCIAL ECONOMY
+
+The  November  Senior Loan  Officer  Opinion  Survey  on  Bank Lending
+Practices
+
+The November  1995  Senior  Loan  Officer Opinion  Survey  on Bank
+
+Lending  Practices  posed  questions  about  changes  in bank  lending
+
+standards  and  terms,  changes  in  loan  demand by  businesses  and
+
+households,  and  changes  in  consumer  loan delinquency  rates.  Fifty-
+
+six domestic  commercial  banks  and  twenty-one branches  and  agencies
+
+of  foreign banks  participated in  the  survey.
+
+The  survey  found  that  lending  standards  changed  little  over  the
+
+past  three  months.  On  balance, a  few banks  eased  standards  for
+
+business loans  to  small  and  middle-market borrowers while  leaving
+
+those  for  large  firms  unchanged.  A  few banks  also  tightened
+
+standards  for  commercial  real  estate  loans  of  all  types,  and  a
+
+couple of  banks  tightened  residential mortgage  lending  standards.  A
+
+small  net  fraction  of banks  reported  increased willingness  to  make
+
+consumer  loans.  Taken  together,  these results  suggest  that  the
+
+easing  of  lending  standards  over  the  past  few years  has  virtually
+
+ceased.  In  contrast,  a  substantial fraction  of banks noted  that
+
+terms  on business  loans  that  their  bank was  willing  to  make had
+
+eased further  over  the  past  quarter,  although  the  number  of banks
+
+reporting easier  terms  has  declined  since  the  start  of  the year.
+
+The  survey  results  indicate  that  demand  for  bank loans
+
+continued to  rise  over  the  past  quarter,  but  likely  at  a slackening
+
+pace.  On  net,  surveyed banks  reported higher  demand  for  business
+
+loans,  but  the  share  reporting  stronger demand  was  smaller  than  it
+
+has  been for  several  years.  The  net  fraction of the  respondents
+
+noting  stronger demand  for  residential mortgages  and  consumer
+
+installment  loans  had  jumped  in the  third  quarter,  but  fell  back  in
+
+the  latest  survey.  In  contrast,  the  share  of banks  reporting
+
+stronger  demand  for  commercial  real  estate  loans  remained  near  its
+
+-4-
+
+level  of  the  past  two  quarters.
+
+Commercial  and  Industrial  Loans
+
+The  survey  found that  only  a few banks,  about  5 percent  on net,
+
+had  eased  standards  for  approving commercial  and  industrial  loans
+
+and  lines  of  credit,  other  than  those  to be  used  to  finance  mergers
+
+and  acquisitions,  to  small  and  middle-market  firms  over  the  past
+
+three months.  For  the  first  time  since mid-1993,  large  businesses
+
+saw  no  net  easing.  Branches  and agencies  of foreign  banks  actually
+
+reported  a  small  tightening of  business  lending  standards  in  the
+
+latest  survey,  after  no  change  in August.
+
+Many of  the  respondents  noted  that  they had  eased their  terms
+
+on business  loans  over  the  past  three months,  although the  net
+
+fraction  reporting  easier  terms  was  somewhat  smaller  than in the
+
+past  few  quarters.  Large  fractions  of the  domestic  respondents
+
+reduced  credit-line  costs  and  tightened  spreads  of  loan  rates  over
+
+base  rates  for  large  and middle-market  firms.  Significantly  smaller
+
+fractions  eased  these  terms  for  small  firms.  Generally  smaller
+
+fractions  of  the  respondents  reported  having eased  other  terms,
+
+including the  size  of credit  lines,  loan  covenants,  and
+
+collateralization  requirements.  Large  fractions  of  the  foreign
+
+branches  and  agencies  also  reported having  eased business  loan
+
+terms.
+
+As  they have  for  several  quarters,  the  respondents  attributed
+
+the  easing of  loan terms and  standards  to  more aggressive
+
+competition from  other  commercial  banks  and,  to  a lesser  extent,
+
+from nonbank lenders.  The  easing may also  reflect  greater
+
+sensitivity of  loan  demand to  loan  terms.  A  significant fraction of
+
+the  respondents  noted  that  the  sensitivity of business  loan  demand
+
+to  the  terms  offered  at  their  bank  relative to  terms  available  at
+
+-5-
+
+their  competitors had  increased.  Except for  the  branches  and
+
+agencies  of foreign banks,  however,  the  fraction of  respondents
+
+noting  increased  sensitivity declined  relative to  the  survey  in May,
+
+when this  question was  last  asked.
+
+Over  the  course  of the  year,  the  net fraction  of  domestic banks
+
+reporting  increased demand  for business  loans  has  trended down.  In
+
+the  latest  survey,  only  about  10  percent  of the  respondents  reported
+
+greater  demand by  large  and  small  firms,  and  there was  no  net
+
+increase in  demand  reported  for middle-market  firms.  By  contrast,
+
+the comparable  percentages  a year ago  were near  40,  20,  and  30
+
+percent  for  large,  middle-market, and  small  firms,  respectively.
+
+The  respondents  reporting increased  demand  in November  indicated
+
+that  the  strength was  the  result  of customers'  inventory financing
+
+needs  and  investment  in plant  and  equipment.  In  addition, merger
+
+and  acquisition  activity  reportedly boosted  demand,  especially by
+
+larger  customers.  Those  banks  reporting weaker  demand  for  business
+
+loans  generally  attributed  the  weakness  to  the  same  set  of  factors.
+
+On  net,  about  20  percent  of the  branches  and  agencies  of  foreign
+
+banks  reported  increased demand on  the  current  survey,  with the
+
+strong increase  attributed  primarily  to  merger  and  acquisition
+
+activity.
+
+Commercial  Real  Estate Loans
+
+A small  net  fraction of  domestic  respondents  reported  tighter
+
+standards  for  commercial  real  estate  loans  of all  types.  This  was
+
+the  first  survey  since  1992  showing  a net  tightening,  albeit modest,
+
+of  standards  for  all  types  of  these  loans.  Demand  for  commercial
+
+real  estate  loans  reportedly picked  up  over the  last  three  months,
+
+with  about  the  same net  fraction  of banks  reporting higher demand  as
+
+has  prevailed  since this  question was  added  to  the  survey  in May.
+
+The  foreign branches  and  agencies  reported no  change in  their
+
+standards  on  commercial  real  estate  loans  and  a small  net  increase
+
+-6-
+
+in demand.
+
+Loans  to  Individuals
+
+The  supply  of  credit  to households was  little  changed  over the
+
+past  three months.  Only  about  5 percent  of the  domestic
+
+respondents,  on  net,  reported that  they were  more willing to  make
+
+consumer  installment  loans  than they had  been three  months  ago,  down
+
+a bit from the  August  survey  and  the  lowest percentage  since  1991.
+
+The  respondents  also  reported  a small  tightening  of  standards  for
+
+approving  residential  mortgage applications,  the  first  such
+
+tightening  since  1993.
+
+Demand  for  credit  by households  increased,  on balance,  but  at  a
+
+slower  pace than was  reported  in  the  August  survey.  Less  than
+
+10  percent  of  banks,  on  net,  reported  increased  demand  for  consumer
+
+installment  loans,  down  from more  than  20  percent  in  the  last
+
+survey.  About  15  percent  of  the banks  reported  higher  demand  for
+
+residential  mortgages,  but  this  was  well  below the  50  percent  posted
+
+in August.
+
+Consumer Loan Delinquencies
+
+Special  questions  on the  survey asked  the  respondents  about
+
+changes  in their banks'  consumer  loan delinquency  rates  over  the
+
+past  year.  A majority  of  the banks  reported  that  their  delinquency
+
+rate  had  increased, and  only  a few banks  reported  a decrease.  The
+
+higher  delinquency rates  were  largely  anticipated,  however,  as  only
+
+about  10  percent  of the  banks,  on  net,  indicated  that their banks'
+
+delinquency  rates  had  deteriorated more than  expected over  the  year.
+
+The banks attributed  the  rise  in  delinquencies  primarily to  the
+
+increase  in  household  debt  burdens.  In addition,  some  banks  noted
+
+that  an  increased willingness  of  borrowers to  declare  bankruptcy  and
+
+slower  economic  growth in  their  market  area had  contributed  to  the
+
+-7-
+
+rise.  A number of  banks had  responded  to  rising delinquencies  by
+
+tightening lending  standards,  tightening non-price  lending  terms,  or
+
+raising  spreads  of  lending  rates  over market  rates.  In  most  cases,
+
+however, the banks  reported  that  they had made  small  rather  than
+
+large  changes.
+
+Instrument 
+
+Short-term Rates
+
+Federal Funds2  
+
+Treasury Bills3
+3-month 
+6-month 
+1-year 
+
+Commercial  paper
+
+1-month 
+3-month 
+
+Large  negotiable  CDs 3
+1-month 
+3-month 
+6-month 
+Eurodollar  deposits4
+1-month 
+3-month 
+
+Bank Prime Rate 
+
+Intermediate- and Long-term Rates
+
+U.S. Treasury  (constant maturity)
+
+3-year 
+10-year 
+30-year 
+
+Municipal  revenue (Bond Buyer)5  
+
+Corporate-A  Utility, recently offered 
+
+Home mortgages6
+
+FHLMC 30-yr fixed  rate 
+FHLMC  1-yr adjustable rate 
+
+-8-
+
+Selected  Financial Market Quotations1
+
+(Percent except as noted)
+
+1994 
+
+1995 
+
+Change  to Nov. 8,1995  from:
+
+Feb.  3 
+
+High 
+
+Sep.26 
+
+Nov. 8 
+
+FOMC, 
+
+1994 
+
+Feb. 3 
+
+1994 
+
+high 
+
+FOMC,
+
+Sep. 26
+
+3.07 
+
+5.66 
+
+5.80 
+
+5.74 
+
+2.67 
+
+0.08 
+
+-0.06
+
+3.13 
+3.27 
+3.52 
+
+3.16 
+3.25 
+
+3.11 
+3.25 
+3.41 
+
+3.06 
+3.25 
+
+6.00 
+
+4.60 
+5.81 
+6.31 
+
+5.49 
+
+7.35 
+
+6.97 
+4.12 
+
+5.78 
+6.38 
+6.84 
+
+6.13 
+6.32 
+
+6.10 
+6.39 
+6.89 
+
+6.06 
+6.38 
+
+8.50 
+
+7.82 
+8.04 
+8.16 
+
+7.37 
+
+9.05 
+
+9.25 
+6.79 
+
+1989 
+
+Low, 
+
+Jan.  3 
+
+5.29 
+5.38 
+5.39 
+
+5.81 
+5.73 
+
+5.75 
+5.74 
+5.74 
+
+5.72 
+5.72 
+
+8.75 
+
+5.98 
+6.28 
+6.58 
+
+6.18 
+
+7.57 
+
+7.57 
+5.77 
+
+5.36 
+5.26 
+5.13 
+
+5.82 
+5.75 
+
+5.74 
+5.74 
+5.65 
+
+5.72 
+5.75 
+
+8.75 
+
+5.58 
+5.92 
+6.25 
+
+5.93 
+
+7.33 
+
+7.44 
+5.67 
+
+2.23 
+1.99 
+1.61 
+
+2.66 
+2.50 
+
+2.63 
+2.49 
+2.24 
+
+2.66 
+2.50 
+
+2.75 
+
+0.98 
+0.11 
+-0.06 
+
+0.44 
+
+-0.02 
+
+0.47 
+1.55 
+
+-0.42 
+-1.12 
+-1.71 
+
+-0.31 
+-0.57 
+
+-0.36 
+-0.65 
+-1.24 
+
+-0.34 
+-0.63 
+
+0.25 
+
+-2.24 
+-2.12 
+-1.91 
+
+-1.44 
+
+-1.72 
+
+-1.81 
+-1.12 
+
+0.07
+-0.12
+-0.26
+
+0.01
+0.02
+
+-0.01
+0.00
+-0.09
+
+0.00
+0.03
+
+0.00
+
+-0.40
+-0.36
+-0.33
+
+-0.25
+
+-0.24
+
+-0.13
+-0.10
+
+1995 
+
+Percentage  change to Nov. 8  from:
+
+Record 
+
+high 
+
+0.00 
+
+0.00 
+
+-1.82 
+
+1989 
+
+low 
+
+126.27 
+
+104.90 
+
+176.82 
+
+FOMC,
+
+Sep. 26
+
+1.83
+
+1.20
+
+0.95
+
+1.18
+
+Record high 
+
+Stock Exchange  Index 
+
+Level 
+
+Date 
+
+FOMC, 
+
+Sep.26 
+
+Nov. 8 
+
+Dow-Jones Industrial 
+
+4852.67 
+
+11/08/95 
+
+2144.64 
+
+4765.60 
+
+4852.67 
+
+NYSE  Composite 
+
+NASDAQ  (OTC) 
+
+315.55 
+
+11/08/95 
+
+1067.40 
+
+9/13/95 
+
+154.00 
+
+378.56 
+
+311.82 
+
+315.55 
+
+1038.05 
+
+1047.94 
+
+Wilshire 
+1.  One-day quotes  except  as noted.
+2.  Average for two-week reserve  maintenance  period closest  to date  shown. Last  observation  is average  to date for  maintenance  period ending
+
+2718.59 
+
+5843.27 
+
+5774.95 
+
+5843.21 
+
+9/21/95 
+
+114.94 
+
+-0.00 
+
+November  8,  1995.
+3.  Secondary market.
+4.  Bid rates  for Eurodollar  deposits at 11  a.m. London time.
+5.  Most recent observation  based  on one-day Thursday  quote and futures  market index changes.
+6.  Quotes for week ending Friday previous  to date  shown.
+
+

@@ -1,0 +1,14076 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+Confidential  (FR)  Class  III  FOMC
+
+May  11.  1994
+
+RECENT  DEVELOPMENTS
+
+Prepared  for the  Federal  Open  Market  Committee
+By the  staff  of  the Board  of Governors  of the Federal  Reserve System
+
+DOMESTIC  NON 
+DEVELOPMENTS
+
+FINANCIAL
+
+DOMESTIC  NONFINANCIAL  DEVELOPMENTS
+
+The  indications  from  the  labor  market  are  that  the  economy  has
+
+maintained  a  strong forward  momentum this  year,  interrupted  only
+
+briefly  by  severe winter  weather.  Average monthly  gains  in  payroll
+
+employment  during  the  first  four  months  of  the  year  exceeded  the
+
+improved  fourth-quarter  pace,  workweeks  lengthened,  and  the
+
+unemployment  rate  continued  to  move  lower.  Figures  on  expenditures
+
+have  not  exhibited  comparable  strength;  subsequent  data may
+
+eliminate  this  seeming discrepancy, but  it  is  certainly
+
+conceivable that  productivity growth  slowed  markedly after  surging
+
+in  the  latter  half  of  1993.  To  date,  higher  interest  rates  and
+
+lower  share  prices  have  left  little  clear  imprint  on  the  recovery
+
+with the  possible  exception  of  a  modest  effect  in  the  housing
+
+market.  Wage  and  price  trends have  thus  far  remained  favorable
+
+despite the  tightening  of markets--with  the  exception  of  industrial
+
+and  construction materials  prices.
+
+Employment  and  Unemployment
+
+Labor  demand has  displayed  substantial  strength this  year.
+
+After adjustment  for  Teamsters  and  other  workers  on  strike,  nonfarm
+
+payroll  employment  advanced  341,000  in  April,  raising  the  average
+
+monthly increase  in  1994  to  more than  260,000--up  from about  200.000
+
+at  the  end  of  1993.  The  official  unemployment  rate  edged  down
+
+further last  month, to  6.4  percent,  and  other  indicators  usually
+
+associated  with weak labor  demand--the  number of  persons working
+
+part  time  for  economic  reasons  and the  proportion  of the  unemployed
+
+who  had  lost  jobs--also  fell.
+
+Gains  in  payroll  employment  in  April were  concentrated  in  three
+
+sectors.  In two  cases--construction  and  retail  eating  and  drinking
+
+places--the  sizable increases  likely  represented  rebounds  from
+
+weather-related  weakness  earlier  in  the  year.  In  addition,  the
+
+II-1
+
+II-2
+
+CHANGES  IN EMPLOYMENT1
+(Thousands of  employees;  based  on seasonally adjusted data)
+
+1993 
+
+1994 
+
+1994
+
+1993 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Jan.  Feb.  Mar.  Apr.
+
+----------Average monthly  changes-------
+
+Nonfarm payroll  employment2  
+
+Strike-adjusted 
+
+Private 
+
+Manufacturing 
+
+Durable 
+Nondurable 
+Construction 
+Trade 
+Finance, insurance, real estate 
+Services 
+
+Health services 
+Business  services 
+
+Total  government 
+
+169 
+169 
+
+154 
+-15 
+-9 
+-6 
+17 
+47 
+7 
+99 
+25 
+39 
+16 
+
+134 
+136 
+
+203 
+196 
+
+101 
+-24 
+-12 
+-12 
+6 
+31 
+9 
+86 
+24 
+31 
+33 
+
+192 
+13 
+18 
+-5 
+24 
+43 
+15 
+92 
+21 
+54 
+11 
+
+237 
+237 
+
+234 
+19 
+17 
+3 
+22 
+53 
+6 
+123 
+28 
+46 
+3 
+
+-31 
+-31 
+
+-6 
+31 
+33 
+-2 
+-12 
+-3 
+-4 
+-26 
+20 
+-1 
+-25 
+
+278 
+278 
+
+273 
+14 
+10 
+4 
+-3 
+74 
+10 
+170 
+17 
+57 
+5 
+
+Private nonfarm production workers 
+Manufacturing production workers 
+
+142 
+-4 
+
+94 
+-14 
+
+167 
+22 
+
+220 
+29 
+
+-25 
+39 
+
+292 
+29 
+
+464 
+464 
+
+434 
+13 
+7 
+6 
+82 
+89 
+13 
+226 
+48 
+83 
+30 
+
+394 
+20 
+
+Total  employment 3  
+Nonagricultural 
+
+209 
+219 
+
+127 
+106 
+
+364 
+363 
+
+459  1310 
+349  1074 
+
+287  -221 
+228  -256 
+
+267
+341
+
+248
+3
+10
+-7
+64
+96
+9
+146
+34
+75
+19
+
+220
+10
+
+301
+269
+
+Memo:
+Aggregate  hours  of  private  production
+
+workers  (percent  change) 
+
+Average workweek  (hours) 
+Manufacturing  (hours) 
+
+.0 
+
+.3 
+
+.2
+34.5  34.5  34.5  34.6  34.8  34.2  34.7  34.7
+41.5  41.4  41.7  41.7  41.8  41.2  42.2 
+42.2
+
+-1.3 
+
+1.8 
+
+.7 
+
+.5 
+
+.4 
+
+1.  Average  change  from  final  month  of  preceding  period  to  final  month  of
+
+period  indicated.
+
+2.  Survey  of  establishments.
+3.  Survey  of  households.
+
+SELECTED  UNEMPLOYMENT  AND  LABOR  FORCE  PARTICIPATION  RATES 1
+(Percent;  based  on  seasonally  adjusted  data)
+
+Civilian unemployment  rate
+(16 years  and older) 
+
+Teenagers 
+20-24 years  old 
+Men, 25 years and older 
+Women, 25  years and older 
+
+1993 
+
+1994 
+
+1994
+
+1993 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Jan.  Feb.  Mar.  Apr.
+
+6.8 
+
+6.7 
+
+6.5 
+
+6.6 
+
+6.7 
+
+6.5 
+
+6.5 
+
+6.4
+
+19.0  18.2  18.3  18.0  18.4  17.9  17.8  19.9
+9.9
+10.5  10.4 
+5.0
+5.8 
+5.1
+5.3 
+
+9.7  10.6  11.0  10.0  10.9 
+5.1 
+5.4 
+5.5 
+5.4 
+5.4 
+5.3 
+
+5.4 
+5.1 
+
+5.3 
+5.3 
+
+5.8 
+5.4 
+
+Full-time workers 
+
+6.8 
+
+6.7 
+
+6.4 
+
+6.7 
+
+6.8 
+
+6.6 
+
+6.6 
+
+6.4
+
+Labor  force participation rate  66.2  66.1  66.2  36.6  66.7  66.7  66.6  66.6
+
+Teenagers 
+20-24 years  old 
+Men, 25  years  and older 
+Women, 25 years  and older 
+
+51.5  51.5  51.1  52.7  53.3  52.4  52.3  54.0
+77.1  77.0  76.7  77.0  76.2  77.5  77.4  76.7
+76.2  76.2  76.2  76.3  76.5  76.2  76.1  75.9
+57.1  57.1  57.5  58.0  58.0  58.2  58.0 
+
+57.9
+
+1. Data  for  1994  are  not directly comparable with earlier values due to a
+
+redesign of the  CPS in January  1994.
+
+services  industry  added  146,000  jobs; more  than  a third  were  at
+
+personnel  supply  services  firms.  In  manufacturing,  a rise  in  the
+
+number  of  production  workers  narrowly  exceeded  a decline  in the
+
+number  of  supervisory workers.  Apart  from  the  striking  Teamsters,
+
+the  employment  increase  in  transportation and  public  utilities  also
+
+was  small.
+
+The  average  workweek  of  production  or  nonsupervisory workers
+
+remained  at  an unusually high  level  in  April,  suggesting that the
+
+March  surge  in hours  reflected  more than  a temporary rebound  from
+
+the  weather-depressed  level  of February.  The  overall  manufacturing
+
+workweek and  the  level  of factory  overtime  were  at  postwar  highs  in
+
+March  and  April.
+
+As  noted above,  the  unemployment  rate  continued  its  descent  in
+
+April.  Adjusting for  the  possible  bias  in  seasonal  adjustment, the
+
+jobless  rate  in April  likely was  6.6  percent  compared with  a  rate  of
+
+about  7 percent,  as  estimated by  the  parallel  survey  in  the  fourth
+
+quarter.  The  BLS  projection  of  the  old  unemployment  rate,  based  on
+
+payroll  employment  and  insured  unemployment,  moved  similarly;  that
+
+projection  places  the  current  rate  at  about  6.1  percent--down  from
+
+6-1/2  percent  in  the  fourth  quarter.
+
+Productivity  in the  nonfarm business  sector currently  is
+
+estimated to  have  risen 0.5  percent,  at  an  annual  rate,  in  the  first
+
+quarter  of  1994,  after  surging  at  a 6.4  percent  rate  in the  previous
+
+quarter. 1  Over  the  past  four  quarters,  nonfarm business  output
+
+per  hour  rose  2-1/2  percent--down  from the  3-1/2  percent  pace
+
+1. The  data  used to  calculate  labor  productivity include  the
+hours  of supervisory  as  well  as  production workers,  unpaid  family
+workers,  and  self-employed  persons  in  the  nonfarm business  sector.
+The  hours  of  unpaid  family  and  self-employed workers  are  derived
+from the  household  survey.  Rather than  allow  a break  in  the  hours
+series  as  a  result  of the  CPS  redesign,  the BLS  made  judgmental
+estimates  of  growth  in  the  hours  of  the  self-employed  and  of  unpaid
+family workers.
+
+II-4
+
+LABOR  PRODUCTIVITY
+(Nonfarm  Business Sector)
+
+$1987/hour
+
+1973 
+
+1976 
+
+1979 
+
+1982 
+
+1985 
+
+1988 
+
+1991 
+
+1994
+
+LABOR  PRODUCTIVITY  AND  COSTS
+(Percent change from preceding period  at compound annual rate;
+based on seasonally adjusted data)
+
+1993 
+
+1994  1993:Q1
+
+19921  1993 1  Q2 
+
+Q3 
+
+Q4 
+
+Q1 
+
+-
+
+to
+1994:Q1
+
+2.7
+2.6
+5.7
+
+ND
+
+Total  business 
+
+Nonfarm  business 
+Manufacturing 
+
+3.8 
+3.6 
+4.8 
+
+2.2 
+2.0 
+5.2 
+
+.0 
+
+-. 4 
+6.0 
+
+3.3 
+4.0 
+3.0 
+
+7.1 
+6.4 
+7.4 
+
+.5 
+.5 
+6.6 
+
+Nonfinancial corporations2   4.4 
+
+2.4 
+
+3.9 
+
+3.7 
+
+6.1 
+
+ND 
+
+1. Changes are from  fourth quarter of preceding year to  fourth
+
+quarter of year shown.
+
+2. The nonfinancial corporate sector  includes  all  corporations doing
+
+business  in the United States with the  exception of banks,  stock
+and commodity brokers, and finance and insurance companies;  the sector
+accounts  for  about  two-thirds of business  employment.
+
+earlier  in  the  recovery  but  still  well  above  our  estimate  of  the
+
+II-5
+
+cyclically  adjusted trend  growth  rate.
+
+Industrial  Production
+
+The  index of  industrial  production  evidently  rose  appreciably
+
+in  April  but  probably  less  than  the  average  pace  of  around
+
+1/2  percent  per month  in the  first  quarter.  On  a quarterly average
+
+basis,  output  grew  at  a  7.7  percent  annual  rate  in  the  January-March
+
+period,  boosted,  in  large  part,  by another  spurt  in  assemblies  of
+
+motor  vehicles  and  by  a weather-related  boost  to  electricity
+
+generation.  Output  of  other  consumer  goods  and  business  equipment
+
+excluding  office  and  computing equipment  grew  slowly during  the
+
+first  quarter,  as  weather-related  stoppages  early  in  the  year  were
+
+only partly  offset  by a  strong rebound  in March.
+
+PRODUCTION  OF  DOMESTIC AUTOS  AND  TRUCKS
+(Millions of  units  at  an  annual  rate;  FRB  seasonal  basis)
+
+U.S.  production 1  
+
+Autos 
+Trucks 
+
+Days'  supply
+
+Autos 
+Light  trucks 
+Medium and
+
+heavy trucks 
+
+Jan. 
+
+Feb. 
+
+Mar. 
+
+Apr. 
+
+Q1 
+
+1994
+
+Q2
+-scheduled-
+
+12.8 
+7.0 
+5.9 
+
+13.9 
+7.6 
+6.3 
+
+13.0 
+7.2 
+5.7 
+
+12.5 
+6.9 
+5.6 
+
+13.2 
+7.3 
+6.0 
+
+11.9
+6.5
+5.4
+
+61.2 
+55.2 
+
+60.9 
+55.7 
+
+58.2 
+55.3 
+
+60.0 
+
+65.9 
+
+63.8 
+
+58.1 e
+57.8 e
+
+64.5 e
+
+1. Components  may not  add to  totals  due  to  rounding.
+e  Staff  estimate.
+
+In April,  a  sizable  increase  in  manufacturing  output  excluding
+
+motor vehicles  and  parts  was  partly offset  by  a 500,000-unit  decline
+
+in  motor vehicle  assemblies  and  a slowing  of  electricity generation.
+
+Because  automakers  stepped  up  production  sharply  at  the  beginning of
+
+the  year  and  are  operating  close to  capacity,  second-quarter
+
+production  schedules  are  substantially  lower than  first-quarter
+
+output  on  a seasonally  adjusted  basis.  (The number  of  vehicles
+
+II-6
+
+GROWTH  IN  SELECTED COMPONENTS  OF  INDUSTRIAL PRODUCTION
+(Percent change  from preceding comparable  period)
+
+Proportion 
+in
+total
+IP
+1993:Q4 
+
+1993 
+
+1994 
+
+1994
+
+19931 
+
+Q4 
+
+Q1 
+
+Jan.  Feb.  Mar.
+
+-Annual rate-  --Monthly rate---
+
+100.0 
+
+4.2 
+4.3 
+
+6.7 
+6.7 
+
+7.7 
+
+.4 
+.5 
+
+.6 
+.4
+
+.5
+
+85.2 
+5.6 
+6.9 
+7.9 
+
+79.6 
+
+21.4 
+3.7 
+17.7 
+
+14.9 
+4.2 
+3.9 
+6.8 
+
+2.8 
+5.2 
+
+39.0 
+19.8 
+9.2 
+10.0 
+
+5.0 
+16.6 
+-. 8 
+.9 
+
+8.4 
+91.4 
+2.1 
+-6.5 
+
+7.8 
+45.8 
+4.7 
+9.4 
+
+.7 
+
+.1 
+2.2 
+.0 
+
+.6
+5.4  -4.2
+1.8 
+3.5  -1.2  -1.8
+
+1.0
+
+4.3 
+
+4.4 
+
+5.5 
+
+.0 
+
+.3 
+
+1.0
+
+.6 
+5.8 
+-.4 
+
+9.1 
+33.9 
+4.2 
+.3 
+
+-9.5 
+5.9 
+
+4.3 
+7.4 
+3.8 
+-1.0 
+
+-1.1 
+4.6 
+-2.2 
+
+7.6 
+35.5 
+.2 
+-2.2 
+
+1.7 
+1.4 
+1.8 
+
+11.0 
+34.8 
+4.6 
+1.4 
+
+-.3 
+-. 1 
+-.4 
+
+.6 
+2.2 
+-.5 
+.1 
+
+.7 
+
+-. 1 
+
+.8 
+
+.5 
+2.4 
+.0 
+-.4 
+
+.8
+.3
+.9
+
+1.5
+2.3
+1.3
+1.1
+
+-9.7  -12.0 
+11.0 
+
+.3  -1.1  -1.0 
+
+-.8  -1.5  -1.1
+1.1
+
+5.3 
+9.0 
+4.9 
+-1.3 
+
+7.4 
+10.2 
+2.5 
+6.6 
+
+.3 
+.5 
+-. 9 
+1.0 
+
+.4 
+.2 
+.4 
+.7 
+
+.8
+1.2
+.6
+.2
+
+Total  index 
+Previous 
+
+Manufacturing 
+
+Motor vehicles  and parts 
+
+Mining 
+Utilities 
+
+Manufacturing
+
+excl. motor vehicles  and parts 
+
+Consumer  goods 
+Durables 
+Nondurables 
+
+Business  equipment 
+
+Office and computing 
+Industrial 
+Other 
+
+Defense  and space  equipment 
+Construction supplies 
+
+Materials 
+
+Durables 
+Nondurables 
+Energy 
+
+1. From the  final quarter  of  the previous
+
+indicated.
+
+period to  the  final quarter of  the period
+
+(percent change from preceding period, seasonally
+
+NEW ORDERS FOR DURABLE GOODS
+
+adjusted)
+
+-
+
+Share 
+1993
+H2 
+
+1993 
+
+1994
+
+-
+
+1994
+
+Q4 
+
+Q1
+
+Jan.  Feb. 
+
+Mar.
+
+Total durable  goods 
+
+100.0 
+
+6.4 
+
+5.4 
+
+4.3 
+
+-1.8 
+
+.8
+
+Adjusted durable goods  orders1 
+
+67.0 
+
+5.5 
+
+2.9 
+
+-. 8 
+
+.4 
+
+3.8
+
+Nondefense  capital  goods
+excluding aircraft and computers 
+
+All  other categories 2  
+
+17.0 
+
+50.0 
+
+10.4 
+
+1.9 
+
+-9.0 
+
+6.4 
+
+3.9 
+
+3.2 
+
+2.3 
+
+-1.6 
+
+Real adjusted durable goods orders 3  
+
+6.2 
+
+2.2 
+
+-. 9 
+
+.3 
+
+1.0
+
+4.8
+
+3.7
+
+1. Orders  excluding defense  capital  goods,  nondefense aircraft,  and motor vehicle
+
+parts.
+
+2. Includes  primary metals, most  fabricated metals, most stone,clay,  and glass
+products, computers,  and  electronic, components, household appliances,  scientific
+instruments, and miscellaneous durable goods.
+
+3. Nominal  adjusted durable  goods  orders were  deflated with a  PPI  for durable  goods
+
+excluding transportation equipment  and the  BEA deflator for  office,  computing
+and accounting machinery.
+
+II-7
+
+CAPACITY UTILIZATION  IN  INDUSTRY
+(Percent of  capacity;  seasonally  adjusted)
+
+1967-93  1988-89 
+
+1993 
+
+1994 
+
+1994
+
+Avg. 
+
+High  1 
+
+Q4 
+
+Q1 
+
+Feb. 
+
+Mar.
+
+Total  industry 
+
+Manufacturing 
+
+81.9 
+
+84.8 
+
+82.3 
+
+83.3 
+
+83.4 
+
+83.6
+
+81.2 
+
+85.1 
+
+81.5 
+
+82.5 
+
+82.5 
+
+82.8
+
+Primary processing 
+
+Textile mill products 
+Lumber and products 
+Pulp and paper 
+Primary chemicals 2  
+Petroleum products 
+Stone, clay  and glass 
+Primary metals 
+
+Iron  and steel 
+Nonferrous metals 
+
+Fabricated metal products 
+
+Advanced processing 
+
+Furniture and fixtures 
+Advanced chemicals 3  
+Nonelectrical  machinery 
+Electrical machinery 
+Motor vehicles  and parts 
+Aerospace  and misc.
+
+transportation equipment 
+
+Instruments 
+
+82.2 
+86.2 
+83.1 
+92.2 
+83.3 
+85.5 
+77.9 
+80.1 
+79.8 
+80.9 
+77.2 
+
+80.6 
+81.7 
+77.3 
+80.8 
+80.4 
+75.7 
+
+75.5 
+82.0 
+
+89.1 
+92.1 
+93.3 
+98.1 
+92.3 
+88.5 
+83.7 
+92.9 
+95.7 
+88.9 
+82.0 
+
+83.3 
+86.8 
+82.0 
+83.7 
+84.9 
+84.5 
+
+88.3 
+81.2 
+
+85.5 
+89.8 
+91.1 
+93.0 
+84.9 
+93.2 
+78.6 
+89.4 
+91.5 
+86.2 
+78.8 
+
+79.9 
+81.0 
+78.0 
+85.7 
+84.1 
+84.4 
+
+64.2 
+72.6 
+
+86.0 
+90.0 
+90.5 
+94.1 
+85.2 
+91.3 
+77.8 
+90.3 
+92.1 
+87.7 
+80.2 
+
+81.1 
+81.3 
+78.9 
+87.4 
+85.0 
+91.7 
+
+62.6 
+73.1 
+
+85.8 
+89.7 
+90.1 
+94.0 
+85.1 
+91.4 
+77.2 
+90.2 
+92.2 
+87.2 
+79.8 
+
+81.2 
+81.3 
+78.9 
+87.0 
+84.9 
+94.7 
+
+62.4 
+72.9 
+
+86.4
+90.4
+90.4
+95.1
+85.0
+92.0
+78.7
+90.7
+92,5
+87.9
+80.7
+
+81.3
+81.8
+79.4
+88.0
+85.5
+90.4
+
+62.2
+73.3
+
+Mining 
+
+Utilities 
+
+87.4 
+
+87.0 
+
+87.8 
+
+88.9 
+
+89.2 
+
+90.1
+
+86.7 
+
+92.6 
+
+86.1 
+
+87.8 
+
+87.9 
+
+86.2
+
+1. The historical  highs shown are specific to each series and did not occur
+
+in  the  same month.
+
+2. Primary processing chemicals  includes  industrial  organic and  inorganic
+
+chemicals,  synthetic materials,  plastics  resins,  and fertilizers.
+
+3. Advanced processing chemicals  includes  drugs and  toiletries,  soaps  and
+
+detergents,  paints  and allied products, pesticides,  and other miscellaneous
+chemical products.
+
+II-8
+
+SALES  OF  AUTOMOBILES AND LIGHT TRUCKS 1
+(Millions of  units  at  an  annual  rate;  BEA seasonals)
+
+1993 
+
+1994 
+
+1994
+
+1992 
+
+1993 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Feb. 
+
+Mar. 
+
+Apr.
+
+Total 
+
+Autos 
+Light  trucks 
+
+North American 2  
+
+Autos 
+
+Big Three 
+Transplants 
+
+Light trucks 
+
+12.83  13.89  13.56  14.55  15.54  15.47  15.85  15.30
+8.38 
+9.47
+4.44 
+5.83
+
+8.71 
+5.17 
+
+9.38 
+6.10 
+
+8.60 
+4.96 
+
+8.95 
+5.60 
+
+9.86 
+5.99 
+
+9.49 
+6.05 
+
+10.49  11.73  11.40  12.54  13.36  13.33  13.51  13.16
+7.48
+5.97
+1.51
+5.68
+
+6.63 
+5.09 
+1.53 
+4.77 
+
+7.46 
+6.03 
+1.43 
+5.90 
+
+7.67 
+6.12 
+1.55 
+5.84 
+
+7.07 
+5.70 
+1.37 
+5.47 
+
+6.74 
+5.46 
+1.29 
+4.99 
+
+6.28 
+5.09 
+1.19 
+4.21 
+
+7.39 
+5.97 
+1.41 
+5.94 
+
+Foreign produced 
+
+Autos 
+Light  trucks 
+
+2.34 
+2.11 
+.23 
+
+2.15 
+1.97 
+.18 
+
+2.16 
+1.97 
+.19 
+
+2.00 
+1.87 
+.13 
+
+2.18 
+2.03 
+.15 
+
+2.15 
+1.99 
+.16 
+
+2.34 
+2.20 
+.14 
+
+2.14
+1.99
+.15
+
+Memo:
+Domestic nameplate
+Market  share, total 
+
+Autos 
+
+.72 
+.63 
+
+.74 
+.65 
+
+.71 
+.61 
+
+.75 
+.65 
+
+.74 
+.64 
+
+.75 
+.65 
+
+.73 
+.63 
+
+.74
+.64
+
+Note:  Data on  sales  of  trucks and
+preliminary  and subject to  revision.
+
+imported autos  for the  current month are
+
+1. Components may not  add to totals  because of rounding.
+2. Excludes  some vehicles produced in  Canada that  are classified as  imports
+by the  industry;  prior to January  1994,  some vehicles produced in Mexico were
+also excluded.
+
+GM  AND  FORD  DOMESTIC  AUTO SALES
+(Seasonally adjusted annual rate; FRB seasonals)
+
+Retail 
+
+Fleet
+
+Millions  of Units
+
+-I 4
+
+Ap r-
+
+N
+
+1991 
+
+1992
+
+r
+
+1993
+
+1994
+
+Note:  Data  are confidential.  Retail includes consumer leasing.
+
+II-9
+
+assembled  at  U.S.  plants  per  working  day--not  seasonally  adjusted--
+
+has  been  fairly  constant  so  far  this  year  and  is  not  scheduled  to
+
+change  significantly  for  the  remainder  of  the  current  quarter.)
+
+Recent  indicators  of  industrial  activity  remain very  favorable.
+
+Production worker  hours  edged  up  0.1  percent  in April  and  factory
+
+labor  productivity has  been  trending  upward  sharply.  The  available
+
+weekly  production data  for April  show  further  growth  in mining  as
+
+well  as  improvements  in  lumber  and  appliances.  The  staff's  series
+
+on  real  adjusted  durable  goods  orders  spiked  3.7  percent  in  March,
+
+after  leveling  off  earlier  in  the  year.  Purchasing managers'
+
+reports  on  orders  and  production  in April  remained  firmly in
+
+positive territory.
+
+Capacity  utilization  rates  have  increased  rapidly  in  recent
+
+months  and  are  now very  high  in  motor vehicles,  petroleum  refining,
+
+lumber,  and  primary  metals  industries.  The  Commerce Department's
+
+winter  survey  of  capital  spending  plans  indicates that  these
+
+industries  have  revised their  planned  investment  rates  up
+
+substantially.  The  Federal  Reserve's  estimate  of manufacturing
+
+capacity  growth for  1994 was  revised up  to  3.2  percent  from
+
+2.7  percent  in the  March  release  because  of  changes  in  these  and
+
+other  source  data.
+
+Motor  Vehicles
+
+Sales  of  cars  and  light  trucks  remained  robust  in April.  The
+
+officially  reported  numbers  show that  sales  of  new  light  vehicles,
+
+which had  risen  sharply through  March,  declined more  than
+
+1/2  million units  in  April,  to  a 15.3  million  unit  annual  rate.
+
+However,  industry  sources  indicate that  the  reporting  period  for
+
+March  sales  was  extended,  owing  to  the  timing  of the  Easter holiday,
+
+perhaps  shifting  some  reported  sales  from April  to March.  The
+
+average  sales  pace  for  the  two  months  still  represents  a high-water
+
+mark thus  far  in  this  economic  upswing.2
+
+According to  confidential data,  fleet  purchases  of new cars.
+
+which were  boosted by  a rebound  in  sales  to  rental  companies  earlier
+
+this  year,  have eased  recently.  This  pattern  of  sales  suggests  that
+
+the  shortfall  in  purchases that  occurred  during  the  second  half  of
+
+last  year  owing  to  limited  supplies  has  been  recouped  (chart).  The
+
+need  to  satisfy  pent-up  demand  for  fleet  cars  explains  part  of the
+
+surge  in  auto  assemblies  at  the turn  of the  year.
+
+ANNUAL  ASSEMBLY CAPACITY
+FOR THE  U.S.  MOTOR VEHICLE  INDUSTRY
+(Model years;  millions  of  units)
+
+1992 
+
+1993 
+
+1994 
+
+Total  motor  vehicles 
+
+13.60 
+
+13.89 
+
+13.94 
+
+Autos 
+Trucks 
+
+Medium and  heavy 
+Light 
+
+Previous 
+
+8.19 
+5.41 
+.45 
+4.96 
+
+8.24 
+5.65 
+.45 
+5.20 
+
+8.11 
+5.83 
+.45 
+5.38 
+(5.30) 
+
+Source:  FRB  staff  compilation  from  industry  sources.
+
+1995
+
+14.36
+
+8.35
+6.01
+.46
+5.55
+(5.36)
+
+Motor  vehicle  producers have  recently  expanded U.S.  production
+
+capacity  for  both parts  and  assemblies.  Light  truck capacity  has
+
+been  increased  by  about  50,000  units  for  the current  model year,  and
+
+plans  have been  announced to  substantially boost  production
+
+capability for  the  1995 model year.  For both years,  this  increased
+
+capacity will  be  achieved mainly by  adding  shifts.  In  addition,
+
+Ford and  Chrysler  have  begun assembling  new light  truck models  in
+
+Canada and  Mexico  this  quarter,  which will  add  about  0.3  million
+
+2. Anticipation  of  a 2 percentage  point  increase  in  the  Michigan
+
+sales  tax  in May may  have  given sales  a small  lift  in  March  and
+April.
+
+units  to  annual  North American  production  capacity.3  Most  of
+
+these  vehicles  will  likely be  exported  to  the  United States.
+
+Personal  Income  and  Consumption
+
+According to  BEA's  advance  estimate,  real  PCE  rose  3.8  percent,
+
+at  an  annual  rate,  in  the  first  quarter.  As  noted  above,  sales  of
+
+cars  and  light  trucks  grew  substantially throughout  the  quarter.
+
+Spending  on  goods  other than  motor vehicles  was  erratic  from month
+
+to  month and  posted  a comparatively  small  increase  for  the  quarter
+
+as  a whole.  The  deceleration  occurred because  outlays  for  durable
+
+goods  such  as  furniture,  appliances,  and  other  household equipment
+
+were  little  changed  in the  first  quarter  after  soaring  in  the  second
+
+half  of  last  year.
+
+Outlays  for  services were  boosted  during the  first  quarter  by
+
+unseasonably  strong demand  for  energy services  in  January  and
+
+February.  Because  of  the  high volume  of activity  in  financial
+
+markets,  brokerage  and  investment counseling  services  were  up
+
+sharply  in January  and  remained  near  that  elevated  level  in  February
+
+and March.  A number  of  other  major  categories of  service  spending,
+
+such  as  housing,  transportation,  and medical  services,  posted  more
+
+moderate  gains.
+
+Real  disposable  personal  income  is  estimated  to  have  increased
+
+2-3/4  percent,  at  an annual  rate.  during the first  quarter after
+
+rising  5.4  percent  in  the  fourth  quarter. 
+
+Excluding the
+
+estimated  effects  of  the  Northridge  earthquake,  however,  real  DPI
+
+3. Ford  has  just  introduced its  new Windstar minivan, which  is
+produced in  Canada,  and  believes that  domestic  sales  will  average
+about  200,000  units  at  an  annual  rate.  Chrysler  has  begun
+production  of  an  extended-cab  pickup  in  Mexico  at  an  annual  rate  of
+about  100,000  units,  which will  also  be  available  for  sale this
+quarter.
+
+4. We  would  not be  surprised  if  this  July's  annual  revisions  to
+the  national  income  and  product  accounts  include  significant  changes
+to  the  estimates  of  personal  income  growth  to  take  account  of  shifts
+in  income  from the  first  quarter  of  1994 to  the  fourth  quarter  of
+1993  in  response  to  the  removal  of  the  category  on  wages  subject  to
+Medicare  taxes  that  was  part  of  OBRA-93.
+
+II-12
+
+REAL  PERSONAL  CONSUMPTION  EXPENDITURES
+(Percent change  from the  preceding period)
+
+1993 
+
+1994 
+
+1994
+
+1993 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Jan. 
+
+Feb. 
+
+Mar.
+
+Personal  consumption
+expenditures 
+
+---Annual rate--- 
+
+---Monthly rate---
+
+3.2 
+
+4.4 
+
+4.4 
+
+3.8 
+
+.1 
+
+.8 
+
+.1
+
+Motor vehicles 
+
+5.9 
+
+-2.9 
+
+22.3 
+
+26.3 
+
+4.2 
+
+1.5 
+
+Goods  excluding  motor  vehicles 
+
+Durables 
+Nondurables 
+
+Services 
+
+Excluding  energy 
+
+Memo:
+
+Real  disposable  personal  income 
+Personal  saving  rate
+
+(percent) 
+
+3.3 
+9.3 
+1.7 
+
+2.9 
+3.0 
+
+1.1 
+
+4.0 
+
+6.0 
+14.8 
+3.7 
+
+4.4 
+11.0 
+2.7 
+
+3.9 
+3.1 
+
+1.6 
+
+3.8 
+
+2.6 
+2.9 
+
+5.4 
+
+4.0 
+
+1.9 
+.0 
+2.4 
+
+3.1 
+3.0 
+
+2.7 
+
+3.7 
+
+-1.2 
+-2.8 
+-. 7 
+
+.6 
+.3 
+
+-1.0 
+
+3.2 
+
+1.7 
+1.3 
+1.8 
+
+.1 
+.1 
+
+1.5 
+
+3.9 
+
+2.5
+
+.0
+.5
+-. 1
+
+-. 0
+.3
+
+.3
+
+4.1
+
+PERSONAL INCOME
+(Average monthly change at  an annual rate;  billions of dollars)
+
+1993 
+
+1994 
+
+1994
+
+1993 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Jan. 
+
+Feb. 
+
+Mar.
+
+Total personal income 
+
+3.4 
+
+22.3 
+
+35.8 
+
+28.3 
+
+-47.0 
+
+98.9 
+
+33.1
+
+Wages  and salaries 
+
+Private 
+
+-8.3 
+-10.1 
+
+11.5 
+9.0 
+
+14.5 
+14.1 
+
+16.3 
+14.3 
+
+Other  labor  income 
+
+2.7 
+
+2.7 
+
+2.8 
+
+Proprietors'  income 
+
+Farm 
+
+Rent 
+Dividend 
+Interest 
+
+Transfer payments 
+
+Less:  Personal contributions
+
+for  social insurance 
+
+Less:  Personal  tax and nontax
+
+payments 
+
+27.5 
+23.4 
+
+3.0 
+
+6.3 
+5.0 
+
+3.1 
+
+-16.1 
+-11.2 
+
+13.3 
+9.1 
+
+-59.6 
+.2 
+1.7 
+
+68.3 
+
+.7 
+2.2 
+
+15.1
+14.5
+
+3.2
+
+6.1
+1.4
+
+4.9
+1.6
+2.4
+
+4.5 
+
+5.5 
+
+.8
+
+3.1 
+
+1.1 
+-.6 
+
+4.5 
+.8 
+2.1 
+
+3.6 
+
+3.9 
+1.6 
+
+.8 
+-1.1 
+
+15.9 
+10.9 
+
+1.4 
+.3 
+.0 
+
+2.0 
+
+.4 
+1.9 
+
+-.7 
+.1 
+-.5 
+
+4.7 
+
+3.9 
+
+4.8 
+
+1.2 
+
+.7 
+
+1.1 
+
+3.3 
+
+8.2 
+
+.5 
+
+1.1
+
+-.1 
+
+3.0 
+
+4.4 
+
+4.9 
+
+8.8 
+
+2.4 
+
+3.6
+
+Equals:  Disposable  personal income 
+
+3.5 
+
+19.4 
+
+31.4 
+
+23.4 
+
+-55.7 
+
+96.4 
+
+29.5
+
+growth  was  about  4-1/2  percent  (annual  rate)  in  the  first  quarter.
+
+bringing  the  four-quarter  increase,  with adjustments  for  natural
+
+disasters  and  income  shifting, to  2-3/4  percent.5  Moreover,
+
+increases  in  nominal  wage  and  salary income  averaged  $16  billion  per
+
+month  in  the  first  quarter,  a shade better  than  in  the  fourth
+
+quarter  of  1993;  based upon  the  increases  in  employment  and  earnings
+
+in April,  moderate  gains  in pretax  income  continued  early  in  the
+
+second  quarter.  The  saving  rate  fell  1/4  percentage  point  to  3.7
+
+percent  in  the  first  quarter;  assuming  the  quake  affected  income  but
+
+not  consumption, the  saving  rate would  have  risen  about  1/4
+
+percentage  point  in  its  absence.
+
+The  recent  runups  in  interest  rates  have  affected household
+
+cash  flows  and  balance  sheets  through a number  of  channels.  On  the
+
+negative  side,  higher mortgage  rates  have  sharply  reduced
+
+refinancing  activity  and  some  adjustable  rate mortgages  already  have
+
+repriced  at  higher  rates.  Household  wealth  also  has  suffered  from
+
+the  declines  in  stock  and bond  prices;  by the  beginning  of  May,  the
+
+Wilshire  5000,  a broad-based index of  common stock  prices,  had
+
+fallen  6-1/4  percent  from  its  peak in  late  January,  while a Merrill-
+
+Lynch  index of  nearly  4,000  investment-grade  corporate bond  prices
+
+was  down  10-1/2  percent  from  its  peak in  October.  On  the  positive
+
+side,  higher  interest  rates  have begun to  boost  asset  income.
+
+Indeed,  personal  interest  income has  edged  up  in  the  past  few months
+
+after  changing little,  on  balance, through most  of  1992  and  1993.
+
+Despite  the  declines  in  stock  and  bond prices--and  the
+
+publicity they  have  received--consumer  confidence  has  remained
+
+5. BEA  estimates  that  the  Northridge  earthquake  reduced nominal
+rental  and  nonfarm  proprietors'  income  nearly  $22  billion  (annual
+rate)  during the  quarter.  This  figure  is  $7-3/4  billion  larger  than
+the  preliminary estimate  released  last  month.  The  adjusted  income
+calculation  cited  above  also  takes  out  the  estimated  after-tax
+effects  of  income  shifting between  1992:Q4  and  1993:Q1.  the  San
+Francisco  earthquake,  last  year's  flood,  and hurricanes  Hugo,
+Andrew,  and  Iniki.
+
+II-14
+
+KEY  DETERMINANTS  OF  CONSUMER  SPENDING
+
+Real  Disposable  Personal  Income
+
+Actual
+
+-
+-- Adjusted for special factors
+
+-
+
+-
+
+Four-quarter percent change
+
+1990 
+
+1991 
+
+1992 
+
+1993
+
+2199
+
+1994
+
+Stock and  Bond Prices
+
+-- 
+-
+
+Wilshire 5000 Composite  Stock Index
+
+-
+
+-
+
+- Merrill  Lynch  Corporate  Bond  Index
+
+index:  Dec  1989.100
+
+Apr
+
+1990
+
+1992
+
+lllrl 
+'  '  ''''''''''''''~'-
+
+iiiiii
+
+S60
+-
+1
+)94
+
+Consumer Confidence
+
+- Michigan  Index
+
+-
+
+-
+
+-
+
+-Conference  Board  Index
+
+-*4.^
+
+1990 
+1990
+
+1991 
+1991 
+
+1992 
+1992
+
+Apr.
+
+120
+
+80
+
+60
+
+'I 
+
+I
+
+I  i  i ImtIil  LLLLLELL L
+-
+Ii
+1!
+194
+
+1993 
+1993
+
+40
+
+relatively  upbeat.  The  Michigan  index  of  consumer  sentiment  rose
+
+considerably  around the  turn  of  the  year  and  has  maintained  that
+
+elevated  level  in  recent  months.  Households'  assessments  of  current
+
+economic  conditions  have  edged  up  a  bit  since  January,  and,  even
+
+though  a record  proportion  of  respondents  last  month  reported  that
+
+they  expected  interest  rates  to  rise  over  the next  year.  the
+
+deterioration  in  expected  business  conditions  has  been modest.
+
+Housing  Markets
+
+Housing starts  and  home  sales  rose  in  March from  their weather-
+
+depressed  levels  of  January  and February,  but  the  size  of the
+
+rebounds  suggests  that higher  mortgage  rates may have  begun to
+
+constrain demand.
+
+Single-family  starts  rose  11  percent  in March yet  remained
+
+significantly  below the  pace  of  late  last  year.  The  regional
+
+pattern  of  starts  in  March hints  that the weather  explains  at  least
+
+part  of the  gain.  Starts  rose  30  percent  in the Midwest, where the
+
+weather  in  January  and  February  had  been  severe  and  the  falloff  in
+
+starts  had been  particularly  large.  Permit  issuance,  however,
+
+increased  less  in  March than did  starts,  and  the  level  of  issuance
+
+suggests  slightly  less  construction  than does  the  starts  estimate.
+
+Sales  of  new  and  existing homes  also  posted  significant  gains
+
+in  March but  remained  below  their  fourth-quarter  averages.  Interest
+
+rates  on  fixed  rate mortgages  rose  about  50  basis  points  in March  to
+
+a level  130  basis  points  above the  low  recorded in  October,
+
+impinging  on  cash-flow  affordability.
+
+House  prices  firmed  a bit  in  the  first  quarter.  The  Census
+
+Bureau's  "constant-quality" price  index for new homes  rose
+
+4.2  percent  from  a year  earlier,  and  Freddie Mac's  "repeat  sales"
+
+index  for  existing homes  was  up  2.6  percent.  These  figures  are  near
+
+the  tops  of  the  ranges  of  the  past  couple  of  years.  Increases in
+
+II-16
+
+(Millions of  units;  seasonally adjusted  annual  rate)
+
+PRIVATE  HOUSING ACTIVITY
+
+1993 
+
+Anniin 
+"".mA
+
+1.29
+1.21
+
+1.13
+1.00
+
+All  units
+Starts
+Permits
+
+Single-family  units
+
+Starts
+Permits
+
+Sales
+
+1993
+
+fl 
+
+nL/
+
+1994
+o1 p
+
+.an 
+
+r
+
+1994
+FPh  r
+
+Mar 
+
+p
+
+1.31 
+1.23 
+
+1.48 
+1.39 
+
+1.35 
+1.31 
+
+1.27 
+1.36 
+
+1.31 
+1.25 
+
+1.47
+1.31
+
+1.14 
+1.01 
+
+1.29 
+1.15 
+
+1.16 
+1.08 
+
+1.13 
+1.12 
+
+1.12 
+1.05 
+
+1.25
+1.07
+
+New homes
+Existing  homes
+
+.67
+3.80
+
+.68
+3.90
+
+.77 
+4.17 
+
+.68
+4.05
+
+.64
+4.25
+
+.67 
+3.84 
+
+.74
+4.06
+
+Multifamily units
+
+Starts
+Permits
+
+p  Preliminary.
+r  Revised  estimates.
+
+.19 
+.24 
+
+.19
+.23
+
+.15
+.24
+
+.23
+.24
+
+PRIVATE  HOUSING  STARTS
+(Seasonally  adjusted  annual  rate)
+
+Millions of units
+
+--1 1.6
+
+I 
+
+aI -
+
+.5  Mar.
+
+,.  *IA 
+
+,h. 
+
+% 
+
+IIn
+
+1981 
+
+1983
+
+_I 
+J  -- 
+1981~~~~~~- 
+
+I 
+1985 
+
+I 
+
+\f 
+19318 
+
+18 
+1987 
+
+99 
+1989 
+
+I 
+
+9119
+1991
+
+l 
+
+n 
+
+I  l  fltllfuii 
+1993
+
+.Multifamily
+
+0.4
+
+ilm 
+
+inallu
+
+materials  costs  apparently  have  been  applying  some  pressure  to  tne
+
+prices  of  new  homes  (chart).  In  the  first  quarter,  softwood  lumber
+
+prices--although  quite volatile--averaged  11  percent  above  a year
+
+earlier,  and  gypsum prices  were  18  percent  higher.  Costs  of  other
+
+materials  have  increased  less  dramatically.
+
+Direct measures  of housing  activity in  April  and  May  are  not
+
+yet  available,  and  surveys  of consumers,  builders,  and  mortgage
+
+lenders  are  sending mixed  signals  (chart).  The  proportion  of
+
+consumers  reporting  favorable homebuying attitudes  declined  again  in
+
+April,  and  the  percentage  of builders  reporting  current  sales  as
+
+"good"  continued  to  move down  in  early May.  But  applications  for
+
+home  purchase  loans  at  mortgage  bankers  turned  up  late  last  month.
+
+(The brief history  of  this  series,  however,  makes  seasonal
+
+adjustment  problematic.)
+
+Mobile  home  shipments are  a small  component  of  total
+
+residential  investment  spending, but  one that  has  been  growing
+
+rapidly  of  late  and,  as  measured by  real  expenditures,  is  now nearly
+
+as  large  as  multifamily construction.  The  number  of mobile homes
+
+shipped  last  year  exceeded the  number  of multifamily  starts  by an
+
+unprecedented  50  percent  (chart).  The  recent  strength  in  economic
+
+conditions  in  Texas  and  other  southwestern  states  (important markets
+
+for  mobile homes),  together with  expanded  financing opportunities
+
+for  buyers,  appears  to  be  behind  the  surge.
+
+Multifamily  housing  starts  in  February  and  March averaged  a bit
+
+above  the  level  that  has  held  for the  past  few years,  and  a
+
+substantial  recovery still  appears  unlikely despite  tightening  in
+
+some  local  markets.  For  the  nation  overall,  vacancy  rates  remained
+
+high  through the  first  quarter  (chart),  holding  down  rent  increases.
+
+Moreover,  demand  in  this  market  is  unlikely  to  grow  fast  enough to
+
+whittle  away  many  vacancies  in the  near  term.
+
+II-18
+
+SOFTWOOD  LUMBER  PRICES
+
+Spot pice
+
+Index, June  1992  = 100
+
+-- 
+
+240
+
+180
+
+May 10
+
+120
+
+Producer price index
+
+/
+
+1989 
+
+1990 
+
+1991 
+
+1992 
+
+_ 
+
+___ 
+
+___ 
+1993
+
+__ 
+
+__
+
+60
+
+1994
+
+PRODUCERS'  PRICES  OF  CONSTRUCTION  MATERIALS
+
+Index, June  1992=  100
+
+Mar. 
+
+I
+
+130
+
+Gypsum
+
+120
+
+110
+
+100
+
+-" 
+-ingredients
+* 
+
+-
+
+i Concrete
+
+Asphalt
+rooting
+
+-
+
+-*
+
+I
+
+198 
+1989 
+
+199 
+1990
+
+199 
+1991 
+
+199 
+1992
+
+'
+
+199 
+1993
+
+I
+J  90
+-V 
+994
+1
+
+Millions of  units
+(annual  rate)
+
+CONSUMER  HOMEBUYING  ATTITUDES*
+
+(Seasonally adjusted)
+
+II-19
+
+Consumer homebuying  attitudes (right scale)
+
+5/9/94
+
+Diffusion  index
+
+Apr
+
+Mar.
+
+I
+
+SI 
+
+I 
+
+I 
+
+I 
+
+I
+II
+
+Single-family  starts (left  scale)
+
+1987 
+
+1988 
+
+1989 
+
+1990 
+
+1991 
+
+1992 
+
+1993
+
+* The homebuying attitudes index is calculated  by the Survey  Research  Center  (University  of Michigan)  as the proportion  of respondents
+
+rating current  conditions as  good  minus the proportion  ratng such  conditions as bad.
+
+1994
+
+Millions of units
+(annual  rate) 
+
+BUILDERS'  RATING  OF  NEW  HOME  SALES*
+
+(Seasonally adjusted) 
+
+C
+
+iffusion  index
+
+1.3
+
+Builders'
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+_I 
+
+I 
+
+I
+
+Single-4amily starts (left scale)
+
+1993
+*The  index  is calculated  trom  National Association of  Homeullders  data as  the proportion of respondents  rating current sales as good
+
+1990 
+
+1989 
+
+1988 
+
+1992 
+
+1991 
+
+1987 
+
+to excellent  mnus the prnporton rating them  as poor.
+
+Millions of units
+(annual  rate) 
+
+MBA  INDEX  OF  MORTGAGE  LOAN APPLICATIONS
+
+(Seasonally  adjusted) 
+
+March
+
+16,1990 
+
+100
+
+1.3  1-
+
+'I
+
+1%
+
+Purchase  index  (right scale)
+
+A, - -
+
+h
+
+Apr.  29
+
+Sing 
+
+y  stars  lef  scale)
+
+Single-family  starts (left scale)
+
+1991 
+1991 
+
+1992 
+1992
+
+1993 
+1993
+
+1994
+1994
+
+II-20
+
+MOBILE  HOME  SHIPMENTS  AND  MULTIFAMILY  STARTS
+
+Millions  of  units  (SAAR)
+
+-- 
+
+15
+
+Multifamily starts
+
+^ 
+
+^  wl 
+
+S  Mobile sipments
+-"" 
+-
+
+-
+
+94q1
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+1970
+
+1974
+
+I 
+I 
+
+I 
+I 
+
+I 
+
+I 
+I 
+1978
+
+I 
+
+I 
+
+I 
+
+I 
+I 
+1982
+
+I 
+I 
+
+I 
+I 
+
+I 
+I 
+I 
+1986
+
+I 
+I 
+
+I...i...I...I...i...I..
+I . . .
+
+1990
+
+I 
+
+io
+... ... ... ..
+b
+I
+I 
+1994
+
+Millions of  units (SAAR)
+-
+
+1.6 
+
+Percent
+
+-*  11
+
+MULTIFAMILY  STARTS AND  VACANCY  RATE
+
+Multifamily rental vacancy rate  (right scale)
+
+1.2  1-
+
+Multifamily  starts (left scale)
+
+0.8  -
+
+\
+
+/
+I 
+
+/
+
+/  A'
+
+A
+
+-' 
+
+A 
+
+IA 
+
+/ 
+
+I 
+
+I 
+
+I 
+
+i 
+
+I 
+
+I 
+
+I 
+
+I 
+
+1 
+
+I 
+
+1970
+
+1974
+
+I 
+I 
+1978 
+
+I 
+
+1L 
+
+ALI 
+
+1982 
+
+I 
+I 
+1986
+
+I 
+
+I  *rpItltuI1... 
+1990 
+
+1uut1
+
+1994
+
+'p.I
+
+LQ
+
+Business  Fixed  Investment
+
+II-21
+
+Real  business  fixed  investment  continued  to  increase  rapidly  in
+
+the  first  quarter,  although  at  a less  robust  pace  than  in  the  fourth
+
+quarter  of  1993.  Outlays  for  equipment  posted  another  hefty
+
+advance,  while  spending  for nonresidential  structures,  which  had
+
+been  on  an  uptrend  for  about  a year,  retraced  almost  all  of its  1993
+
+gain.  A  good  part  of  this  decline  in  construction  outlays  probably
+
+was  caused  by  severe  weather.
+
+Among  fundamental determinants  of  capital  spending, the  recent
+
+increases  in  long-term  interest  rates  have  had  a noticeable  effect
+
+on  the  cost  of  capital  for  equipment  excluding computers  (chart).
+
+The  cost  of capital  for these  goods  was  about unchanged  in  the  first
+
+quarter  compared with  a year  earlier;  it  had been trending  down
+
+since  early  1991.  In  contrast,  the  cost  of  capital  for  computing
+
+equipment  continued  to  decline  rapidly, as  the  influence  of higher
+
+interest  rates  was  more  than offset  by the  downtrend  in  the  relative
+
+price  of  these  goods.  The  "accelerator effect."  as  proxied by  the
+
+four-quarter  change  in  output  growth,  continues to  have  a positive
+
+effect  on  investment,  albeit  less  so  than  earlier  in  the  expansion.
+
+Finally,  corporate  cash  flow has  picked  up  impressively in  recent
+
+quarters,  so  that  the  need  for  external  finance has  remained  modest.
+
+On  balance, these  factors  suggest  that  the  climate  for  investment
+
+remains  favorable,  if  not  quite  so  favorable  as  during  the  previous
+
+couple  of  years.
+
+The  increase  in equipment  spending  last  quarter was  widespread.
+
+Business  purchases  of  light  motor vehicles  increased  further  to  a
+
+level  nearly  20  percent  above  a year  ago,  with strength  in  outlays
+
+for  both  autos  and  light  trucks.  Business  demand  for heavy trucks
+
+remained  strong,  and  the major  domestic makers  were  producing  at
+
+capacity with  large backlogs.  Elsewhere, real  spending for
+
+II-22
+
+BUSINESS  CAPITAL  SPENDING  INDICATORS
+(Percent change  from preceding comparable period;
+based on  seasonally adjusted data, in  current dollars)
+
+1993 
+
+1994 
+
+1994
+
+Q3 
+
+Q4 
+
+Q1 
+
+Jan. 
+
+Feb. 
+
+Mar.
+
+Producers'  durable equipment
+
+Shipments  of nondefense capital  goods 
+
+Excluding aircraft and parts 
+
+Office and computing 
+All other categories 
+
+.6  7.1 
+8.0 
+5.2 
+8.8 
+
+3.4 
+9.4 
+1.7 
+
+1.1 
+3.0 
+
+.9  -5.9 
+-5.4 
+-2.9 
+.5  -6.1 
+
+2.9 
+5.0 
+3.5 
+5.4 
+
+1.6
+-.9
+2.6
+-2.0
+
+Shipments of  complete aircraft1 
+
+-39.5  34.1 
+
+10.1  -26.0  -26.4  111.0
+
+Sales  of heavy weight trucks 
+
+-1.1 
+
+8.5 
+
+-.1 
+
+10.6 
+
+-.7 
+
+.1
+
+Orders of nondefense capital goods 
+
+Excluding aircraft and parts 
+
+Office and computing 
+All other categories 
+
+-1.2  10.4 
+3.6  10.9 
+4.9  12.9 
+3.2  10.4 
+
+6.4 
+1.4 
+
+4.5 
+-7.5 
+.0  -2.1 
+-9.0 
+
+1.9 
+
+-.7 
+5.3 
+1.8 
+6.4 
+
+-.1
+2.6
+8.3
+1.0
+
+Nonresidential  structures
+
+Construction put-in-place 
+
+Office 
+Other commercial 
+Institutional 
+Industrial 
+Public utilities 
+Lodging and misc. 
+
+1.2 
+-1.8 
+
+4.6 
+3.5 
+-.8  13.2 
+2.9  -2.2 
+6.4 
+4.1 
+3.1 
+1.6 
+6.7 
+-.8 
+
+-5.2 
+-4.4 
+-4.0  -10.1 
+-3.3 
+-4.7 
+-6.2 
+-6.4 
+-4.5 
+-2.3 
+-6.3 
+-6.8 
+-.4 
+10.6 
+
+-4.2 
+-5.2 
+-8.7 
+-1.8 
+-3.5 
+-1.4 
+-3.2 
+
+2.9
+8.7
+5.7
+2.8
+-.2
+1.5
+1.5
+
+Rotary drilling rigs in use 
+
+14.2  -3.7 
+
+.8 
+
+.3 
+
+3.7 
+
+.5
+
+Memo:
+
+Business  fixed  investment2  
+
+Producers' durable equipment 2  
+Nonresidential structures 2  
+
+7.4  22.5 
+10.0  26.0 
+
+5.5 
+13.5 
+.3  12.2  -16.1 
+
+n.a. 
+n.a. 
+n.a. 
+
+n.a.
+n.a. 
+n.a. 
+n.a.
+n.a.  n.a.
+
+1. From the Current  Industrial Report  "Civil Aircraft and Aircraft Engines."
+Monthly data  are seasonally adjusted using FRB seasonal  factors constrained to
+BEA  quarterly seasonal  factors.  Quarterly  data  are  seasonally  adjusted  using
+BEA seasonal  factors.
+
+2. Based on constant-dollar data;  percent change, annual rate.
+n.a. Not  available.
+
+FUNDAMENTAL  DETERMINANTS  OF  BUSINESS  FIXED  INVESTMENT
+
+II-23
+
+Cost  of Capital
+
+Four-quarter  percent change
+
+1964 
+
+1969 
+
+1974 
+
+1979 
+
+1984 
+
+1989 
+
+1994
+
+Acceleration of  Business Output
+
+:::::?i!!!i:::: ::
+
+-.
+,.%-.
+
+%
+
+Change  in four-quarter growth  rate
+
+,r n  n:i 
+/G,
+
+::::: 
+: :": ::i:iii 
+
+''''
+
+::::::;
+'='''
+
+1964 
+
+1969 
+
+1974 
+
+1979 
+
+1984 
+
+1989 
+
+1994
+
+Real  Domestic  Corporate  Cash  Flow
+
+Four-quarter percent change
+
+1964 
+
+1969 
+
+1974 
+
+1979 
+
+1984 
+
+1989 
+
+1994
+
+Note:  Cash  flow in Q1  is a staff estimate.
+
+II-24
+
+RECENT  DATA  ON  ORDERS  AND  SHIPMENTS
+
+Office and  Computing Equipment
+
+---
+S--Shipments
+
+Orders
+
+Billions of dollars
+
+1987 
+
+1988 
+
+1989 
+
+1990
+
+1991 
+
+1992 
+
+1993
+
+Other  Equipment  (excluding aircraft and computers)
+
+Billions of dollars
+
+-
+
+-
+
+-- 
+
+Orders
+Shipments
+
+1987 
+
+1988
+
+1989 
+
+1990 
+
+1991
+
+1992
+
+1993
+
+I-25
+
+computing  equipment  advanced  at  an  18-1/2  percent  pace  last  quarter.
+
+the  primary  areas  of  strength  reportedly  continued to  be  PCs  and
+
+workstations.  Spending  for most  other  types  of  equipment  has
+
+continued  to  trend  up,  including  industrial  machinery,
+
+communications  equipment,  and  capital  goods  for  the  service
+
+industries.
+
+Looking  ahead,  the  recent  data  on  orders  received  by  domestic
+
+manufacturers  point  to  further  advances  in  equipment  spending in  the
+
+near term.  In  particular,  new orders  for nondefense  capital  goods,
+
+excluding  computing equipment  and  aircraft,  rose  close  to  2 percent
+
+in  the  first  quarter  after  a 10-1/2  percent  increase  in  the fourth
+
+quarter.  Orders  for  these goods  have  outpaced  shipments,  and,  as  a
+
+result,  unfilled  orders  expanded almost  10  percent  over the past  six
+
+months.
+
+Turning to  nonresidential  structures,  the  advance  estimates
+
+indicate  that  nominal  construction put-in-place  rose  only
+
+2.9  percent  in  March  after  falling  8.8  percent  over the severe-
+
+weather  months  of January  and  February.  However,  construction
+
+employment  growth  was  strong in  March and  April,  and  some  upward
+
+revision  to  the  construction put-in-place  data would  not  be
+
+surprising.
+
+Among sectors,  office  construction  in  March was  estimated to
+
+have  returned to  a level  similar to  its  fourth-quarter average.  On
+
+the  other hand,  the more modest  rebound  in the  industrial and  other
+
+commercial  sectors  (which includes  retail  stores)  left  the  level  of
+
+construction  in March noticeably  lower  than that  in  the fourth
+
+quarter  of  last  year.  Permits  issued  for  these structures  point  to
+
+continued  near-term  spending  increases.
+
+Construction  outlays  by  utilities  dropped  sharply  in  the  first
+
+quarter  after  a small  decline  last  year.  In  the latest  plant  and
+
+II-26
+
+NONRESIDENTIAL  CONSTRUCTION  AND  PERMITS1
+
+Total Building
+
+Index,  Dec.  1982 =  100,  ratio  scale
+
+1984 
+
+1985 
+
+1986 
+
+1987 
+
+1988 
+
+1989 
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994
+
+Office
+
+Other Commercial
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992 
+
+1994
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992 
+
+1994
+
+Industrial
+
+Institutional
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992 
+
+1994
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992 
+
+1994
+
+1  Six-month  moving average for all series shown.
+
+II-27
+
+equipment  survey,  utilities  planned  a 3-1/2  percent  increase  in
+
+nominal  spending  for  plant  this  year,  considerably  weaker  than the
+
+plans  in  last  fall's  survey.  The  downward  revision  to  spending
+
+plans  by  electric  utilities  more  than  accounted  for  the  overall
+
+cutback  in  plans  for  utilities.  According  to  industry  contacts,
+
+electric  utilities  have  pared  back anticipated capacity  expansion,
+
+in  part,  because  they  perceive  a more hostile  regulatory
+
+environment.  Nonetheless,  according  to  analysts  at  the  Edison
+
+Electric  Institute,  investment  in  this  sector  is  likely  to  be
+
+sustained  by  spending to  meet  the  provisions  of  the  Clean Air  Act.
+
+Manufacturing  and  Trade  Inventories
+
+On  balance,  business  inventories  apparently were  comfortable  to
+
+lean  in most  sectors  at  the  end  of the  first  quarter.  For
+
+manufacturing  and  wholesale trade,  sharp  accumulations  in  February
+
+were  partially  reversed  in March;  the  current-cost  data  thus  far
+
+show that  the  first-quarter  accumulation was  about  $14  billion
+
+(annual  rate)  below BEA's  advance  estimate.
+
+Excluding  aircraft, manufacturers'  inventories  expanded  further
+
+in  March  at  a $9.7  billion annual  rate,  after buildups  averaging
+
+$18.6  billion  in  January  and  February.  The  accumulation in the
+
+first  quarter  retraced a string  of drawdowns  in  previous months  and
+
+appears  to  have been  motivated by the  relatively  robust  factory
+
+orders.  A  substantial  part  of  the  manufacturers'  inventory  buildup
+
+during  the  first  quarter was  in  the  stocks  of machinery  producers,
+
+especially  in  the  computing  and  office  equipment  industry, where
+
+orders  generally have  been  firm in  recent  months.  In  contrast,
+
+inventories held  by  aircraft  producers  continued to  decline  last
+
+quarter.  Inventory-shipments  ratios  in  manufacturing have  declined
+
+further;  although  delivery times  have  lengthened  and materials
+
+II-28
+
+CHANGES  IN  MANUFACTURING  AND  TRADE  INVENTORIES
+(Billions of  dollars  at  annual  rates;
+based on seasonally  adjusted data)
+
+Current-cost basis
+
+Total 
+
+Excluding auto dealers 
+Manufacturing 
+
+Defense aircraft 
+Nondefense aircraft 
+Excluding aircraft 
+
+Wholesale 
+Retail 
+
+Automotive 
+Excluding auto dealers 
+
+Constant-dollar basis
+
+Total 
+
+Excluding auto dealers 
+Manufacturing 
+Wholesale 
+Retail 
+
+Automotive 
+Excluding auto dealers 
+
+1993 
+
+1994 
+
+1994
+
+Q3 
+
+Q4 
+
+Q1 
+
+Jan. 
+
+Feb. 
+
+Mar.
+
+16.1 
+23.5 
+-2.5 
+-.8 
+-3.3 
+1.5 
+12.0 
+6.6 
+-7.4 
+14.0 
+
+16.4 
+23.5 
+3.1 
+8.5 
+4.8 
+-7.1 
+11.8 
+
+18.8 
+5.5 
+-13.1 
+-4.7 
+-4.5 
+-3.9 
+6.1 
+25.8 
+13.3 
+12.5 
+
+5.4 
+3.0 
+-5.3 
+-.4 
+11.1 
+2.4 
+8.6 
+
+n.a. 
+n.a. 
+9.7 
+-4.5 
+-1.4 
+15.6 
+-1.6 
+n.a. 
+n.a. 
+n.a. 
+
+n.a. 
+n.a. 
+n.a. 
+n.a. 
+n.a. 
+n.a. 
+n.a. 
+
+17.8 
+12.5 
+17.8 
+-.2 
+2.2 
+15.8 
+.8 
+-.8 
+5.3 
+-6.1 
+
+4.2 
+1.4 
+16.5 
+-4.9 
+-7.5 
+2.8 
+-10.3 
+
+49.6 
+47.8 
+13.9 
+-3.1 
+-4.3 
+21.3 
+17.2 
+18.4 
+1.8 
+16.6 
+
+38.2 
+27.5 
+4.4 
+12.7 
+21.1 
+10.7 
+10.4 
+
+n.a.
+n.a.
+-2.7
+-10.3
+-2.1
+9.7
+-22.7
+n.a.
+n.a.
+n.a.
+
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+
+INVENTORIES  RELATIVE  TO  SALES1
+(Months  supply;  based  on  seasonally  adjusted  data)
+
+1993 
+
+1994 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Jan. 
+
+1994
+
+Feb. 
+
+Mar.
+
+Current-cost  basis
+
+Total 
+
+Excluding  auto  dealers 
+Manufacturing 
+
+Defense  aircraft 
+Nondefense  aircraft 
+Excluding  aircraft 
+
+Wholesale 
+Retail 
+
+Automotive 
+Excluding auto dealers 
+
+Constant-dollar basis
+
+Total 
+
+Excluding auto dealers 
+Manufacturing 
+Wholesale 
+Retail 
+
+Automotive 
+Excluding auto  dealers 
+
+1.46 
+1.44 
+1.49 
+5.22 
+5.39 
+1.35 
+1.34 
+1.52 
+1.69 
+1.48 
+
+1.55 
+1.54 
+1.60 
+1.42 
+1.60 
+1.76 
+1.55 
+
+1.43 
+1.41 
+1.42 
+5.24 
+5.05 
+1.29 
+1.34 
+1.51 
+1.66 
+1.47 
+
+1.52 
+1.50 
+1.53 
+1.42 
+1.57 
+1.67 
+1.54 
+
+n.a. 
+n.a. 
+1.40 
+4.78 
+4.98 
+1.28 
+1.31 
+n.a. 
+n.a. 
+n.a. 
+
+n.a. 
+n.a. 
+n.a. 
+n.a. 
+n.a. 
+n.a. 
+n.a. 
+
+1.42 
+1.40 
+1.41 
+4.95 
+5.07 
+1.28 
+1.33 
+1.52 
+1.65 
+1.48 
+
+1.51 
+1.50 
+1.52 
+1.41 
+1.57 
+1.65 
+1.55 
+
+1.41 
+1.39 
+1.40 
+5.24 
+5.49 
+1.27 
+1.32 
+1.50 
+1.61 
+1.47 
+
+1.50 
+1.49 
+1.51 
+1.41 
+1.56 
+1.64 
+1.54 
+
+n.a.
+n.a.
+1.38
+4.69
+4.62
+1.27
+1.29
+n.a.
+n.a.
+n.a.
+
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+
+1. Ratio of  end of period  inventories  to  average  monthly  sales  for  the  period.
+
+II-29
+
+RATIO  OF  INVENTORIES  TO  SALES
+(Current-cost  data)
+
+Manufacturing
+
+Ratio
+
+2.2
+
+1.95
+
+I 
+
+_ 
+1979 
+
+I 
+
+-I 
+1981 
+
+I 
+
+-I 
+1983 
+
+-I 
+1985 
+
+-I 
+
+--  I 
+1987 
+
+--  I 
+
+I 
+-
+1989 
+
+-- 
+
+I 
+1991 
+
+-I 
+
+1 
+--
+1993
+
+1.2
+
+-
+
+Wholesale
+
+Ratio
+-1.5
+
+-1.3
+
+mar.
+
+' 
+
+' 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+1 
+
+I 
+
+-1 
+
+1 
+
+-
+
+1.11.2
+
+1979 
+
+1981 
+
+1983 
+
+1985 
+
+1987 
+
+1989 
+
+1991 
+
+1993
+
+Ratio 
+
+2.7- 
+
+Retail
+
+2.3 -
+
+2.3 
+
+2.1  -
+
+.
+
+S. 
+
+T 
+
+IIt
+l e 
+
+a 
+
+Ratio
+-
+
+1.7
+
+- 1.~
+
+Feb1.
+
+-1.5
+
+Total excluding auto 
+
+- 1.4
+
+1979 
+
+1981 
+
+1983 
+
+1985 
+
+1987 
+
+1989 
+
+1991 
+
+1993
+
+II-30
+
+FEDERAL GOVERNMENT OUTLAYS AND RECEIPTS
+(Unified basis,  billions  of dollars,  except where  otherwise noted)
+
+Fiscal  year to  datel
+
+FY1993  FY1994 
+
+Dollar  Percent
+change  change
+
+Outlays
+
+Deposit  insurance  (DI)
+
+709.9 
+-13.6 
+
+726.8
+-6.7
+
+Outlays  excluding DI
+National  defense
+Net  interest
+Social  security
+Medicare  and health
+Income  security
+Agriculture
+Education
+Other
+
+Receipts
+
+Personal  income  taxes
+Social  insurance taxes
+Corporate  income  taxes
+Other
+
+723.5
+146.1
+99.3
+148.5
+110.5
+108.9
+14.5
+25.4
+70.3
+
+527.1
+246.8
+191.7
+43.3
+45.3
+
+733.6
+139.6
+99.1
+156.0
+123.4
+113.1
+11.1
+20.8
+70.4
+
+576.1
+261.7
+209.4
+53.7
+51.4
+
+16.9
+6.8
+
+10.1
+-6.5
+-. 2
+7.5
+12.9
+4.2
+-3.3
+-4.6
+.1
+
+49.0
+14.9
+17.7
+10.4
+
+6.1
+
+2.4
+-50.3
+
+1.4
+
+-4.4
+
+-. 2
+5.0
+
+11.7
+3.9
+
+-23.0
+-18.3
+.1
+
+9.3
+6.0
+9.2
+24.1
+13.5
+
+Deficit(+)
+
+Excluding DI
+
+182.8 
+196.4 
+
+150.7
+157.4
+
+-32.1 
+-39.0 
+
+-17.6
+-19.8
+
+Note:  Details may not  add to
+1.  October  through March
+
+totals because of rounding.
+
+II-31
+
+prices  have  been  rising,  companies  apparently  have  continued  to  keep
+
+a tight  rein  on  stocks.
+
+In  the trade  sector,  wholesale  inventories  declined  sharply  in
+
+March,  more  than  retracing the  buildups  reported  earlier  in  the
+
+first  quarter.  More  than  half  of  the March  drawdown  in wholesale
+
+inventories was  in the  motor vehicle  sector  and may  reflect  the
+
+robust  sales  of  imported  autos  and  light  trucks  during the  first
+
+quarter.  At  retailers,  inventories  expanded  substantially  in
+
+February, while  sales  posted  robust  gains.  The  largest  buildup was
+
+in  stocks  at  general merchandise  stores,  where  sales  also  advanced
+
+strongly.  On  the  whole,  inventories  in  the  trade  sector,  at  both
+
+retail  and wholesale  establishments,  appear  to  be  at  satisfactory
+
+levels.
+
+Federal  Sector
+
+Real  federal  government  purchases dropped  at  an  annual  rate  of
+
+12  percent  in  the  first  quarter  of  1994.  The  decline  was  greater
+
+than  the  trend  implied  by  recent  legislation and  reflects  the  large
+
+quarter-to-quarter  volatility of  federal  purchases.
+
+The  continuing  reduction  in military  spending was  responsible
+
+for  $9 billion  of  the  $11  billion decrease  in  real  federal
+
+purchases.  About  half of  this  decline was  for durable  goods  and
+
+storable nondurable  goods,  notably  aircraft,  ships,  and  ammunition.
+
+Normally,  volatility  in these  purchases  does  not  translate  entirely
+
+to  fluctuations  in  production  (purchases are  not  recorded  until  the
+
+military takes  delivery);  however, there  was  no  direct  evidence  of  a
+
+buildup  in the  inventories  of defense-related  manufacturers  during
+
+the  first  quarter.
+
+The  unified  federal  budget  deficit  for  the  first  half  of  fiscal
+
+year  1994  was  $151  billion,  18  percent  less  than  for the  same  period
+
+in  fiscal  1993.  This  deficit  reduction  reflects  robust
+
+II-32
+
+DAILY  NONWITHHELD  TAX  RECEIPTS  IN  APRIL AND  EARLY  MAY
+(Business  days)
+
+Millions  of
+
+-
+-
+-
+--------
+
+-
+
+1994
+- 1993
+1992
+
+14000
+
+12000
+
+10000
+
+8000
+
+6000
+
+4000
+
+2000
+
+0
+
+Apr8 
+
+Apr 15 
+
+Apr22 
+
+Apr29 
+
+May6
+
+CUMULATIVE  NONWITHHELD  TAX  RECEIPTS  IN  APRIL AND  EARLY MAY
+(Business days)
+
+Millions of dollars
+
+-
+
+90000
+
+----
+--------
+
+1993
+1992 
+
+1992
+
+5-
+
+------------------
+
+L
+
+----------
+
+80000
+
+70000
+
+* 
+
+60000
+SOOO
+
+50000
+
+40000
+
+30000
+
+20000
+
+10000
+
+0
+
+Apr8 
+
+Apr 15 
+
+Apr22 
+
+Apr  29 
+
+May  6
+
+Note:  Nonwithheld taxes  include final payments on  prior year liabilities, estimated tax payments on 1994  liability, and SECA
+(social security taxes from self-employed  individuals).  Dates  shown are for  1994;  the daily figures for  1993 and  1992 are
+aligned  to correspond to these dates.
+
+Source:  Fiscal  Analysts Section
+
+II-33
+
+growth  in  receipts  and  a  subdued  increase in  outlays  excluding
+
+deposit  insurance.  All  major  categories  of  tax  receipts  are  up  over
+
+last  year.  In  particular,  individual  income  and  social  insurance
+
+taxes  combined  are  7 percent  higher,  and  corporate  income  taxes  are
+
+up  24  percent.  Outlays  this  fiscal  year have  been  held down by
+
+faster-than-expected  declines  in  defense  spending.  Indeed, much  of
+
+the  anticipated decline  for  all  of FY1994  already  has  occurred,
+
+suggesting  relatively  flat  defense  spending for  the  remainder of  the
+
+fiscal  year.  In  addition,  strong  income  growth has  reduced income
+
+security outlays;  continued  declines  in  average  interest  rates  paid
+
+on  federal  debt  have  held  interest  outlays  about  flat  in  spite  of
+
+increasing  debt  levels:  higher  crop  prices  have  reduced  farm subsidy
+
+payments;  and  accelerated  repayments  of Federal  Financing Bank  loans
+
+by  the  Student  Loan Marketing Association  have  offset  education
+
+spending. 6  The  primary  stimulus  to  federal  outlays  still  comes
+
+from spending  on  Medicare,  Medicaid,  and  other  health  programs.
+
+Health-related  outlays  are up  about  12  percent  for  the  current
+
+fiscal  year  to  date--a  rise  consistent  with the  growth  last  year  but
+
+much  less  than  increases  in  1990,  1991,  and  1992.
+
+Daily Treasury  Statement  data indicate  that  nonwithheld tax
+
+collections  from April  1 through  May 6 totaled  $66  billion,
+
+$7 billion more than  during  the  same  period  in  1993.
+
+Nonwithheld taxes  in  1994  include  final  payments  on  income  tax
+
+liabilities  from  1993  and  prior  years,  estimated tax  payments  on
+
+6. The  Sallie  Mae  repayments  are  scored  on  a cash basis  because
+the  loans  were  extended prior  to  the  effective  date  of  the  Federal
+Credit  Reform Act  of  1990.  For  federal  loans  extended after  FY1992,
+only  the  subsidy  value of  federal  loans  is  scored  as  an  outlay,  and
+loan  repayments  are  scored as  a negative  outlay  only  to the  extent
+that  repayments  exceed expectations.
+
+7. Estimated  payment  rules  were  tightened for  1992  and  1993  tax
+
+liabilities,  which  increased  estimated tax  payments  during  CY1992
+and  CY1993  and  decreased final  payments  in the  springs  of  1993  and
+1994.  Starting this  year,  OBRA-93  partly  reverses  some  of  this
+tightening.
+
+II-34
+
+1994  tax liabilities,  and  social  security  taxes  from the  self-
+
+employed;  the  breakdown among  these  categories  will  not  be  known
+
+until  later  this  year.  Last  year,  about  half  of  nonwithheld
+
+collections  in  April  and  May were final  payments  on  1992's  tax
+
+liabilities.
+
+These data  on  nonwithheld tax  payments  do  not,  by  themselves,
+
+provide  much  information  about total  personal  income  tax  liabilities
+
+in  1993  because  they  account  for  such  a small  and  variable  share  of
+
+total  payments.  Nonetheless, when  combined  with the  $24  billion
+
+increase  in withholdings  in  1993,  our  estimate  of  a $2 billion  rise
+
+in  estimated payments  for  1993  over  1992,  and  essentially  flat
+
+refunds,  they  suggest that  liabilities increased  about  6 percent
+
+between  1992  and  1993.  By  comparison, the  NIPA  proxy  for taxable
+
+income  increased  about  4  percent.
+
+The  currently available  data  provide  little insight  on the
+
+accuracy  of  our  ex  ante  estimate that  OBRA-93  would  add  about
+
+$15  billion to  1993  liabilities.  Because  individuals were  allowed
+
+to  spread their  incremental tax  liabilities  for  1993  evenly  over
+
+three years,  any  amounts  that  showed  up  in  either  final  payments  or
+
+refunds  this  filing  season would have been  small  in what  are  noisy
+
+series  in  any  event.  Reliable  evidence  on  this  issue will  not  be
+
+available  until  final  data  on  1993  personal  income  tax  liabilities
+
+by  income  class  are  released by the  IRS  in  about two  years.
+
+The  Fiscal  1995  Budget  Resolution was  reported out  by  Senate
+
+and  House  conferees,  and  was  passed  by  the  House on  May  5.  The
+
+resolution  calls  for  discretionary  spending to  fall  $13  billion
+
+below the  spending  caps  over the  next five  years.  This  was  a
+
+compromise  between  the  original  Senate bill,  which  called for
+
+$26  billion  of  additional  cuts,  and the  original House  bill,  which
+
+called for  no  additional  cuts.
+
+State  and  Local  Government  Sector
+
+II-35
+
+Real  purchases  of  goods  and  services  by  state  and  local
+
+governments  are  estimated  to  have fallen  at  a  2.6  percent  annual
+
+rate  in  the  first  quarter,  the  first  decline  in  three  years  and  the
+
+largest  in  more than  a  decade.  Construction spending  accounted  for
+
+all  of  the  drop:  increases  in  outlays  for  other  goods  and  services
+
+were  in  line  with  recent  increases.  The  sharp  drop  in  construction
+
+spending occurred  in  spite  of  quake-related  construction in
+
+California  and  is  presumably  attributable to  disruptions  caused by
+
+the  severe  winter weather  in  January  and  February.  The  advance
+
+estimates  for  March--which  are  subject  to  considerable  revision  and
+
+are  seemingly at  odds  with data  on  construction  employment--indicate
+
+that  construction  spending  continued  to  edge  down  despite better-
+
+than-normal  weather.
+
+The  deficit  of  operating  and  capital  accounts,  excluding  social
+
+insurance  funds,  appears  to  have widened  considerably  in  the  first
+
+quarter  as  a  sharp  drop  in  federal  grants  more than offset  the
+
+decline  in  purchases.  The  drop-off in  federal  grants  was  primarily
+
+for  Medicaid  and  reflected  quarterly  volatility  rather  than  an
+
+underlying  trend.
+
+Although  aggregate  NIPA data  indicate  continuing  state  and
+
+local  budgetary  erosion, the  fiscal  picture  for  the  states'  general
+
+fund  accounts--which  represent  roughly  a  quarter  of  the  sector's
+
+total  spending--has  improved  overall.  All  but  five  states  find  that
+
+revenues  are  at  or  above  target,  and  hence  fewer  states  than in  1992
+
+and  1993  are  having to  make mid-year budget  adjustments  this  year.
+
+This  improvement  has  enabled many  governors  to  propose  tax  cuts  for
+
+fiscal  year  1995,  primarily for  personal  income  taxes.
+
+In  the  spring  legislative  sessions,  crime-fighting
+
+initiatives--such  as  building more prison  boot  camps  and  imposing
+
+II-36
+
+EMPLOYMENT  COST  INDEX  OF  HOURLY  COMPENSATION
+FOR  PRIVATE  INDUSTRY  WORKERS
+
+1993 
+
+1994
+
+Mar. 
+
+June 
+
+Sep. 
+
+Dec. 
+
+Mar.
+
+----- Quarterly  percent
+(compound  annual
+
+change-------
+rate)
+
+3.9 
+3.2 
+6.0 
+
+3.6 
+4.9 
+3.6 
+
+3.8 
+2.5 
+5.6 
+
+3.2 
+4.5 
+3.5 
+
+3.4 
+3.5 
+4.2 
+
+2.4 
+3.4 
+3.1 
+
+3.4 
+3.2 
+4.5 
+
+0.3 
+3.7 
+3.8 
+
+2.7
+2.1
+3.5
+
+7.0
+1.3
+4.8
+
+-0.3
+2.4
+4.5
+4.0
+
+4.2 
+4.2 
+4.2 
+
+3.5 
+3.8 
+3.1 
+
+3.8 
+3.4 
+2.4 
+
+3.4 
+3.4 
+2.7 
+
+3.4
+2.0
+3.4
+
+Total  hourly compensation: 1
+Wages and salaries
+Benefit  costs
+
+By  industry:
+
+Construction
+Manufacturing
+Transportation and
+public utilities
+
+Wholesale trade
+Retail  trade
+FIRE
+Services
+
+By occupation:
+White-collar
+Blue-collar
+Service  occupations
+
+Memo
+
+State  and  local  governments
+
+3.4 
+
+2.0 
+
+2.7
+
+----
+
+Twelve-month  percent  change----
+
+Total  hourly  compensation:
+
+Excluding sales workers
+Wages  and salaries
+Benefit  costs
+
+By industry:
+
+Construction
+Manufacturing
+Transportation and
+public utilities
+
+Wholesale trade
+Retail  trade
+FIRE
+Services
+
+By occupation:
+White-collar
+Blue-collar
+Service occupations
+
+3.9 
+4.0 
+3.3 
+
+3.8 
+4.4 
+3.7 
+
+3.3 
+4.2 
+3.5 
+
+2.4 
+4.1 
+3.5 
+
+3.2
+3.3
+3.8
+
+3.5 
+3.6 
+3.3 
+
+3.6 
+3.8 
+3.3 
+
+3.7 
+3.8 
+3.0 
+
+3.7
+3.7
+3.1
+
+Memo:
+
+State  and  local  governments
+
+3.6
+
+3.4 
+
+3.0 
+
+2.8 
+
+2.8
+
+1.  Seasonally  adjusted  by  the  BLS.
+
+stiffer  sentences--are  getting  a lot  of  attention.  In  addition.
+
+many  states  are  proposing  or  implementing  some  type  of  welfare
+
+reform,  particularly  with  regard  to  work  requirements.  In  contrast,
+
+interest  in  state  universal  health  care  plans  has  waned  in many
+
+states.
+
+Labor  Costs
+
+Growth in  labor  costs  continued  to  moderate  in early  1994.  The
+
+Employment  Cost  Index for  private  industry workers  increased  at  an
+
+annual  rate  of  2.7  percent  in the  quarter  ending  in March  1994.  In
+
+the  twelve months  ending  in  March, hourly  compensation  rose
+
+3.3  percent,  down  from 3.5  percent  during the  preceding twelve-month
+
+period.  The  slowing  reflected more moderate  growth in  benefit
+
+costs,  while the  rise  in  the  wage  and  salary  component  remained
+
+below  3 percent.  Costs  for  health  insurance  continued to  increase
+
+at  a faster  rate than  benefit  costs  on  average,  but  these and  most
+
+other  benefit  costs  categories decelerated.
+
+By  industry,  total hourly  compensation during  the  first
+
+quarter,  measured  at  an  annual  rate,  increased  2.7  percent  in the
+
+goods-producing  sector.  Such compensation  increased  only
+
+1.3  percent  in manufacturing,  but it  rose  7.0 percent  in
+
+construction.  Although there have been  anecdotal  reports  of
+
+shortages  of construction  workers, unpublished  data  from the  ECI  did
+
+not  show any  upward pressure  on wages of  skilled, blue-collar
+
+construction workers;  rather,  the acceleration  was  primarily  among
+
+professional workers  in the  construction  industry  (for example,
+
+engineers  and  architects).  The  acceleration in  construction  labor
+
+costs  was  concentrated  in  the benefits  component  and  reflected  a
+
+sharp  increase  in  nonproduction bonuses  such  as  profit  sharing  and
+
+lump-sum  payments.  In  the  service-producing sector,  total  hourly
+
+II-38
+
+EMPLOYMENT  COST  INDEX  OF  HOURLY  WAGES  AND  SALARIES
+FOR  PRIVATE  INDUSTRY  WORKERS
+(Twelve-month percent  changes)
+
+1993 
+
+1994
+
+Mar. 
+
+June 
+
+Sep. 
+
+Dec. 
+
+Mar.
+
+Hourly wages and  salaries 
+
+2.7 
+
+2.7 
+
+3.1 
+
+3.1 
+
+By industry:
+
+Construction 
+Manufacturing 
+Transportation and 
+public utilities
+
+Wholesale  trade 
+Retail  trade 
+FIRE 
+Services 
+
+By occupation:
+
+White-collar 
+Blue-collar 
+Service occupations 
+
+2.1 
+2.9 
+2.9 
+
+2.2 
+3.0 
+-0.2 
+3.4 
+
+2.7 
+2.6 
+2.1 
+
+2.3 
+2.9 
+3.1 
+
+2.3 
+2.9 
+1.0 
+3.2 
+
+2.8 
+2.5 
+2.2 
+
+2.4 
+3.0 
+3.1 
+
+2.9 
+2.9 
+3.8 
+3.2 
+
+3.4 
+2.7 
+2.1 
+
+2.0 
+3.2 
+3.2 
+
+2.6 
+2.9 
+4.2 
+3.0 
+
+3.3 
+2.9 
+2.1 
+
+2.9
+
+2.5
+2.9
+3.1
+
+2.0
+2.3
+4.0
+3.2
+
+3.1
+2.8
+2.5
+
+Memo:
+
+State and local  governments 
+
+3.0 
+
+2.8 
+
+2.9 
+
+2.7 
+
+2.7
+
+EMPLOYMENT COST  INDEX  OF HOURLY BENEFIT COSTS
+FOR  PRIVATE  INDUSTRY  WORKERS
+(Twelve-month  percent  changes)
+
+1993 
+
+1994
+
+Mar. 
+
+June 
+
+Sep. 
+
+Dec. 
+
+Mar.
+
+Hourly benefit  costs 1  
+Insurance costs 
+Health care 
+Supplemental  pay 
+Retirement and savings 
+Paid  leave 
+Legally required 
+
+5.6 
+7.7 
+8.1 
+3.6 
+5.4 
+3.4 
+4.9 
+
+5.8 
+7.2 
+7.8 
+4.3 
+6.6 
+3.7 
+5.3 
+
+5.4 
+6.8 
+7.2 
+4.8 
+4.6 
+3.7 
+4.6 
+
+5.0 
+6.4 
+6.9 
+2.8 
+4.9 
+3.4 
+4.4 
+
+By industry:
+
+Goods-producing 
+Service-producing 
+
+By occupation:
+
+6.3 
+4.8 
+
+7.0 
+4.9 
+
+6.3 
+4.4 
+
+5.6 
+4.5 
+
+White-collar occupations 
+Blue-collar  occupations 
+Service  occupations 
+
+5.3 
+5.7 
+5.4 
+
+5.4 
+6.3 
+6.3 
+
+4.8 
+5.9 
+5.5 
+
+4.6 
+5.5 
+5.5 
+
+4.4
+5.1
+5.7
+5.3
+9.5
+2.9
+3.7
+
+4.2
+4.5
+
+4.7
+4.0
+4.1
+
+Memo:
+
+State  and local  governments 
+
+4.8 
+
+4.4 
+
+3.2 
+
+2.9 
+
+3.0
+
+1. The detail on benefit  costs  is  from unpublished data  from the
+
+BLS.
+
+II-39
+
+compensation  rose  at  a 4.5  percent  annual  rate  in  the  first
+
+quarter--the  same  pace  as  in  the  second  half of  1993.
+
+ECI  hourly  compensation  for  union  workers  increased  3.5  percent
+
+in  the  twelve months  ended March  1994,  down  from  a 4.2  percent
+
+increase  over  the  previous  year.  This  deceleration  reflected
+
+moderation  in  the  benefits  component  of  compensation;  the  twelve-
+
+month  change  in wages  and  salaries  for  union workers  was  unchanged
+
+at  3.0  percent.  Restraint  in union wages  is  also  apparent  in  the
+
+data  on major  collective bargaining  agreements:  the  effective wage
+
+increase  for new  and  existing  contracts  was  2.9  percent  in  the  first
+
+quarter,  essentially the  same  as  in  1993.
+
+The  Teamsters'  new Master Freight  Agreement  seems  likely  to
+
+continue  this  moderate  trend.  If  approved by  the  rank  and  file,  the
+
+contract  with Trucking Management,  Inc.,  would  raise  base  wages
+
+about  8 percent  over  four  years.  It  also  increases  pension
+
+benefits,  allows  the trucking  companies  to  ship  more  freight by
+
+rail,  and  permits  greater  use  of  part-time  workers.  The
+
+ratification  vote  is  expected to take  place  in  late  May.
+
+In  contrast  to  the  first-quarter  ECI  data,  nonfarm compensation
+
+per  hour  increased  at  an  annual  rate  of  5.6  percent  in  the  first
+
+quarter,  well  above  the increase  of  2.8  percent  in  the  fourth
+
+quarter  of  1993.  However,  there are  several  reasons  why this
+
+measure  of  hourly  compensation  growth  in  the  first  quarter is
+
+overstated.  First,  the income  estimates made by  BEA allowed  for  the
+
+fact that  the  labor market  indicators  for the February  survey  week
+
+were  not  representative  of  the month  as  a whole;  however,  the  hours
+
+estimate was  not  modified,  and this  discrepancy  probably  caused  the
+
+growth  in  nonfarm compensation per  hour  for the  quarter to be
+
+overstated by more  than  a full  percentage  point.  Second, the  NIPA
+
+convention  puts  all  of  the increase  in  1994  payroll  tax bases
+
+II-40
+
+NEGOTIATED  WAGE  RATE  CHANGES
+UNDER MAJOR COLLECTIVE  BARGAINING SETTLEMENTS1
+(Percent change  except as noted)
+
+1991 
+
+1992 
+
+1993 
+
+01 
+
+02 
+
+03 
+
+Q 
+
+Q1
+
+1993 
+
+19f
+
+All  industries
+
+First-year  changes 
+Average over the  life 
+Workers affected  (in thousands) 
+
+3.6 
+3.2 
+1790 
+
+2.7 
+3.0 
+1608 
+
+2.3 
+2.1 
+2065 
+
+2.5 
+2.7 
+289 
+
+Contracts with escalator provisions2
+
+First-year changes 
+Average over the  life 
+Workers affected  (in thousands) 
+
+3.7 
+3.1 
+714 
+
+2.8 
+2.9 
+574 
+
+2.6 
+1.9 
+1162 
+
+Contracts without escalator provisions2
+
+First-year changes 
+Average over the  life 
+Workers affected  (in thousands) 
+
+3.5 
+3.3 
+1077 
+
+2.6 
+3.0 
+1035 
+
+2.0 
+2.5 
+902 
+
+2.4 
+2.6 
+134 
+
+2.6 
+2.8 
+155 
+
+2.5 
+2.5 
+511 
+
+1.5 
+1.5 
+140 
+
+1.1 
+1.7 
+471 
+
+2.5 
+1.5 
+190 
+
+2.9 
+2.9 
+371 
+
+.2 
+1.8 
+280 
+
+2.8 
+2.0 
+794 
+
+2.9 
+1.9 
+698 
+
+2.7 
+2.2 
+95 
+
+3.2
+2.5
+206
+
+2.6
+1.7
+75
+
+3.5
+2.9
+131
+
+Memo:
+Compensation rate changes,  all
+
+industries 3
+
+First-year changes 
+Average over the  life 
+Workers  affected  (in thousands) 
+
+4.1 
+3.4 
+1179 
+
+3.0 
+3.1 
+919 
+
+3.0 
+2.4 
+1382 
+
+3.1 
+3.2 
+179 
+
+3.2 
+2.6 
+222 
+
+1.0 
+1.4 
+284 
+
+3.8 
+2.5 
+698 
+
+3.0
+2.6
+132
+
+1.  Contracts  covering  1,000  or more workers;  estimates exclude  lump smn payments  and
+
+potential gains
+2.  Contracts
+3.  Contracts
+
+under  cost-of-living clauses.
+containing  cost-of-living  adjustments  and/or  lump
+covering  5,000  or more workers.
+
+sUm payments.
+
+EFFECTIVE  WAGE  CHANGE  IN  KAJOR  UNION  CONTRACTS  AND  ITS  COMPONENTS
+
+Total effective 
+wage  change 
+
+Prior 
+settlements 
+
+New
+
+settlements 
+
+COLAs
+
+Contribution of:
+
+1978  - 1982 
+1983  - 1987 
+1988 
+1989 
+1990 
+1991 
+1992 
+1993 
+
+1993:Q11 
+Q2 1  
+Q31 
+Q41 
+
+1994:01 1  
+
+8.7 
+3.3 
+2.6 
+3.2 
+3.5 
+3.6 
+3.1 
+3.0 
+
+3.0 
+2.9 
+2.6 
+3.0 
+
+2.9 
+
+3.5 
+2.0 
+1.3 
+1.5 
+1.9 
+1.9 
+1.9 
+1.9 
+
+1.8 
+1.8 
+1.8 
+1.9 
+
+1.8 
+
+2.6 
+.7 
+.7 
+1.2 
+1.3 
+1.1 
+.8 
+.9 
+
+.8 
+.7 
+.6 
+.9 
+
+.8 
+
+2.6
+.6
+.6
+.7
+.7
+.5
+.4
+.2
+
+.4
+.4
+.3
+.2
+
+.2
+
+1.  Changes over the four quarters  ended this period.
+
+II-41
+
+LABOR  COSTS
+
+(Percent  change  from  preceding  period  at  compound  annual  rate;
+based  on  seasonally  adjusted  data)
+
+19921  19931  Q2 
+
+Q3 
+
+Q4 
+
+Q1 
+
+1994:Q1
+
+1993 
+
+1994  1993:Q1
+
+to
+
+Compensation  per  hour
+
+Total  business 
+
+Nonfarm  business 
+Manufacturing 
+
+5.1 
+5.2 
+4.0 
+
+3.1 
+2.8 
+2.2 
+
+2.5 
+1.9 
+4.9 
+
+3.9 
+3.7 
+3.4 
+
+2.8 
+2.8 
+3.1 
+
+5.5 
+5.6 
+4.7 
+
+Nonfinancial  corporations 2  
+
+4.5 
+
+2.6 
+
+2.4 
+
+3.3 
+
+2.5 
+
+ND 
+
+Unit  labor  costs
+
+Total  business 
+
+Nonfarm business 
+Manufacturing 
+
+1.3 
+1.5 
+-. 7 
+
+.9 
+.8 
+-2.8 
+
+2.5 
+2.3 
+-1.0 
+
+.5 
+-. 4 
+.3 
+
+-4.0 
+-3.3 
+-4.0 
+
+5.0 
+5.0 
+-1.7 
+
+Nonfinancial  corporations 2  
+
+.1 
+
+.2 
+
+-1.5 
+
+-. 4 
+
+-3.4 
+
+ND 
+
+3.7
+3.5
+4.0
+
+ND
+
+1.0
+.8
+-1.6
+
+ND
+
+1.  Changes  are  from  fourth  quarter of  preceding  year  to  fourth
+
+quarter of  year  shown.
+
+2.  The  nonfinancial  corporate  sector  includes  all  corporations  doing
+
+business  in  the  United  States  with  the  exception  of  banks,  stock
+and  commodity  brokers,  and  finance  and  insurance  companies;  the  sector
+accounts  for  about  two-thirds  of  business  employment.
+
+AVERAGE HOURLY EARNINGS
+(Percentage change;  based on seasonally adjusted data) 1
+
+1993 
+
+1994 
+
+1994
+
+1992  1993 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Feb.  Mar.  Apr.
+
+-Annual rate- 
+
+-Monthly rate-
+
+Total private nonfarm 
+
+2.2 
+
+2.5 
+
+1.9 
+
+3.4 
+
+3.0 
+
+.1 
+
+.0 
+
+.3
+
+Manufacturing 
+
+Durable 
+Nondurable 
+
+Contract construction 
+Transportation and
+
+2.3 
+2.2 
+2.5 
+1.1 
+
+3.2 
+3.4 
+2.6 
+1.2 
+
+4.2 
+4.0 
+5.2 
+2.0 
+
+3.8 
+5.3 
+.4 
+-. 3 
+
+2.0 
+1.6 
+3.3 
+2.0 
+
+.6 
+.6 
+.5 
+1.1 
+
+-.2 
+-.2 
+-.1 
+-.6 
+
+.1
+.1
+-.2
+.3
+
+public utilities 
+
+1.7 
+
+1.3 
+
+-. 6 
+
+2.7 
+
+4.7 
+
+.0 
+
+.4 
+
+.0
+
+Finance,  insurance
+
+and  real  estate 
+
+Total trade 
+Services 
+
+3.5 
+2.1 
+2.6 
+
+5.2 
+2.4 
+2.3 
+
+4.3 
+
+6.1 
+.9  3.3 
+2.6 
+
+2.2 
+
+3.2 
+3.3 
+3.0 
+
+-. 6 
+
+.2 
+
+.1  -.1 
+
+-. 1 
+
+.0 
+
+.8
+.3
+.2
+
+1.  Annual  changes  are  measured  from  final  quarter  of  preceding  year
+
+to  final  quarter of  year  indicated.
+
+II-42
+
+RECENT  CHANGES IN CONSUMER  PRICES
+(Percent change;  based on seasonally  adjusted data)1
+
+Relative 
+importance,
+Dec.  1993 
+
+1993 
+
+1994 
+
+1994
+
+1992 
+
+1993 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Feb. 
+
+Mar.
+
+----- Annual  rate------  -Monthly rate-
+
+All items 2  
+
+Food 
+Energy 
+All  items  less food
+and  energy 
+Commodities 
+Services 
+
+Memo:
+
+CPI-W3  
+
+100.0 
+15.8 
+7.0 
+
+77.2 
+24.4 
+52.8 
+
+2.9 
+1.5 
+2.0 
+
+3.3 
+2.5 
+3.7 
+
+2.7 
+2.9 
+-1.4 
+
+3.2 
+1.6 
+3.9 
+
+2.0 
+2.6 
+-4.2 
+
+2.1 
+
+.0 
+3.5 
+
+3.3 
+4.9 
+1.2 
+
+3.4 
+2.4 
+3.7 
+
+2.5 
+-1.1 
+4.7 
+
+2.9 
+
+.6 
+4.2 
+
+.3 
+-.3 
+1.6 
+
+.3 
+-.1 
+.4 
+
+100.0 
+
+2.9 
+
+2.5 
+
+1.4 
+
+3.1 
+
+2.5 
+
+.2 
+
+.3
+.1
+.4
+
+.3
+.3
+.4
+
+.3
+
+1.  Changes  are  from  final  month  of  preceding  period  to final  month  of  period  indicated.
+2. Official  index for all  urban consumers.
+3. 
+
+Index  for  urban  wage  earners  and  clerical  workers.
+
+RECENT  CHANGES  IN  PRODUCER  PRICES
+(Percent change;  based on seasonally adjusted data)1
+
+Relative 
+importance, 
+Dec.  1993 
+
+1992 
+
+1993 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Feb. 
+
+Mar.
+
+1993 
+
+1994 
+
+---
+
+1994
+
+-----Annual  rate------  -Monthly rate-
+
+Finished goods 
+
+Consumer  foods 
+Consumer  energy 
+Other  finished goods 
+
+Consumer  goods 
+Capital equipment 
+
+Intermediate materials 2  
+
+Excluding  food and energy 
+
+Crude  food materials 
+Crude  energy 
+Other  crude materials 
+
+100.0 
+22.9 
+13.3 
+63.7 
+40.3 
+23.4 
+
+95.2 
+82.3 
+
+44.1 
+34.4 
+21.5 
+
+.2 
+1.6 
+1.6 
+2.4 
+-.3  -3.8 
+2.0 
+.4 
+-.6 
+2.1 
+1.9 
+1.7 
+
+-2.5 
+3.2 
+-7.4 
+-3.5 
+-6.4 
+2.2 
+
+-.3 
+5.2 
+-14.6 
+.9 
+1.2 
+.9 
+
+1.1 
+1.2 
+
+.6 
+1.6 
+
+-1.0 
+1.0 
+
+-.7 
+1.6 
+
+3.0 
+2.3 
+5.7 
+
+6.6 
+-13.7 
+11.6 
+
+13.1 
+-28.1 
+-4.5 
+
+15.5 
+-26.8 
+19.6 
+
+3.9 
+-.9 
+15.3 
+3.3 
+2.6 
+4.0 
+
+3.1 
+1.6 
+
+-2.5 
+26.7 
+19.0 
+
+.5 
+-.4 
+2.8 
+.1 
+.2 
+.1 
+
+.4 
+.0 
+
+.2
+.5
+.0
+.2
+.1
+.3
+
+.2
+.2
+
+1.2 
+-6.4 
+2.0 
+
+-1.0
+9.3
+.9
+
+1.  Changes  are  from  final  month  of  preceding
+2.  Excludes  materials  for  food  manufacturing
+
+period  to  final  month  of  period  indicated.
+and  animal  feeds.
+
+II-43
+
+stemming  from  OBRA-93,  as  well  as  the  normal  increase  in  the  social
+
+security  tax base,  into the  first-quarter  estimate  while  the  ECI
+
+measures  these  increases  as  they  become  effective.  This  difference
+
+in  treatment  perhaps  accounts  for  another  1/2  percentage  point  of
+
+the  gap  between the  two measures.  Third,  increases  in  the  number  of
+
+overtime  hours worked  boost  average  nonfarm  compensation per  hour,
+
+whereas  the  ECI  increases  only when overtime  pay  rates  rise.
+
+Finally,  the ECI  is  fixed-weighted,  while nonfarm  compensation  is
+
+not.  This  means that  changes  in  the  industrial  and  occupational
+
+distribution of  employment  and  hours  affect  nonfarm compensation but
+
+do  not  affect  the  ECI.  BLS  estimates  of  the  proportion  of  recent
+
+monthly  changes  in  average hourly  earnings  attributable to  mix
+
+shifts  suggest  that  such  shifts  were  considerable  in  the  first
+
+quarter.
+
+Average  hourly  earnings  of  production  or  nonsupervisory workers
+
+on  nonfarm payrolls,  the  only data  on  labor  costs  currently
+
+available  for  the  second  quarter,  increased  0.3  percent  in  April.
+
+Over  the  twelve months  ending  in April,  hourly  earnings  increased
+
+2.6  percent,  up  slightly  from the  rate  of  increase one  year  earlier.
+
+Earnings  increases  over  this  past  year  were  within  a  tenth  or  two  of
+
+the  gains  posted  over  the  same  period  of  a  year earlier  in  most
+
+major  sectors.  The  exception was  in  finance, insurance,  and  real
+
+estate,  where  increased  commissions  produced  a  significant  boost  to
+
+hourly  earnings.
+
+Prices
+
+Price  data  for  April  will be  released  in  the  next  two  days.
+
+Through March,  however,  inflation  remained  subdued.  Consumer  price
+
+increases  were  modest  in  March,  as  were  producer price  increases  at
+
+the  final  and  intermediate  stages  of  processing.  By  contrast,  crude
+
+materials  prices  have  continued  to  rise  rapidly,  as  they  did  during
+
+II-44
+
+INFLATION  RATES  EXCLUDING  FOOD  AND ENERGY
+
+Percent  change  from twelve months
+earlier
+
+CPI 
+
+Goods 
+
+Alcoholic  beverages 
+New vehicles 
+Apparel 
+House  furnishings 
+Housekeeping  supplies 
+Medical commodities 
+Entertainment 
+Tobacco 
+
+Services 
+
+Owners'  equivalent  rent 
+Tenants'  rent 
+Other renters'  costs 
+Airline  fares 
+Medical  care 
+Entertaiment 
+Auto financing 
+Tuition 
+
+PPI  finished  goods 
+
+Consumer  goods 
+
+Capital goods,  excluding
+
+computers 
+
+Computers 
+
+PPI  intermediate  materials 
+
+PPI  crude materials 
+
+Factors  affecting price inflation
+
+BCI hourly compensation 
+
+Goods-producing 
+Service-producing 
+
+Civilian unemployment rate*, 3 ,4  
+
+Capacity utilization2  
+
+(manufacturing)
+
+Inflation expectations 3,
+Mean of responses 
+Median, bias-adjusted6  
+
+Non-oil  import price 7  
+
+Consumer goods, excluding  autos,
+
+food,  and  beverages 
+
+Autos 
+
+Mar. 
+1992 
+
+3.9 
+
+3.1 
+
+3.2 
+2.4 
+3.6 
+1.8 
+0.4 
+7.8 
+2.3 
+8.0 
+
+4.2 
+
+3.8 
+3.1 
+3.5 
+-2.7 
+7.8 
+4.2 
+-12.5 
+9.3 
+
+2.6 
+
+2.9 
+
+3.0 
+-19.2 
+
+-0.2 
+
+-3.1 
+
+4.2 
+4.6 
+4.0 
+
+7.3 
+
+Mar. 
+1993 
+
+3.4 
+
+2.6 
+
+1.8 
+2.2 
+2.1 
+
+-0.1 
+0.8 
+3.9 
+1.8 
+10.7 
+
+3.7 
+
+3.0 
+1.8 
+4.1 
+9.2 
+6.6 
+3.0 
+-8.8 
+8.6 
+
+1.9 
+
+2.1 
+
+2.6 
+-15.7 
+
+1.9 
+
+7.9 
+
+3.5 
+4.0 
+3.2 
+
+7.0 
+
+Mar.
+1994
+
+2.9
+
+1.0
+
+1.3
+3.6
+-0.4
+1.1
+2.1
+2.7
+1.6
+-7.9
+
+3.8
+
+3.4
+2.7
+3.5
+12.7
+5.4
+4.8
+-4.4
+6.8
+
+0.4
+
+-0.6
+
+2.3
+-9.9
+
+1.0
+
+10.9
+
+3.3
+3.2
+3.4
+
+6.4
+
+78.3 
+
+80.1 
+
+82.8
+
+3.7 
+4.0 
+
+0.1 
+
+1.8 
+1.1 
+
+4.1 
+4.0 
+
+0.1 
+
+1.3 
+0.5 
+
+4.5
+3.9
+
+2.0
+
+1.1
+4.1
+
+1.  Private  industry  workers,  periods  ended  in  March.
+2.  End-of-period value.
+3.  Latest  reported value:  April.
+4.  Data for  1994  are not directly comparable with earlier values
+
+because of  a  redesign of  the CPS  in January 1994.
+5. Michigan  Survey one-year-ahead expectations.
+6. Median adjusted  for average  downward bias of  0.9 percentage
+
+points,  relative to  actual  inflation, since 1978.
+
+7.  BLS  import  price  index  (not  seasonally  adjusted),  periods  ended
+
+in  March.
+
+n.a.  Not  available.
+
+II-45
+
+much  of  1993.  Crude  material  costs  constitute  a relatively small
+
+part  of the value  of  finished  goods,  however,  and  such  cost
+
+increases  usually  do  not  impart  much  thrust  to  finished  goods  prices
+
+in the  absence  of more general  cost  pressures.
+
+Consumer  prices--both  overall  and  excluding food  and  energy
+
+prices--rose  0.3  percent  in  March.  Over  the twelve months  ended  in
+
+March,  the  CPI  was  up  2.5  percent,  while  the  CPI  excluding  food  and
+
+energy  advanced  2.9  percent;  both  of these  increases  were  about
+
+1/2  percentage  point  less  than  over  the  preceding twelve months.
+
+Consumer  food prices  were  little  changed,  on  balance,  in  March.
+
+Prices  of  fruits  and  vegetables--which had  risen  9 percent  during
+
+the  second  half of  1993  but  then  retraced much  of  that  increase  in
+
+January  and  February--moved  up  0.6  percent.  But  other  food items
+
+posted  small  price  increases.  At  the  commodity  level,  spot  and
+
+futures  prices  of  most  farm products have  dropped  substantially
+
+since the  last  Greenbook.  Livestock  prices  have been  depressed by
+
+high levels  of marketings,  and,  with spring  planting  off to  a rapid
+
+start,  futures  prices  for  corn  and  soybeans  have  fallen sharply.
+
+Because  stocks  of  several crops  remain unusually  low, futures  prices
+
+will  likely  remain quite  sensitive to  changes  in weather  over  the
+
+next  few months.  Meanwhile,  a recent  surge  in  the  price  of  raw
+
+coffee  likely will  be  percolating through  to  consumers  in coming
+
+months.
+
+Energy prices  at  the  consumer  level  rose moderately  in March.
+
+The  increase owed  almost  entirely to  a 1.9  percent  rise  in  natural
+
+gas  prices,  while  the  other  major  energy components were  little
+
+changed  on  a seasonally adjusted  basis  in March.  However,  crude  oil
+
+prices  moved up  sharply  in April,  pointing  to  more  sizable increases
+
+in  energy prices  in coming  months.
+
+II-46
+
+PRICES  OF  SELECTED SPOT COMMODITIES
+(Not seasonally adjusted)
+
+Commodity  (units) 
+
+Metals
+
+Current 
+price 
+($) 
+
+Percent change 
+during week ended
+
+Apr 26 
+
+May  3 
+
+May 10 
+
+Percent change  from
+
+March 
+151 
+
+1 year
+ago
+
+------------------Industrial materials------------------
+
+Copper  (lb.) 
+Steel  scrap  (ton) 
+Aluminum, London  (lb.) 
+Lead  (lb.) 
+Zinc  (lb.) 
+Tin  (lb.) 
+
+1.010 
+128.500 
+.592 
+.345 
+.460 
+3.676 
+
+3.3 
+.0 
+-.6 
+.0 
+-3.3 
+-.3 
+
+3.2 
+-1.8 
+2.1 
+.0 
+4.0 
+1.2 
+
+4.1 
+-4.8 
+1.0 
+
+.0 
+1.7 
+.4 
+
+5.2 
+-7.9 
+2.6 
+.0 
+4.2 
+2.7 
+
+6.8 
+.0 
+
+16.1
+20.7
+15.4
+3.0
+-6.9
+-2.1
+
+38.2
+12.2
+
+6.7
+
+17.6
+
+.780 
+.275 
+
+-1.2 
+.0 
+
+5.3 
+.0 
+
+-3.8 
+.0 
+
+.875 
+.515 
+
+1.2 
+.0 
+
+.0 
+.5 
+
+1.7 
+1.0 
+
+10.8 
+5.1 
+
+--------------------
+
+Other  commodities---------------------
+
+380.150 
+5.340 
+393.750 
+
+.3 
+.4 
+2.3 
+
+370.000 
+322.000 
+
+-10.9 
+-.7 
+
+16.300 
+.499 
+.482 
+
+69.000 
+43.500 
+.620 
+
+2.485 
+3.573 
+6.585 
+
+6.9 
+4.5 
+1.0 
+
+-.7 
+-2.3 
+.4 
+
+.8 
+
+1.8 
+1.7 
+
+.2 
+1.2 
+1.0 
+
+7.0 
+4.1 
+
+-1.2 
+-2.6 
+-. 6 
+
+-3.0 
+-3.5 
+-. 7 
+
+.8 
+
+4.3 
+-1.1 
+
+1.3 
+1.9 
+-1.4 
+
+-1.8 
+-1.7 
+-2.4 
+
+21.3 
+5.9 
+
+-10.8 
+7.3 
+
+1.6 
+1.4 
+1.8 
+
+-4.2 
+4.8 
+10.5 
+
+-3.5 
+-1.9 
+
+.0 
+
+14.0 
+10.8 
+.3 
+
+-8.6 
+-4.4 
+10.9 
+
+-9.5 
+1.5 
+-3.6 
+
+7.0
+24.8
+3.8
+
+33.1
+3.9
+
+-13.5
+-18.0
+-13.7
+
+-15.9
+-5.4
+1.2
+
+12.2
+3.0
+11.0
+
+1.035 
+
+3.3 
+
+11.4 
+
+17.6 
+
+39.9 
+
+102.9
+
+Textiles  and fibers:
+
+Cotton  (lb.) 
+Burlap  (yd.) 
+
+Miscellaneous  materials:
+
+Hides  (lb.) 
+Rubber  (lb.) 
+
+Precious metals:
+Gold  (oz.) 
+Silver  (oz.) 
+Platinum  (oz.) 
+
+Forest products:
+
+Lumber  (m. bdft.) 
+Plywood  (m. sqft.) 
+
+Petroleum:
+
+Crude oil  (barrel) 
+Gasoline  (gal.) 
+Fuel oil  (gal.) 
+
+Livestock:
+
+Steers  (cwt.) 
+Hogs  (cwt.) 
+Broilers  (lb.) 
+
+U.S. farm crops:
+Corn  (bu.) 
+Wheat  (bu.) 
+Soybeans  (bu.) 
+
+Other foodstuffs:
+Coffee  (lb.) 
+
+1.  Week  of  the March Greenbook.
+
+II-47
+
+Excluding  food  and  energy,  the  CPI  increased  0.3  percent  in
+
+March  after  a similar  rise  in  February.  Prices  of  new motor
+
+vehicles  were  up  0.5  percent,  about  the  same  as  in  February,
+
+reflecting  strong demand  in  that  industry  as  well  as  an expensive
+
+yen. 
+
+However,  prices  of  many  other  durable  goods  declined in
+
+March.  Among  nondurable  goods,  apparel  prices  increased  0.5  percent
+
+in March  after  declining  about the  same  amount  over  the previous  two
+
+months.  The  slower-than-normal  introduction  of  spring merchandise
+
+likely  caused  seasonal  adjustment  problems  during the  first  quarter,
+
+exaggerating the  size  of  the  January  and  February  declines  and  the
+
+March  increase.  The  prices  of non-energy services  rose  0.4 percent
+
+in March;  shelter  costs  were  up  the  same  amount.  The  volatile
+
+airfares  category moved  up  1.4  percent  in March, but  auto  finance
+
+costs were  unchanged  after  rising sharply  in February.
+
+INFLATION EXPECTATIONS
+(Michigan survey  of consumers)
+
+Expected  annual  rate  of  inflation during  the . . .
+
+Next  twelve months 
+
+Next  five  to  ten years
+
+Mean 
+
+Median 
+
+Mean 
+
+Median
+
+1993:  Dec 
+
+1994:  Jan 
+Feb 
+Mar 
+
+Apr 
+
+3.8 
+
+3.5 
+3.7 
+4.4 
+
+4.5 
+
+3.2 
+
+2.9 
+2.8 
+3.0 
+
+3.0 
+
+4.8 
+
+4.8 
+4.7 
+5.4 
+
+5.0 
+
+3.8
+
+3.2
+3.2
+3.6
+
+3.2
+
+Surveys of  consumer  price  expectations  have  given  mixed  signals
+
+over the past  two  months.  The Michigan  survey  showed  average
+
+expectations  of  inflation  for  the next  twelve months  rising to
+
+almost  4-1/2 percent  in March  and April.  In  addition,  this  survey's
+
+measure  of  inflation expectations  over  the next  five  to ten years
+
+8. In May, the  Big  Three  firms  announced  additional  price
+
+increases  on  selected vehicles,  mainly  light  trucks,  ranging  from
+$100  to  $330.
+
+II-48
+
+SPOT PRICES OF  SELECTED COMMODITIES 1
+
+-----------
+
+Percent  change 2 ------
+
+Last 
+observ- 
+ation 
+
+1992 
+
+Dec  93  Mar  153 
+
+to 
+to 
+1993  Mar  15 3  date 
+
+1.  PPI  for  crude materials 4  
+
+Mar 
+
+3.3 
+
+-0.5 
+
+Mar 
+Mar 
+Excluding  food and energy  Mar 
+
+la.  Foods  and  feeds 
+1b.  Energy 
+1c. 
+1d.  Excluding  food  and energy,
+seasonally adjusted 
+
+3.0 
+2.3 
+5.7 
+
+6.6 
+-13.7 
+
+11.6 
+
+Mar 
+
+6.1 
+
+11.6 
+
+2.  Commodity  Research Bureau
+
+2a.  Futures prices 
+2b. 
+
+Industrial  spot prices 
+
+May 10 
+May 10 
+
+3.  Journal  of  Commerce industrials  May  10 
+May 10 
+
+3a.  Metals 
+
+-2.9 
+-0.7 
+
+5.0 
+1.9 
+
+11.6 
+-0.0 
+
+-4.0 
+-2.6 
+
+4.  Dow-Jones  Spot 
+
+May  10 
+
+10.4 
+
+5.1 
+
+5.  IMP  commodity  index 4  
+
+5a.  Metals 
+5b.  Nonfood agricultural 
+
+Mar 
+Mar 
+Mar 
+
+6.  Economist  (U.S. dollar index) 
+
+6a.  Industrials 
+
+May  03 
+May  03 
+
+-2.6 
+-3.1 
+2.4 
+
+1.6 
+4.5 
+
+2.4 
+-14.4 
+0.2 
+
+9.1 
+4.4 
+
+4.4 
+
+2.2 
+6.1 
+5.9 
+
+4.4 
+
+1.7 
+5.1 
+
+3.5 
+3.7 
+
+4.1 
+
+2.9 
+4.4 
+6.5 
+
+5.3 
+8.7 
+
+n.a. 
+
+n.a. 
+n.a. 
+n.a. 
+
+n.a. 
+
+-1.9 
+2.6 
+
+3.1 
+0.1 
+
+2.1 
+
+n.a. 
+n.a. 
+n.a. 
+
+-0.3 
+-5.0 
+
+Memo
+
+Year
+earlier
+to  date
+
+2.1
+
+5.3
+-5.9
+10.9
+
+10.9
+
+8.1
+10.8
+
+3.8
+4.2
+
+13.2
+
+6.4
+-4.8
+5.2
+
+12.9
+8.5
+
+1.  Not  seasonally adjusted.
+2.  Change  is measured to end of period, from last observation of previous period.
+3. 
+4.  Monthly  observations.  IMF  index includes  items  not shown separately.
+
+Week of  the March Greenbook.
+
+n.a. Not  available.
+
+Index Weights
+
+Energy 
+O 
+
+Food  Commodities 
+0 
+
+Precious Metals 
+E0
+
+Others1
+
+PPI for crude materials
+
+CRB  futures
+
+CRB  industrials
+
+Journal of  Commerce  index
+
+14 
+
+12 
+
+Dow-Jones
+
+IMF index
+
+Economist
+
+41 
+
+4t 
+
+1 
+
+I8
+
+57 
+
+14 
+
+14
+
+t100o
+
+88
+
+58 
+
+17 
+
+25
+
+5545
+
+50
+
+i.  Forest products,  industria  metals, and other induia  maerial.
+
+II-49
+
+stood  at  5 percent  in  April.  1/4  point  above  its  level  in  January
+
+and  February.  However,  the  median  of  expectations  from the  Michigan
+
+survey--which  is  considerably  less  volatile  than  the  mean--was
+
+little  changed  over  this  period,  both  for  the  one-year  and  for  the
+
+five-  to  ten-year  expectations.  Finally,  in the  Conference  Board
+
+survey,  expectations  for  prices  over  the  next  year  held  about
+
+unchanged  at  4-1/4  percent  in  March  and  April.
+
+The  PPI  for  finished  goods  rose  0.2  percent  in March.  Energy
+
+prices  were  unchanged  after  their weather-related  jump  in  February,
+
+but  food  prices were  up  notably  after  declining  in  the  preceding two
+
+months.  Excluding  food  and  energy items,  the  PPI  also  increased
+
+0.2  percent  in March.  Capital  equipment  prices  posted the  largest
+
+increases:  the  prices  of  heavy trucks  jumped more than 2 percent
+
+after  posting  no  increase  in  February.  Over the  twelve months  ended
+
+in  March,  the  overall  PPI  increased  only  0.2  percent, while  the  PPI
+
+excluding  food  and  energy was  up  0.4  percent.
+
+Spot  prices  of  industrial  commodities have  increased  further,
+
+on  balance,  in the  period  since the  last  Greenbook.  Among the
+
+metals,  steel  scrap  prices  have turned  down  since mid-March, but
+
+prices  of most  other  industrial  metals  have moved  up.  In  addition,
+
+prices  of other  industrial materials,  such  as  cotton  and hides,  have
+
+increased  notably.  Indexes  of industrial  commodity  prices hesitated
+
+a bit  in  early April  but  have  since  resumed  their  upward trends.
+
+The  Journal  of  Commerce index has moved  up  another  3 percent,  on
+
+net,  since  the  last  Greenbook, and  the  Knight-Ridder  CRB  spot  price
+
+index has  increased by  roughly the  same  amount.  Precious  metals
+
+prices  declined moderately  from mid-March to  mid-April but  have
+
+since  turned up.
+
+II-50
+
+COMMODITY  PRICE  MEASURES  *
+
+-
+-
+
+-
+
+Journal of Commerce  Index, total
+Journal of Commerce  Index,  metals
+
+Ratio scale, index
+(1980=100) 
+
+,,
+
+CRB  Spot Industrials
+
+Ratio scale, index
+(1967.100)
+
+Metals
+
+Apr 
+
+May
+
+1994
+
+CRB Futures
+
+Ratio scale,  index
+(1967-100)
+
+CRB  Futures
+
+*Weekly  data,  Tuesdays; Journal of  Commerce  data  monthly before  1985
+
+Dashed  lines indicate week at
+
+last Greenbook
+
+DOMESTIC  FINANCIAL
+DEVELOPMENTS
+
+III-T-1
+
+SELECTED  FINANCIAL  MARKET QUOTATIONS
+(Percent except  as  noted)
+
+___I
+
+1993 
+
+1994 
+
+Change  to  May  10.  1994
+
+Instrument
+
+SHORT-TERM  RATES
+
+Federal  funds
+
+2
+
+Treasury  bills
+
+3
+
+3-month
+6-month
+1-year
+
+Commercial  paper
+
+1-month
+3-month
+
+Large  negotiable CDs
+
+1-month
+3-month
+6-month
+
+4
+
+Eurodollar  deposits
+
+1-month
+3-month
+
+Mid-Oct 
+lows 
+
+FOMC.* 
+Feb  3 Mar  22  May  10 
+
+From Mid-Oct  From 
+
+lows 
+
+Feb  3 
+
+From  FOMC.*
+Mar  22
+
+Ii
+
+3.07 
+
+3.07 
+
+3.22 
+
+3.75
+
+3.01 
+3.09 
+3.23 
+
+3.13 
+3.27 
+3.52 
+
+3.52 
+3.87 
+4.19 
+
+4.24
+4.76
+5.18
+
+3.13
+3.23
+
+3.16 
+3.25 
+
+3.64 
+3.87 
+
+4.39
+4.73
+
+3.08 
+3.22 
+3.23 
+
+3.11 
+3.25 
+3.41 
+
+3.54 
+3.80 
+4.07 
+
+4.38
+4.69
+5.10
+
+3.06 
+3.25 
+
+3.06 
+3.25 
+
+3.50 
+3.81 
+
+4.38
+4.75
+
+1.23
+1.67
+1.95
+
+1.26
+1.50
+
+1.30
+1 .47
+1.87
+
+1.32
+1.50
+
+.68 
+
+1.11
+1.49
+1.66
+
+1,23
+1.48
+
+1.27
+1.44
+1.69
+
+1.32
+1.50
+
+.53
+
+.72
+.89
+.99
+
+75
+.86
+
+.84
+.89
+1.03
+
+.88
+.94
+
+Bank  prime  rate
+
+6.00 
+
+6.00 
+
+6.00 
+
+6.75
+
+.75
+
+.75 
+
+.75
+
+INTERMEDIATE-  AND LONG-TERM RATES
+
+U.S.  Treasury  (constant maturity)
+
+3-year
+10-year
+30-year
+
+Municipal  revenue
+
+(Bond Buyer)
+
+5
+
+Corporate--A utility,
+
+recently offered
+
+6
+
+Home  mortgages
+
+4.06 
+5.19 
+5.78 
+
+4.60 
+5.81 
+6.31 
+
+5.49 
+6.55 
+6.94 
+
+6.52
+7.33
+7.50
+
+5.41 
+
+5.49 
+
+6.06 
+
+6.58
+
+2.46
+2.14
+1.72
+
+1.17
+
+6.79 
+
+7.35 
+
+7.76 
+
+8.46
+
+1.67
+
+FHLMC  30-yr.  fixed  rate
+FHLMC  1-yr.  adjustable rate
+
+6.74 
+4.14 
+
+6.97
+4.12
+
+7.76 
+4.60 
+
+8.53
+5.25
+
+1.79
+1.11
+
+1.92
+1.52
+1.19
+
+1.09
+
+1 .11
+
+1.56
+1.13
+
+1 .03
+.78
+.56
+
+.52
+
+.70
+
+.77
+.65
+
+Stock exchange  index 
+
+Level 
+
+Date 
+
+Low, 
+FOMC.' 
+Jan.  3  Mar  22 
+
+May  10 
+
+From 
+record 
+high 
+
+From
+1989 
+low 
+
+From FOMC,
+Mar  22
+
+Record  high
+
+1989 
+
+1994 
+
+Percentage change to  May  10
+
+Dow-Jones  Industrial 
+NYSE Composite 
+NASDAQ  (OTC) 
+Wilshire 
+
+3978.36 
+267.71 
+803.93 
+4804.31 
+
+1/31/94  2144.64  3864.85  3656.41 
+246.94 
+2/2/94  154.00 
+3/18/94  378.56 
+725.00 
+2/2/94  2718.59  4705.03  4435.99 
+
+259.91 
+797.30 
+
+-8.09 
+-7.76 
+-9.82 
+-7.67 
+
+70.49 
+60.35 
+91.52 
+63.17 
+
+-5.39
+-4.99
+-9.07
+-5.72
+
+1. One-day  quotes  except  as  noted.
+2. Average  for  two-week  reserve maintenance
+period  closest  to  date  shown.  Last observation
+is  average  to  date  for  maintenance  period  ending
+May  11,  1994.
+
+3. Secondary market.
+
+*  Rates  are as  of the  close  on  March  21.  1994.
+
+4. Bid  rates  for  Eurodollar
+
+deposits  at  11  a.m. London  time.
+
+5. Most  recent  observation  based  on
+
+one-day Thursday quote  and  futures
+market  index  changes.
+
+6. Quotes  for week ending  Friday
+
+previous to  date shown.
+
+Selected  Interest  Rates*
+(percent)
+
+FOMC
+3/22
+
+3-month  T-Bill 
+
+* 
+
+*. 
+
+*
+
+"
+
+.
+
+I 
+
+I 
+'l 
+3/18  3/25  4/1
+
+I 
+
+Federal  Funds
+
+I
+
+I 
+--  1  -- 
+4/15
+
+--  1  --  1
+54
+
+4/22  4/29 
+
+4/8 
+
+1994
+
+Weekly/Daily
+
+*Statement weeks are plotted through  May  4; Friday weeks through
+May 6,  1994.
+
+3/18  3/25  4/1
+
+418  4/15  4/22  4/29  54
+
+1994
+
+DOMESTIC  FINANCIAL  DEVELOPMENTS
+
+Against  a  backdrop  of  two  additional  quarter-point  increases  in
+
+the  federal  funds  rate,  release  of  data  interpreted  as  showing
+
+considerable  strength  in  the  economy,  and  weakness  in  the  foreign
+
+exchange value  of  the  dollar, market  interest  rates  rose  across  the
+
+maturity  spectrum  during the  intermeeting period.  Money market
+
+rates  are  up  75  to  100  basis  points.  Major  commercial  banks
+
+followed  the  System  tightening  actions  with  hikes  in  the  prime  rate,
+
+first  of  25  and  then of  50  basis  points,  bringing the  rate  to
+
+6-3/4  percent  and  restoring  the  previous wide  difference between  the
+
+prime  rate  and  overnight  funding  costs.
+
+Longer-term  interest  rates  are  up  50  to  100  basis  points  since
+
+the  last  FOMC meeting, with the  sharpest  gains  occurring at
+
+intermediate maturities.  Since  the  first  move  toward  restraint,
+
+announced  on  February  4,  the  yield on  the  three-year Treasury note
+
+has  risen  2  percentage  points,  while that  on  the  thirty-year  bond
+
+has  increased  1-1/4  percentage  points.  Major  equity price  indexes
+
+are  down 5  percent  to  9  percent  since  the  March meeting.
+
+As  mutual  fund  investors  responded  to  the  erosion  of  securities
+
+prices,  net  inflows  to  stock  funds have  shrunk while bond  funds  have
+
+suffered net  redemptions.  At  times,  bond  fund  managers have  sold
+
+securities  in  anticipation  of  redemptions,  thereby  contributing to
+
+rate  pressures,  especially  in the markets  for  junk bonds,  tax-exempt
+
+bonds,  and  mortgage  securities.  Bond  funds  stabilized  in  late
+
+April,  but  renewed market  turbulence  in  early May  may have  caused
+
+further  skittishness  on  the  part  of  bond  investors.  The  weakening
+
+of  stock and  bond  fund  inflows  gave  a  boost  to  M2  as  money moved
+
+into  retail  money market  mutual  funds.  Although  its  deposit
+
+components  were weak, M2  grew moderately  during  the  intermeeting
+
+period,  bringing  it  closer  to the  middle  of  its  1 percent  to
+
+5 percent  growth  cone.  This  relative  strength  showed  through  to  M3,
+
+which was  lifted  above the  bottom of  its  0 percent  to  4 percent
+
+growth  cone.
+
+Gross  public  issuance  of  stocks  and  bonds  by nonfinancial  firms
+
+has  dropped  substantially  in  response  to  deteriorating  market
+
+conditions.  Business  borrowing has  continued to  tilt  toward  bank
+
+and  finance  company  loans  and  shorter-maturity notes.  Higher yields
+
+also  have  contributed to  a marked  slowing  in  gross  bond  issuance  by
+
+state  and  local  governments,  while  a drop  in the  federal  deficit  has
+
+curbed  Treasury borrowing.  In  the  household  sector,  consumer  credit
+
+has  grown  robustly,  boosted  by brisk  sales  of  cars  and mobile  homes.
+
+Data  on home  mortgage borrowing  are  sketchy, but  available
+
+indicators  suggest  some  slackening  of demand  recently.
+
+Mutual  Funds
+
+As  net  asset  values  of  mutual  fund  shares  declined, investors
+
+reduced  their  purchases  of  bond  and  stock funds  in  March  and  April
+
+(table).  This  in turn  exacerbated the  decline  in  securities  prices,
+
+particularly  in market  segments  heavily dependent  on mutual  fund
+
+investment.  Bond  funds  accounted  for  most  of  the  slowdown,
+
+experiencing hefty  net  redemptions  in  each month.  Stock funds,  in
+
+contrast,  had  net  inflows  despite  a substantial decline  in major
+
+share  price  indexes.
+
+Among  stock  funds,  net  sales  of  international  funds  were  down
+
+in  March  and April  from the  pace  of  recent  quarters.  Press  reports
+
+attributed much  of the  slowdown to  funds that  invest  in  the  emerging
+
+markets  of  the  Pacific  Rim and Latin America,  areas  that  suffered
+
+major  market  corrections.  Net  sales  of  domestic  equity  funds were
+
+little  changed  from the  pace  of  recent  quarters,  reportedly  on  the
+
+strength  of  inflows  from  IRA  investors.
+
+III-3
+
+GNMA  funds--which began  to  experience  outflows  last  fall--
+
+posted  the  largest  net  outflows  in March  and  April.  Redemptions  of
+
+shares  from high-yield bond  funds  led  to  a liquidity shortfall  for
+
+some  funds,  forcing  them to  sell  junk bonds;  with this  additional
+
+pressure  on the  market,  spreads  on junk  bonds have  widened  40  to
+
+50  basis  points  since  the  beginning  of April.  Outflows  from tax-
+
+exempt  bond  funds  over  the  March-April  period  exerted  upward
+
+pressure  on municipal  yields,  but  this  pressure  appears  to  have  been
+
+offset  recently by  a step-up  in  individuals'  direct  purchases  in  the
+
+market.
+
+NET  SALES  AND EXCHANGES  OF MUTUAL  FUNDS  CLASSIFIED  BY TYPE
+(Billions of dollars,  monthly  rate)
+
+1993 
+
+1994 
+
+Memo:
+Levels  in
+
+01 
+
+02 
+
+03 
+
+Q4 
+
+01 
+
+March  Aprile  Mar.  1994
+
+Total  stock 
+
+International 
+Domestic 
+
+Total  bond 
+
+GNMA 
+High  yield 
+Tax-exempt 
+International 
+Other 
+
+10.7  10.6  10.9  14.7  13.8 
+4.1 
+6.2 
+6.8 
+7.6 
+
+.9 
+9.8 
+
+5.8 
+8.9 
+
+2.2 
+8.4 
+
+8.0 
+1.8 
+6.2 
+
+.7 
+
+.6 
+
+11.8  12.2  12.9 
+.4 
+.3 
+3.9 
+1.2 
+7.1 
+
+1.2 
+4.5 
+-. 3 
+5.7 
+
+.3 
+6.1 
+
+1.1 
+4.1 
+
+9.5 
+-.9  -1.6 
+0.0 
+1.1 
+1.0 
+2.7 
+
+3.8  -5.2 
+-2.7 
+-1.6 
+-1.4 
+-. 4 
+
+.7 
+5.9 
+
+.4 
+4.0 
+
+.9 
+
+9.9 
+3.1 
+6.8 
+
+-4.2 
+-2.0 
+-. 6 
+.1 
+-. 7 
+-1.0 
+
+766.2
+130.7
+635.5
+
+734.9
+66.0
+47.1
+241.4
+38.1
+342.3
+
+e Estimated
+Source:  Investment  Company  Institute
+
+Money  and  Bank  Credit
+
+In  April,  M2  grew  at  a 3 percent  annual  rate,  down  somewhat
+
+from the  5-1/4  percent  pace  recorded  in March,  placing this
+
+aggregate  near  the midpoint of its  growth cone.  MI  contracted  in
+
+April, with  NOW accounts  falling  at  an  8 percent  annual  rate  after
+
+III-4
+
+growing modestly  the  previous month.  The  weakness  in NOW  accounts
+
+probably  reflected the  slow  adjustment  of  deposit  rates  to  higher
+
+market  interest  rates  and  some  contribution  from  lower-than-expected
+
+tax payments.  Rising opportunity  costs  and  the  fall-off  of mortgage
+
+refinancing  activity  contributed to  a decline  in  demand deposits  in
+
+April.  Currency  growth  slowed noticeably in April,  to  9 percent
+
+from its  double-digit pace  of recent  months.
+
+The non-M1  part  of  M2  grew  at  a 5 percent  annual  rate  in April,
+
+principally  on the  strength of  retail money market mutual  funds  as
+
+many  investors  shied  away  from longer-term mutual  funds.  Savings
+
+and  MMDAs,  held  down by  sluggish  upward  adjustment  in deposit  rates
+
+and  the slowdown  in mortgage  refinancings,  posted  a small  runoff  in
+
+April.  Small  time  deposits  declined  at  only  a 2 percent  annual  rate
+
+in April,  compared with  rates  of decline  of  5 percent  in March  and
+
+8 percent  for  the first  quarter  as  a whole.  The  slower  runoffs  in
+
+this  component  reflected the  faster  adjustment  of  rates  on  retail
+
+CDs,  compared  with  rates  on  liquid  deposits,  to  increases  in  market
+
+rates.  In  addition, the  diminished  appeal  of  bond  and  stock  funds
+
+lent  some  support to  small  time deposits.  M2  plus  bond  and  stock
+
+mutual  funds was  about  flat  over  the  March-April  period,  reflecting
+
+capital  losses  on  the  mutual  fund  portion.
+
+The  growth of M2  carried  over  to M3,  which  expanded  at  a
+
+3 percent  annual  rate  in April  following  a 2-1/2  percent  rate  of
+
+growth  in  March.  Despite  declines  in  large  time  deposits  and
+
+institution-only money  market mutual  funds,  increases  in the  term RP
+
+and  term Eurodollar components  supported the non-M2  part  of M3.
+
+The  rapid  expansion  of bank  credit--10-1/2  percent  in March  and
+
+11  percent  in April--was  largely  attributable  to  exceptional  growth
+
+of  securities holdings.  The  growth  of  other  securities  was
+
+primarily  the  result  of  an accounting  change that  limited  banks'
+
+III-5
+
+MONETARY AGGREGATES
+(Based on  seasonally  adjusted data)
+
+Aggregate or  component 
+
+1993 
+
+1994 
+
+1994 
+
+1993 
+
+Q4 
+
+Q1 
+
+Feb. 
+
+Mar. 
+
+1993:Q4 
+to 
+
+Level
+(bil  $
+
+Apr 
+(pe) 
+
+Apr  94  Mar  94
+
+ipe)
+
+Aggregate 
+
+(Percentage  change  lannual  rate)l
+
+1.  M1
+2.  M2
+3  M3
+
+Selected components
+
+10.5 
+1.3 
+0.5 
+
+9.4
+1.9
+2.2
+
+5.4 
+-1.2 
+-8.0 
+
+4.0
+5.2
+2.5
+
+1142.4
+3581.3
+4209  3
+
+4.  MI-A
+
+11.7 
+
+10.6 
+
+9.6 
+
+10.0
+
+5.  Currency
+6. 
+
+Demand deposits
+
+10.3 
+13.3 
+
+9.0 
+12.1 
+
+11.9 
+7.9 
+
+14.4 
+6.2 
+
+11.7
+-0.9
+
+7. Other checkable  deposits
+
+8.4 
+
+7.3 
+
+-0.3 
+
+-2.6 
+
+2.0 
+
+8.  M2  minus M1
+
+-2.4 
+
+-1.4 
+
+0.1 
+
+-4.2
+
+2 
+
+9 
+-4 
+
+-8 
+
+5 
+
+7% 
+
+730.6
+
+11% 
+4Y 
+
+-1% 
+
+332.4
+390.1
+
+411.8
+
+1% 
+
+2438.9
+
+Overnight  RPs  and Eurodollars,
+
+n.s-a.
+
+General-purpose and broker-
+
+dealer  money market  funds
+
+Commercial  banks
+
+savings  deposits
+Small  time deposits
+
+Thrift  institutions
+Savings  deposits
+Small  time  deposits
+
+9.9 
+
+30.4 
+
+22.4 
+
+-24.4 
+
+-2.1
+-1.0
+4.2
+-8.6
+-6-1
+0.6
+
+-13.8
+
+1.2
+-0.6
+3.6
+-7.4
+-5.3
+-0.4
+-12.0
+
+0.0
+0.7
+4-3
+-5.2
+-4.4
+0.7
+
+-11.1
+
+-14.1
+-0.5
+1.5
+-3.9
+-5.8
+-0.8
+-12.3
+
+74.6
+
+17.1
+-2.2
+-1.4
+-3.6
+
+0.8
+5.6
+-5.4
+
+-20 
+
+17% 
+
+97.4
+
+46 
+-3 
+-4 
+-2 
+0 
+2 
+-4 
+
+10% 
+-i 
+1% 
+
+-4 
+-3 
+
+1% 
+
+-8% 
+
+348.6
+1252.8
+790.2
+462.6
+738.9
+431.9
+307.1
+
+.7. M3  minus M2
+
+-3.6 
+
+3.7 
+
+-10.6 
+
+-44.4 
+
+-12.5
+
+4 
+
+-10% 
+
+628.0
+
+Large time deposits
+
+At  commercial  banks3
+At  thrift  institutions
+
+Institution-only money market
+
+mutual  funds
+Term RPs,  n.s.a.
+Term Eurodollars,  n.s.a.
+
+-6.9
+-6.6
+-8-2
+
+-5.4
+16-9
+-1.3
+
+-1.5 
+-0.6 
+-6.9 
+
+8.8 
+-5.8 
+24.7 
+
+-4.5 
+-3.2 
+-9.5 
+
+-26.8
+-22.8
+-12.9
+
+-20.8
+-24.1
+-5.8
+
+-98.4
+-39.7
+57.1
+
+-10.0
+-9.2
+-15.6
+
+3.4
+19.2
+-49.4
+
+-6M 
+-6 
+-7 
+
+-22% 
+-8 
+
+-% 
+
+332.4
+271.4
+60.9
+
+177.4
+89.1
+44.3
+
+Memo
+
+24.  Managed  liabilities at  com'l.
+
+25. 
+26. 
+27. 
+
+banks  (lines 25  + 26)
+Large  time deposits, gross
+Nondeposit  funds
+
+Net  due to related  foreign
+
+institutions
+
+Other 4
+
+28. 
+29.  U.S.  government  deposits at
+commercial  banks5
+
+Average monthly change  (billions of  dollars) 2
+
+0.1 
+2.1 
+-1.9 
+
+-2.2 
+0.3 
+
+23.2 
+-3.3 
+26.5 
+
+12.7 
+13.8 
+
+13.4 
+-5.1 
+18.5 
+
+20.0 
+-1.4 
+
+34.0
+-6.3
+40.3
+
+21.5
+18.7
+
+-0.3 
+
+0.2 
+
+2.5 
+
+-2.9
+
+37 
+1 
+36 
+
+13 
+22 
+
+10 
+
+.
+.
+.
+
+-
+.
+
+.
+
+.
+.
+.
+
+.
+
+.
+
+.
+
+.
+.
+.
+
+.
+
+.
+
+902.8
+333.7
+569.1
+
+157.8
+411.3
+
+23.1
+
+1. For years,  'percentage change"  is  percentage change  in quarterly  average from  fourth quarter of preceding
+
+year  to  fourth quarter  of  specified year.  For quarters,  it is  the percentage change  in quarterly average  from
+preceding quarter  to specified quarter,  annualized.
+
+2. For years,  "average monthly change"  is  the dollar change  from December  to  December, divided by 12.
+For quarters,  it is the  dollar  change from the  last  month of  the  preceding quarter  to  the  last  month of
+the specified quarter,  divided by 3.
+
+3. Net of  holdings  of  money  market mutual  funds, depository  institutions,  U.S.  government, and foreign banks
+
+and official  institutions.
+
+4. Borrowing  from other  than commercial banks  in the  form of  federal  funds purchased,  securities
+
+sold  under agreements  to repurchase, and other liabilities  for borrowed money  (including borrowing  from the
+Federal  Reserve  and unaffiliated foreign  banks,  loan RPs,  and other minor  items).  Data are partially  estimated.
+
+5. Treasury  demand deposits  and note  balances at  commercial  banks.
+
+III-6
+
+ability  to  net  off-balance-sheet  items,  such  as  swaps,  options,  and
+
+futures,  when  reporting the  fair  value  of  these  contracts  on  the
+
+balance  sheet.  This  change  accounted for  virtually  all  of the
+
+$25  billion  increase  in  other  securities  since  the  beginning  of  the
+
+year  and  accounted  for  about  2 percentage points  of  total  bank
+
+credit  growth  in  both March  and April. 1  During March  and April,
+
+growth  of  U.S.  government  securities  averaged more  than  20  percent
+
+at  an annual  rate.  According to  the May  Senior  Loan Officer  Survey
+
+and  informal  contacts  with bankers,  some banks view intermediate
+
+Treasuries  as  good  buys  that  offer  a sizable  margin over  the  cost  of
+
+short-term  borrowed  funds.
+
+Loan  growth in March  and April  was  led  by the  business  and
+
+consumer  categories.  Business  loan  growth was  boosted  significantly
+
+by  the  Paramount-VIACOM merger.  In  addition, according to  the  May
+
+Senior  Loan Officer  Survey,  business  loans,  which  resumed  growing
+
+this  year,  have  been  strong because  of  a pickup  in  external
+
+financing needs.  Moreover,  as  long  rates  have  risen  and  share
+
+prices  have  fallen,  some  companies may  have  substituted bank credit
+
+for  bond  and  equity  funding.  The  survey  also  indicated a continued
+
+easing  of terms  and  standards  on  business  loans  for  all  sizes  of
+
+firms.
+
+Consumer  lending was  robust  in  March  and April.  Banks  noted
+
+the  increase  in demand  for  consumer  loans while  also  reporting
+
+increased willingness  to  extend  such  credit.  Real  estate  loans,
+
+which  have  been quite  weak since  the  beginning  of the  year,
+
+accelerated  only  slightly  in April.  Given the  rise  in  mortgage
+
+rates  in  the  first  quarter,  some  slowdown from  the  exceptionally
+
+1. This  accounting  change,  FASB  Interpretation No.  39,  was  to  be
+
+adopted  by  all  banks  for  their  Call  Reports  on March  31,  1994.
+Since  the  first  of  the year, banks  have implemented  the  change  at
+different times,  thereby boosting  growth  in  each month  through
+April.
+
+I-7
+
+COMMERCIAL  BANK  CREDIT  AND  SHORT-  AND  INTERMEDIATE-TERM  BUSINESS  CREDIT1
+(Percentage  change  at  annual  rate,  based  on  seasonally  adjusted  data)
+
+Type  of  credit 
+
+Dec. 
+
+1992 
+to  Dec. 
+1993 
+
+1993 
+Q4 
+
+1994 
+Q1 
+
+1994 
+Feb. 
+
+1994 
+Mar. 
+
+1994 
+Apr.  p 
+
+Level,
+Apr.
+1994  p
+($billions)
+
+Commercial bank  credit
+
+1. Total  loans  and securities
+
+2.  Securities
+
+3. 
+
+U.S. government
+
+4. 
+
+Other
+
+5.  Loans
+
+6. 
+
+Business
+
+7. 
+
+Real estate
+
+8. 
+
+Consumer
+
+9. 
+
+Security
+
+10. 
+
+Other
+
+5.2
+
+8.5
+
+9.6
+
+4.4
+
+4.0
+
+4.1
+
+2.8
+
+3.7
+
+-. 7
+
+4.7
+
+-1.8
+
+-2.0
+
+4.5
+
+9.0
+
+7.8
+
+11.3
+
+7.9
+
+17.2
+
+11.6
+
+39.3
+
+4.0
+
+8.3
+
+-. 1
+
+10.6
+
+35.1
+
+25.3
+
+-18.3
+
+-. 6
+
+-10.8
+
+7.7
+
+5.5
+
+6.9
+
+0.0
+
+33.0
+
+4.9
+
+4.7
+
+10.5
+
+25.7
+
+25.2
+
+27.3
+
+4.1
+
+9.5
+
+11.1
+
+3,195.1
+
+23.0
+
+18.8
+
+38.6
+
+968.2
+
+759.4
+
+208.8
+
+6.1
+
+2,226.9
+
+12.9
+
+602.1
+
+-1.5
+
+-. 3
+
+2.8
+
+10.1
+
+19.3
+
+19.8
+
+12.7
+
+16.1
+
+-14.0
+
+17.9
+
+-72.0
+
+942.9
+
+407.3
+
+78.3
+
+9.9
+
+196.3
+
+Short-  and  intermediate-term  business  credit
+
+11.  Business  loans net of bankers
+
+-2.0
+
+-1.7
+
+9.9 
+
+10.6
+
+592.3
+
+acceptances
+
+12.  Loans at  foreign branches2
+
+-12.1
+
+1.9
+
+-7.4
+
+-44.4
+
+13.  Sum of  lines  11  and 12
+
+-2.5
+
+-1.6
+
+7.8
+
+3.4
+
+28.8
+
+10.3
+
+45.1
+
+11.8
+
+22.1
+
+614.4
+
+14.  Commercial paper  issued by
+
+4.4
+
+-8.2
+
+-12.2
+
+-10.6
+
+-29.8
+
+-11.0
+
+151.5
+
+nonfinancial  firms
+
+15.  Sum of  lines  13  and  14
+
+-1.1
+
+-3.0
+
+16. Bankers acceptances, U.S.
+
+-12.2
+
+-22.5
+
+trade-related3,4
+
+17.  Loans at  finance  companies 4
+
+-.5
+
+.1
+
+18.  Total  (sum of  lines  15,  16,
+
+-1.2
+
+-2.5
+
+and 17)
+
+3.6
+
+17.9
+
+9.3
+
+5.5
+
+.5
+
+23.6
+
+2.1
+
+17.4
+
+7.1
+
+765.8
+
+n.a.
+
+21.0
+
+5
+
+5
+
+9.4 
+
+18.3
+
+n.a.
+
+312,9
+
+3.3 
+
+6.9
+
+n.a.
+
+1,095.2 5
+
+1.  Except  as  noted,  levels  are  averages  of  Wednesday  data  and percentage  changes  are  based  on aver-
+ages  of Wednesday  data;  data  are adjusted  for breaks  caused by  reclassification;  changes  are measured
+from  preceding  period  to  period  indicated.
+
+2.  Loans  to  U.S.  firms  made  by  foreign  branches  of  dcmestically  chartered  banks.
+3.  Acceptances  that  finance  U.S. 
+
+imports,  U.S.  exports,  and  domestic  shipment and  storage  of
+
+goods.
+
+4.  Changes  are  based  on  averages  of  month-end  data.
+5. March  1994.
+p  Preliminary.
+n.a.  Not  available.
+
+Note:  Data  have  been  benchmarked  to  the  December  1993  Call  Report.
+
+strong  fourth-quarter  growth would  have  been  expected.  Senior bank
+
+loan  officers  attributed  some  of  the  deceleration  to  the  slowdown  in
+
+mortgage  refinancing, as  the  refinanced  loans  originated  late  last
+
+year  moved  to mortgage  pools.
+
+Business  Finance
+
+With yields  on corporate  bonds  up  70  basis  points  since  the
+
+last  FOMC meeting,  the  opportunities  to  refinance  outstanding debt
+
+have  diminished  further.  As  a result,  gross  issuance  of  public
+
+bonds  by nonfinancial  corporations  dropped to  an estimated
+
+$6-3/4  billion  in April,  compared with the  $11  billion monthly
+
+average  in  the  first  quarter  of  1994.  Very  little  of the  recent
+
+issuance has  been in maturities  of thirty years  or  longer,  and  some
+
+bonds  were  issued  with put  features  designed  to  address  investor
+
+concerns  about  further  increases  in  yields.  The  volume  of floating-
+
+rate  offerings  by  nonfinancial  corporations  picked up  in  the past
+
+two  months,  as  spreads  on  these  instruments tightened.  In  contrast,
+
+spreads  on  fixed  rate  bonds  widened  a bit  in the  investment-grade
+
+sector  and  quite  sharply  in  the  speculative-grade  sector.
+
+Several  junk bond  offerings  were postponed  because  of  adverse
+
+market  conditions.  Market  reports  suggested that  the  private
+
+placement  market  was  an  alternative  for  some  high-yield  issuers,  as
+
+the  improved  financial  condition  of  life  insurance companies  made
+
+them more  willing to  invest  in  this  sector.
+
+Rising  interest  rates  have  been a major  factor  in the  decline
+
+of  stock prices  generally since  the  last  FOMC meeting.  But not
+
+surprisingly,  some  "interest-sensitive" industrial  groups  have  been
+
+especially  hard  hit.  The  Dow Jones  utility  average  has  now  fallen
+
+more than  20  percent  since the  beginning  of  the  year.  Stock prices
+
+of  securities  firms  also  are  sharply  lower,  partly  reflecting
+
+expectations  of  a loss  in  profits  with the  prospective  end  of  the
+
+III-9
+
+GROSS  OFFERINGS  OF  SECURITIES BY  U.S.  CORPORATIONS 1
+(Billions of  dollars;  monthly  rates;  not  seasonally adjusted)
+
+--1993-- 
+
+-------  1994---------------
+
+1992 
+
+1993 
+
+Q4 
+
+Q1p 
+
+Feb.p 
+
+Mar.p 
+
+Apr.p
+
+All  U.S.  corporations 
+
+Bonds 
+Stocks 
+
+40.73 
+33.80 
+6.93 
+
+53.23 
+43.85 
+9.38 
+
+51.68 
+40.87 
+10.81 
+
+53.36 
+44.89 
+8.47 
+
+48.26 
+39.52 
+8.74 
+
+54.11 
+43.54 
+10.57 
+
+31.31
+25.80
+5.51
+
+Nonfinancial  corporations
+Bonds 
+
+Sold  in U.S. 
+Utility 
+Industrial 
+
+Sold  abroad 
+
+13.67 
+12.83 
+5.33 
+7.50 
+0.84 
+
+16.20 
+15.56 
+7.34 
+8.22 
+0.64 
+
+12.41 
+12.10 
+5.15 
+6.96 
+0.31 
+
+11.11 
+10.60 
+4.64 
+5.97 
+0.51 
+
+10.27 
+10.00 
+4.10 
+5.90 
+0.27 
+
+By  quality 2
+
+Aaa and  Aa 
+A and Baa 
+Less  than Baa 
+Unrated  or  rating unknown 
+
+Stocks 
+
+Utility 
+Industrial 
+
+2.18 
+7.74 
+2.86 
+0.09 
+
+4.42 
+0.87 
+3.55 
+
+2.56 
+8.71 
+4.17 
+0.09 
+
+5.22 
+1.06 
+4.16 
+
+1.78 
+5.78 
+4.45 
+0.10 
+
+6.08 
+1.60 
+4.48 
+
+0.80 
+5.89 
+3.91 
+0.00 
+
+4.62 
+0.95 
+3.67 
+
+0.62 
+4.95 
+4.43 
+0.00 
+
+4.68 
+1.03 
+3.65 
+
+9.81 
+9.50 
+4,45 
+5.05 
+0.31 
+
+1.03 
+6.15 
+2.32 
+0.00 
+
+5.90 
+1.46 
+4.44 
+
+6.77
+6.00
+2.50
+3.50
+0.77
+
+0.84
+3.42
+1.75
+0.00
+
+3.63
+0.18
+3.45
+
+Financial  corporations
+Bonds 
+
+Sold  in  U.S. 
+Sold  abroad 
+By  quality 2
+
+Aaa and  Aa 
+A and  Baa 
+Less  than Baa 
+Unrated  or  rating  unknown 
+
+Stocks 
+
+20.13 
+18.67 
+1.46 
+
+27.65 
+25.09 
+2.56 
+
+28.46 
+26.02 
+2.44 
+
+33.78 
+29.19 
+4.59 
+
+29.25 
+22.20 
+7.05 
+
+33.73 
+31.50 
+2.23 
+
+19.03
+17.00
+2.03
+
+1.55 
+6.77 
+0.31 
+0.04 
+2.51 
+
+1.87 
+8.99 
+0.48 
+0.08 
+4.16 
+
+1.57 
+8.78 
+0.66 
+0.13 
+4.73 
+
+3.27 
+11.29 
+0.64 
+0.02 
+3.85 
+
+1.31 
+8.93 
+0.94 
+0.06 
+4.06 
+
+3.46 
+9.37 
+0.58 
+0.00 
+4.67 
+
+4.22
+2.61
+0.12
+0.17
+1.88
+
+1.  Securities  issued  in  the private placement market  are not  included.  Totals
+
+reflect  gross  proceeds  rather  than  par  value of  original  discount bonds.  Equity
+issues  associated with equity-for-equity  swaps  that  have occurred  in  restructurings
+are  excluded.
+
+2.  Bonds  categorized  according to  Moody's bond  ratings,  or  to  Standard  and  Poor's
+
+if unrated by Moody's.  Excludes  mortgage-backed and  asset-backed  bonds.
+
+p 
+
+Preliminary.
+
+III-10
+
+underwriting  boom.  Evidence  of  reduced  trading profits  helped  push
+
+prices  of  money  center  banks  down  in  recent  weeks.  In  early  April,
+
+prices  of  regional bank  stocks  rallied  strongly on  speculation  about
+
+potential mergers  under prospective  interstate  branching
+
+legislation,  but  then  they  fell  back a bit.
+
+Gross  equity  issuance  by nonfinancial  corporations  fell  to  an
+
+estimated  $3.6  billion  in  April  from nearly  $6  billion in  March.
+
+Issuance last  month was  buoyed by RJR Nabisco's  $1.6  billion
+
+offering  of  hybrid preferred  stock  (PERCS) having  a dividend yield
+
+of  9-1/4 percent,  an  offering that  had  been  reworked  to  address
+
+investor  distaste  for  the  tobacco  industry.  Initial  public
+
+offerings  were  off  substantially  in  April  in  response  to  lower  stock
+
+prices  and  increased market  uncertainty.  Because  of a  resurgence  in
+
+mergers  and  acquisitions,  the  first  quarter  of  1994  likely was  the
+
+first  since  1991  in which  net  equity  issuance was  negative.
+
+In the  first  quarter,  Moody's  Investors  Service  upgraded
+
+twenty-seven domestic  nonfinancial  firms  and  downgraded thirty-nine,
+
+reflecting  continued weakness  among  investment-grade industrial
+
+credits.  Several  bank holding  companies  were  upgraded,  and  none
+
+were  downgraded,  leaving Bank of  Boston  Corporation  as  the  only  one
+
+of  the  top  twenty without  at  least  an  A rating.
+
+State  and Local  Finance
+
+Municipal  bond yields,  on  balance,  are  up  about  50  basis  points
+
+since  the  March FOMC  meeting.  This  increase  is  less  than the  rise
+
+in  yields  on  comparable Treasuries,  resulting in a  slight  drop  in
+
+the  ratio  of  tax-exempt  to taxable  yields.
+
+An abatement  of bond  sales  by tax-exempt mutual  funds  has
+
+helped  to  reduce pressures  on  bond  rates  in  recent weeks.  These
+
+funds  continued to  face  sizable  share  redemptions  in April,  but  most
+
+had  raised  enough  cash through  earlier  sales  to  accommodate  the
+
+III-11
+
+outflows  without  further  liquidations.  The  improved  condition of
+
+the  market  also  reflected  increased  direct  purchases  by  individuals.
+
+GROSS  OFFERINGS  OF MUNICIPAL  SECURITIES
+(Billions of  dollars,  monthly  rates,  not  seasonally  adjusted)
+
+1992 
+
+1993 
+
+1993 
+Q4 
+
+1994
+
+Q1 
+
+Feb. 
+
+Mar. 
+
+Apr.p
+
+Total  offerings 1  
+
+21.8 
+
+27.8 
+
+24.4 
+
+18.5 
+
+20.1 
+
+17.3 
+
+11.0
+
+Total  tax-exempt 
+Long-term 
+2 
+
+Refundings 
+New capital 
+
+Short-term 
+
+21.2 
+17.9 
+7.9 
+10.0 
+3.3 
+
+27.1 
+23.3 
+15.7 
+7.6 
+3.8 
+
+23.6 
+21.5 
+13.7 
+7.8 
+2.1 
+
+17.7 
+15.5 
+7.4 
+8.1 
+2.2 
+
+18.8 
+14.7 
+5.9 
+8.8 
+4.1 
+
+16.5 
+15.4 
+5.3 
+10.1 
+1.1 
+
+10.7
+10.1
+2.0
+8.1
+.6
+
+Total  taxable 
+
+.6 
+
+.7 
+
+.8 
+
+.8 
+
+1.3 
+
+.8 
+
+.3
+
+1.  Includes  issues  for  public  and  private  purposes.
+2.  Includes  all  refunding bonds,  not  just  advance  refundings.
+p = Preliminary.
+
+Last  year,  individuals  generally preferred  to  invest  through mutual
+
+funds  and  ran  off  their direct holdings  of  municipal  securities.
+
+Mutual  funds  provided  a convenient  means  of reinvesting interest  and
+
+any  principal  payments,  and  they were the  preferred approach  for
+
+first-time  investors.  With the  decline  in  net  asset values  of tax-
+
+exempt  mutual  funds  this  year, many  individuals,  who  tend  to  be buy-
+
+and-hold  investors,  saw  direct purchases  as  the  more  attractive
+
+alternative.
+
+The  net  rise  in  bond  rates  significantly  slowed the  gross
+
+issuance  of tax-exempt  securities.  In  April,  the  volume  of new
+
+long-term  offerings  fell  to  an estimated  $10  billion, the  lowest
+
+monthly  total  since  October  1990.  Through the  first  four  months  of
+
+this  year,  gross  issuance was down nearly 35  percent  from that  in
+
+the  same  period  in  1993.  Refunding volume was  a paltry  $2 billion
+
+III-12
+
+last  month.  Offerings to  raise  new  capital  declined to  $8  billion
+
+in  April,  from  $10  billion  in March,  as  several  prospective
+
+borrowers  chose  to  postpone  issues  in  light  of  the  backup  in
+
+interest  rates.  Even with  the  postponements,  the  thirty-day
+
+calendar  remains  relatively  small.
+
+According  to  Standard  and  Poor's,  the  favorable trend  in  credit
+
+quality  that began  last  year  extended  into  1994.  In  the  first
+
+quarter,  upgrades  outpaced  downgrades  by more  than two  to  one.  No
+
+state  ratings  were changed,  but  ratings  were  raised  on  general
+
+obligation  issues  of numerous  county  and  local  governmental  units  in
+
+response to  improvements  in  their  economies.  Several  housing-
+
+related  issuers  were  upgraded,  reflecting the  better performance  of
+
+their mortgage  portfolios.  Hospital-related issuers,  in  contrast,
+
+posted more  downgrades  than upgrades.  In  early May,  the  opening  of
+
+Denver's  new  international  airport  was  postponed  a fourth  time.  The
+
+delayed  opening  is  costing  about  $1 million  a day  in lost  revenue,
+
+suggesting  that  additional  borrowing will be  required  to  service
+
+outstanding  debt.  As  a result,  Moody's  lowered  its  rating  on  the
+
+$3  billion  of construction bonds  that  have  been  issued to  one  notch
+
+above  junk,  and  Standard  and  Poor's  is  reviewing its  rating.
+
+Federal  Finance
+
+The  seasonal  inflow  of  federal  tax  receipts  is  projected to
+
+result  in  a budget  deficit  of  only  $9 billion  in the  second quarter.
+
+The  staff  anticipates  that  marketable borrowing  will  total
+
+$2-1/2  billion,  as  the  Treasury  runs  off  $27  billion  in  bills  while
+
+raising  $29  billion with  coupon  issues.  Weekly bill offerings were
+
+cut  from  $25.2  billion to  $22.8  billion in April  but  have  since been
+
+increased to  $24  billion.  Sizes  of  coupon  auctions  are  expected to
+
+be  little  changed.  The mid-quarter  refunding,  conducted earlier
+
+this  week,  consisted  of  $17  billion  of  three-year notes  and
+
+III-13
+
+TREASURY  FINANCING1
+(Total for  period;  billions  of  dollars)
+
+Treasury  financing
+
+Total  surplus/deficit  (-) 
+
+-58.6 
+
+-8.8 
+
+13.0 
+
+-40.5 
+
+18.7
+
+QI 
+
+Q2 
+
+Apr.e 
+
+May p  
+
+Jun. p
+
+1994
+
+Means  of financing  deficit:
+
+Net  cash  borrowing
+from the  public 
+
+Marketable  borrowings/
+
+repayments  (-) 
+
+Bills 
+Coupons 
+
+Nonmarketable 
+
+Decrease  in  the  cash
+
+balance 
+
+Memo:  Cash balance
+
+at  end  of  period 
+
+2
+Other 
+
+51.2 
+
+5.3 
+
+-27.0 
+
+23.8 
+
+-3.5
+
+54.0 
+6.8 
+47.2 
+-2.8 
+
+2.5 
+-26.6 
+29.1 
+2.8 
+
+-23.1 
+-15.8 
+-6.9 
+1.1 
+
+24.1 
+-6.9 
+22.0 
+-.3 
+
+1.5
+-3.9
+3.1
+2.0
+
+5.1 
+
+2.4 
+
+-4.1 
+
+31.0 
+
+-24.5
+
+44.6 
+
+42.3 
+
+48.7 
+
+17.7 
+
+42.3
+
+2.2 
+
+1.1 
+
+13.2 
+
+-14.3 
+
+2.3
+
+1. Data  reported  on  a payment  basis,  not  seasonally  adjusted.
+2.  Includes  checks  issued  less  checks  paid,  accrued  items,  and  other
+
+transactions.
+
+p--Projected.
+e--estimated
+
+NOTE:  Details  may not  add  to  totals  because  of  rounding.
+
+FEDERALLY  SPONSORED  CREDIT AGENCIES
+Net  Cash  Borrowing
+(Billions of  dollars)
+
+1993 
+
+Q3 
+
+Q4 
+
+1994 
+Q1 
+
+Jan. 
+
+1994
+Feb. 
+
+Mar.
+
+FHLBs
+FHLMC
+FNMA
+Farm Credit  Banks
+SLMA
+FAMC 2
+
+5.4
+17.1
+19.3
+-0.1
+-0.1
+0.0
+
+8.9
+-2.7
+5.3
+1.5
+1.0
+0.0
+
+3.8
+12.9
+15.3
+-0.7
+
+0.0
+
+-2.3
+11.3
+1.9
+-0.5
+
+0.0
+
+-1.4
+9.2
+3.5
+0.2
+
+0.0
+
+7.5
+-7.6
+9.9
+-0.4
+
+0.0
+
+1. Excludes mortgage  pass-through  securities  issued  by FNMA
+
+and  FHLMC.
+
+2. Federal  Agricultural  Mortgage  Corporation.
+
+III-14
+
+$12  billion  of  ten-year notes;  raising  a little  less  than  $1 billion
+
+in  new  cash.
+
+The  Treasury also  announced that  it  will  continue  to  study its
+
+experiment  with  uniform-price  auctions  of  two-year  and  five-year
+
+notes.  In  the  first  twenty  rounds  of the  experiment, the  markups  of
+
+the  average  issuing  rates  over  the  when-issued  rates  at  the  time  of
+
+the  auction have  been  little  different  from an  earlier  sample  of
+
+discriminating-price  auctions,  indicating  unchanged underwriting
+
+premiums.  However,  a full  examination  of the  success  of this
+
+experiment  in  lowering  Treasury borrowing costs  would  have  to
+
+control  for  other  factors,  including  changes  in  the  relationship
+
+between when-issued  rates  and  other  comparable  rates.
+
+During the  first  quarter,  government-sponsored  agencies
+
+continued to  issue debt  at  a brisk pace.  The  rise  in  interest  rates
+
+raised  concerns  that  short-  and  intermediate-term  rates were  headed
+
+higher  and  inclined  some  agencies  toward  fixed-rate  issues  instead
+
+of  floating-rate  debt.  Spreads  over  Treasuries  on all  issues  have
+
+widened  5 to  20  basis points,  although they  remain low by  historical
+
+standards.
+
+Mortgage  Markets
+
+Interest  rates  on  home  mortgages  have moved  sharply  higher  over
+
+the  intermeeting  period.  The  average  contract  rate  on  conventional
+
+fixed-rate  loans  was  up  about  3/4  percentage  point,  to  8-1/2  percent,
+
+in  the  first  few days  of May.  As  rates  on  fixed-rate  loans moved
+
+higher,  lenders  reported  an  increase  in the  share  of  originations
+
+accounted for  by  adjustable-rate mortgages  (ARMs).  First-year  rates
+
+on  ARMs  rose  about  2/3  percentage  point,  to  5-1/4  percent,  although
+
+the  rate  on benchmark  one-year  Treasury securities  increased  a full
+
+percentage  point.  The  narrowing  of  the ARM-to-Treasury  spread
+
+suggested that  some  portfolio lenders  were  holding first-year  ARM
+
+LLi-iD
+
+Yield  Spread  on  Fannie  Mae  30-Year Mortgage-Backed  Securities  and
+Implied  Volatility of Options  Prices  on Treasury  Bond  Futures
+
+(Daily)
+
+Percent
+
+Basis  Points
+
+Jan. 
+
+Apr. 
+
+Jul. 
+
+Oct. 
+
+Jan. 
+
+Apr.
+
+MORTGAGE-BACKED  SECURITY  ISSUANCE
+
+(Billions  of  dollars,  monthly  averages,  NSA  unless  noted)
+
+Total
+(SA) 
+
+20.1 
+23.7 
+40.1 
+48.8 
+
+42.4 
+54.1 
+59.8 
+55.5 
+
+63.0 
+59.2 
+44.8 
+
+1990 
+1991 
+1992 
+1993 
+
+1993  Q2 
+03 
+Q4 
+1994  Q1 
+
+1994  Jan 
+Feb 
+Mar 
+
+Pass-through securities
+
+Federal agency 
+
+Private
+
+Multiclass  securities
+
+Fixed- 
+
+ARM- 
+rate (SA) backed(SA)  agency' 
+
+Non- 
+
+TNon- 
+
+agency 2  
+
+PNI MA 
+REMICs 
+
+FHLM 
+REMICs 
+
+Agency
+strips
+
+17.3 
+20.2 
+34.7 
+42.5 
+
+37.3 
+46.4 
+53.0 
+47.7 
+
+55.2 
+49.9 
+38.3 
+
+2.2 
+1.9 
+3.2 
+4.6 
+
+4.0 
+5.3 
+5.1 
+6.2 
+
+7.2 
+7.0 
+4.5 
+
+.6 
+1.6 
+2.2 
+1.7 
+
+1.1 
+2.5 
+1.8 
+1.7 
+
+.6 
+2.3 
+2.1 
+
+10.6 
+18.1 
+30.4 
+37.1 
+
+32.9 
+43.7 
+44.5 
+38.4 
+
+28.8 
+39.0 
+47.3 
+
+1.4 
+2.6 
+5.3 
+6.2 
+
+5.1 
+7.1 
+7.0 
+8.4 
+
+8.3 
+9.9 
+7.2 
+
+5.1 
+8.5 
+12.9 
+14.0 
+
+12.3 
+17.2 
+15.9 
+11.0 
+
+6.5 
+9.7 
+16.5 
+
+3.4 
+6.0 
+11.0 
+12.0 
+
+10.6 
+12.6 
+17.7 
+13.9 
+
+10.0 
+11.5 
+20.0 
+
+.7
+1.1
+1.3
+4.8
+
+4.9
+6.7
+3.8
+5.1
+
+4.0
+7.9
+3.6
+
+I-  Collateralized  by  adjustable-rate 
+2.  Collateralized by fixed-rate mortgages.
+
+mortgages.
+
+III-16
+
+rates  low  to  capture  a larger  share  of  the  overall  home  mortgage
+
+market.
+
+On balance,  the  rise  in  fixed mortgage  rates  since  last
+
+October's  low  has  paralleled  changes  in  Treasury  yields,  but  the
+
+yield  spread  has  varied,  first  narrowing and  then widening  by about
+
+20  basis  points  (chart).  Increased  rate  volatility was  one  reason
+
+for the  recent  widening, but  reduced  demand  by  institutional
+
+investors  also  played  a  role.  One  source  of this  reduced  demand was
+
+a decline  in  first-quarter  issuance  of  real  estate  mortgage
+
+investment  conduits  (REMICs) by  Fannie  Mae  and  Freddie  Mac  following
+
+the  record volume  of  the  fourth  quarter  (table).  So  far  in the
+
+second  quarter,  REMIC issuance  is  reported to  have  slowed  further.
+
+Issuance  of new  REMICs  depends on  the  ability of Wall  Street  dealers
+
+to  sell  the  higher-risk classes  of  bonds designed  to  absorb  much  of
+
+the  prepayment  risk of  the underlying  collateral. 2  The  recent
+
+forced  liquidation  of  such  high-risk REMIC bonds  held  by  certain
+
+hedge  funds,  market  fears  about  additional  liquidations  from other
+
+funds  or  dealer  inventories,  and the  uncertainty about  how to  price
+
+such  bonds  in  a volatile market  all  reduced  investor  demand  for
+
+these  high-risk  securities  and  slowed  the  overall  issuance  of
+
+REMICs.
+
+A  second  source of  reduced  investor  demand was  mutual  fund
+
+sales  of mortgage-backed  securities  to  meet  shareholder  redemptions.
+
+Net  sales  of  Ginnie Mae  funds  turned  negative last  fall  (chart),  but
+
+outflows  have  accelerated  in  recent months.  A third  source  of
+
+reduced  demand was  the  steadily  declining  purchases  of  new mortgages
+
+by  Fannie  Mae  and  Freddie  Mac  for  their  own  portfolios.  The
+
+agencies had  been  large  buyers  through the  end  of  last  year,
+
+2. REMIC  issuance  tends  to  bid  up  the  prices  for  newly  originated
+
+mortgage  collateral  in  the  secondary market  and  to  lower  the
+mortgage  rates  offered  to  households.
+
+4000
+
+3000
+
+2000
+
+1000
+
++
+0
+
+1000
+
+2000
+
+3000
+
+4000
+
+III-17
+
+Net  Flows to  Ginnie  Mae  Mutual  Funds  and
+Ginnie  Mae  30-Year Mortgage-Backed  Security Current  Coupon  Yield
+(Monthly,  not seasonally adjusted)
+
+Percent
+
+Millions of dollars
+
+Net Flows  to Ginnie Mae  Mutual  Funds
+
+1985 
+
+1986 
+
+1987 
+
+1988 
+
+1989 
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994
+
+Gross and  Net  Issuance  of Agency  Mortgage  Pass-Through
+
+Securities
+
+(Monthly, not seasonally adjusted)
+
+Billions  of dollars
+
+Gross
+
+L 
+
+I 
+
+Net
+
+1985 
+
+1986 
+
+1987
+
+1988 
+
+1989 
+
+1990 
+
+1991
+
+1992
+
+II-18
+
+financing these  investments  primarily  with  callable debentures.
+
+Since  the  beginning  of  1994.  however,  the  two  agencies  have  reduced
+
+their  combined net  portfolio  purchases  in  response  to  declines  in
+
+the  spread  they can  earn  over their  cost  of  funds.
+
+The  effect  on  mortgage  spreads  of weaker  demand  from
+
+institutional  investors was  partly  offset by  a decline  in  the  supply
+
+of  agency  pass-through securities  (chart).  Although  net  issuance  in
+
+the  first  quarter  exceeded  that  in the  fourth  quarter,  net  issuance
+
+has  been declining  since  the  beginning  of  the  year,  reflecting  both
+
+the  sharp decline  in  refinancing volume  and  the  slowdown in housing
+
+activity.
+
+Consumer  Credit
+
+Interest  rates  on consumer  loans  have  not  risen  as much  as
+
+comparable  market  interest  rates  since February.  The  latest
+
+observations  of the  Board's  series  on  consumer  loan  rates  at  banks
+
+are  for  February  (the May  survey  is  in  process),  but  weekly data
+
+from the  Bank Rate  Monitor  (BRM) showed little  movement  over the
+
+past  three months.  Average  rates  on  forty-eight-month  new-car
+
+loans,  which  typically  track broad  rate  movements  fairly closely,
+
+were  only  1/3  percentage  point higher  in  early May  than they were  in
+
+early February.  Yields  on Treasury  securities  of  like  maturity  rose
+
+more  than  150  basis  points  over  this  period.  As  improvements  in
+
+loan  quality  have  bolstered  earnings  and  reduced  the  perceived  risk
+
+of  auto  loans,  banks have  waged  vigorous  price  competition  in this
+
+market  over the  past  several  quarters.  Although many banks  in the
+
+BRM survey  nudged  auto  rates  up  1/4 to  1/2  percentage  point  during
+
+April,  reports  of  low-rate  promotions  continued to  crop  up  in  the
+
+financial  press.
+
+III-19
+
+INTEREST RATES  ON  48-MONTH  NEW-CAR LOANS  AT  BANKS
+(Percent)
+
+Series 
+
+Federal  Reserve 
+Bank Rate Monitor 
+
+1993 
+Nov. 
+8_ 
+
+7.63 
+7.55 
+
+1994.  week of:
+
+Feb. 
+9 
+
+7.54 
+7.65 
+
+Mar. 
+7 
+
+-- 
+7.65 
+
+Apr. 
+6 
+
+--
+7.77 
+
+Memo:  3-year Treasury 
+
+4.49 
+
+4.75 
+
+5.28 
+
+5.88 
+
+May
+4
+
+7.97
+
+6.21
+
+Growth of  consumer  installment  credit  was  strong in the  first
+
+quarter  of  1994,  though off  a bit from the previous  quarter's  pace.
+
+A sharp  rebound  in March  saw  installment credit  increase  at  an
+
+11  percent  annual  rate,  resulting in  a 9 percent  rate  of  increase
+
+for  the quarter  as a whole.  Revolving  credit  slowed  in March  but
+
+still  advanced  at  a 10-1/4  percent  rate  in the  first  quarter,
+
+continuing  a pattern  evident  since  last  summer.  Automobile  credit
+
+advanced  strongly  in March,  reflecting vigorous  sales  of  new  cars.
+
+III-20
+
+GROWTH  OF  CONSUMER CREDIT
+(Percent  change,  seasonally  adjusted  annual  rate)
+
+1993 
+
+1994 
+
+1994 
+
+Memo:
+
+Outstandings,
+March  1994
+(Billions of
+
+1992 
+
+1993 
+
+Q4 
+
+Q1 
+
+Feb. r 
+
+Mar.p 
+
+dollars)
+
+Installment 
+
+Auto 
+Revolving 
+Other 
+
+1.0 
+.5 
+4.4 
+-.8 
+
+6.6 
+7.2 
+10.7 
+1.4 
+
+11.2 
+11.3 
+11.4 
+10.8 
+
+9.0 
+6.6 
+10.2 
+10.4 
+
+6.0 
+6.0 
+10.6 
+0.4 
+
+11.1 
+10.5 
+5.3 
+19.1 
+
+Noninstallment 
+
+3.0 
+
+-2.4 
+
+-4.9  -16.1 
+
+1.1 
+
+-43.1 
+
+Total 
+
+1.2 
+
+6.0 
+
+10.2 
+
+7.5 
+
+5.7 
+
+7.9 
+
+807.9
+282.9
+288.7
+236.3
+
+48.8
+
+856.6
+
+r  Revised.
+p  Preliminary.
+
+At  commercial  banks1  
+At  commercial  banks
+New cars  (48 mo.) 
+Personal  (24  mo.) 
+Credit  cards 
+
+At  auto  finance  cos.
+
+2
+
+New cars 
+Used  cars 
+
+INTEREST  RATES ON  CONSUMER LOANS
+(Annual percentage  rate)
+
+1991 
+11.1 
+15.2 
+18.2 
+
+1992 
+9.3 
+14.0 
+17.8 
+
+1993 
+
+8.1 
+13.5 
+16.8 
+
+1993 
+
+Aug. 
+
+Nov. 
+
+1994
+
+Feb. 
+
+Mar.
+
+8.0 
+13.5 
+16.6 
+
+7.6 
+13.2 
+16.3 
+
+7.5
+12.9 
+16.1 
+
+...
+...
+
+12.4 
+15.6 
+
+9.9 
+13.8 
+
+9.5 
+12.8 
+
+9.2 
+12.5 
+
+9.0 
+12.4 
+
+8.9 
+12.2 
+
+9.1
+12.7
+
+1. Average  of  "most
+the  first  week of  the
+
+common" rate  charged  for  specified  type and  maturity during
+middle  month of  each  quarter.
+
+2. For  monthly  data.  rate  for  all  loans  of  each  type made  during the  month
+
+regardless  of  maturity.
+Note:  Annual  data  are  averages  of  quarterly  data  for  commercial  bank  rates  and
+of  monthly data  for  auto  finance  company  rates.
+
+INTERNATIONAL  DEVELOPMENTS
+
+INTERNATIONAL  DEVELOPMENTS
+
+U.S.  International  Trade  in  Goods  and  Services.
+
+In  February,  the  U.S.  deficit  in  international  trade  in  goods
+
+and  services  increased  to  $9.7  billion,  seasonally  adjusted.  The
+
+merchandise trade  deficit  widened  in  February,  as  exports  declined
+
+and  imports  increased.  Net  service  receipts  also  declined  from the
+
+level  recorded  in  January.  For  January-February combined, the
+
+U.S.  INTERNATIONAL  TRADE  IN  GOODS  & SERVICES
+(Billions of dollars,  seasonally  adjusted)
+
+Year 
+1993 
+
+9303 
+
+Quarters 
+9304 
+(annual  rates) 
+
+94Qle 
+
+NIPA Real  1/
+Net  Exports  of  G&S 
+
+-76.5 
+
+-86.3  -84.5  -104.2
+
+BOP  Nominal
+Net  Exports  of  G&S 
+
+Goods,  net 
+Services,  net 
+
+-76.8 
+-132.4 
+55.7 
+
+-88.5  -80.3  -98.1 
+-143.9  -131.0  -151.4 
+53.3 
+
+55.4 
+
+50.7 
+
+Dec 
+
+Months
+Jan 
+Feb
+(monthly rates)
+
+-4.1 
+-8.7  -11.4  -13.9
+
+-6.6 
+
+-9.7
+
+4.6 
+
+4.7 
+
+4.2
+
+1/ In  billions  of  1987  dollars,  SAAR.
+e/ BOP  data are  two  months  at  an  annual  rate.
+Source:  U.S.  Department  of  Commerce, Bureau of  the  Census  and  Bureau of
+
+Economic  Analysis.
+
+deficit  widened  to  over  $98  billion  (SAAR),  substantially  larger
+
+than  in  any  recent  quarter.  A large  decline  in  exports  swamped  a
+
+smaller  drop  in  imports.
+
+Exports  of  goods  and  services  in January-February  dropped
+
+nearly  4 percent  from the  unusually  strong  level  recorded  in the
+
+fourth quarter  of  1993,  but  still  averaged  slightly above  the  levels
+
+recorded  in the  first  three  quarters  of  last  year.  Exports  fell  in
+
+virtually  all major trade  categories,  with the  largest  declines
+
+recorded  in  exports  of machinery  and  industrial  supplies.  One
+
+exception  was  exports  of  semiconductors,  which have  risen  steadily
+
+since  1992.  Exports  of services  rose  1 percent.
+
+IV-1
+
+IV-2
+
+U.S.  International  Trade  in  Goods  & Services
+
+Net  Exports  of Goods  & Services
+
+Bil$,  SAAR
+
+NIPA Goods  & Services
+
+Ratio  Scale,  Bit  87$, SAAR
+
+1991 
+
+1992 
+
+1993 
+
+1994
+
+1991 
+
+1992 
+
+1993 
+
+1994
+
+Selected Exports
+
+Bil  87$, SAAR
+
+Selected  Imports
+
+Bil  87$.  SAAR
+
+-
+-----  - Automotive
+
+Machinery  Ex Computers
+
+Ind.  Supp. (Nonag  Ex  Gold)
+
+-M 
+- -----  Automotive
+
+Machinery  Ex  Computers
+
+Consumer  Goods
+
+70
+
+-
+
+50
+
+> -- 
+
+Sllllllll 
+" 
+
+-
+
+* 
+
+,,
+
+ll
+
+1992 
+
+1993
+
+111IIIIII
+1994
+
+1993 
+
+1994
+
+U.S.  EXPORTS  AND  IMPORTS  OF  GOODS  AND  SERVICES
+(Billions of dollars,  SAAR,  BOP  basis)
+
+Quarters 
+
+Levels 
+9304  940dle/ 
+
+SChange  i/ 
+
+Q4 
+
+ale/ 
+
+Months
+
+Levels 
+
+SChg  1
+
+Jan 
+
+Feb 
+
+Feb
+
+Exports  of  G&S 
+
+667.8  643.2 
+
+32.6  -24.6 
+
+651.5  634.8 
+
+-16.
+
+Goods  Exports 
+Agricultural 
+Gold 
+Computers 
+Other  Goods 
+
+481.2  454.2 
+42.6 
+5.3 
+31.0 
+391.9  375.3 
+
+45.3 
+13.1 
+30.8 
+
+33.4  -27.0 
+-2.8 
+-7.8 
+0.2 
+25.3  -16.6 
+
+3.0 
+3.9 
+1.2 
+
+462.3  446.0 
+40.8 
+5.0 
+30.8 
+381.3  369.3 
+
+44.3 
+5.5 
+31.2 
+
+-16.4
+-3.4
+-0 5
+-0.5
+-11  9
+
+Aircraft  & Parts 
+33.4 
+Semiconductors 
+23.6 
+Other  Capital  Goods  107.4  100.0 
+
+34.5 
+20.6 
+
+Automotive  Products 
+
+to  Canada 
+to  Mexico 
+to  Rest  of World 
+
+Industrial  Supplies 
+Consumer Goods 
+All  Other 
+
+55.6 
+29.5 
+8.4 
+17.7 
+
+97.4 
+56.1 
+20.3 
+
+53.5 
+27.9 
+7.5 
+18.1 
+
+92.5 
+53.6 
+18.6 
+
+7.5 
+0.8 
+5.4 
+
+7.2 
+3.6 
+2.2 
+1.5 
+
+2.3 
+1.9 
+0.3 
+
+-1.1 
+2.9 
+-7.4 
+
+-2.1 
+-1.6 
+-0.9 
+0.4 
+
+-4.9 
+-2.4 
+-1.7 
+
+36.4 
+24.5 
+101.1 
+
+53.1 
+28.5 
+7.3 
+17.2 
+
+94.5 
+54.2 
+17.6 
+
+30.5 
+22.6 
+99.0 
+
+54.0 
+27.3 
+7.6 
+19.0 
+
+90.6 
+53.1 
+19.6 
+
+-5.9
+-1.8
+-2.1
+
+0.9
+-1.2
+0.3
+1 8
+
+-3.9
+-1.1
+2.0
+
+Services  Exports 
+
+186.6  189.0 
+
+-0.8 
+
+2.4 
+
+189.2  188.8 
+
+-0.4
+
+Imports  of  G&S 
+
+748.0  741.3 
+
+24.4 
+
+-6.7 
+
+731.3  751.3 
+
+20.0
+
+Goods  Imports 
+
+Petroleum 
+Gold 
+Computers 
+Other  Goods 
+
+612.1  605.6 
+40.9 
+6.9 
+41.4 
+513.6  516.4 
+
+48.0 
+10.0 
+40.5 
+
+20.5 
+-2.1 
+-1.6 
+1.5 
+22.7 
+
+Aircraft  & Parts 
+Semiconductors 
+Other  Capital  Goods 
+
+12.5 
+22.0 
+88.7 
+
+9.8 
+23.8 
+93.8 
+
+Automotive  Goods 
+
+from Canada 
+from Mexico 
+from Rest  of World 
+
+106.9  103.7 
+34.8 
+12.7 
+56.3 
+
+38.2 
+13.0 
+55.7 
+
+Industrial  Supplies 
+Consumer Goods 
+Foods,  Feeds.  Bev. 
+All  Other 
+
+96.0 
+
+99.0 
+137.3  136.2 
+29.0 
+20.9 
+
+29,0 
+21.4 
+
+2.0 
+2.4 
+4.6 
+
+6.7 
+1.1 
+2.3 
+3.3 
+
+4.2 
+0.1 
+0.7 
+2.0 
+
+-6.6 
+-7.1 
+-3.1 
+0.9 
+2.7 
+
+-2.6 
+1.9 
+5.1 
+
+-3.1 
+-3.3 
+-0.4 
+0.6 
+
+3.1 
+-1.1 
+-0.0 
+-0.5 
+
+598.5  612.6 
+43.4 
+8.8 
+41.3 
+513.6  519.2 
+
+38.4 
+5.0 
+41.6 
+
+9.4 
+24.3 
+94.9 
+
+10.3 
+23.4 
+92.7 
+
+101.6  105.9 
+34.0 
+13.3 
+58.6 
+
+35.6 
+12.0 
+54.0 
+
+98.1  100.0 
+135.2  137.2 
+28.5 
+21.3 
+
+29.5 
+20.6 
+
+14.1
+5.0
+3.8
+-0.3
+5.6
+
+0.9
+-1.0
+-2.2
+
+4.3
+-1.6
+1.3
+4.6
+
+1.9
+2.0
+-0.9
+0.7
+
+Services  Imports 
+
+135.9  135.7 
+
+3.9 
+
+-0.2 
+
+132.7  138.7 
+
+5.9
+
+Memo:
+
+Oil  Quantity  (mb/d) 
+
+9.24 
+
+8.86 
+
+0.23  -0.39 
+
+8.60 
+
+9.12 
+
+0.52
+
+e/ Average  of two  months.
+1/ Change  from previous  quarter  or  month. 
+Source:  U.S.  Dept.  of  Commerce,  Bureaus  of  Economic  Analysis  and  Census
+
+Imports  of  goods  and  services  fell  by  1  percent  in  January-
+
+February.  Nearly  all  of  the  decline  in  imports  for  these  two  months
+
+was  in  oil  imports,  as  both  the  price  and quantity  of  imported  oil
+
+fell  substantially  in January.  Despite  a large  drawdown  of  domestic
+
+stocks,  the  quantity of  imported  oil  increased  in  February,  as  cold
+
+weather  in  North  America  kept  consumption  at  relatively  high  rates.
+
+Preliminary  Department  of  Energy  statistics  suggest  that  inventories
+
+were drawn  down  again  in March.  Along  with  a small decline  in
+
+consumption,  this  implies  that  oil  imports  fell  in  March.
+
+Offsetting  the  decline  in  oil  imports  in  January-February  was  a
+
+continued  steady  increase  in  imports  of machinery  and  non-oil
+
+industrial  supplies  (other than  building materials).  Imports  of
+
+services were  little  changed  from the  previous  quarter.
+
+Prices  of U.S.  Imports  and Exports
+
+Prices  of  oil  imports  decreased  3.3  percent  in  March, following
+
+a sharp  increase  in  February.  The  jump  in  February  was the  first
+
+increase  in  9 months,  as  frigid  weather  pushed  up  energy demands  in
+
+North America.  For  the  first  quarter  as  a whole,  prices  of  oil
+
+imports  declined  31.5  percent  at  an  annual  rate;  this was  the  third
+
+consecutive  quarter in  which  import  prices  fell.  Most  recently,
+
+spot  and  futures  oil  prices  have  increased, with  the  near-term West
+
+Texas  Intermediate  (WTI) contract  currently  trading  near  $17.60  per
+
+barrel.  As  a result,  import  prices  should have  increased  in  April
+
+to  around  $13.50  per  barrel.
+
+Prices  of U.S.  non-oil  imports  rose  slightly  in  March  following
+
+a small  decline  in February.  For  the first  quarter  as  a whole,  non-
+
+oil  import  prices  rose  by  1.2  percent  at  an  annual  rate,  the  fourth
+
+consecutive  quarter  of moderate  increases.  The  largest  increases  in
+
+the first  quarter  were for  prices  of  non-oil  industrial  supplies  and
+
+automotive  products.
+
+IV-5
+
+PRICES  OF U.S.  IMPORTS  AND EXPORTS
+(percent change  from previous period)
+
+9303 
+
+Quarters 
+9304 
+(annual rates)
+
+9401 
+
+Months
+
+Jan 
+
+Feb 
+(monthly rates)
+
+Mar
+
+----------------- BLS  Prices----------------
+
+Merchandise  Imports
+
+Oil
+Non-Oil
+
+Foods,  Feeds,  Bev.
+Ind Supp  Ex Oil
+Computers
+Capital Goods  Ex  Comp
+Automotive Products
+Consumer Goods
+
+Memo:
+
+-3.0
+
+-35.2
+1.5
+
+8.7
+-2.4
+
+-10.6
+5.3
+2.2
+1.0
+
+-0.7
+-24.3
+2.0
+
+-2.3
+-31.5
+1.2
+
+5.9
+-0.9
+-6.1
+2.3
+6.9
+0.9
+
+0.7
+5.2
+-5.1
+-0.2
+2.2
+-0.1
+
+0.0
+-2.1
+0.3
+
+0.5
+0.6
+-0.6
+0.2
+0.3
+0.0
+
+0.4
+5.4
+-0.1
+
+-0.6
+-0.2
+-0.5
+-0.2
+-0.2
+0.2
+
+Oil  Imports  ($/bbl)
+
+15.21 
+
+14.12 
+
+12.62 
+
+12.22  13.01
+
+Merchandise  Exports
+
+Agricultural
+Nonagricultural
+
+Ind Supp  Ex Ag
+Computers
+Capital Goods  Ex Comp
+Automotive  Products
+Consumer  Goods
+
+0.2
+14.8
+-1.5
+
+-2.9
+-7.0
+0.9
+-0.7
+-0.5
+
+0.5
+8.2
+-0.6
+
+-4.0
+-6.9
+2.3
+1.3
+0.7
+
+4.0
+
+19.8
+
+2.3
+
+7.8
+-10.0
+0.9
+1.8
+0.8
+
+0.6 
+2.5 
+0.4 
+
+1.1
+-1.4
+0.2
+0.4
+0.3
+
+0.1
+-1.4
+0.3
+
+1.1
+-0.9
+0.0
+0.0
+0.1
+
+-------- Prices
+
+in the  NIPA Accounts---
+
+Fixed-Weight
+
+Imports  of Gds  & Serv.
+
+Nonpet Merch. Ex Comp
+
+Exports  of Gds  & Serv.
+Nonag Merch. Ex Comp.
+
+-3.2
+0.5
+
+0.0
+-1.8
+
+-1.8
+1.2
+
+4.0
+2.5
+
+Oil  Prices
+
+-
+
+Spot  WTI
+Import U.V.
+
+-
+
+0.0
+-3.3
+0.3
+
+0.9
+0.9
+-1.0
+0.5
+0.2
+-0.1
+
+0.2
+0.6
+0.2
+
+0.2
+-0.4
+0.1
+0.3
+-0.2
+
+$ per bbl
+
+1987 
+
+1988
+
+1989 
+
+1990 
+
+1991 
+
+1992
+
+1993
+
+1994
+
+Prices  of  U.S.  agricultural  exports  in  March  resumed  their
+
+recent  upward  trend,  bringing  the  total  increase  for  the  first
+
+quarter to  nearly  20  percent  at  an  annual  rate.  Large  increases
+
+were  recorded  in  the  prices  of  a variety of  agricultural  products,
+
+particularly wheat,  soybeans,  and  feedstuffs,  the  planting  seasons
+
+for  which  were  affected  by  severe  weather  in  the  midwest this  winter
+
+and  spring.
+
+Non-agricultural  export  prices  rose  in  both  February  and
+
+March.  For  the  entire  first  quarter,  prices  of non-agricultural
+
+exports  rose  at  an annual  rate  of  2.3  percent,  the  first  increase
+
+since  the  second  quarter  of  1993.  Increased  prices were  recorded  in
+
+all  major  trade  categories  except  capital  goods.
+
+U.S.  International  Financial  Transactions
+
+Banks  reported  sizable  net  capital  inflows  in  February  and
+
+March,  leading  to  a net  inflow for  the  first  quarter  of  $28  billion
+
+(line 3 of the  Summary  of  International  Transactions  Table).  The
+
+total  for  the  quarter  was  divided  about  equally  between  domestic-
+
+and  foreign-chartered  banks;  both  substituted foreign-source  funds
+
+for  domestic  deposits.  Monthly average  data  reported  on  the
+
+International  Banking  Data  Table  indicate  a  continuation in  April  of
+
+inflows  to  banks  from their  own  foreign  offices  and  IBFs  (line  1).
+
+Private  foreign  net  purchases  of  U.S.  securities  were  strong
+
+in  February and  March,  finishing at  over  $30  billion  for  the  quarter
+
+(line 4 of  the  Summary  table).  Purchases  of Treasury  securities
+
+rebounded  in  February  and  March  (line 4a):  over  $6 billion  of the
+
+net  in  the  first  quarter  was  purchased by  financial  institutions
+
+located  in  the  Netherlands  Antilles.  Purchases  of  corporate  and
+
+agency  bonds  were moderate throughout  the  quarter  (line 4b);  about
+
+$6.8  billion of the  $13.7  billion  total  represented  net  purchases  of
+
+IV-7
+
+SUMMARY OF  U.S.  INTERNATIONAL TRANSACTIONS
+(Billions of  dollars,  not seasonally  adjusted  except as  noted)
+
+I 
+
+Quarter 
+
+I 
+
+Year 
+
+1993 
+
+I
+
+119941 
+
+Month
+
+1994
+
+1992 
+1 1992 
+I 
+
+1993 
+Q2 
+1993  I  Q2 
+I 
+
+3 
+Q3 
+
+Q4 
+Q4 
+
+Q 
+
+Jan. 
+I  01  I  Jan. 
+I
+I 
+
+Fb 
+Feb 
+
+Mar
+Mar
+
+38.3
+4.8
+4.9
+28.6
+
+70.0
+29  9
+-5.1
+45.2
+
+17.3
+17.8
+-1.7
+1.2
+
+18.5
+9 1
+-3.1
+12.1
+
+23.1
+4.8
+-. 9
+19.2
+
+10.3
+10.7
+-2.6
+2.2
+
+9.8
+6.0
+-3  1
+6.9
+
+-. 8
+1.3
+
+-2.1
+
+1.3
+3.3
+5
+-2  5
+
+3.9 
+
+-.7 
+
+1.5 
+
+-.5 
+
+-.7 
+
+-.1 
+
+-.2 
+
+.1 
+
+*
+
+35.6 
+
+17.3
+
+-. 2 
+
+23.1 
+
+9.0 
+
+28.2 
+
+-7.6 
+
+21.0 
+
+14.8
+
+68.1
+37.4
+34.3
+-3.7
+
+106.7
+25.5
+61.6
+19  6
+
+14.8
+--5
+
+14.8
+.5
+
+21.4
+36
+
+14.9
+2.8
+
+46.5
+
+8.2
+26.1
+12.2
+
+30.2
+9.4
+13.7
+7.0
+
+3.7
+
+-4.2
+4 .5
+3.5
+
+17.0
+9.0
+4.3
+3.8
+
+-47.9
+-15.6
+-32.3
+
+-124.3
+-61.0
+-63.3
+
+-25.4
+-11.7
+-13  7
+
+-42.0
+-21.6
+-20.4
+
+-31.6
+-10.7
+-20.9
+
+-28.8
+-11,0
+-17  8
+
+-15.3
+-9.5
+-5.9
+
+-11.0
+
+-4  7
+-6  2
+
+official  capital
+
+1. Changes in  foreign  official reserve
+
+assets  in U.S.  (+ - increase)
+
+a.  G-10  countries
+b  OPEC  countries
+c.  All  other countries
+
+2. Changes  in  U.S.  official  reserve
+assets  (+ - decrease)
+
+Private capital
+Banks
+
+3.  Change  in net  foreign positions of
+
+banking  offices  in  the U.S.
+
+Securities
+
+3
+
+4.  Foreign  net  purchases  of
+U.S.  securities  (+)
+a.  Treasury  securities
+b  Corporate  and other bonds
+c  Corporate stocks
+
+4
+
+5.  U.S. net  purchases  (-)  of
+
+foreign securities
+
+a  Bonds
+b. Stocks
+
+Other flows  (quarterly data,  s.a.)
+
+6. U s  direct  investment  (-) abroad
+7. Foreign direct  investment  in U.S.
+8. Other  (+ = inflow)
+
+-34.8
+2.4
+13.0
+
+-50.2
+31.5
+0.9
+
+-11.9
+10.5
+2.2
+
+-8.3 
+2.7 
+13.3 
+
+-21.3
+
+9  6
+-8.0
+
+n a.  n.a. 
+n.a. 
+n.a.  n.a.  n.a. 
+n.a.  n.a. 
+n.a. 
+
+n.a.
+n.a.
+n.a
+
+ST 
+
+rii-r-n r 
+
+W.  . curreat  account 
+
+e 
+
+b 
+
+l-l-. 1
+a  _ =u Is-ai)
+i
+
+t... 
+
+-
+
+-66.4  -109.2
+
+-27.2  -28.1  -31.5 
+
+n.a.  n.a.
+
+n.a.  n a.
+
+Statistical  discrepancy  (s.a.)
+
+-12.2 
+
+26.7 
+
+14  4
+
+-.1  3.3 
+
+n.a.
+
+n.a.
+
+n.a.  n.a.
+
+1  The sum of official  capital,  private
+discrepancy is  zero.  Details  may not sum
+
+capital,  the  current  account balance,  and the  statistical
+to totals becuse of  rounding.
+
+2. Changes  in  dollar-denominated positions  of all  depository  institutions  and  bank  holding  companies
+plus  certain transactions  between broker-dealers  and unaffiliated foreigners  (particularly borrowing and
+lending  under  repurchase agreements).  Includes  changes  in custody liabilities other than U.S. Treasury
+bills.
+
+3. Includes  commissions on  securities  transactions and  therefore does not match exactly the  data  on
+
+U.S.  international  transactions published by the Department of  Commerce.
+
+4. Includes  Treasury bills.
+5. Includes U.S.  government agency bonds.
+6- Transactions  by nonbanking concerns  and other banking and official  transactions  not shown elsewhere
+
+plus  amounts  resulting  from adjustments made by the Department of  Commerce and  revisions in lines  1
+through 5 since  publication of  the quarterly data in the  Surve  of Current  Business.
+
+n.a. Not  available. 
+
+* Less  than $50  million.
+
+IV-  8
+
+INTERNATIONAL  BANKING  DATA  1/
+(Billions  of  dollars)
+
+1991 
+Dec. 
+
+1992 
+Dec. 
+
+1993 
+
+1994
+
+Mar. 
+
+June 
+
+Sept. 
+
+Dec. 
+
+Mar. 
+
+April
+
+1. Net claims  of U.S.
+
+-35.8 
+
+-71.6
+
+-77.1 
+
+-80.4 
+
+-114.6 
+
+-122.1 
+
+-157.5 
+
+-168.5
+
+banking  offices
+(excluding IBFs)
+on  own  foreign
+offices  and  IBFS
+a. U.S.-chartered
+banks
+b. Foreign-
+
+chartered
+banks
+
+2. Credit extended to
+
+U.S.  nonbank
+residents
+a. By  foreign
+
+branches  of
+U.S.  banks
+b. By  Caribbean
+offices  of
+foreign-chartered
+banks
+
+3. Eurodollar holdings
+of  U.S.  nonbank
+residents
+
+a. At U.S.-based
+
+banks  in the
+Caribbean  and
+at  all banks  in
+Canada and the
+United Kingdom
+b. At  the Caribbean
+
+offices  of
+foreign-chartered
+banks
+
+8.9 
+
+16.8 
+
+12.5 
+
+4.2
+
+-15.1 
+
+-20.2
+
+-48.3 
+
+-88.6
+
+-86.0 
+
+-97.2 
+
+-127.1 
+
+-126.3 
+
+-142.4 
+
+-148.3
+
+23.9
+
+24,8
+
+23.5 
+
+23.1 
+
+21.4 
+
+21.8
+
+21.4 
+
+22.1
+
+n.a.
+
+n.d.
+
+106.5 
+
+101.1 
+
+95.9 
+
+90.9
+
+n.a. 
+
+n.a.
+
+102.9
+
+90.0
+
+89.5 
+
+86.1 
+
+77.0 
+
+77.8
+
+75.1 
+
+68.1
+
+n.a.
+
+n.s.
+
+91.6 
+
+80.2 
+
+82.4 
+
+79.2
+
+n.a. 
+
+n.a.
+
+MEMO:  Data as  recorded in  the U.S. international
+4. Credit extended  to 
+
+49.8 
+
+52,6
+
+transactions  accounts
+
+72.7 
+
+70.5 
+
+66.2
+
+71.8
+
+81.1 
+
+n.a.
+
+U.S.  nonbank
+residents
+5. Eurodeposits of U.S. 
+nonbank residents
+
+136.6 
+
+128.9
+
+123.3 
+
+120.7 
+
+113.3
+
+n.a.
+
+n.a. 
+
+n.a.
+
+1.  Data  on  lines  1  through  3  are  from Federal  Reserve  sources  and  sometimes  differ  in 
+
+timing  from  the
+
+banking  data  incorporated  in  the  U.S. 
+
+international  transactions  accounts.
+
+Lines  la,  1b,  and  2a  are  averages  of  daily  data  reported  on  the  FR2950  and  FR2951.
+Lines  2b  and  3b  are  end-of-period  data  reported  quarterly  on  the  FFIEC  002s.
+Line  3a  is  an  average  of  daily  data  for the overnight  component (FR2050)  and  an  average  of  Wednesday
+data for the term component  (FR2077) supplemented by the FR2502  and  end  of  quarter  data  supplied  by  the
+Bank  of  Canada  and  the  Bank  of  England.  Line  3a  includes  holdings  by money  market  mutual  funds.
+
+Line 4 is  end-of-period  data from the Treasury International  Capital  (TIC)  Reports.  Much of  the increase
+
+since December  1992  is  the  result of  improved reporting  ($31 billion  in  1993  and $8.6  billion in  1994  Q1).
+
+Line 5 is  end-of-period  data estimated by BEA on the  basis  of  the  FR2502  and information
+
+provided  by foreign  central  banks,  supplemented  by  TIC reports  of banks'  custody claims.  It includes
+foreign-currency denominated deposits,  but does  not currently include estimates of  deposits  at  foreign-
+chartered  banks  in  the Caribbean.
+
+IV-9
+
+U.S.  agency  bonds.  In  March,  foreigners  sold  U.S.  stocks  net.
+
+butnet  purchases  for  the  quarter  remained  substantial  (line 4c)
+
+At  close  to  $29  billion,  net  purchases  of  foreign  securities
+
+by  U.S.  residents  continued  strong  in  the  first  quarter  (line  5)
+
+Of the  $17.8  billion  in  net  stock  purchases  (line  5b),  almost  $10
+
+billion was  from Japanese  residents.
+
+After January,  total  foreign  official  reserve  assets  in  the
+
+United  States  changed  only marginally, increasing  approximately  $10
+
+billion  for  the  quarter  (line  1).  Mexican holdings  in  the
+
+UnitedStates fell  sharply  in  March,  after  substantial  increases
+
+earlier  in  the  quarter.
+
+Foreign Exchange  Markets
+
+The  weighted  average  foreign  exchange value  of  the  dollar
+
+declined nearly  1 percent  on  balance  since  the  March  22  FOMC
+
+meeting.  The  dollar  depreciated  1-1/2  percent  against  the  yen.
+
+Concern that  the  political disarray  in  Japan would  so  preoccupy the
+
+Japanese government  as  to make  it  impossible  for the  authorities  to
+
+negotiate more  open trading  relationships  or  to  implement  a more
+
+stimulative  fiscal  policy  prompted market  speculation that  U.S.
+
+authorities would  seek  a stronger  yen to  help  redress  the bilateral
+
+trade  imbalance.  These  perceptions  by market  participants  seemed  to
+
+persist  even after Treasury  Secretary Bentsen  indicated that  the
+
+United  States  was  not  seeking  to  devalue  the dollar  against  the  yen.
+
+Against  the  mark, the  dollar  declined  about  1/2  percent  on balance,
+
+despite the  shift  toward  a tighter monetary policy  stance  in  the
+
+United  States  and  a modest  pickup  in the  pace  of  easing in  Germany.
+
+The  two  1/4-point  increases  in the  federal  funds  rate  and  a sequence
+
+of  reductions  in  the  Bundesbank's  RP  rate  totaling more  than  50
+
+basis  points  pushed  three-month  interbank  rates  up  80  basis  points
+
+IV-10
+
+WEIGHTED  AVERAGE  EXCHANGE  VALUE  OF THE  DOLLAR
+
+March  1973  - 100
+
+SDaily 
+
+FOMC
+
+Mar. 
+
+22
+
+February 
+
+March 
+
+April 
+
+May
+
+SELECTED  DOLLAR  EXCHANGE  RATES
+
+Daily 
+
+FOMC
+
+February  1 =  100
+
+German  Mark
+
+February
+
+March 
+
+April
+
+IV-11
+
+in  the  United  States  and  down  70  basis  points  in  Germany.  The
+
+three-month CD  rate  in  Japan  edged  10  basis  points  lower  over  the
+
+period.  Long-term interest  rates  also  moved  in  favor  of  dollar
+
+assets--with the  U.S.-German  differential  up  about  60  basis  points
+
+and  the  U.S.-Japanese  differential  up  120  basis  points.
+
+The  seemingly  unwarranted  decline  in the  dollar  during the
+
+intermeeting period prompted  U.S.  intervention  operations  on  April
+
+29  and May  4.  Operations  on  both days  were  accompanied by
+
+statements  from  Secretary  Bentsen acknowledging  the intervention  and
+
+explaining the  rationale.  On  April  29,  the  Desk  purchased  $500
+
+million against  marks  and  $200  million  against  yen.  The  Bank of
+
+Japan  also  purchased  dollars  against  yen  on  that  day.  Secretary
+
+Bentsen  explained  that the  operations  were  to  counter  disorderly
+
+market  conditions,  citing  the  previously  articulated Administration
+
+policy that  recognizes that  excessive volatility is
+
+counterproductive  to  growth  and  announcing that  the U.S.  monetary
+
+authorities  stand  ready  to  cooperate  in  foreign  exchange markets.
+
+On  May  4, the  Desk purchased  $750  million  against  marks  and  $500
+
+million  against  yen.  In  his  statement,  the  Secretary  stated that
+
+recent  movements  in  exchange markets  had  gone beyond what  is
+
+justified by  economic  fundamentals  and  announced  that  the  U.S.
+
+operations were  conducted  in  concert  with operations  by  other major
+
+countries.
+
+In  addition to  the  intervention on those  two  days,  the Desk
+
+purchased  $213  million against  a variety  of currencies  during the
+
+Greenbook  period,  liquidating holdings  of all  foreign  currencies
+
+other  than  marks  and  yen in  the System and  Treasury  accounts.
+
+IV  -12
+
+.
+
+In addition,  news  of the
+
+creation  of the North  American Financial  Group  and  the  enlargement
+
+of  the  U.S.-Mexican and  Canadian-Mexican foreign  exchange  swap
+
+facilities  also  appear  to  have  contributed  to the  peso's  rebound.
+
+North  of  the border,  the  Canadian  dollar declined  another  3/4
+
+percent  against  the U.S.  dollar.  Canadian  authorities moved  to
+
+offset  the  stimulative  effects  of  the depreciation  by  pushing  up
+
+short-term interest  rates  in Canada  even more than comparable  U.S.
+
+rates  rose.  The  differential  between three-month  interest  rates  in
+
+Canada  and  the United  States  increased  about  100  basis  points  during
+
+the  intermeeting period.  The  long-term  interest  rate  differential
+
+was  little  changed.
+
+On  April  14  and  again  on May  11.  the  Bundesbank announced
+
+reductions  in  its  discount  and  Lombard  rates.  The cumulative
+
+decline  in both  rates was  3/4 percentage  point, bringing the
+
+IV-13
+
+discount  rate  to  4-1/2  percent  and the  Lombard  rate  to  6 percent
+
+Similar  announcements  of  reductions  in  official  interest  rates  in
+
+many  other  major  European  countries  followed  the  Bundesbank's  moves.
+
+In  addition,  short-term market  interest  rates  in  Europe  generally
+
+declined  in  the  wake  of  the  easing  of  monetary  conditions  in
+
+Germany.  In  particular,  three-month  interest  rates  in  France  and
+
+Belgium  declined  50  basis  points  or  more  during  the  period.  Long-
+
+term  interest  rates  in Europe  were  generally higher--with the  10-
+
+year  bond  yield  in  the United Kingdom up more  than 90  basis  points
+
+during  the  period  and the  comparable bond  yield  in  France  up  nearly
+
+60  basis  points.  Political concerns  in  the United  Kingdom,
+
+especially  after  the  local  election  results in May  in  which the
+
+Conservative  Party made  a particularly  poor  showing,  are  in  part
+
+responsible  for the  rise  in  the yield there.
+
+Developments  in  Foreign Industrial  Countries
+
+Monthly  indicators point  to  some  recovery  in  economic  activity
+
+in  the  first quarter  in  all  the  major  foreign  industrial countries.
+
+In  Japan,  signs  of recovery have  been  tentative, with the  rebound  in
+
+industrial  production  from its  low  fourth-quarter  level  partially
+
+overshadowed by declines  in  other  indicators.  In  continental
+
+Europe,  signs  of  recovery have  been more  apparent  in  forward-looking
+
+indicators  such as  orders  and  business  and  consumer  confidence.
+
+Indicators  of  first  quarter  output,  especially in  Germany,  have been
+
+weaker.  In  Canada  and  the United Kingdom, where  recovery is  more
+
+firmly  established,  indicators continue  to  be  positive.
+
+Inflationary  pressures  remain  subdued  in  the major foreign
+
+industrial  countries  as  wage  and  price  inflation has  continued  to
+
+slow  in  response to  persistent  economic  slack.  In  Japan, price
+
+measures  also  have been depressed  by yen  appreciation.
+
+New  prime  ministers  were  selected  in  Japan  and  Italy.  The  new
+
+Japanese  prime  minister.  Tsutomu  Hata,  replaced  Morihiro  Hosokawa
+
+who  resigned  in  the  wake  of  charges  that  he  accepted  improper  loans.
+
+In  Italy,  the  new  prime-minister  is  Silvio  Berlusconi  head  of  one  of
+
+the  three parties  that  make  up  the Freedom Alliance.  The  Freedom
+
+Alliance won  a  major  victory  in  elections  on March  27  displacing the
+
+Christian Democratic  party which had  ruled  Italy  since  World War  II
+
+Individual  Country Notes.  In  Japan, data  for  the  first  quarter
+
+point  to  some  recovery  in  economic  activity  following a  decline  in
+
+real  GDP  in  the  fourth-quarter.  GDP  data  released  since  last
+
+Greenbook  show that  real  GDP  (s.a.a.r.)  decreased  2.2  percent  in  the
+
+fourth  quarter  of  1993  as  the  result  of a  large  negative
+
+contribution  from net  exports.  Domestic  demand  remained nearly
+
+unchanged,  as  increases  in  household  and  government  expenditures
+
+offset  a  sharp  decline  in  private  non-residential  investment.
+
+In  the  first  quarter,  industrial  production  (s.a.)  rose  1.7
+
+percent  from its  low point  in  the  fourth  quarter,  while  capacity
+
+utilization  recovered  from  an historical  low  in  the  fourth quarter.
+
+Other  indicators  were mixed, with new  car  registrations  and housing
+
+starts  up  and  new machine  orders  down.  The  unemployment  rate  (s.a.)
+
+in  the  first  quarter  edged up  to  2.8  percent.
+
+Consumer  prices  (n.s.a.)  in  the  Tokyo  area  in  April were  up  0.8
+
+percent  from a  year  ago.  The  decline  in the  wholesale  price  index
+
+(n.s.a.)  in March  to  2.9  percent  below its  year-earlier  level
+
+largely  reflects  recent  appreciation  of  the  yen.
+
+In  the first  quarter, the  trade  surplus  (s.a.a.r.)  registered
+
+$125  billion  compared  with  $120  billion  in  1993  as  a  whole,  and  the
+
+bilateral  surplus  with the United  States  (a.r.)  registered  $50
+
+billion  compared  with $51  billion  in  1993.
+
+REAL GDP  AND  INDUSTRIAL  PRODUCTION  IN MAJOR INDUSTRIAL COUNTRIES
+(Percentage change  from previous  period,seasonally adjusted 1/)
+
+1994 
+----------------.---  ------ 
+
+1993 
+
+1993 
+
+1994 
+
+-------------  -------------------- 
+
+1992 
+
+1993 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q1 
+
+NOV 
+
+DEC 
+
+JAN 
+
+FEB 
+
+MAR 
+
+JAPAN
+
+GDP
+IP
+
+GERMANY
+
+-0.3
+-7.7
+
+0.0
+-4.8
+
+-0.5 
+-1.5. 
+
+0.3 
+0.1 
+
+-0.6
+-3.7
+
+GDP
+
+W. GERMANY
+GDP
+IP
+
+0.7 
+
+-0.3
+
+0.0 
+-4.6 
+
+-0.8
+-2.7
+
+0.7
+
+0.7
+-0.0
+
+1.0 
+
+-0.5
+
+1.0 
+0.7 
+
+-0.7
+-0.4
+
+* 
+2.2 
+
+* 
+-1.9 
+
+* 
+1.0 
+
+* 
+-0.1 
+
+*
+4.0
+
+* 
+
+* 
+
+* 
+
+* 
+
+*
+
+* 
+-1.3 
+
+* 
+1.3 
+
+* 
+-1.5 
+
+*
+1.3
+
+*
+-0.8
+
+Latest
+three
+months
+from
+year
+ago 2/
+
+0.0
+-3.5
+
+-0.3
+
+-0.8
+-0.3
+
+NA
+1.7
+
+NA
+
+NA
+0.5
+
+NA
+NA
+
+0.6 
+-2.5 
+
+-0.3
+-1.3
+
+0.2 
+-0.6 
+
+0.3 
+0.9 
+
+0.1
+-0.6
+
+9 
+0.9 
+
+.0 
+-1.0 
+
+-0.2 
+-0.2 
+
+0.6
+0.6
+
+NA
+NA
+
+-0.3
+-0.0
+
+0.2 
+0.9 
+
+2.4
+3.1
+
+0.4 
+0.8 
+
+0.8 
+1.1 
+
+0.7 
+1.2 
+
+0.7
+0.7
+
+* 
+0.2 
+
+* 
+-0.6 
+
+* 
+0.8 
+
+* 
+0.6 
+
+*
+-0.6
+
+2.6
+3.8
+
+-0.4 
+-3.1 
+
+0.3
+-0.6
+
+0.4 
+-1.1 
+
+-0.4 
+0.8 
+
+0.8
+
+-0.2
+
+* 
+-0.7 
+
+*
+1.0
+
+NA 
+
+NA 
+NA 
+
+NA
+NA
+
+0.3
+-0.6
+
+0.8 
+1.9 
+
+3.0
+4.7
+
+0.9 
+0.8 
+
+0.5 
+0.8 
+
+0.9
+1.1
+
+GDP
+IP
+
+3.9 
+3.2 
+
+3.1
+4.2
+
+0.5 
+0.6 
+
+0.7 
+0.7 
+
+1.7 
+1.6 
+
+0.6
+1.9
+
+*  Data not  available  on a monthly or quarterly basis.
+1/ Yearly  data are  Q4  to Q4  percent  change.
+2/ For quarterly data,  latest  quarter from a year ago.
+
+0.6
+
+* 
+
+0.8 
+
+-05 
+-0.5 
+
+0.5 
+0.5 
+
+-0.6
+-0.6
+
+* 
+
+1.0 
+
+* 
+
+0.4 
+
+* 
+
+0.6 
+
+0
+
+0.5
+
+3.0
+3.8
+
+3.6
+4.9
+
+FRANCE
+
+GDP
+IP
+
+UNITED KINGDOM
+
+GDP
+IP
+
+ITALY
+
+GDP
+IP
+
+CANADA
+
+GDP
+IP
+
+UNITED STATES
+
+CONSUMER AND  WHOLESALE  PRICES  IN  MAJOR INDUSTRIAL COUNTRIES
+(Percentage change  from previous period 1/)
+
+1992
+
+1993
+
+1994
+
+1994
+
+1992 
+
+1993
+
+Q4 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q1
+
+JAN
+
+FEB 
+FEB 
+
+MAR 
+MAR 
+
+APR
+APR
+
+Latest
+month
+from
+year
+ago  2/
+
+0.9 
+-1.5 
+
+1.2
+
+-3.3
+
+0.0 
+-0.9 
+
+0.0 
+-0.5 
+
+1.1 
+-1.4 
+
+0.5 
+-1.0 
+
+-0.4 
+-0.5 
+
+0.2
+-0.3
+
+0.1 
+0.1 
+
+0.1 
+-0.5 
+
+0.4
+-0.2
+
+0.0
+
+NA
+
+3.7 
+-1.9 
+
+3.7
+-0.3
+
+0.9 
+-0.8 
+
+1.8 
+0.7 
+
+1.0 
+0.1 
+
+0.4 
+-0.6 
+
+0.5 
+-0.5 
+
+1.4
+NA
+
+0.9 
+0.6 
+
+0.3 
+0.5 
+
+0.2 
+NA 
+
+0.2
+NA
+
+1.8 
+-2.1 
+
+2.1
+-1.6
+
+0.5 
+-2.3 
+
+0.8 
+0.0 
+
+0.6 
+-0.8 
+
+0.2 
+-0.3 
+
+0.5 
+-0.5 
+
+0.4
+NA
+
+0.2 
+* 
+
+0.3 
+* 
+
+0.2 
+* 
+
+0.3
+*
+
+1.7
+
+-1.6
+
+1.6
+3.8
+
+4.1
+4.5
+
+1.8
+2.9
+
+2.7
+0.2
+
+0.4 
+0.4 
+
+-0.7 
+1.3 
+
+1.6 
+1.7 
+
+0.3 
+0.4 
+
+0.3 
+0.3 
+
+0.1
+0.8
+
+-0.4 
+0.3 
+
+0.6 
+0.2 
+
+0.3
+0.1
+
+NA 
+NA 
+
+2.3
+2.7
+
+1.3 
+2.8 
+
+1.0 
+1.6 
+
+1.1 
+1.3 
+
+0.9 
+0.5 
+
+1.1
+1.0
+
+1.0
+
+NA
+
+0.6 
+0.5 
+
+0.4 
+0.4 
+
+0.2
+
+NA
+
+0.3
+
+NA
+
+0.4 
+1.2 
+
+0.7 
+1.2 
+
+0.2 
+-0.0 
+
+0.4 
+0.5 
+
+0.5 
+1.2 
+
+-0.5
+1.3
+
+0.0 
+0.0 
+
+-0.8 
+1.1 
+
+-0.2
+0.4
+
+0.8 
+0.3 
+
+0.8 
+0.6 
+
+0.8 
+0.6 
+
+0.5 
+-0.8 
+
+0.7 
+-0.2 
+
+0.5
+0.6
+
+0.0 
+0.2 
+
+0.3 
+0.5 
+
+0.3
+0.2
+
+NA 
+NA 
+
+NA 
+NA 
+
+0.2
+3.6
+
+2.6
+0.2
+
+JAPAN
+
+CPI 
+WPI 
+
+WEST GERMANY
+
+CPI 
+WPI 
+
+FRANCE
+
+CPI 
+WPI 
+
+UNITED KINGDOM
+
+CPI
+WPI
+
+ITALY
+
+CPI
+WPI
+
+CANADA
+
+CPI
+WPI
+
+UNITED STATES
+
+CPI 
+WPI 
+
+(SA)
+(SA)
+
+Data  not  available on a  monthly or  quarterly basis.
+
+* 
+1/  Yearly data are  Q4  to Q4  percent  change.
+2/  For  quarterly data,  latest  quarter  from year ago.
+
+TRADE AND CURRENT  ACCOUNT BALANCES OF  MAJOR INDUSTRIAL COUNTRIES  1/
+(Billions of  U.S.  dollars,  seasonally adjusted except  where  otherwise noted)
+
+1992 
+
+1993 
+
+1994 
+
+1993 
+
+1994
+
+1992 
+
+1993
+
+Q4 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q1 
+
+DEC 
+
+JAN 
+
+FEB 
+
+MAR
+
+107.3
+117.2
+
+119.6
+127.1
+
+28.6
+31.7
+
+29.7
+32.5
+
+29.9
+31.6
+
+29.5
+32.3
+
+30.5
+30.6
+
+31.3
+32.2
+
+11.1
+10.4
+
+10.9
+11.2
+
+10.5
+11.0
+
+9.9
+9.9
+
+JAPAN
+
+TRADE
+CURRENT ACCOUNT
+
+GERMANY
+
+TRADE  (NSA)
+CURRENT ACCOUNT  (NSA)
+
+21.4
+-22.2
+
+36.4
+
+-21.3
+
+5.0
+
+-3.5
+
+5.9
+-4.2
+
+7.9
+-3.8
+
+8.1
+-9.9
+
+14.4
+-3.4
+
+FRANCE
+
+TRADE
+CURRENT ACCOUNT
+
+UNITED KINGDOM
+
+TRADE
+CURRENT  ACCOUNT
+
+ITALY
+
+5.6
+3.7
+
+16.9
+NA
+
+1.3
+2.9
+
+2.5
+0.4
+
+3.9
+1.7
+
+5.0
+4.0
+
+5.5
+NA
+
+-23.5
+-17.5
+
+-20.2
+-16.0
+
+-6.6
+-4.0
+
+-4.9
+-4.6
+
+-5.0
+-4.9
+
+-4.6
+-2.7
+
+-5.7
+-3.8
+
+TRADE
+CURRENT  ACCOUNT 
+
+(NSA)
+
+-10.5
+-28.0
+
+20.8
+7.0
+
+-1.5
+-5.6
+
+4.5
+-3.1
+
+4.9
+2.0
+
+5.2
+3.6
+
+6.2
+4.5
+
+CANADA
+
+TRADE
+CURRENT  ACCOUNT
+
+UNITED  STATES
+
+TRADE
+CURRENT ACCOUNT
+
+7.4
+-23.0
+
+9.1
+-19.6
+
+2.9
+-4.6
+
+2.5
+
+-5.2
+
+2.3
+-5.1
+
+2.3
+
+-4.7
+
+2.1
+-4.6
+
+-96.1
+-66.4
+
+-132
+-109
+
+-26.0
+-23.7
+
+-29.3
+-22.4
+
+-34.4
+-27.2
+
+-36.0
+-28.1
+
+-32.8
+-31.5
+
+NA
+NA
+
+NA
+*
+
+NA
+*
+
+NA
+NA
+
+NA
+NA
+
+NA
+NA
+
+NA
+NA
+
+NA
+NA
+
+NA
+NA
+
+5.0
+-1.8
+
+3.4
+-1.5
+
+3.3
+-2.8
+
+2.8
+*
+
+0.5
+*
+
+0.9
+*
+
+-2.3
+
+-1.4
+*
+
+1.3
+0.4
+
+NA
+-0.8
+
+NA
+*
+
+NA
+NA
+
+0.4
+*
+
+0.8
+*
+
+0.6
+*
+
+-8,8  -11.3  -13.9
+* 
+*
+
+* 
+
+*  Data  not  available on a monthly or  quarterly basis.
+1/ The  current  account includes  goods,  services,  and private and official  transfers.
+
+IV-18
+
+JAPANESE  ECONOMIC  INDICATORS
+(percent change  from  previous  period  except  where  noted,  s.a.)
+
+Machinery  Orders 
+New  Car  Registrations 
+
+2.3  -5.9 
+1.6  -3.3 
+
+-- 
+8.5 
+
+1993 
+1 
+
+1994 
+
+1993 
+li. 
+11.2 
+-0.6 
+
+1994
+
+faP.  ffb 
+Mar
+4.8  -7.3 
+--
+6.4  -4.0  11.9
+
+Job  Offers  Ratio* 
+Index  Leading  Ind.* 
+Business  Sentiment "* 
+
+0.71  0.66  0.66 
+
+0.65 
+
+0.67  0.65  0.66
+
+42.9  35.8 
+
+-- 
+
+-51 
+
+-56 
+
+-56 
+
+38.5 
+-
+
+63.6  45.0
+
+*  Level  of  indicator.
+**  Percent  of manufacturing  firms  having  a  favorable  view  of
+
+business  conditions  minus  those with  an  unfavorable  outlook.
+
+On  April  8,  Prime  Minister Morihiro Hosokawa  resigned,  taking
+
+responsibility  for  political  turmoil  associated  with charges  that  he
+
+received  improper  personal  loans.  On  April  25,  Deputy  Premier  and
+
+Foreign Minister  Tsutomu  Hata became  prime minister.  Immediately
+
+thereafter,  the  Socialists  pulled  out  of the  coalition  government  in
+
+response to  the  formation  of  a  new parliamentary  bloc  by
+
+conservatives  in  the  coalition.  Hata,  who  previously  has  served
+
+both  as  farm minister  and  finance  minister,  is  expected  to  continue
+
+the  policies  of the  Hosokawa Administration.  However,  he  presides
+
+over  a  weakened minority  government  that  will  face  serious
+
+difficulties  implementing  economic  stimulus  and  reform measures.
+
+In  western  Germany, monthly  indicators  for  the  first  quarter
+
+were  mixed  with more  forward-looking  indicators  pointing  towards
+
+recovery but  output  measures  remaining weak.  Industrial  production
+
+(s.a.)  in  the  first  quarter  dropped  0.5  percent;  however,  commentary
+
+accompanying the  March  data  release  indicated that  it  would  be
+
+revised  upward.  In  April,  unemployment  (s.a.)  edged  up  to  9.4
+
+percent.  Signs  of  recovery  were  apparent  in  retail  sales  (s.a.),
+
+which  rose  1.5  percent  in  the  first  quarter  from their  fourth-
+
+quarter  level,  and  stronger manufacturing  orders  (largely from
+
+abroad).  Survey  data  show that  business  confidence has  improved  and
+
+IV-19
+
+that  inventories  have  returned  to  levels  considered  close  to  normal
+
+In  eastern  Germany,  industrial  production  (n.s.a.)  in  February  was
+
+16.4  percent  above  its  year-earlier  level,  due  to  strong  increases
+
+in  the  manufacturing  and  construction  sectors.
+
+WESTERN GERMAN ECONOMIC  INDICATORS
+(percent change  from previous  period  except  where noted,  s.a.)
+
+Manufacturing  Orders 
+Capacity Utilization 
+Unemployment Rate  (%) 
+
+Q2 
+0.3 
+
+1993 
+Q4 
+Q3 
+1.9  -1.1 
+-1.0  -0.6  -0.1 
+8.5 
+9.0 
+
+8.0 
+
+1994 
+Q1 
+2.3 
+1.7 
+9.2 
+
+1994
+Feb.  Mar.  Apr.
+3.3 
+2.9
+-
+9.2 
+
+9.3 
+
+9.4
+
+Production  Plans*  (%) 
+
+-21.7  -15.0  -8.0 
+
+-- 
+
+4.0 
+
+--
+
+*Percent  of mining  and  manufacturing  firms that  expect  to  increase
+
+production  minus those who  expect  to  decrease  it.
+
+Consumer  prices  in western  Germany  (n.s.a.)  in April  rose  3.1
+
+percent  from  their year-earlier  level,  down  slightly from the
+
+previous  month.  The  slowing  of  consumer  price  inflation  is  partly
+
+due  to  relatively  flat  input  prices.  In  March,  producer prices
+
+(n.s.a.)  increased  0.3  percent  from their year-earlier  level,  while
+
+import  prices  (n.s.a.) were  0.6  percent  below their year-earlier
+
+level.  Wage  inflation  (n.s.a.)  slowed to  5 percent  (year-over-year)
+
+in  January,  compared with  9 percent  one  year  ago.
+
+The  current  account  deficit  (n.s.a.)  widened  in  February  to
+
+$2.8  billion;  exports  have  been  about  flat  over  the  past  year,  while
+
+imports  have  fallen more  than  11  percent  since  February  1993.
+
+German M3  increased  15.4  percent  (s.a.a.r.)  through March
+
+relative to  the  fourth quarter  of  last  year.  The  magnitude  of this
+
+increase means  that  it  is  unlikely that M3  will  drop  back  into  its
+
+target  range  of 4 to  6 percent before  late  in the  year.  The
+
+Bundesbank identified  several  special  economic  and  statistical
+
+factors  that  have  inflated M3  growth:  a sizable  reflow  of  investment
+
+funds  from Luxembourg  to  Germany  due to  changes  in  the  tax treatment
+
+IV-20
+
+of  interest  income;  uncertainty  about  the  outlook  for  bond  and  stock
+
+markets;  a change  in  the  tax treatment  of  mortgages  on  older  homes
+
+that  has  generated  an  increased  demand  for  mortgages:  and  the
+
+Bundesbank's  method  of  calculating  M3  growth  that  tends  to
+
+exaggerate  the  effect  of  a large  change  early  in the  calendar  year.
+
+These  special  factors  explain why  rapid  M3  growth  has  not  prevented
+
+the  Bundesbank  from lowering  official  rates.  On  May  11.  it  cut  the
+
+discount  and  Lombard  rates  by 50  basis  points,  its  second  cut  in
+
+official  rates  in  a month,  citing improved  prospects  for  lower
+
+inflation  as  the  reason.
+
+In  France,  indicators  for  the  first  quarter  point  to  continued
+
+recovery  in  economic  activity.  Industrial  production  (s.a.)  rose
+
+0.6  in  February  after  registering  a weather-related  decline  of  0.2
+
+percent  in  January.  Consumption  of  manufactured products  (s.a.),
+
+roughly  one-third  of total  consumption,  rose  0.6  percent  in the
+
+first  quarter.  These  increases  in  production  and  consumption were
+
+partly  due  to  a subsidy  of  $1.000  equivalent  for  the purchase  of  new
+
+cars  that  replace  those  10  years  old  or  older.  The  unemployment
+
+rate  (s.a.)  in  March  remained stable  at  12.2  percent  for  the fourth
+
+consecutive month.  Survey data  for April  show continued improvement
+
+in  business  and consumer  confidence  and  that  investors  expect  to
+
+increase  investment  this  year.  Data  for March  show that domestic
+
+and  foreign  orders  increased and  that  inventories  returned  to  normal
+
+levels.
+
+The  consumer  price index  (n.s.a.)  in April  was  1.7  percent
+
+above  its  year-earlier level,  about  unchanged from  the  increase  in
+
+the  first-quarter  average.  A slowing  of wage  inflation has  helped
+
+keep  inflation low.  The  January wage  survey  showed that hourly
+
+wages  (n.s.a.)  in  the fourth  quarter were  2.4  percent  above their
+
+year-earlier  level,  down  from 2.8  percent  in the  third quarter.
+
+IV-21
+
+The  trade  surplus  (s.a.)  increased  in  February  to  $0.9  billion
+
+from $0.5  billion  in  January  due  largely to  lower  energy  imports.
+
+In  the United  Kingdom,  economic  recovery  appears  to  be
+
+continuing at  a modest  pace.  Preliminary real  GDP  data  (s.a.a.r.)
+
+for  the  first  quarter  show  an  increase  of  2.8  percent.  However,
+
+recently  released  March  industrial  production  (s.a.)  data  that  show
+
+a decline  of  0.6  percent  suggest  that this  GDP  estimate  may  be
+
+revised  down,  The  average  unemployment  rate  (s.a.)  in  the  first
+
+quarter  edged  down to  9.8  percent.  Indicators  of  business  and
+
+consumer confidence  worsened in  April  after  improving  in  the  first
+
+quarter.
+
+In March,  retail  prices  (n.s.a.)  were  2.3  percent  above  year-
+
+earlier  levels.  Excluding mortgage  interest  rates,  the  increase  was
+
+2.4  percent.  Producers'  input  prices  (n.s.a.)  in  March were  below
+
+their  year-earlier level  but  remained  7.6  percent  above  their  level
+
+just  prior  to  sterling's  devaluation  in August  1992.  Annual
+
+earnings  inflation  (s.a.)  slowed  in  February to  3.5  percent,  up  from
+
+the  low of  3 percent  recorded late  last  year,  but  significantly
+
+below the  5.8  percent  increase  registered  in  August  1992.
+
+In January,  the  trade deficit  (s.a.)  was  $1.4  billion, down
+
+from $2.3  billion  in December.  Exports  rose  4.7  percent  on the
+
+strength of  exports  to the  EC, while  imports  fell  1.6  percent.
+
+On April  13,  Chancellor  Clarke  published the  minutes  of  the
+
+monthly monetary meetings  between  the  Chancellor  and the  Governor  of
+
+the  Bank  of England for  the  first  three months  of  this  year.  Clarke
+
+stated  that  in the  future minutes  would be  published with  a six-week
+
+lag.  Previously, minutes  were released  with a 30-year  lag.  This
+
+policy  change  occurred  in  response  to  the  House  of  Commons'  Treasury
+
+and  Civil  Service  Committee  report  on the  role  of  the  Bank of
+
+England  that  recommended  a more  timely publication of  these minutes.
+
+IV-22
+
+On  May  5, the  Conservative Party  suffered  its  worst  defeat  this
+
+century  in  local  council  elections.  It  received only  27  percent  of
+
+the  vote  compared  with  41  percent  received  by the  Labor  Party.
+
+In  Italy, available  indicators  for  the  first  quarter  suggest
+
+that  the  recovery  apparent  in  recently  released  fourth  quarter  GDP
+
+data  continued.  Real  GDP  (s.a.a.r.)  rose  3.2  percent.  In  the  first
+
+quarter,  consumer  confidence  orders  for machine  tools  rose  sharply.
+
+Unemployment  remained  constant  at  11.3  percent.
+
+Inflationary  pressures  remain  subdued.  Consumer  prices  in
+
+April  were  4.1  percent  above  year-earlier levels,  down  slightly  from
+
+4.2  percent  in  March.
+
+In the  general  elections held  in  late  March, the  Freedom
+
+Alliance,  a coalition  of  three  right-wing  parties,  claimed  an
+
+absolute majority  in  the  630-seat Chamber  of Deputies,  the  lower
+
+house  of Parliament.  In  the  Senate,  the Freedom Alliance  fell  3
+
+seats  short  of  an  absolute majority.  On  April  28,  President
+
+Scalfaro  asked  Silvio  Berlusconi, the  leader  of Forza  Italia  (one of
+
+the  parties  in  the Freedom Alliance)  to  form the  next  government.
+
+On  May  10,  Lamberto  Dini,  Director  General  of  the  Bank  of  Italy,  was
+
+chosen  to  be  Finance Minister.  This  appointment  suggests  that  the
+
+new  government  is  likely  to  maintain  the budget  deficit  reduction
+
+policies  of  the outgoing Ciampi  government.  Italy's  large  budget
+
+deficit  will  make  it  difficult  for  the  Freedom Alliance to  fulfill
+
+its  promise  to  reduce  taxes.
+
+In  Canada,  indicators  suggest  that  growth continued  at  a
+
+moderate  pace  in  the  first  quarter.  In January  and  February,
+
+industrial  production  (s.a.)  was  virtually  unchanged on balance
+
+while  the  two-month  average  of GDP  at  factor  cost  (s.a.)  was  0.6
+
+percent  above  its  fourth-quarter  average. 
+
+Retail  sales  (s.a.)
+
+IV-23
+
+through February  increased  2.1  percent  relative  to  their  fourth-
+
+quarter  average.  Indexes  of  business  and  consumer  confidence  surged
+
+in  the  first  quarter.  Data  from the  manufacturing  survey  has  been
+
+less  encouraging:  shipments  and  new  orders  both  declined  on  average
+
+in  January  and  February.  The  unemployment  rate  (s.a.)  rose  to  11
+
+percent  in  April  from  10.6  percent  in  March.  This  increase  was
+
+mostly  due  to  a  sharp  increase  in  labor  force  participation.  Total
+
+employment  was  little  changed  in  April  after  rising in  the  first
+
+quarter  to  its  highest  level  since  1990.
+
+A  large  cut  in  cigarette taxes  in  February was  responsible  for
+
+a  0.8  percent  decline  in  the  consumer  price  index  (n.s.a.)  in
+
+February,  and  is  expected to  keep measured  inflation below  1  percent
+
+for  1994.  Excluding  cigarette prices,  the  index for the  first
+
+quarter  was  1.4  percent  above  its  year-earlier  level.
+
+Economic  Situation in  Other  Countries
+
+The  assassination  of  the  government  party's  presidential
+
+candidate  on March  23  led  to  increased  political uncertainty  in
+
+Mexico  and  severely disrupted financial  markets.  The  peso  fell  to
+
+the  lower  limit  of  its  intervention band,
+
+The  Bank also  increased  its  offerings  of
+
+dollar-denominated securities,  and  lowered  its  offerings  of  peso-
+
+denominated  securities,  at  its  weekly auctions.  By May  10,  there
+
+was  a modest  rebound  in  the  peso.  The Mexico  City  stock market
+
+index, which had  fallen sharply  in  the  aftermath  of the
+
+assassination, has  also  staged a partial  recovery.
+
+In Brazil,  economic  activity  appears to  have moderated  in the
+
+first  quarter  of  1994,  while  inflation  continues to be  very  high.
+
+The  first  stage  of Brazil's  commercial  bank debt  restructuring was
+
+IV-24
+
+executed  in  April.  Cuts  in  payroll  taxes  and  capital  goods  duties
+
+buoyed  industrial  production  in  Argentina.
+
+The  prospects  for monetary  and  fiscal  reform  in  Russia  appear
+
+to  have  improved  somewhat  with the  release  of  the  second tranche  of
+
+IMF  financing.  Economic  growth  remained  strong  in Korea  and  Taiwan.
+
+but  China's  very  rapid  growth  slowed  slightly.
+
+Individual  country notes.  In  Mexico  a financial  crisis  erupted
+
+following  the  assassination  on  March  23  of  the  government  party
+
+presidential  candidate.  For  four  weeks  thereafter, 
+
+the  peso
+
+hugged  the  lower  limit  of  its  fluctuation  band  against  the  dollar.
+
+Interest  rates  on
+
+peso-denominated securities,  which  ranged between  9.3  percent  for
+
+28-day  bills  and  11.3  percent  for  364-day bills  on  March  23,  surged
+
+at  three of  the  four  ensuing  weekly auctions.  At  the  April  20
+
+auction,  the  yield  curve  had  become  inverted,  and  rates  ranged
+
+between  18  percent  for  28-day bills  and  16.8  percent  for  364-day
+
+bills.  The Mexico  City  stock market  index was  about  23  percent
+
+lower  on  April  20  than  on March  23.
+
+On  April  22,  the  Bank  of Mexico  announced that,  at  the  April  27
+
+auction,  it  would  offer  nearly  seven  times  the  amount  of dollar-
+
+denominated  securities  offered  in  previous  auctions  and  less  than
+
+half the  amount  of  peso-denominated  securities  offered  in  recent
+
+auctions.  The  markets  greeted  these  changes  favorably.  The  Mexican
+
+markets were  further  buoyed  by  news  that talks  with the  Chiapas
+
+rebels,  suspended  in  March, would  resume  soon and  by the  joint
+
+statement  of April  26  by  the  Finance Ministers  and  Central  Bank
+
+Governors  of Canada, Mexico,  and the  United  States  announcing  the
+
+establishment  of  a permanent  trilateral  foreign  exchange  swap
+
+IV-25
+
+facility  in  the  framework of  the  newly  created North American
+
+Financial  Group.  In  late  April,  the  peso  appreciated  by  3  percent
+
+against  the  dollar,  the  Mexico  City  stock market  index  rose  19
+
+percent,  and  interest  rates  on  peso-denominated  securities  eased.
+
+However,  these  movements were  partially  reversed  in  early  May,
+
+leading the  Bank  of  Mexico  to  increase  further  its  offer  of  dollar-
+
+denominated  securities  at  the May  10  auction  and  to  reduce  its  offer
+
+of  peso-denominated  securities  even  more.  At  this  auction  the  Bank
+
+sold  $1  billion  of  dollar-denominated securities  at  rates  ranging
+
+from 8.17  percent  for  91-day  paper  to  8.42  percent  for  364-day
+
+paper,  compared with a  range  of  6.6  to  6.7  percent  on  April  20.  The
+
+Bank also  sold  500  million pesos  ($150 million)  of  peso-denominated
+
+bills  in  only  one  maturity  (28  days)  at  a  rate  of  16  percent,  198
+
+basis  points  lower than  on April  20.  On  May  10,  the  peso  was  1.7
+
+percent  above  the  lower  limit  of  its  fluctuation  band  and  the  Mexico
+
+City stock  market  index was  13  percent  above  its  April  20  low.
+
+In Brazil,  the  trade  surplus  for the  first  quarter  of  1994  was
+
+$2.7  billion,  compared with  a  trade  surplus  of  $4.1  billion in  the
+
+first  quarter  of  1993.  Exports  declined  by  4  percent, while  imports
+
+grew by  18  percent.  The  fall  in  the trade  surplus  is  attributed to
+
+continued  real  appreciation  of the  cruzeiro  and  to  continued  strong
+
+internal  demand.  However,  anecdotal  evidence  indicates  that
+
+economic  growth has  slowed  slightly in  the  first  quarter  of the  year
+
+from the  5  percent  growth  rate  recorded in  1993.
+
+Monthly  inflation continues  to  be  in  the 40-45  percent  range  in
+
+recent months.  The  government  has  been  maintaining that  it  will
+
+enact  a currency  reform that  would include  new  rules  limiting the
+
+central  bank's  ability  to  finance the  deficits  of the  treasury.
+
+Nevertheless,  Congress's  failure  in early  May to  muster  the two-
+
+thirds  majority needed to  open the  economy  to  foreign  capital
+
+IV-26
+
+indicates  that  the  political  will  needed  to  enact  economic  reforms
+
+is  still  lacking.
+
+In  mid-April,  Brazil  and  creditor  banks  executed  the  first
+
+stage  of  Brazil's  $35  billion commercial  bank  debt  restructuring
+
+agreement.  Because Brazil  did  not  qualify  for  an  IMF  program,  it
+
+purchased  the  30-year  zero  coupon  U.S.  Treasury  bonds  needed  for
+
+collateral  from  its  own  reserves.  According  to  official  estimates,
+
+official  reserves were  $35.6  billion  at  end-February.
+
+In Argentina,  cuts  in payroll  taxes  and  capital  goods  duties
+
+have  stimulated  higher  investment  and  productivity  in manufacturing.
+
+Industrial  production  in  1993  was  about  6 percent  higher than  a year
+
+earlier,  and  industrial  exports  during  the  first  two  months  of  1994
+
+were  up  28  percent  compared with  the  year-earlier  period.  However,
+
+total merchandise  exports  grew at  a more  moderate  rate  of  4.4
+
+percent  during  January  and  February  from year-earlier  periods,
+
+mainly  due  to weak  primary  commodity prices  and  a  poor  grain
+
+harvest.  Meanwhile,  strong demand  for  capital  goods  and  automobile
+
+parts  generated a  55  percent  increase  in  merchandise  imports,
+
+resulting in  a trade  deficit  of  nearly  $900  million  during the  first
+
+two  months  of  1994.  compared with a  small  trade  surplus during  the
+
+year-earlier period.  The  consumer  price  index rose  by  4 percent
+
+during  the  twelve  months  ending  in April.
+
+Economic  activity in China  appears  to  have  slowed  slightly  in
+
+the  first  quarter  of  1994  amid  tight  restrictions  on new credit.
+
+Real  GDP  was  12.7  percent  higher  than the  same  period  a year  ago,
+
+after  growth  of  13.4  percent  in  1993.  Industrial  production was
+
+18.6  percent  higher,  compared with  24  percent  growth  in  1993.  Much
+
+of  the  apparent  slowdown was  in  state-enterprise  output,  which  grew
+
+only  2.2  percent  in  the  first  quarter  of  1994.  Half of  the state
+
+enterprises  reported  losses  in  the  first  quarter.  Inflation remains
+
+IV-27
+
+high.  Retail  prices  were  20  percent  higher  than  in  the  first
+
+quarter  of  last  year;  urban  prices  in  March  were  25  percent  higher
+
+than  a year  earlier.  China's  first-quarter  trade  deficit  was  $1.3
+
+billion.  Exports  rose  19  percent,  while  imports  rose  18  percent.
+
+In  early April,  the  authorities  established  a national
+
+interbank  foreign  exchange market.  The  new regulations  appear,
+
+however,  to  segment the  foreign  exchange  market  into  separate
+
+markets  for  domestic  enterprises and  foreign-funded enterprises.
+
+Foreign-funded  enterprises  are  excluded  from the new  interbank
+
+market,  and  must  buy  foreign  exchange  in the existing  swap  centers.
+
+U.S.  bankers  in  China have  argued that  the  purpose  of  the  new system
+
+is  to  force  foreign-invested  enterprises  to  balance  their foreign
+
+exchange  receipts  and  expenditures.  Both the  IMF  and  the  U.S.
+
+Treasury have  expressed  concern  that  the new system lacks
+
+transparency.
+
+In mid-April, the  State  Development Bank, the  first  of three
+
+planned  policy-lending banks, began  operations.  In  early  May.  China
+
+announced  the  establishment  of a second  policy-lending bank.  the
+
+Export  and  Import  Bank of  China.  The third bank, the  Agricultural
+
+Development Bank, has  not  yet been established. The  three  banks  are
+
+to  take  over  the quasi-fiscal  policy  lending  currently done by  the
+
+banking  system.
+
+Taiwan recorded  a trade  surplus  of  $590 million  in  the  first
+
+four  months  of  1994,  as  exports  grew  strongly  in April.  Overall,
+
+exports were  2.3  percent  higher than in the  first  four  months  of
+
+last  year,  while imports  were  7.2  percent  higher.  Industrial
+
+production  in  March was  6.3  percent  higher than a year  earlier, and
+
+consumer  prices  in  April were 3.2  percent  higher.  In  early March,
+
+Taiwan  raised  the ceiling  on  foreign  investment by foreign
+
+institutions  in  the  stock market  from $5 billion to  $7.5  billion.
+
+IV-28
+
+This  has  led  to  a flood  of  applications  by  foreign  institutions;
+
+approved  and  pending  applications  by  foreign  institutions  already
+
+exceed  the  new  limit.  Effective  April  1, Taiwan  abolished  reserve
+
+requirements  for  foreign  currency  deposits  at  commercial  banks,  in
+
+an  effort  to  reduce pressure  for  appreciation  of  the  Taiwanese
+
+dollar.
+
+In  Korea  economic  activity  remains  very  robust.  The  industrial
+
+production index  for  manufacturing  increased by  10.2  percent  in
+
+1994-Q1  from  a year  earlier, with  particularly  rapid  growth  in
+
+electronics  and  automobile  production.  However,  concern  about
+
+inflation has  led  to  a  somewhat  less  accommodating monetary  policy
+
+since  mid-February.  The  consumer  price  index rose  by  5.9  percent  in
+
+April  from  a year  earlier.  A  strong  increase  in  investment  demand
+
+has  induced  a substantial  rise  in  imports,  especially of  capital
+
+goods.  Merchandise  imports  rose  by  13.6  percent  in  1994-Ql  from  a
+
+year  earlier,  while  exports  grew only  6.8  percent.  This  contributed
+
+to  a widening  of  the  first-quarter  current  account  deficit  to  $2.5
+
+billion  from $700  million  a year  earlier.
+
+In Russia,  the  prospects  for  monetary  and  fiscal  reform  appear
+
+to  have  improved  somewhat.  On April  20,  the  IMF  Executive  Board
+
+approved  the  release  of  the  second  $1.5  billion tranche  of Russia's
+
+Systemic  Transformation Facility  (STF). 
+
+In  the  supporting
+
+agreement,  the  Russian  government  committed to  reduce monthly
+
+inflation to  7 percent  by the  end  of  the  year,  and  limit  the  1994
+
+budget  deficit  to  about  7 percent  of  GDP.
+
+Industrial  production during  the  first  quarter  of  1994 was  25
+
+percent  lower  than in  the  first  quarter  of  1993,  and  real  GDP
+
+reportedly  fell  17  percent  below its  year-earlier  level.  The
+
+increased  cost  of  fuel  and  other  raw materials,  as  well  as  mounting
+
+inter-enterprise  arrears,  has  restricted  economic  activity  and  led
+
+IV-29
+
+to  plant  closings.  Monthly  inflation  during  February,  March,  and
+
+April  averaged  only  9.4  percent,  compared with  over  20  percent  a
+
+month  in  1993.
+
+During  the  last  two  months,  the  ruble  has  depreciated against
+
+the  dollar  at  a steady  rate  of  about  1 percent  per week.  On May  11,
+
+the  ruble-dollar  exchange  stood  at  1865.
+
+

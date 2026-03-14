@@ -1,0 +1,5129 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+Confidential  (FR)  Class II  FOMC
+
+November  10,  1982
+
+SUMMARY  AND  OUTLOOK
+
+Prepared for the Federal  Open Market Committee
+By the  staff of the  Board of Governors  of the Federal  Reserve  System
+
+DOMESTIC  NONFINANCIAL DEVELOPMENTS
+
+Recent  developments.  The  slow  slide  in economic  activity apparently
+
+continued  in  September  and  October.  Employment  and  production declined
+
+in  both months,  reflecting  continued weakness  in  sales  and  a desire  by
+
+firms  to reduce  inventories  further.  However, housing  activity has  con-
+
+tinued  to  trend  upward.  At  the  same  time,  recent  news  on  consumer  prices
+
+and  labor  costs  indicates  a  further  improvement  in  inflation.
+
+Nonfarm payroll  employment  fell  265,000  in October,  slightly more
+
+than  the  average  decline  in  the  previous  four  months.  Job  losses  were
+
+registered  in a  wide range  of  industries.  The  largest  cutbacks  continued
+
+to be  in durable  manufacturing;  layoffs  in  this  sector have  accounted  for
+
+almost  two-thirds  of  the  drop  in employment  since  the  summer  of  1981.
+
+Reductions  in  the  metals,  machinery,  and  transportation equipment  indus-
+
+tries--where  inventories  still  are  quite  high  in relation  to  sales--were
+
+sizable  again in October.  The  unemployment rate  rose  to  10.4  percent  last
+
+month, with nearly  all  of  the  increase  in  joblessness  occurring among
+
+adult men  and  women.
+
+Preliminary data  indicate  that  industrial  production declined  about
+
+3/4  percent  in October,  a  little  more  than  the  reductions  in August  and
+
+September.  Much  of  the  drop  last  month was  attributable  to  another
+
+large  decline  in  the  production of business  equipment,  but  automobile
+
+assemblies  and  raw  steel  output  were  lower  as  well.
+
+Disposable personal  income  increased  slowly  in real  terms  in the
+
+third  quarter,  as  weakness  in wages  and  salaries  offset much  of  the bene-
+
+ficial  effect  of  the  July  tax  cut;  labor market  data  for  October  suggest
+
+that  income  gains  were meager  last month  as  well.  Reflecting concern  over
+
+I-1
+
+I  - 2
+
+future  job  prospects  in addition  to  the  weak income  growth,  consumer
+
+spending  has  grown  fairly  slowly  since  last  spring.  Outlays  for  dis-
+
+cretionary  items  have  been particularly disappointing,  as  evidenced  by
+
+the  small  increase  in  spending  at  general merchandise, apparel,  and  fur-
+
+niture  stores  last  summer.  Sales  of  new domestically  produced  autos  rose
+
+to  a 6.2 million unit  annual  rate  in  September, but  this  was  in  response
+
+to  a wide  variety of  price  incentives;  sales  fell  to  a 5.3 million unit
+
+pace  in October  after  the  inducements  were removed.  However,  automakers
+
+recently have  announced  new incentives  on  1982  models which--in conjunc-
+
+tion with  the  generally  lower  level  of  interest  rates--could bolster  car
+
+sales.
+
+Business  investment  fell  sharply  in real  terms  in  the  third  quarter,
+
+as  outlays  for  equipment registered  a broad-based decline  and expenditures
+
+for  structures  dropped for  the  first  time  in  this  recession.  Moreover,
+
+most  indicators  point  to  continued weakness  in the  months  ahead.  The  back-
+
+log  of  orders  for  nondefense  capital goods has  been shrinking  for  the  last
+
+eighteen months,  despite  a sizable rise  in September bookings.  Contracts
+
+for  commercial  and  industrial building have  been weak  throughout  1982,
+
+indicating  further declines  in nonresidential  construction.  In  addition,
+
+a number  of  private  surveys  of  capital  spending  intentions  have  reported
+
+that  businesses  plan to  cut real  capital outlays  substantially in  1983.
+
+Housing activity  firmed  in  the  third quarter,  as  starts  rose  to  a
+
+1.1  million unit  annual  rate--almost  30  percent  above  the  low  recorded  in
+
+the  fourth  quarter  of  1981.  The rise  in  starts  last  quarter was  concen-
+
+trated  in  the multifamily  sector and  can  be  attributed  in  part  to  a surge
+
+in  federally subsidized  activity  at  the  end  of  the  fiscal  year.  But
+
+starts  of  single-familly units--which have  been  extremely  sluggish  in
+
+the  current upturn--increased  appreciably in  September.
+
+The  inventory  correction appears  to  have  resumed  in  September,  after
+
+efforts  to  reduce  stocks  were  hampered by weak sales  over  the  summer.  The
+
+book value  of manufacturers'  inventories  declined  at  a $26  billion annual
+
+rate  in  September,  following  smaller  reductions  in  the  previous  two months.
+
+Nonetheless,  stocks  remain quite  high  in  relation to  sales  in  a number  of
+
+durable  goods  industries,  particularly primary metals,  nonelectrical
+
+machinery,  and  transportation equipment.  Some  of  the  overhang at  auto
+
+dealers was eliminated  in  September  and October  although there  still
+
+appear  to be  imbalances  at many  other  types  of  retail  establishments.
+
+Inflation continued  to  slow late  in  the  summer,  and  according  to
+
+most measures  was  at  an  annual  rate of  around  5 percent  for  the  first
+
+nine  months  of  the  year.  The  consumer  price  index rose  at  a 2 percent
+
+annual  rate  in  September,  reflecting sharply lower  homeownership  costs
+
+and  relatively  small  increases  for most other  items.  Inflation  for
+
+capital  goods  also has  eased,  as  a widespread slowing has  held  the  in-
+
+creases  in  this  sector  so  far  this  year  to only  about  half of  last  year's
+
+9 percent  rate.
+
+Labor  cost  pressures  have  continued  to moderate.  Increases  in
+
+hourly compensation have been  trending down since  early  1981,  and  the
+
+6-1/2  percent annual  rate  of  increase  in the  third quarter brings  the
+
+four-quarter change  to  the  lowest  rate  in  a decade.  The  improvement  has
+
+been particularly noticeable  in  the unionized  sector, where wage  adjust-
+
+ments  have  been held  down by both smaller COLAs  and  lower  new settlements.
+
+At  the  same  time,  labor  productivity  rose  sharply  in  the  third  quarter,
+
+following  fractional  gains  in the  first half.
+
+Outlook.  The  staff  expects  real GNP  to  remain essentially  flat  in
+
+the  current  quarter.  Inventory  liquidation-is  likely  to resume,  off-
+
+setting a small  increase  in  real  final  sales.  Further  large  reductions
+
+are  projected  for  business  fixed  investment and  exports,  while  consump-
+
+tion  spending  and  housing outlays  are expected  to  increase  more  than  they
+
+did  last  quarter.  Substantial  purchases by  the  Commodity Credit Corpora-
+
+tion  are  likely  to  boost federal  spending.  Price  increases  in  the  fourth
+
+quarter  should  remain moderate, with  the  gross domestic  business  product
+
+fixed-weighted price  index rising about  5 percent  per year.  CPI  increases
+
+may be  even smaller,  as  a result  of  falling mortgage rates.
+
+With respect  to monetary  policy, growth  in M2  in  1982  is  assumed  to
+
+be  somewhat  above  its  target range.  For 1983,  growth in  the  aggregates
+
+is  assumed  to  be  within the  target  ranges  tentatively accepted  by  the
+
+FOMC,  abstracting  from  the  impact  of  the  new money  fund  account. 
+
+Short-
+
+term rates  are  projected  to  rise  gradually  over  the  course of  the  year
+
+from around  present,  or  somewhat  lower,  levels.  Long-term rates  are  pro-
+
+jected  to move  only marginally above  current  levels,  owing  to  declining
+
+inflation expectations.
+
+The  fiscal  policy assumptions  are  not  changed  substantially  from
+
+the  previous  projection.  For  fiscal  year  1983,  the  staff  continues  to
+
+1.  With the  impact  of  the  account, M2 growth would be  expected  to  increase
+slightly  more,  placing it  in  the upper half  of  the  6 to  9 percent  range.  M1
+growth would be  expected  to  fall  short  of  the  tentative 2-1/2  to  5-1/2
+percent range.
+
+assume  that  $45  billion of  deficit-reducing measures  ultimately will  be
+
+implemented--about  three-fourths  of  the  savings  specified  in  the  con-
+
+gressional  budget resolution.  Our  estimate  of  the  FY1983  federal  deficit
+
+has  increased  to  $177  billion,  as  a consequence of  lower  tax  receipts,
+
+larger  CCC  outlays,  and  an extension of  special unemployment benefits.
+
+A weak  recovery  is  projected  for  the  first  half of  1983,  with  real
+
+GNP  growing at  about  a 2 percent  annual  rate.  Housing activity  should
+
+continue  to  improve and  the  current  inventory  liquidation  is  projected
+
+to  end,  eliminating an  important  influence depressing economic  activity
+
+this year.
+
+In  the  second  half of  the year,  consumer  spending  should benefit
+
+from the  third  stage  of  the  cut  in  personal  income  taxes,  which will be
+
+larger  than  last  July's  reduction.  If  sustained,  the  recent  increase  in
+
+stock prices  also could  stimulate household  outlays.  Although  spending
+
+on nonresidential  structures  is  expected  to  decline  throughout  1983,
+
+equipment  investment  is  projected  to  improve  as  output  rises,  generating
+
+a small  increase  in real  business  fixed  investment over  the  year.  Small
+
+increases  in  inventories  also  can be  expected  to help boost  production.
+
+A strengthening of  demand  for U.S.  exports  as  foreign economic  activity
+
+begins  to  revive  should provide  some  slight  stimulus as  well;  this  would
+
+be  a sharp reversal  of  the experience  in  1982  when exports  plunged  in
+
+response  to  the  appreciation of  the  dollar and weakness  in activity  abroad.
+
+The  slow recovery  in output  will generate  only  meager  improvement
+
+in  the  utilization of  capital  and  labor  resources.  The unemployment rate
+
+is  projected  to exceed  10-1/2  percent  this  quarter  and  remain close  to  10
+
+percent  even at  the  end  of  next year.  As  a result of  this  extended  period
+
+of  slack  in  the  labor market  and  lower  inflation rates,  wage  increases  are
+
+projected  to  continue  their  decline, with hourly  compensation rising a
+
+little more  than 5 percent  during 1983.  The  reduction  in wage  growth,
+
+combined with  some  improvement  in  productivity,  should reduce unit  labor
+
+ccst  increases  to  about  3-1/2  percent next year.
+
+These  reduced  cost  pressures  and  continued  low  levels  of  capacity
+
+utilization should restrain  the  rate  of  growth  of prices  as  well.  During
+
+1983,  the  gross  domestic business  product  fixed-weighted  price  index  is
+
+projected  to  rise  4-1/2  percent,  compared with about  5 percent  this  year.
+
+This  deceleration is  small,  given the  historical  relationship between
+
+inflation and  economic  activity;  however,  it  is  assumed  that  the  dollar
+
+will depreciate  in  the  latter half  of  1983,  partially  reversing one  of
+
+the  factors  in  this  year's  disinflation.
+
+Detailed data  for these  projections  are  shown  in  the  tables  that
+
+follow.
+
+STAFF  GNP  PROJECTIONS
+
+November  10,  1982
+
+-------------- -------- ----- --- -------- - ----  ------------- --------  ----------
+
+Percent  changes, annual  rate
+
+Nominal  GNP 
+
+Real  GNP 
+
+----------------------------------- 
+
+Total 
+
+Excluding  food 
+and energy
+
+Gross  domestic
+business product
+fixed-weighted
+price  index 
+
+Unemployment
+rate
+(percent)
+
+9/29/82  11/10/82 
+
+9/29/82  11/10/82 
+
+9/29/82  11/10/82 
+
+9/29/82  11/10/82 
+
+9/29/82  11/10/82
+
+Annual  changes:
+
+1980  <1> 
+1981  <1> 
+1982 
+1983 
+
+8.9
+
+11.6
+4.5
+6.9
+
+8.9
+11.6
+4.4
+6.6
+
+Quarterly changes:
+
+1981  Q1  <1> 
+Q2  <1> 
+Q3  <1> 
+Q4  <1> 
+
+19.6
+5.3
+
+11.4
+3.0
+
+1982  Q1
+Q2
+Q3
+Q4
+
+1983 Q1
+Q2
+Q3
+Q4
+
+19.6
+5.3
+11.4
+3.0
+
+-1.0
+6.8
+6.2
+5.4
+
+Two-quarter  changes:  <2>
+
+1981  Q2  <1> 
+Q4  <1> 
+
+12.2 
+7.1 
+
+12.2
+7.1
+
+1982  Q2  <1> 
+Q4 
+
+1983  Q2
+Q4
+
+2.8 
+6.4 
+
+6.8 
+8.2 
+
+2.8
+5.8
+
+6.6
+8.2
+
+Four-quarter  changes:  <3>
+
+1980  Q4 <1>
+1981  Q4  <1>
+1982 Q4
+1983  Q4
+
+9.4 
+9.6 
+4.6 
+7.5 
+
+9.4
+9.6
+4.3
+7.4
+
+-. 4
+1.9
+
+-1.7
+
+2.0
+
+7.9 
+-1.5 
+2.2 
+-5.3 
+
+-5.1
+
+2.1
+.1
+1.0
+
+2.2 
+2.3 
+3.9 
+4.0 
+
+3.1 
+-1.6 
+
+-1.6 
+.5 
+
+2.2 
+3.9 
+
+-. 4
+1.9
+-1.7
+1.8
+
+7.9
+-1.5
+2.2
+-5.3
+
+-5.1
+2.1
+.8
+-. 6
+
+1.9
+2.0
+4.4
+4.3
+
+3.1
+-1.6
+
+-1.6
+.1
+
+1.9
+4.4
+
+10.1
+9.6
+6.0
+5.0
+
+10.4 
+8.6 
+9.3 
+7.4 
+
+5.2 
+4.6 
+4.5 
+4.2 
+
+9.5 
+8.3 
+
+4.2 
+5.8 
+
+4.9 
+4.3 
+
+10.1
+9.6
+6.0
+4.8
+
+10.4
+8.6
+9.3
+7.4
+
+4.8
+4.5
+4.2
+4.1
+
+9.5
+8.3
+
+4.2
+5.8
+
+4.6
+4.2
+
+10.3
+8.9
+5.0
+4.6
+
+10.3
+8.9
+5.0
+4.4
+
+<1>  Actual.
+<2> Percent  change  from  two quarters  earlier.
+<3>  Percent change  from  four quarters earlier.
+
+7.1 
+7.6 
+9.5 
+9.9 
+
+7.1
+7.6
+9.7
+10.5
+
+7.4
+7.4
+7.4
+8.3
+
+8.8
+9.5
+10.0
+10.2
+
+10.1 
+10.0 
+9.9 
+9.7 
+
+-. 1 
+.9 
+
+1.2 
+.7 
+
+-. 2 
+-. 3 
+
+7.4
+7.4
+7.4
+8.3
+
+8.8
+9.5
+9.9
+10.6
+
+10.6
+10.6
+10.5
+10.3
+
+-. 1
+.9
+
+1.2
+1.1
+
+.0
+-. 3
+
+8.4 
+9.4 
+11.0 
+8.6 
+
+8.4
+9.4
+11.0
+8.6
+
+8.9 
+9.8 
+
+5.6 
+5.7 
+
+4.9 
+3.9 
+
+8.9
+9.8
+
+5.6
+5.7
+
+4.5
+3.7
+
+CONFIDENTIAL  - FR
+CLASS  II  FOMC
+
+GROSS  NATIONAL  PRODUCT  AND  RELATED 
+
+ITEMS
+
+(Quarterly  figures  are  seasonally  adjusted.  Expenditures  and  income
+
+figures  are  billions of  current  dollars  at 
+
+annual  rates.)
+
+1-8
+
+November  10,  1982
+
+Gross  national  product
+
+Final  purchases
+
+Private
+
+Excluding  net  exports
+
+Personal  consumption  expenditures
+
+Goods
+Services
+
+Gross  private  domestic  investment
+
+Residential  structures
+Business  fixed  investment
+Change  in  business  inventories
+
+Nonfarm
+
+Net  exports  of  goods  and  services  <1>
+
+Exports
+Imports
+
+Gov't.  purchases  of  goods  and  services
+Federal  <2>
+State  and  local
+
+Groes  national  product  in
+
+constant  (1972)  dollars
+
+1980 
+
+1981
+
+Ql 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4
+
+2575.9
+2576.6
+2057.4
+2043.4
+
+1618.7
+871.4
+747.3
+
+2573.4
+2573.9
+2037.9
+2013.7
+
+1622.2
+855.7
+766.6
+
+2643.7
+2664.8
+2126.3
+2087.3
+
+1682.0
+886.4
+795.6
+
+2739.4
+2757.1
+2197.3
+2173.8
+
+1745.8
+925.2
+820.6
+
+424.0
+113.5
+311.2
+-.7
+.7
+
+14.0
+335.7
+321.7
+
+519.2
+189.6
+329.6
+
+391.0
+91.2
+300.2
+-. 4
+4.0
+
+24.2
+337.3
+313.1
+
+536.0
+198.8
+337.2
+
+384.1
+97.6
+307.8
+-21.2
+-15.6
+
+39.0
+337.2
+298.2
+
+538.5
+193.3
+345.2
+
+410.3
+110.5
+317.5
+-17.7
+-12.3
+
+23.5
+346.7
+323.2
+
+559.8
+207.0
+352.8
+
+2864.9
+2852.7
+2274.6
+2243.4
+
+1799.9
+957.5
+842.4
+
+455.7
+113.6
+330.0
+12.2
+10.0
+
+31.2
+345.4
+334.2
+
+578.1
+217.0
+361.1
+
+2901.8
+2877.2
+2294.0
+2270.3
+
+1819.4
+960.0
+859.4
+
+475.5
+109.5
+341.3
+24.6
+19.3
+
+23.7
+368.9
+345.1
+
+583.2
+218.2
+365.0
+
+2980.9
+2949.1
+2348.9
+2323.0
+
+1868.8
+982.5
+886.3
+
+486.0
+101.2
+353.0
+31.8
+24.6
+
+25.9
+367.2
+341.3
+
+600.2
+230.0
+370.1
+
+3003.2
+2989.9
+2363.6
+2340.1
+
+1884.5
+976.1
+908.3
+
+468.9
+95.5
+360.2
+13.2
+6.0
+
+23.5
+347.9
+344.4
+
+626.3
+250.5
+375.7
+
+1494.9  1457.8  1463.8  1479.4  1507.8  1502.2  1510.4  1490.1
+
+Personal 
+income
+salary 
+and 
+Wage 
+
+disbursement
+
+Disposable  personal  income
+
+Saving  rate  (percent)
+
+2086.8
+1319.7
+17"6.9
+
+5.5
+
+2109.6
+1332.1
+1781.0
+6.1
+
+2185.3
+1360.5
+1845.5
+6.1
+
+2260.0
+1412.2
+1902.9
+
+2330.0
+1452.8
+1958.7
+
+5.5
+
+5.4
+
+2380.6
+1479.4
+1996.5
+6.1
+
+2458.2
+1512.3
+2060.0
+6.5
+
+2494.6
+1531.2
+2101.4
+7.5
+
+Corporate  profits with  I.V.A.  and C.C.  Adj.
+
+Corporate  profits  before  tax
+
+195.3
+268.2
+
+172.2
+217.6
+
+177.0
+238.1
+
+181.2
+2435.
+
+200.3
+253.1
+
+185.1
+225.4
+
+193.1
+233.3
+
+183.9
+216.5
+
+Federal  government  surplus  or  deficit  (-)
+
+(N.I.A.  basis)
+
+High  employment  surplus or  deficit  (-)  <3>
+
+-39.7 
+-18.4 
+
+-67.5 
+-20.3 
+
+-43.1 
+-19.3 
+
+-65.2 
+-10.6 
+
+-39.7 
+10.4 
+
+-40.5 
+22.0- 
+
+-58.0 
+5.9 
+
+-101.7
+-20.3
+
+State  and  local  government  surplus  or
+
+deficit(-)  (N.I.A.  basis)
+
+Excluding  social 
+
+insurance funds
+
+Civilian  labor  force  (millions)
+Unemployment  rate  (percent)
+
+Nonfarm  payroll  employment 
+
+(millions)
+
+Manufacturing
+
+Industrial  production  (1967=100)
+
+Capacity  utilixation:  all manufacturing  (percent)
+
+material 
+
+(percent)
+
+Housing  starts  private  (million  units,  A.R.)
+New auto  sales  (millions.  A.R.)
+
+Domestic  models
+Foreign models
+
+29.1
+3.3
+
+106.5
+6.3
+
+90.9
+20.9
+
+152.7
+83.4
+85.8
+
+1.25
+10.65
+7.87
+2.77
+
+23.3
+-2.8
+
+27.1
+-1.0
+
+106.8
+7.3
+
+107.2
+7.8
+
+90.3
+20.3
+
+144.5
+77.9
+78.9
+
+1.06
+7.68
+5.53
+2.14
+
+89.9
+19.9
+
+142.3
+75.9
+75.2
+
+1.39
+8.80
+6.51
+2.29
+
+33.0
+3.9
+
+107.5
+7.5
+
+90.5
+20.1
+
+148.8
+79.1
+80.1
+
+31.3
+1.1
+
+32.9
+1.7
+
+33.5
+1.2
+
+108.1
+7.4
+
+90.9
+20.2
+
+151.8
+79.9
+82.2
+
+108.8
+7.4
+
+108.7
+7.4
+
+91.2
+20.3
+
+91.4
+20.3
+
+152.5
+
+79.8-
+81.2
+
+153.0
+79.2
+81.2
+
+1.50
+9.04
+6.57
+2.47
+
+1.40
+9.96
+7.31
+2.6
+
+1.17
+7.89
+5.63
+2.25
+
+.96
+9.04
+6.90
+2.14
+
+29.1
+-4.2
+
+109.2
+8.3
+
+91.0
+19.9
+
+146.3
+74.8
+75.2
+
+.87
+7.36
+5.13
+2.23
+
+<1>  belance  of  paymmate  data  and  details  oderlyig  these estimtes  are  bhot  is  the  Iaternational  Developments
+
+sectioa  of  this  part  of  the  Greebok.
+
+<2  Co  peeats  of  purchases  and  total  receipts  and  total  e 
+
+bhich  follows.
+
+<3>  Estimates  is  table  are  evaluated  at  a  5.1  pereeme  kbi 
+
+memlejlamt  rate.  the  hih  employment  budget  would  h 
+
+$43.3  billion  in  Il-q4.
+
+dituree  are  she 
+
+is  the  Federal  sector  Acconts  table
+
+emplpmse  uw  plost 
+
+rate.  zelusted  at  a  6.1  percent
+*  deficit  of  (30.9  billieM  is  190o-4,  sad  a  deficit  of
+
+CONFIDENTIAL  - FR
+CLASS  II FOMC
+
+Constant  (1972)  Dollars
+
+Gross  national  product
+
+Final  purchases
+
+Private
+
+Excluding  net  exports
+
+Personal  consumption  expenditures
+
+Goods
+Services
+
+Gross  private  domestic  investment
+
+Residential  structures
+Business  fixed  investment
+
+Gov't.  purchases of  goods  and services
+
+Federal
+National  defense
+
+State  and  local
+
+I-9
+
+PERCENT  CHANGES  IN  GROSS  NATIONAL  PRODUCT
+AND  RELATED  ITEMS
+(Annual  rates  compounded quarterly)
+
+November  10,  1982
+
+1980 
+
+1981
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4
+
+1.5 
+1.6 
+
+-9.6 
+-9.6 
+.8  -12.4 
+-1.3  -13.7 
+
+-.7  -8.7 
+-2.3  -16.1 
+
+1.2 
+
+.4 
+
+1.6 
+3.3 
+5.4 
+5.7 
+
+5.4 
+5.7 
+5.1 
+
+4.3 
+3.7 
+4.7 
+7.6 
+
+5.7 
+8.6 
+2.6 
+
+7.9 
+5.4 
+5.5 
+4.7 
+
+4.4 
+6.9 
+1.5 
+
+-1.5 
+-4.0 
+-4.0 
+-2.8 
+
+2.2  -5.3
+1.0  -2.3
+
+.4 
+2.2 
+
+-4.4
+-3.6
+
+-2.7 
+-5.1 
+
+.1 
+
+2.9 
+-3.3
+4.0  -6.2
+.0
+1.7 
+
+-4.5  -32.5 
+-61.7 
+-20.4 
+
+-21.6 
+2.5 
+
+-5.1 
+20.4 
+3.5 
+
+22.6  25.0 
+1.0 
+59. 
+8.0 
+6.6 
+
+14.9 
+-17.4 
+1.1 
+
+6.9  -22.6
+-25.3
+.6
+
+-31.9 
+9.3 
+
+5.2 
+12.3 
+13.2 
+1.2 
+
+3.1 
+10.5 
+.5 
+-1.1 
+
+-4.7 
+-12.5 
+-2.5 
+.3 
+
+-. 3 
+-2.6 
+-2. 
+
+1.0 
+
+5.2 
+12.2 
+8.0 
+1.3 
+
+-4.1 
+-3.2 
+11.5 
+-4.6 
+
+3.6 
+14.8 
+7.6 
+-2.7 
+
+7.0
+20.4
+10.1
+-. 8
+
+Disposable  personal  income
+
+1.1 
+
+-6.6 
+
+5.2 
+
+3.0 
+
+3.7
+
+.6 
+
+4.8 
+
+1.2
+
+Current Dollars
+
+Gross  national  product
+
+Final purchases
+
+Private
+
+Excluding  net  exports
+
+Personal  consumption  expenditures
+
+Goods
+Services
+
+Gross  private  domestic  investmant
+
+Residential  structures
+Business  fixed  investment
+
+12.2 
+11.8 
+10.2 
+9.5 
+
+-. 4
+-. 4
+-3.7
+-5.7
+
+10.7 
+9.4 
+12.3 
+
+.9 
+-7.0 
+10.? 
+
+11.4 
+14.9 
+18.5 
+15.4 
+
+15.6 
+15.1 
+16.0 
+
+7.1  -27.6 
+-58.2 
+-13.3 
+
+-14.0 
+13.3 
+
+-6.8 
+31.0 
+10.4 
+
+15.3 
+14.6 
+14.0 
+17.6 
+
+16.1 
+18.7 
+13.2 
+
+30.1 
+64.5 
+13.3 
+
+19.6 
+14.6 
+14.8 
+13.4 
+
+13.0 
+14.7 
+11.1 
+
+5.3 
+3.5 
+3.5 
+4.9 
+
+4.4 
+1.0 
+8.3 
+
+11.4 
+10.4 
+9.9 
+9.6 
+
+3.0
+5.7
+2.5
+3.0
+
+11.3 
+9.7 
+13.2 
+
+3.4
+-2.6
+10.3
+
+52.2 
+11.5 
+16.7 
+
+18.5 
+-13.4 
+14.5 
+
+9.2  -13.3
+-20.8
+8.4
+
+-27.0 
+14.3 
+
+Gov't.  purchases  of  goods  and  services
+
+Federal
+
+National  defense
+State  and  local
+
+18.5 
+29.5 
+28.8 
+12.7 
+
+13.6
+20.8
+10.4
+9.6
+
+1.9 
+
+-10.5 
+
+1.7 
+9.8 
+
+16.8 
+13.7 
+31.3  20.9 
+15.4 
+25.3 
+9.7 
+9.2 
+
+3.6
+2.2
+22.1
+4.4
+
+Disposable personal  income
+
+12.7 
+
+3.2 
+
+15.3 
+
+13.0 
+
+12.3 
+
+7.9
+
+Personal  income
+
+Wage  and  salary  disbursements
+
+10.7 
+11.4 
+
+4.4 
+3.8 
+
+15.1 
+8.8 
+
+14.4 
+16.1 
+
+13.0 
+12.0 
+
+9.0
+7.5
+
+12.2 
+23.5 
+10.8 
+5.7 
+
+13.4 
+
+13.7 
+9.2 
+
+18.6
+40.7
+36.7
+6.2
+
+8.3
+
+6.1
+5.1
+
+Corporate  profits with  I.V.A.  and  C.C.  Adj.
+
+Corporate  profits before  tax
+
+29.4 
+34.2 
+
+-39.6 
+-56.7 
+
+13.7 
+43.4 
+
+7.9 
+13.8 
+
+49.3 
+12.2 
+
+-27.1
+-37.1
+
+18.4 
+14.8 
+
+-17.7
+-25.8
+
+Nonfarm  payroll  employment
+
+Manufacturing
+
+Nonfarm  business  sector
+
+Output  per  hour
+Compensation per hour
+Unit  labor  costs
+
+GNP  implicit  deflator  <1>
+Gross  domestic  business  product
+
+fixed-weighted  price  index  <2>
+Excluding  food  and energy
+
+Consumer  price  index  (all  urban)
+
+1.8 
+-1.2 
+
+-2.3 
+-10.4 
+
+-1.8 
+-7.5 
+
+2.7 
+4.2 
+
+1.8 
+1.3 
+
+1.0
+2.8
+
+.8 
+.1 
+
+-1.8
+-8.1
+
+-. 4 
+11.9 
+12.4 
+
+-4.6 
+10.2 
+15.5 
+
+3.4 
+10.4 
+6.8 
+
+3.1 
+9.8 
+6.5 
+
+4.9 
+11.8 
+6.6 
+
+-1.3
+7.1
+8.6
+
+10.5 
+
+10.1
+
+9.6 
+
+10.5 
+
+10.9 
+
+6.8
+
+-. 3 
+9.0 
+9.3 
+
+9.0 
+
+11.0 
+8.7 
+16.5 
+
+10.4
+9.6
+13.5
+
+9.9 
+9.7 
+7.7 
+
+10.0 
+9.7 
+12.8 
+
+10.4 
+8.4 
+11.0 
+
+8.6
+9.4
+7.8
+
+9.3 
+11.0 
+11.8 
+
+-3.5
+7.3
+11.2
+
+8.8
+
+7.4
+8.6
+7.7
+
+Industrial  production
+
+.4  -19.8 
+
+-5.8 
+
+19.3 
+
+8.4 
+
+1.9
+
+1.4 
+
+-16.6
+
+<1>  Excluding  Federal  pay  increases,  rates  of  cheane  were:  1980-Q1.  10.5  percent;  1980-Q4,  9.4  percent;
+
+<2>  Use
+
+s
+
+1981-Q1,  10.8  percent;  1981-Q4,  7.8  percent.
+
+expenditures  in  1972  as  weibts.
+
+CONFIDENTIAL  - FR
+CLASS  II  FOMC
+
+GROSS  NATIONAL  PRODUCT  AND RELATED  ITEMS
+
+(Quarterly figures  are seasonally  adjusted.  Expenditures  and  income
+
+figures  are billions  of  current dollars  at  annual  rates.)
+
+I-10
+
+November  10,  1982
+
+----------
+
+1982 
+
+Projected----------
+1983
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4
+
+Gross  national  product
+
+Final  purchases
+
+Private
+
+Excluding  net  exports
+
+Personal  consumption  expenditures
+
+Goods
+Services
+
+Gross  private  domestic  investment
+
+Residential  structures
+Business  fixed  investment
+Change  in  business  inventories
+
+Nonfarm
+
+Net  exports  of  goods  and  services  <1>
+
+Exports
+Imports
+
+Gov't.  purchases  of goods  and services
+
+Federal <2>
+State  and  local
+
+Gross  national  product  in
+
+constant  (1972) dollars
+
+Personal  income
+
+Wage  and  salary disbursements
+
+Disposable  personal  income
+Saving rate  (percent)
+
+2995.5
+3031.1
+2401.0
+2369.7
+
+3045.2
+3061.4
+2430.5
+2395.6
+
+3091.4
+3091.8
+2441.6
+2428.4
+
+3132.1
+3162.9
+2473.6
+2464.3
+
+3185.5
+3187.9
+2511.4
+2509.4
+
+3233.9
+3227.7
+2546.1
+2553.0
+
+3296.8
+3286.8
+2593.9
+2605.9
+
+1919.4  1947.8  1989.5  2027.4  2064.0  2098.3  2141.1 
+987.0 
+995.7  1011.4  1028.8  1045.4  1060.1 
+1080.2 
+932.4 
+952.1 
+1038.2  1060.9 
+
+998.6  1018.6 
+
+978.1 
+
+414.8
+93.4
+357.0
+-35.6
+-36.0
+
+31.3 
+359.9 
+328.6 
+
+630.1 
+249.7 
+380.4 
+
+431.5
+95.5
+352.2
+-16.2
+-15.0
+
+34.9 
+365.8 
+330.9 
+
+630.9 
+244.3 
+386.6 
+
+438.5
+97.4
+341.6
+-. 5
+-. 5
+
+13.2 
+356.6 
+343.4 
+
+650.2 
+257.5 
+392.6 
+
+426.1
+101.9
+335.0
+-10.8
+-10.8
+
+9.3 
+342.1 
+332.8 
+
+669.3 
+271.6 
+397.7 
+
+443.0
+110.9
+334.5
+-2.4
+-2.4
+
+2.0 
+338.8 
+336.8 
+
+676.5 
+274.0 
+402.5 
+
+460.9
+117.9
+336.8
+6.2
+6.2
+
+-6.9
+344.2
+351.1
+
+474.8
+123.4
+341.4
+10.0
+10.0
+
+-12.0 
+355.0 
+367.0 
+
+681.6 
+274.6 
+407.0 
+
+692.9 
+281.3 
+411.6 
+
+3363.4
+3349.4
+2642.6
+2661.4
+
+2184.0
+1100.1
+1083.9
+
+491.4
+126.9
+350.5
+14.0
+14.0
+
+-18.8
+367.2
+386.0
+
+706.8
+291.4
+415.4
+
+1470.7  1478.4  1481.2  1478.9  1485.8  1493.3  1509.5  1525.5
+
+2510.5
+1541.6
+2117.1
+6.6
+
+2552.7
+1556.6
+2151.5
+6.7
+
+2597.8
+1569.4
+2202.3
+6.9
+
+2631.3
+1582.1
+2236.9
+6.7
+
+2664.1
+1606.1
+2274.1
+6.6
+
+2702.0
+1629.2
+2303.3
+
+64.
+
+2754.7
+1656.8
+2355.1
+6.4
+
+2800.4
+1688.3
+2398.9
+6.3
+
+Corporate profits  with  I.V.A. and C.C.  Adj.
+
+Corporate  profits  before  tax
+
+157.1 
+171.6 
+
+155.4 
+171.7 
+
+165.7 
+181.1 
+
+168.8 
+176.6 
+
+171.8 
+173.4 
+
+178.9
+173.3
+
+188.6 
+176.7 
+
+200.5
+180.4
+
+Federal  government  surplus  or  deficit  (-)
+
+(N.I.A.  basis)
+
+High employment  surplus  or  deficit  (-) 
+
+<3>
+
+-118.4 
+-17.0 
+
+-119.6 
+-8.1 
+
+-154.3 
+-35.6 
+
+-174.8 
+-44.8 
+
+-168.9 
+-31.0 
+
+-164.3 
+-21.2 
+
+-184.4 
+-41.8 
+
+-193.9
+-53.1
+
+State and  local government  surplus  or
+
+deficit  (-) 
+
+(N.I.A.  basis)
+
+Excluding  social  insurance  funds
+
+Civilian  labor  force (millions)
+Unemployment  rate  (percent)
+
+27.7 
+-6.8 
+
+32.1 
+-3.6 
+
+33.3 
+-3.6 
+
+33.3 
+-4.8 
+
+34.7 
+-4.6 
+
+36.2 
+-4.3 
+
+39.1 
+-2.6 
+
+42.7
+-.2
+
+109.1 
+8.8 
+
+110.2 
+9.5 
+
+110.7 
+9.9 
+
+110.7 
+10.6 
+
+111.0 
+10.6 
+
+111.3 
+10.6 
+
+111.7 
+10.5 
+
+112.0
+10.3
+
+Nonfarm  payroll  employment  (millions)
+
+Manufacturing
+
+90.4 
+19.4 
+
+90.0 
+19.1 
+
+89.3 
+18.7 
+
+88. 
+18.3 
+
+89.0 
+18.3 
+
+89.3 
+18.4 
+
+89.8 
+18.7 
+
+90.3
+18.9
+
+Industrial  production  (1967=100)
+
+Capacity  utilization:  all  manufacturing  (percent)
+
+Materials  (percent)
+
+141.7 
+71.6 
+72.0 
+
+139.4 
+70.3 
+69.6 
+
+138.1 
+69.6 
+68.1 
+
+136.4 
+68.4 
+67.1 
+
+137.7 
+68.7 
+679 
+
+138.9 
+68.9 
+68.5 
+
+142.9 
+70.5 
+70.9 
+
+146.3
+71.
+72.8
+
+Housing  starts,  private  (million  units,  A.R.)
+New  auto sales  (millions, A.R.)
+
+Domestic models
+Foreign models
+
+.9.992 
+
+8.12 
+5.90 
+2.22 
+
+7.53 
+5.53 
+1.99 
+
+1.11 
+7.78 
+5.56 
+2.22 
+
+1.20 
+8.10 
+5.80 
+2.30 
+
+1 
+8.40 
+6.10 
+2.30 
+
+1. 
+
+3.35 
+
+8.40 
+6.30 
+2.10 
+
+1.40 
+9.00 
+6.70 
+2.30 
+
+1.0
+9.20
+6.80
+2.40
+
+<1>  Balance  of  paymeat  data  and  details  underlying  these  estiates 
+
+are  shoen  in  the  Intermtional  Developments
+
+asecioa  of  this  part  of  the  Greembak.
+
+<2>  Componets  of  purchases  nad total  receipts  and  total 
+
+pnditrs 
+
+re  b oe 
+
+in  the  Federal  Sector  Accouts  table
+
+which  follos.
+
+<3>)  stimates  in  table  are  evaluated  at  a  5.1  percest  hig  eploymet  un  ploymet  rate. 
+
+vtlueted 
+
+unmploomeat  rate,  the  high  eploymat  budget  would  show  a  deficit  of  $69.4  billion  in  1982-Q*, 
+$79.2  billion  in  1983-94.
+
+t  a  6.1  percent
+sad a  deficit  of
+
+CONFIDENTIAL  - FR
+CLASS  II  FOMC
+
+PERCENT  CHANGES  IN  GROSS  NATIONAL  PRODUCT
+AND  RELATED  ITEMS
+(Annual  rates  compounded  quarterly)
+
+November  10,  1982
+
+Consta------nt  (1972)  Dollar------------------------
+Constant  (1972) Dollars
+
+Gross  national  product
+
+Final  purchases
+
+Private
+
+Excluding net exports
+
+rersonaL  consumptcon  expenditures
+
+Goods
+Services
+
+Gross  private domestic  investment
+
+Residential  structures
+Business  fixed  ivestment
+
+Gov't.  purchases  of  goods  and  services
+
+Federal
+
+National  defense
+State  and local
+
+Disposeble  personal  incme
+
+Current  Dollars
+
+Cross  national  product
+
+Final  purchases
+
+Private
+
+Excluding  net  exports
+
+Personal  consumption  expenditures
+
+Goods
+Services
+
+Cross  private  domstic  investment
+
+Residential  structures
+Business  fixed  investmnt
+
+Gov't.  purchases  of  goods  and  services
+
+Federal
+National  dfense
+State  and local
+
+Disposable  personal  incom
+
+Personal  incom
+
+Hage  and  salary  disburasmts
+
+------------
+
+Projected-----------
+
+1982 
+
+1983
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4
+
+-5.1 
+.2 
+1.0 
+.9 
+
+2.5 
+2.0 
+3.0 
+
+2.1 
+-. 9 
+.2 
+.6 
+
+2.5 
+2.5 
+2.4 
+
+.8 
+
+-. 6 
+-2.3 
+-. 6 
+
+1.4 
+.7 
+2.2 
+
+-.6 
+.8 
+.0 
+.9 
+
+2.5 
+3.8 
+1.2 
+
+1.9
+.9
+1.3
+2.1
+
+1.9
+2.0
+1.7
+
+-36.5 
+-10.2 
+-5.0 
+
+14.9 
+12.9 
+-11.8 
+
+-. 4 
+4.2 
+-12.9 
+
+-15.6 
+15.2 
+-11.1 
+
+10.8
+34.8
+-4.4
+
+-5.3 
+-2.9 
+-5.5  -13.5 
+21.4 
+-7.9 
+.4 
+-1.1 
+
+6.8 
+19.6 
+14.3 
+-.7 
+
+3.9 
+11.6 
+6.6 
+-.9 
+
+-. 7
+-.3
+4.4
+-.9
+
+2.0 
+1.0 
+1.6 
+2.0 
+
+1.6 
+1.3 
+1.9 
+
+11.9 
+22.5 
+-. 7 
+
+-1.3 
+-2.1 
+6.4 
+-. 8 
+
+4.4
+4.0
+4.5
+3.7
+
+3.4
+3.6
+3.2
+
+8.4
+15.1
+2.3
+
+2.1
+5.8
+9.6
+-. 4
+
+-1.9 
+
+3.1 
+
+2.3 
+
+1.2 
+
+1.3
+
+.1 
+
+4.3 
+
+2.7
+
+-1.0 
+5.6 
+6.5 
+5.2 
+
+6.8 
+4.1 
+5.0 
+4.4 
+
+6.2 
+4.0 
+1.8 
+5.6 
+
+7.6 
+4.5 
+11.0 
+
+6.1 
+-3.6 
+8.7 
+
+8.8 
+6.5 
+11.4 
+
+5.4 
+6.8 
+5.3 
+6.0 
+
+7.8 
+7.1 
+8.6 
+
+7.0
+5.9
+6.3
+7.5
+
+7.4
+6.6
+8.3
+
+-36.8 
+-8.4 
+-3.5 
+
+17.1 
+9.4 
+
+6.6 
+7.9 
+-5.3  -11.5 
+
+-10.8 
+19.8 
+-7.5 
+
+16.8
+40.3
+-.6
+
+2.4 
+-1.4 
+-1.8 
+5.0 
+
+.6 
+-8.3 
+26.4 
+6.7 
+
+12.8 
+23.5 
+18.1 
+6.4 
+
+12.3 
+23.7 
+16.8 
+5.3 
+
+4.4
+3.6
+9.5
+4.9
+
+6.2 
+5.1 
+5.6 
+7.1 
+
+6.8 
+5.7 
+7.9 
+
+17.2 
+27.7 
+2.8 
+
+3.0 
+.9 
+10.6 
+4.5 
+
+8.0
+7.5
+7.7
+8.5
+
+8.4
+7.8
+9.0
+
+12.6
+20.0
+
+5.6
+
+6.8
+10.1
+14.7
+4.6
+
+3.0 
+
+6.7 
+
+9.8 
+
+6.4 
+
+6.8
+
+5.2 
+
+9.3
+
+2.6 
+2.7 
+
+6.9 
+3.9 
+
+7.3 
+3.3 
+
+5.3 
+3.3 
+
+5.1
+6.2
+
+5.5 
+5.9 
+
+8.0
+7.0
+
+Corporate profits with I.V.A. sad C.C.  Adj.
+
+Corporate profits  before  tax
+
+-46.7 
+-60.5 
+
+-4.3 
+.2 
+
+29.9 
+24.3 
+
+7.7 
+-9.6 
+
+7.3
+-7.1
+
+17.4 
+-.4 
+
+23.5
+8.1
+
+Nonfarm payroll  eployent
+
+Manufacturian
+
+onfarm  business  sector
+
+Output  per  hour
+Campentaion  per  hour
+Unit  Labor  costs
+
+GNP implicit  deflator  <1>
+Gross  domestic  business  product
+
+fixed-weighted  price  index  <2>
+Excluding  food  and  enery
+
+Consumer  price  index  (all  urban)
+
+Industrial  production
+
+-2.4 
+-9.0 
+
+-1.7 
+-7.2 
+
+-3.0 
+-7.8 
+
+-2.3 
+-9.0 
+
+.7
+.9
+
+1.4 
+3.3 
+
+2.0
+4.9
+
+.6 
+7.7 
+7.1 
+
+.8 
+
+6.1 
+5.2 
+
+3.6 
+6.6 
+2.9 
+
+2.1 
+5.8 
+3.6 
+
+1.4
+6.0
+4.6
+
+.8 
+
+5.0 
+4.2 
+
+2.4
+5.0
+2.5
+
+4.3 
+
+4.6 
+
+5.4 
+
+6.0 
+
+5.0
+
+4.1 
+
+3.4
+
+4.4 
+5.3 
+3.2 
+
+3.8 
+5.9 
+4.6 
+
+6.1 
+5.8 
+7.7 
+
+5.4 
+5.6 
+1.6 
+
+4.8
+4.8
+5.2
+
+4.5 
+4.2 
+5.1 
+
+4.2
+3.7
+4.7
+
+-11.8 
+
+-6.5  -3.7 
+
+-4.8 
+
+3.9
+
+3.5 
+
+12.0
+
+<1  Excluding  Federal  pay  increases,  the  rates  of  change  are:  1982-1,  4.2  percent;  1982-q4,  5.5  percent;
+
+1983-Q1,  5.0  percent;  1983-Q4,  3.4  percent.
+
+<2)  Uses expenditures  in  1972  as  weights.
+
+CONFIDENTIAL  - FR
+CLASS 
+
+II  FOMC
+
+GROSS  NATIONAL  PRODUCT  AND  RELATED  ITEMS
+(Expenditures  and  income  figures  are  billions  of  current  dollars.)
+
+I-12
+
+November  10,  1982
+
+Gross  national  product
+
+Final  purchases
+
+Private
+
+Excluding  net  exports
+
+Personal  consumption  expenditures
+
+Goods
+Services
+
+Gross  private  domestic  investment
+
+Residential  construction
+Business  fixed  investment
+Change  in  business  inventories
+
+Nonfarm
+
+1976 
+
+1977 
+
+1978 
+
+1979 
+
+1980 
+
+1981 
+
+-- Projected-
+1983
+
+1982 
+
+1718.0  1918.3  2163.9  2417.8  2633.1  2937.7  3066.0  3269.9
+1706.2  1895.3  2137.4  2403.5  2643.1  2917.3  3081.8  3262.9
+1501.5  1705.5  1929.1  2104.7  2320.4  2436.7  2573.5
+1344.1 
+1330.3  1505.5  1706.6  1915.9  2079,5  2294.3  2414.5  2582.4
+
+1084.3  1204.4  1346.5  1507.2  1667.2  1843.2  1971.0  2121.8
+969.1  1005.7  1071.4
+965.3  1050.4
+874.1 
+
+728.5 
+618.0 
+
+884.7 
+782.5 
+
+598.5 
+485.7 
+
+657.0 
+547.4 
+
+813.5 
+693.7 
+
+257.9 
+72.0 
+174.1 
+11.8 
+13.9 
+
+324.1 
+95. 
+205.2 
+23.0 
+21.9 
+
+386.6 
+111.2 
+248.9 
+26.5 
+25.4 
+
+423.0 
+118.6 
+290.2 
+14.3 
+8.6 
+
+402. 
+103.2 
+309.2 
+-10.0 
+-5.7 
+
+-471.5 
+104.9 
+346.1 
+20.5 
+15.0 
+
+427.7 
+97.0 
+346.4 
+-15.8 
+-15.6 
+
+Net  exports  of  goods  and  services  <1>
+
+Exports
+Imports
+
+13.8 
+170.9 
+157.1 
+
+-4.0 
+182.7 
+186.7 
+
+-1.1 
+218.7 
+219.8 
+
+13.2 
+281.4 
+268.1 
+
+25.2 
+339.2 
+314.0 
+
+26.1 
+367.3 
+341.3 
+
+22.2 
+356.1 
+333.9 
+
+Gov't.  purchases  of  goods  and  services
+
+Federal  <2>
+State  and  local
+
+362.1 
+129.2 
+232.9 
+
+393.8 
+143.4 
+250.4 
+
+431.9 
+153.6 
+278.3 
+
+474.4 
+168.3 
+306.0 
+
+538.4 
+197.2 
+341.2 
+
+596.9 
+228.9 
+368.0 
+
+645.1 
+255.8 
+389.3 
+
+689.4
+280.3
+409.1
+
+Gross national  product  in
+
+constant  (1972)  dollars
+
+Personal  income
+
+Wage  and  salary  disbursement
+
+Disposable  personal  income
+Saving  rate  (percent)
+
+1296.2  1369.7  1438.6  1479.4  1474.0  1502.6  1477.3  1503.5
+
+1391.2  1540.4  1732.7  1951.2  2160.4  2415.8  2573.1  2730.3
+889.9  983.2  1106.3  1237.6  1356.1  1493.9  1562.4  1645.1
+1194.4  1314.0  1474.0  1650.2  1824.1  2029.1  2176.9  2332.8
+6.4
+
+6.7 
+
+6.4 
+
+5. 
+
+5.9 
+
+6.9 
+
+6.1 
+
+Crporate  profits  with  I.V.A.  and  C.C.Adj.
+
+Corporate  profits  before  tax
+
+138.1 
+166.3 
+
+167.3 
+194.7 
+
+192.4 
+229.1 
+
+194.8  11.6 
+242.4 
+252.7 
+
+190.6 
+232.1 
+
+161.8 
+175.3 
+
+184.9
+173.9
+
+Federal  governmnt  surplus  or  deficit(-)
+
+(N.I.A.  basis)
+
+High  employment  surplus  or  deficit(-)
+
+State  and  local  government  surplus  or
+
+deficit  (-) 
+
+(N.I.A.  basis)
+
+Excluding  social  insurance  funds
+
+Civilian  labor  force  (millions)
+Unemployment  rate (percent)
+
+Nonfarm  payroll  employment  (millions)
+
+Manufacturing
+
+-53.1 
+-16.6 
+
+-45.9 
+-20.5 
+
+-29.5 
+-16.0 
+
+-16.1 
+-2.0 
+
+-61.4 
+-17.1 
+
+-60.0 
+4.5 
+
+-141.8 
+-26.4 
+
+-177.8
+-36.8
+
+16.6 
+.9 
+
+96.2 
+7.7 
+
+79.4 
+19.0 
+
+20.0 
+10.1 
+
+30.3 
+10.0 
+
+30.4 
+6.6 
+
+28.1 
+.9 
+
+31.7 
+-. 1 
+
+31.6 
+-4.7 
+
+38.2
+-2.9
+
+99.0 
+7.1 
+
+102.3 
+6.1 
+
+105.0 
+5.8 
+
+106.9 
+7.1 
+
+108.7 
+7.6 
+
+110.2 
+9.7 
+
+111.3
+10.5
+
+82.5 
+19.7 
+
+86.7 
+20.5 
+
+89.8 
+21.0 
+
+90.4 
+20.3 
+
+91.1 
+20.2 
+
+89.7 
+18.9 
+
+Industrial  production  (1967=100)
+
+Capacity  utilization:  all  maufacturing  (percent)
+
+Materials  (percent)
+
+130.4 
+79.5 
+81.1 
+
+138.1 
+81.9 
+82.7 
+
+146.1 
+84.4 
+83.6 
+
+152.5 
+85.6 
+87.4 
+
+147.0 
+79.1 
+80.0 
+
+150.9 
+78.4 
+79.9 
+
+138.9 
+70.0 
+69.2 
+
+Housing  starts,  private  (million  units,  A.R.)
+New  auto  sales  (millions,  A.R.)
+
+Dometic  models
+Foreign  models
+
+1.54 
+10.12 
+8.63 
+1.49 
+
+1.96 
+11.13 
+9.07 
+2.06 
+
+2.00 
+11.29 
+9.29 
+2.00 
+
+1.72 
+10.68 
+8.36 
+2.32 
+
+1.30 
+9.04 
+6.62 
+2.42 
+
+1.10 
+8.56 
+6.24 
+2.32 
+
+1.05 
+7.88 
+5.70 
+2.18 
+
+<1>  Balance  of  payment  data  underlying  these  estimates  are  shoe  in  the  International  Developmats  section  of  this
+
+part  of  the  Greenbook.
+
+<2>  Components  of  purchases  and  total  receipts  and  total  ezpemditures  are  aboe 
+
+in  the  ederal  Sector  Accounts  table
+
+which  follows.
+
+467.5
+119.8
+340.8
+7.0
+7.0
+
+-8.9
+351.3
+360.2
+
+89.6
+18.6
+
+141.4
+70.0
+70.0
+
+1.36
+8.75
+6.48
+2.28
+
+CONFIDENTIAL - FR
+CLASS II  FOMC
+
+PERCENT CHANGES IN  GROSS  NATIONAL PRODUCT
+AND  RELATED  ITEMS
+
+November 10,  1982
+
+1976 
+
+1977 
+
+1978 
+
+1979 
+
+1980 
+
+1981 
+
+-Projected--
+1983
+
+1982 
+
+Constant  (1972) Dollars
+
+Gross  national  product
+
+Final  purchases
+
+Private
+
+Excluding net  exports
+
+Personal  consumption expenditures
+
+Goods
+Services
+
+Gross  private domestic  investment
+
+Residential  structures
+Business  fixed  investment
+
+-. 4
+.5
+.0
+
+-1.1
+
+.3
+-1.5
+2.4
+
+-1.7
+
+-. 7
+-1.1
+-. 3
+
+1.0
+.3
+1.8
+
+1.8 
+1.9 
+1.7 
+
+5.0 
+5.1 
+4.9 
+
+4.5 
+4.2 
+4.8 
+
+2.7 
+1.9 
+3.7 
+
+19.2 
+21.3 
+5.3 
+
+16.1 
+18.6 
+11.7 
+
+10.5 
+2.8 
+12.8 
+
+-.2  -11.8
+-5.3  -20.1
+-2.2
+
+7.3 
+
+8.3 
+-4.9 
+3.6 
+
+-12.1
+-10.1
+-4.7
+
+Gov't.  purchases  of  goods  and  services
+
+Federal-
+National  defense
+State  and  local
+
+.0
+-. 6
+
+-2.3
+
+.4
+
+.8
+3.8
+7.4
+-1.1
+
+2.2
+2.4
+2.0
+
+4.0
+18.9
+-5.2
+
+1.1
+4.0
+8.4
+-. 7
+
+Disposable personal  income
+
+3.6 
+
+4.0 
+
+4.9 
+
+2.7
+
+.2 
+
+2.5 
+
+1.3 
+
+1.7
+
+Current  Dollars
+
+Gross  national  product
+
+Final purchases
+
+Private
+
+Excluding net  exports
+
+Personal  consumption  expenditures
+
+Goods
+Services
+
+Gross  private  domestic  investment
+
+Residential  structures
+Business  fixed  investment
+
+Gov't.  purchases  of goods  and  services
+
+Federal
+National defense
+State  and  local
+
+11.7
+11.1
+11.7
+13.2
+
+12.8
+12.8
+13.6
+13.4
+
+11.7
+12.4
+13.1
+12.3
+
+11.0 
+10.9 
+11.2 
+
+11.1 
+9.8 
+12.7 
+
+11.8 
+10.9 
+12.9 
+
+11.9
+11.7
+12.2
+
+25.1 
+30.2 
+10.4 
+
+25.7 
+33.1 
+17.9 
+
+8.8
+11.0
+8.0
+7.5
+
+19.3 
+16.1 
+21.3 
+
+9.7
+7.1
+8.0
+11.2
+
+9.4
+6.6
+16.6
+
+9.8
+9.6
+11.5
+9.9
+
+8.9
+10.0
+9.1
+8.5
+
+10.6 
+8.8 
+12.8 
+
+-4.9 
+-13.0 
+6.5 
+
+13.5
+17.1
+17.5
+11.5
+
+11.6
+10.4
+10.2
+10.3
+
+10.6
+9.5
+11.7
+
+17.2
+1.7
+12.0
+
+10.9
+16.1
+17.0
+7.9
+
+6.9 
+3.8 
+10.4 
+
+-9.3 
+-7.5 
+.1 
+
+8.1
+11.7
+16.6
+5.8
+
+7.7
+6.5
+8.8
+
+9.3
+23.4
+-1.6
+
+6.9
+9.6
+14.4
+5.1
+
+Disposable  personal  income
+
+9.0 
+
+10.0 
+
+12.2 
+
+12.0 
+
+10.5 
+
+11.2 
+
+7.3 
+
+7.2
+
+Personal  income
+
+Wage  and salary  disbursements
+
+10.0 
+10.4 
+
+10.7 
+10.5 
+
+12.5 
+12.5 
+
+12.6 
+11.9 
+
+10.7 
+9.6 
+
+11.8 
+10.2 
+
+6.5 
+4.6 
+
+6.1
+5.3
+
+Corporate profits  with I.V.A. and C.C.Adj.
+
+Corporate  profits before  tax
+
+25.0 
+25.9 
+
+21.1 
+17.1 
+
+15.0 
+17.7 
+
+1.3 
+10.3 
+
+-6.8 
+-4.0 
+
+5.0  -15.0 
+-4.3  -24.5 
+
+14.3
+
+.3
+
+Nonfarm payroll  employment
+
+Manufacturing
+
+Nonfarm business  sector
+
+Output  per  hour
+Compensation per hour
+Unit  labor  costs
+
+GNP implicit deflator
+Gross  domestic  business  product
+fixed-weighted price  index <1>
+Excluding  food  and energy
+
+Consumer  price  index (all urban)
+
+3.2 
+3.7 
+
+3.9 
+3.6 
+
+5.1 
+4.2 
+
+3.6 
+2.6 
+
+.6 
+-3.6 
+
+.8  -1.6 
+-.6  -6.5 
+
+-.1
+-1.5
+
+3.2 
+8.1 
+4.7 
+
+2.2 
+7.5 
+5.2 
+
+.6 
+8.6 
+8.0 
+
+-1.3 
+9.3 
+10.7 
+
+-. 9 
+10.2 
+11.2 
+
+1.4 
+9.7 
+8.1 
+
+.1
+7.2
+7.1
+
+5.2 
+
+5.8 
+
+7.4 
+
+8.6 
+
+9.3 
+
+9.4 
+
+6.2
+
+5.5 
+6.1 
+5.7 
+
+6.1
+6.3
+6.5
+
+8.0 
+7.8 
+7.7 
+
+9.9 
+8.6 
+11.3 
+
+10.1 
+8.6 
+13.5 
+
+9.6
+9.4
+10.3
+
+1.8
+5.6
+3.8
+
+4.8
+
+4.8
+4.8
+4.7
+
+Industrial  production
+
+10.7 
+
+5.9 
+
+5.8 
+
+4.4 
+
+-3.6 
+
+2.6 
+
+-8.0 
+
+1.8
+
+<1> Uses  expenditures  in  1972 as  weights.
+
+FEDERAL  SECTOR  ACCOUNTS
+
+November 10,  1982
+
+Fiscal 
+Tear 
+1981* 
+
+599.3 
+657.2 
+-57.9 
+
+-21.0 
+-78.9 
+
+79.4 
+2.3 
+-2.8 
+
+18.7 
+
+35.7 
+
+Fiscal 
+Tear 
+1982* 
+
+617.8 
+728.4 
+-110.7 
+
+FT1983I/2/ 
+
+Admin. 
+1/ 
+
+i.R. 
+Board 
+
+CT 
+1981* 
+
+CYl982e/ 
+F.R. 
+Board 
+
+19818 
+-IV*- 
+
+S 
+
+FRB  Staff  Estimates
+
+Calendar  quarters;  unadjusted  data
+
+198 
+
+1983
+
+I 
+
+II* 
+
+III* 
+
+I 
+
+I 
+
+I 
+
+II 
+
+III
+
+646.5 
+761.5 
+-115.0 
+
+606.9 
+784.3 
+-177.4 
+
+608.1 
+619.1 
+691.6 
+729.8 
+-72.5  -121.7 
+
+146.0 
+194.2 
+-48.2 
+
+143.6 
+167.3 
+-23.7 
+
+178.9 
+181.4 
+-2.5 
+
+149.3 
+185.5 
+-36.2 
+
+136.4 
+195.5 
+-59.2 
+
+136.0 
+194.2 
+-58.2 
+
+179.4 
+192.3 
+-12.9 
+
+155.1
+202.3
+-47.2
+
+-17.3 
+-128.0 
+
+-14.9 
+-129.9 
+
+-14.6 
+-192.0 
+
+-22.4 
+-94.9 
+
+-16.2 
+-137.9 
+
+-3.6 
+-51.8 
+
+-2.0 
+-25.7 
+
+-5.8 
+-6.0 
+-8.3  -42.3 
+
+-2.5 
+-61.7 
+
+-2.9 
+-61.1 
+
+-5.1 
+-18.0 
+
+-4.1
+-51.3
+
+134.9 
+-10.7 
+3.8 
+
+126.0 
+
+0.9 
+
+183.7 
+10.5 
+-2.1 
+
+87.3 
+0.3 
+7.3 
+
+148.8 
+-3.0 
+-7.9 
+
+35.6 
+6.7 
+9.5 
+
+32.8 
+-1.0 
+46.1 
+
+9.0 
+2.0 
+-2.8 
+
+57.5 
+
+-18.4 
+3.2 
+
+49.5 
+14.4 
+-2.2 
+
+55.8 
+4.5 
+0.8 
+
+29.7 
+-8.7 
+-3.0 
+
+48.7
+0.3
+2.3
+
+29.4 
+
+n.a. 
+
+18.9 
+
+12.0 
+
+15.0 
+
+12.0 
+
+13.0 
+
+11.0 
+
+29.4 
+
+15.0 
+
+10.5 
+
+19.2 
+
+18.9
+
+20.5 
+
+50.1 
+
+17.0 
+
+30.0 
+
+17.6 
+
+4.0 
+
+1.6 
+
+9.1 
+
+5.8 
+
+1.1 
+
+3.7 
+
+6.0 
+
+6.5
+
+615.5 
+666.3 
+218.1 
+146.5 
+71.5 
+448.2 
+-50.9 
+
+617.4 
+740.9 
+250.5 
+173.3 
+77.3 
+490.4 
+-123.5 
+
+n.a. 
+a.&. 
+n.a. 
+n.a. 
+.sa. 
+n.a. 
+n.e. 
+
+630.5 
+603.5 
+275.4 
+198.5 
+76.8 
+528.1 
+-173.1 
+
+628.2 
+615.2 
+688.2 
+757.0 
+228.9 
+255.8 
+153.7 
+179.3 
+75.2 
+76.6 
+501.2 
+459.3 
+-60.0  -141.8 
+
+616. 
+
+640.5
+824.8
+281.3
+207.4
+73.9
+543.5
+-101.7  -118.4  -119.6  -154.3  -174.8  -168.9  -164.3  -184.4
+
+Seasonally  adjusted  annual  rates
+617.0 
+791.8 
+271.6 
+191.0 
+80.6 
+520.2 
+
+617.0 
+736.6  771.2 
+257.5 
+244.3 
+183.7 
+176.2 
+68.2 
+73.9 
+513.7 
+492.3 
+
+625.7 
+727.4 
+250.5 
+166.9 
+83.6 
+476.9 
+
+627.4 
+796.3 
+274.0 
+195.4 
+78.6 
+522.3 
+
+609.9 
+728.3 
+249.7 
+166.2 
+83.5 
+478.6 
+
+637.0 
+801.3 
+274.6 
+200.4 
+74.2 
+526.7 
+
+Unified budget  receipts 
+Unified budget  outlays 
+
+Surplus/deficit(-), unified  budget 
+Surplus/deficit(-), off-budget
+
+agencies 3  
+
+Combined  deficit to  be financed 
+
+Heans  of  financing  combined  deficit:
+
+Net  borrowing from public 
+Decrease  In  cash  operating  balance 
+Other
+
+4  
+
+Cash  operating  balance,  and  of  period 
+
+emon:  Sponsored  agency  borrowing5  
+
+HIA Budget
+
+Receipts 
+Expenditure 
+
+Purchaet s 
+Defense 
+Nondefense 
+
+All other expenditures 
+
+Surplus/deficit(-) 
+
+Sigh  Employment  (H.E.)  surplus/deficit(-)
+evaluated  at R.E.  unemployment  rate oft
+
+5.1  percent 
+6.1  percent 
+
+6.9 
+-17.7 
+
+-20.3 
+-47.7 
+
+a.*. 
+n.s. 
+
+-34.7 
+-62.9 
+
+4.5 
+-20.8 
+
+-26.4 
+-54.2 
+
+-20.3 
+-43.3 
+
+-17.0 
+-41.4 
+
+-8.1 
+-33.4 
+
+-35.6 
+-60.5 
+
+-44.8 
+-69.4 
+
+-31.0 
+-56.0 
+
+-21.2 
+-46.6 
+
+-41.8
+-67.7
+
+*-atual 
+
+e-estimated 
+
+n.a.-not available
+
+1.  One Hid-Session Review of the  1983 Budget,  July  1982.
+2.  In the  First Concurrent  Resolutlon on the Budget  -
+
+Fiscal Year  1983, the
+Congress  recomended revenue  of  $665.9  billion and  outlays of  $769.8  billion.
+
+3.  Includes Federal  Financing Bank, Postal Service  Fund, Rural Electrification
+and Telephone  Revolving Fund, Rural Telephone Bank  and (beginning in FT1982)  the
+Strategic  Petroleum  Reserve.
+
+4.  Checks issued less checks paid, accrued  items  and other  transactions.
+5.  FB staff  estimates and  actualI  include  Federal  Home Loan Banks.  HUMC
+
+(excluding  participation certificates),  FNMA  (excluding mortgage  backed
+securities),  Federal  land Banks,  Federal  Intermediate Credit  Banks  for
+Cooperatives, and  Student  Loan Marketing Association marketable  debt on  a
+payment basis.  FRB  and Administration estimates are  not stricly  comparable.
+
+MOTIE  Quarterly figures may not add to yearly totals  due to  rounding.
+
+DOMESTIC FINANCIAL  DEVELOPMENTS
+
+Recent  developments.  Conditions  in  financial  markets have  eased  fur-
+
+ther  since  the  October FOMC  meeting.  Federal  funds  are  now  trading more
+
+than  1-1/4  percentage  points  below their early  October  level,  reflecting
+
+both the  1/2-point  discount  rate  cut  announced  October 8 and  more  comfort-
+
+able  reserve  positions.  In other  short-term markets,  interest rates  gen-
+
+erally have  fallen  about  1-1/2  to  1-3/4  percentage  points,  except  shorter-
+
+term Treasury bill  rates, which  are off  only a little.  Along with the
+
+reduced  differential  between yields on  private and  Treasury obligations,
+
+quality spreads  in  commercial  paper and  bank CD markets have narrowed  some-
+
+what.
+
+The  long-term debt  and  equity markets  staged  another  impressive rally
+
+in  October and  early November  as  investors reacted favorably  to  what  was
+
+interpreted  as  the  adoption  of  a more accommodative stance  by the  Federal
+
+Reserve System.  Since early  October  indexes of  stock  prices  have advanced
+
+another  18  to  22  percent amid  record  trading  volume,  with several  of  these
+
+indexes  touching new all-time  highs  in early November.  Meanwhile corporate
+
+and  Treasury bond  rates  have  fallen  about  1-1/4  percentage  points,  and home
+
+mortgage  commitment  rates  are  down more  than  1 percentage point;  most  of
+
+these rates  are  at  their  lowest  levels  since  the summer  of  1980.  In  the
+
+tax-exempt sector,  yields  have  declined  somewhat  less,  reflecting some  con-
+
+gestion  in  the market  as  record new issue  volume met with unenthusiastic
+
+demand  by traditional  institutional customers.
+
+As  anticipated,  the maturing of  more than  $30  billion in  all  savers
+
+certificates  (ASCs) in  October has  significantly  altered  deposit  flows  and
+
+therefore  the  performance of M1  relative  to  the  broader monetary aggregates.
+
+I-15
+
+I-16
+
+Thus  far,  the  available  data  indicate  that  depository  institutions  have
+
+retained most  of  these  funds,  although very  little has  been  rolled  over
+
+into  new ASCs.  Apparently, most  of  this  money has  been placed  at  least
+
+temporarily  in liquid  accounts--demand  deposits, other  checkable deposits,
+
+and  savings accounts--as  depositors  ponder  a large and  changing menu of
+
+investment alternatives  at  substantially lower interest  rates.  These
+
+transitory shifts  contributed  to  a surge in M1  in October  at nearly a 20
+
+percent annual  rate.
+
+M2 expanded  at  an  8 percent  rate,  somewhat  faster  than  in  September
+
+but  below the  average rate  of  increase  since the  fourth  quarter of  last
+
+year.  The  nontransactions component  of  M2  accelerated  as  a resurgence of
+
+overnight  RPs  at banks  and of  savings deposits  at  both  banks  and  thrifts
+
+more  than offset  the  effects  of  ASC  redemptions  on  small-time deposit  flows.
+
+In  addition, M3 growth  was  boosted by a resumption  of  CD  issuance at  banks--
+
+in part  to  fund  placements  at banks  overseas--as well as more  rapid  growth
+
+of  CDs  at  thrifts  and  of  institutionally oriented money market mutual  funds.
+
+Bank credit growth also  picked  up, owing  largely to  stepped-up acquisitions
+
+of  Treasury  securities.
+
+Demands  for  credit  by nonfinancial business  firms  tapered  off  somewhat
+
+in October  after remaining strong  throughout most  of  the  year.  Although
+
+corporations  have  taken advantage of  lower  bond  rates  to  float  the largest
+
+volume  of  long-term issues  in nearly a year,  they  used  the  proceeds  to  pay
+
+down  commercial paper obligations  at  a record  pace, and  also  reduced  their
+
+outstanding bank loans  (aside  from those related  to  mergers).  Equity issu-
+
+ance  has  just  begun  to  rise in response  to  higher stock  prices.
+
+I-17
+
+Household borrowing  remains  sluggish,  according  to  the  latest  avail-
+
+able  data.  Consumer  installment debt  increased  in  September  at  only a 4
+
+percent annual  rate  after  virtually no  gain in  August.  In  the  residential
+
+mortgage market  there  are  indications  that  the  volume  of  lending  is  picking
+
+up gradually.  New loan commitments at  S&Ls were  nearly $5-1/2  billion in
+
+September, up more  than  60  percent  from the  cyclical  low last  fall  and  the
+
+largest volume  so  far  this  year.  HUD  surveys of  large  mortgage  companies
+
+also  indicate  that  demands  for  conventional  and  government-underwritten
+
+home mortgage  credit,  particularly fixed-rate  contracts, have risen  from
+
+exceptionally depressed  levels.
+
+Borrowing by  the government  sector  has  continued  heavy.  Through mid-
+
+November, the  Treasury had  raised  $26  billion in  new cash;  for  the  quarter
+
+as  a whole  the  staff estimates  that  the  Treasury will  borrow $49  billion  in
+
+marketable securities  to  help  finance a record  $61.7  billion deficit.  Tax-
+
+exempt  borrowers brought  almost  $8 billion  in long-term  issues  to  market  in
+
+October  as  declining  interest  rates  and  the approaching January  1 effective
+
+date  for registration  of all municipal  bonds  apparently spurred many units
+
+to  accelerate  their  financing plans.
+
+Outlook.  The  financing needs  of governmental units  at both  the  feder-
+
+al  and  state and  local  levels  will continue  to  dominate  credit  flows  over
+
+the  next  few months.  In  private markets,  only mortgage lending  is  expected
+
+to  show much of  an  increase,  and business  firms  are  projected  to  continue
+
+funding  short-term debt  in  the  bond market.
+
+Staff  projections  call  for  the U.S.  Treasury  to  float  approximately
+
+another  $50  billion of  debt  in  the  first quarter.  Borrowing  by tax-exempt
+
+units  is  expected  to  remain near recent  record  levels  throughout  the
+
+I-18
+
+remainder of  the  year, after  which it  may  fall  off  a bit  owing  to  the  afore-
+
+mentioned  acceleration of  offerings  to  avoid  the new registration require-
+
+ments;  even  so,  by all  but  the  most  recent historical  standards  the  volume
+
+of municipal  offerings  probably will  be  substantial.
+
+Nonfinancial  business  firms,  on  the  other  hand,  are expected  to  place
+
+relatively moderate  demands  on credit markets  in  the very near  future  as
+
+some  pick-up in  cash  flow,  renewed inventory liquidation, and  further weak-
+
+ness  in  capital spending  combine  to  reduce  external  financing needs.  Absent
+
+a reversal  in  bond  rates,  corporations will most likely keep focusing  their
+
+fund-raising  in  long-term markets in  an effort  to repair  balance sheet  posi-
+
+tions.
+
+Borrowing by  the household  sector  should pick up somewhat,  as  con-
+
+sumers increase  their purchases  of durable goods.  With margins between con-
+
+sumer loan rates and  costs  of  funds now relatively wide, banks and  finance
+
+companies appear willing  to  finance  at  least  a moderate  increase  in  install-
+
+ment debt.  As  already noted, in  the residential mortgage market, where
+
+rates  have dropped significantly from  their peaks  a year  ago,  institutional
+
+lending already has  shown signs  of  revival.  The  volume of  such  activity
+
+should  rise  further, not only  to  support further moderate  gains  in home
+
+building  but  also  to  refinance  higher-rate  or  short-term  loans  arranged
+
+during the  recent  period  of  creative  financing.
+
+On  balance,  the outlook for  credit demands  and  supplies  suggests
+
+that  interest  rates  in both  short-  and  long-term markets  will fluctuate  at
+
+about  their  current levels  or a bit  lower,  with appreciable upward cyclical
+
+pressures  unlikely to  emerge  for  several months.
+
+INTERNATIONAL DEVELOPMENTS
+
+Recent  Developments.  Since  the  last  FOMC  meeting  the  exchange
+
+value  of  the  dollar  has  appreciated  on  balance  about  1 percent.  The
+
+appreciation occurred despite  a  larger  decline  in dollar  interest  rates
+
+than  in  interest  rates  on assets denominated in  other  currencies  and  the
+
+announcement of  a  third-quarter  trade deficit  more  than  twice  the  size
+
+of  the  first-  andsecond-quarter  deficits.
+
+U.S.  intervention
+
+purchases  of  yen and  German marks  totaling less  than  $100  million  on
+
+three  days  in  early October.  The  Italian lira  came  under pressure  as  a
+
+result  of  increasing market  concerns  about  Italy's  growing  public  sector
+
+deficit  --  expected  to  be about  14  percent  of  GDP  this  year  --  and
+
+concerns  regarding  the  success  of  renegotiating  the  scala  mobile wage-
+
+indexation arrangement.
+
+In early
+
+November market  sentiment  toward  the  yen  reversed  for  reasons  that  are
+
+not  clear,  and  the  yen rose  sharply  against  the  dollar  to  a  level about
+
+2 percent  higher than at  the  last  FOMC meeting.  In  a  move aimed  at
+
+improving  the  international  competitiveness  of  Swedish  goods,  the  newly-
+
+elected  Social  Democratic  government  in  Sweden devalued  the  Swedish
+
+krona against  a  basket  of  currencies  by  16 percent  in  early  October.
+
+Latin American  countries have  found  it  increasingly difficult  to
+
+borrow on  international credit  markets.  In particular,  the  pace  of  new
+
+I-19
+
+I-20
+
+medium-term Eurocredits  to  Latin American borrowers  declined  sharply in
+
+the  third  quarter of  1982  to  only  $4 billion,about half  the  quarterly
+
+rate  recorded  in  the first  half of  the  year,  and  fell  further  in October.
+
+New credits  to  Mexico have come  essentially  to a standstill pending
+
+conclusion  of negotiations with the  IMF.  Mexico's  difficulties have
+
+exacerbated  the borrowing problems  of other Latin American countries.
+
+Venezuela, whose  international reserves  are  large relative  to  its  foreign
+
+debt,  faces  consideraly  higher spreads  in refinancing its  short-term
+
+public-sector  foreign debt.  Argentina,  which built  up  large  arrears  as
+
+a result of  the  Falkland  crisis, has  been unable to  secure  any Euro-
+
+currency credits  since  April in  the  face of  large financing needs.
+
+Brazil's  access  to  Eurocurrency credits has  been cut  back considerably
+
+at a time when its  current  account deficit  has been rising.
+
+Recent  evidence  suggests  that  foreign investors' net purchases
+
+of  dollar-denominated  assets  both in  the United  States  and in  the  Euro-
+
+bond market have increased  since mid-summer.  Net  purchases  of  Treasury
+
+bonds and  notes  by private foreigners amounted  to  $2 billion  in  September,
+
+after  net purchases  of  only $0.5  billion  in August.  The purchases  of
+
+government  securities would appear consistent with the view that
+
+foreigners are  seeking  low-risk investments.  While private foreigners
+
+made  small net purchases  of  U.S. corporate stocks  in  August,  they made
+
+actual net  sales  in  September.  Acting to  offset these  capital inflows
+
+was a large  increase  in net advances  by U.S. banking offices  to  their
+
+foreign branches between August and  October.  This  outflow appears  to be
+
+prompted  in part  by a decline in other  sources  of  funds  available  to
+
+these branches;  outstanding  CDs at  London branches  of  some U.S.banks
+
+I-21
+
+declined and so  did deposits  at  foreign branches  held  by  U.S.  bank
+
+holding companies  of  the  same banks.
+
+In  U.S.  international trade  transactions,  the merchandise  trade
+
+deficit  in  September was  considerably smaller  than  that  in August.
+
+However,  for  the  third quarter as  a whole  the  trade deficit  -- at nearly
+
+$53 billion  (SAAR) -- was more  than  twice  the  size  of  the  deficits  in
+
+the  first  two  quarters  of  the year.  The deficit  reflected a sharp
+
+decline in  agricultural  exports and a run-up  in oil  imports associated
+
+in part  with stockbuilding.  Nonagricultural exports also  declined and
+
+continued  to  be adversely  affected by  sluggish demand  in major  trading
+
+partners  and  the high value  of  the dollar.
+
+In major  foreign  industrial  countries there  are few signs  of  a
+
+recovery  in economic activity.  Indeed,  in  the  third quarter,  industrial
+
+production declined  in Germany and  France.  Unemployment  rates  continued
+
+to  move upward  except  in  Japan, and  inflation rates  generally moved down.
+
+Despite evidence  of persistent weakness  in domestic  and  export  demand,
+
+the  budget  proposals  that  have  recently been outlined  in a number of
+
+countries have not  in  general indicated any  shift  toward  fiscal  stimulus.
+
+On  the monetary  front,  foreign interest  rates  have eased  in varying
+
+degrees,  partly  in  response  to  the  downturn  in U.S.  interest  rates.
+
+Outlook.  With no  substantial changes  likely  in monetary and
+
+fiscal policies  in major  industrial countries  and no other  obvious
+
+sources of  stimulus  to  demand, prospects  for a strong recovery abroad
+
+are not  bright.  Expansion of  real  GNP  in  these countries  is  projected
+
+to be about  2 percent next year, after an increase  this  year estimated
+
+at  1/2  percent.  The  outlook in  less-developed countries  is  also not
+
+I-22
+
+very bright,  clouded by  financing difficulties  and weak demand  for  their
+
+exports.  With  slow growth  in  the markets  for U.S. exports  and  the
+
+continuing  impact  of  the high value of  the dollar,  the  trade  deficit  is
+
+projected  to  double from  about  $40 billion  this  year to  nearly  $80  billion
+
+next  year.  With little  change  anticipated in the net  surplus  on non-trade
+
+transactions,  the  current  account deficit  is  projected  to be  about  $9
+
+billion  this  year and $49 billion next year.  The  staff  expects  that  the
+
+exchange value of  the  dollar will drop  significantly as  the evidence  of
+
+these  widening deficits becomes  apparent to  the market.
+
+CONFIDENTIAL  (FR)
+CLASS 
+
+II  FOMC
+
+1. GNP  NET EXPORTS
+
+CURRENT $, NET
+
+EXPORTS OF  G+S
+IMPORTS  OF GIS
+
+CONSTANT 72  S, NET
+EXPORTS OF G4S
+IMPORTS  OF G+S
+
+OUTLOOK  FOR  U.S. NET EXPORTS  AND  RELATED ITEMS
+(BILLIONS OF DOLLARS,  SEASONALLY ADJUSTED  ANNUAL RATES)
+
+1981 
+ANN. 
+
+1982-P  19831P
+ANN. 
+
+ANN.
+
+1982 
+Ql 
+
+1982 
+02 
+
+1982  1912-P 
+)4 
+Q3 
+
+1983-P  1983-P  1983'P  1983-P
+
+01 
+
+Q2 
+
+Q3 
+
+Q4
+
+NOVEMBER  10,  1982
+
+26.1
+367.3
+341.2
+
+42.0
+158.4
+116.4
+
+22.2
+356.1
+333.9
+
+32.9
+150.1
+117.2
+
+-8.9
+351.3
+360.2
+
+26.7
+144.8
+118.2
+
+31.3
+359.9
+328.6
+
+37.0
+151.7
+114.7
+
+34.9
+365.8
+330.9
+
+35.7
+154.4
+118.7
+
+13.2
+356.6
+343.4
+
+30.7
+150.2
+119.5
+
+9.3
+3-,2.1
+332.8
+
+.!8.0
+144.1
+116.1
+
+2.0
+
+338.8
+336.8
+
+25.9
+141.7
+115.8
+
+-6.9
+344.2
+351.1
+
+24.8
+142.7
+117.9
+
+-12.0
+355.0
+367.0
+
+27.2
+145.9
+118.7
+
+-18.9
+367.2
+386.0
+
+28.7
+148.9
+120.2
+
+TERMS  OF TRADE  (1972-100) 1/
+
+79.1
+
+83.3
+
+79.7
+
+82.8
+
+85.0
+
+82.6
+
+82.8
+
+82.2
+
+81.0
+
+78.7
+
+76.8
+
+2. U.S. MERCHANDISE  TRADE  BALANCE  2/  ;27.9  -39.0  '79.1 
+
+123.5  '23.1 
+
+-52.5 
+
+-56.9 
+
+'63.0 
+
+-73.7  L84.7  -94.9
+
+EXPORTS  (EXCL. MILITARY) 
+
+AGRICULTURAL 
+NONAGRICULTURAL 
+
+236.3  212.2  194.8 
+44.3 
+37.0 
+38.5 
+192.0  173.7  157.7 
+
+IMPORTS 
+
+PETROLEUM AND  PRODUCTS 
+NONPETROLEUM 
+
+264.1  251.2  273.8 
+61.1 
+65.6 
+186.6  190.1  208.2 
+
+77.6 
+
+223.1  220.4  207.1  198.2 
+35.4 
+42.0 
+181.1  177.7  173.2  162.8 
+
+33.8 
+
+42.7 
+
+194.1  192.7  193.7  198.5
+38.0
+157.9  155.8  156.6  160.5
+
+36.2 
+
+36.8 
+
+37.1 
+
+246.6  243.5  259.6  255.1 
+62.2 
+62.6 
+184.0  189.8  193.8  192.9 
+
+53.7 
+
+65.7 
+
+257.2  266.3  278.4  293.3
+69.6
+223.7
+
+66.7 
+63.7 
+194.6  202.6  211.7 
+
+62.5 
+
+3. U.S.  CURRENT ACCOUNT BALANCE 
+
+4.5 
+
+'9.3  -48.7 
+
+4.4 
+
+8.2  -23.2?  -26.7 
+
+-34.7  -45.3  '53.0  -61.9
+
+OF WHICH:NET  INVESTMENT INCOME 
+
+33.0 
+
+29.5 
+
+31.3 
+
+27.4 
+
+30.7 
+
+30.4 t   29.4 
+
+28.5 
+
+29.2 
+
+32.9 
+
+34.6
+
+4. FOREIGN OUTLOOK  '  TEN INDUSTRIAL
+
+COUNTRIES  3/
+
+REAL  CNP,  2  CHAPGE,  ANNUAL
+
+RATES 
+
+CONSUMER  PRICES, % CHANGE,
+
+ANNUAL  RATES 
+
+.4 
+
+.4 
+
+1.6 
+
+.3 
+
+'.2 
+
+.5 
+
+1.6 
+
+9.7 
+
+8.2 
+
+7.0 
+
+7.9 
+
+9.0 
+
+6.1 
+
+7.1 
+
+1.9 
+
+7.5 
+
+1.7 
+
+1.9 
+
+6.6 
+
+6.3 
+
+2.5
+
+6.5
+
+1/ GNP EXPORT  IMPLICIT  DEFLATOR  DIVIDED  BY GNP  IMPORT  IMPLICIT  DEFLATOR.
+2/ INTERNATIONAL ACCOUNTS BASIS.
+3/ GEOMETRIC WEIGHTS  USED TO AGGREGATE  FOREIGN  REAL GNP AND CONSUMER  PRICES
+--  PERCENT  SHARE IN  TEN'COUNTRY TOTAL MULTILATERAL TRADE:
+CERMANY  (20.8%),  JAPAN  (13.6%),  FRANCE  (13.12),  UNITED KINGDOM  (11.R8)CANADA
+(9.1Z), 
+SWEDEN  (4.2%), SWITZERLAND  (3.62).
+P/ PROJECTED.
+
+IT\LY  (9.OX),  THE  NETHERLINDS  (8.3%),  BELGIIU 
+
+(6.4%)
+
+

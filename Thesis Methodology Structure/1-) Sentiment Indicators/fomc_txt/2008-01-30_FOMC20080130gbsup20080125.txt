@@ -1,0 +1,965 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version available 
+based on original files from the FOMC Secretariat at the Board of Governors of the 
+Federal Reserve System.   
+
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+
+Content last modified 03/07/2014. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Confidential (FR) Class III FOMC 
+
+January 25, 2008 
+
+CURRENT ECONOMIC 
+AND FINANCIAL CONDITIONS 
+
+Supplemental Notes 
+
+Prepared for the Federal Open Market Committee 
+by the staff of the Board of Governors of the Federal Reserve System 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+
+The Domestic Nonfinancial Economy ......................................................1 
+
+Sales and Prices of Existing Homes.............................................................1 
+
+Charts 
+Indicators of Single-Family Housing...........................................................2 
+
+The Domestic Financial Economy  ...........................................................1 
+
+Tables 
+Commercial Bank Credit .............................................................................3 
+Selected Financial Market Quotations .........................................................4 
+
+ii 
+
+ 
+ 
+ 
+ 
+Supplemental Notes 
+
+The Domestic Nonfinancial Economy 
+
+Sales and Prices of Existing Homes 
+
+Sales of existing single-family homes declined 2 percent in December to an annual rate of 
+4.31 million units; data on pending home sales through November and other indicators of 
+housing demand had instead implied a small increase.  Still, existing home sales continue 
+to paint a noticeably less downbeat picture of housing demand than do the data on sales 
+of new single-family homes.  Sales of condos and co-ops also moved down in December, 
+and the declines in total existing home sales were spread across all four Census regions.  
+The average price of existing single-family homes sold fell 5 percent in the twelve 
+months ending in December, similar to the readings for this series seen in recent months. 
+
+The Domestic Financial Economy 
+
+-1- 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+
+Indicators of Single-Family Housing 
+
+Existing  Single-Family Home Sales 
+
+New Single-Family Home Sales 
+
+_
+0 
+
+7
+
+Millions of units 
+(annual rate) 
+
+Pending home sales index (right scale) 
+
+6.5  - - Existing  home sales (left scale) 
+
+6.0 
+
+5.5 
+
+5.0 
+
+4.5 
+
+4.0 
+
+3.5 
+
+Millions of units 
+(annual rate) 
+
+NAHB sales  (right scale) 
+- - Census sales  (left scale) 
+
+Index 
+
+140 
+
+130 
+
+120 
+
+110 
+
+100 
+
+90 
+
+_
+5 
+
+1
+
+1.3 
+
+1.1 
+
+0.9 
+
+0.7 
+
+Millions of units 
+
+(annual rate)  0.4
+
+5 
+
+Source.  National Association of Realtors. 
+
+New Home Sales 
+
+Months'  Supply 
+
+1999 
+
+Months 
+
+10 
+
+Nov. 
+
+9 
+
+8 
+
+7 
+
+6 
+
+5 
+
+4 
+
+3 
+
+2 
+
+0 
+
+Sl.Jpply  is calculated  using the 3-month moving average of sales. 
+
+. Months' 
+
+Note. 
+
+Source. 
+
+for months' supply,  Census Bureau. 
+
+Source.  For NAHB new home sales,  NAHB's survey 
+of large homebuilders; for new home sales agreements, 
+Census Bureau. 
+
+Mortgage Rates 
+
+Percent 
+
+30-year jumbo FRM 
+30-year conforming  FRM 
+1-year conforming ARM 
+
+Note.  The Jan.  readings are for data through Jan.  23,  2008. 
+Source.  Conforming rates are from  Freddie Mac.  The 
+jumbo rate is the sum of the 30-year conforming  FRM  rate 
+and the jumbo conforming spread from  bankrate.com. 
+
+Prices of Existing  Homes 
+
+Prices of New Homes 
+
+Percent change from  year earlier 
+
+Repeat transactions,  purchase-only index 
+Average price of homes sold 
+Case-Shiller price index 
+
+35 
+
+30 
+
+25 
+
+20 
+
+15 
+
+10 
+
+5 
+
+0 
+
+~~~~~~~~~~~~~~~~~~~-15 
+
+-5 
+
+-10 
+
+Percent change from  year earlier 
+
+Constant quality index 
+Average price of homes sold 
+
+25 
+
+20 
+
+15 
+
+10 
+
+5 
+
+0 
+
+-5 
+
+Note.  The Case-S hiller price index is the 1 0-city index. 
+Source.  For repeat transactions,  OFHEO;  for average 
+price,  National Association of Realtors;  for Case-Shiller, 
+Chicago Mercantile Exchange. 
+
+Note. Average price values have been adjusted by 
+
+Board staff to take into account new sampling procedures 
+adopted  in  2005. 
+
+Source.  Census Bureau. 
+
+0.40 
+
+0.35 
+
+0.30 
+
+0.25 
+
+0.20 
+
+9 
+
+8 
+
+7 
+
+6 
+
+5 
+
+4 
+
+3
+
+Commercial Bank Credit
+(Percent change, annual rate, except as noted; seasonally adjusted)
+
+Type of credit
+
+2006
+
+H1 
+2007
+
+  Q3 
+2007
+
+  Q4 
+2007
+
+Dec.
+2007
+
+Jan.
+2008e
+
+Level1
+Jan. 2008e
+
+Total
+
+9.8
+
+9.3
+
+12.4
+
+9.1
+
+8.6
+
+Loans2
+Total
+    To businesses
+        Commercial and industrial
+        Commercial real estate
+
+    To households
+        Residential real estate
+            Revolving home equity
+            Other
+        Consumer
+            Originated3
+    Other4
+
+Securities
+Total
+    Treasury and agency
+    Other5
+
+10.9
+
+16.5
+13.7
+
+7.0
+1.4
+9.1
+5.9
+6.9
+11.8
+
+6.5
+2.6
+13.2
+
+10.2
+
+10.1
+13.8
+
+7.0
+1.9
+8.7
+6.5
+5.2
+14.3
+
+6.5
+-4.9
+24.1
+
+12.5
+
+24.2
+3.8
+
+9.6
+6.5
+10.6
+10.5
+10.3
+19.1
+
+12.2
+6.8
+19.4
+
+4.7
+
+9.0
+
+14.6
+2.9
+
+4.0
+8.5
+2.5
+-.1
+5.3
+28.2
+
+11.6
+
+29.9
+7.7
+
+1.0
+12.2
+-2.7
+7.2
+7.2
+17.5
+
+12.4
+
+21.3
+7.4
+
+3.0
+13.1
+-.5
+17.8
+13.2
+21.4
+
+1.6
+-23.9
+34.6
+
+-3.2
+-11.7
+6.4
+
+-9.3
+-19.9
+2.3
+
+8,772     
+
+6,695     
+
+1,432     
+1,580     
+
+1,881     
+485     
+1,396     
+802     
+1,205     
+1,000     
+
+2,077     
+1,078     
+999     
+
+   Note.  Yearly annual rates are Q4 to Q4; quarterly and monthly annual rates use corresponding average levels.  Data
+have been adjusted to remove the effects of mark-to-market accounting rules (FIN 39 and FAS 115), the consolidation of
+certain variable interest entities (FIN 46), the adoption of fair value accounting (FAS 159), and the effects of sizable
+thrift-to-bank and bank-to-thrift structure activity in October 2006, March 2007, and October 2007. Data also account for
+breaks caused by reclassifications.
+   1. Billions of dollars.  Pro rata averages of weekly (Wednesday) levels.
+   2. Excludes interbank loans.
+   3. Includes an estimate of outstanding loans securitized by commercial banks.
+   4. Includes security loans and loans to farmers, state and local governments, and all others not elsewhere classified.
+Also includes lease financing receivables.
+   5. Includes private mortgage-backed securities, securities of corporations, state and local governments, foreign
+governments, and any trading account assets that are not Treasury or agency securities, including revaluation gains
+on derivative contracts.
+   e  Estimated.
+
+  
+4
+
+III-T-1
+Selected Financial Market Quotations
+(One-day quotes in percent except as noted)
+
+2006
+
+2007
+
+2008
+
+June 29
+
+Sept. 17
+
+Dec. 10
+
+Jan. 24
+
+5.25
+
+4.88
+5.06
+
+5.27
+5.37
+
+5.47
+5.59
+
+5.33
+5.49
+
+8.25
+
+5.26
+5.15
+5.28
+
+2.51
+2.61
+
+4.71
+
+5.81
+5.59
+6.20
+6.74
+8.74
+
+6.78
+5.82
+
+5.25
+
+4.05
+4.15
+
+5.23
+5.25
+
+5.52
+5.36
+
+5.55
+5.60
+
+8.25
+
+4.12
+4.18
+4.58
+
+2.04
+2.15
+
+4.46
+
+5.17
+5.01
+6.05
+6.46
+8.95
+
+6.34
+5.65
+
+4.50
+
+2.98
+3.20
+
+4.36
+4.94
+
+5.18
+4.98
+
+5.40
+5.25
+
+7.50
+
+3.17
+3.55
+4.33
+
+1.42
+1.94
+
+4.38
+
+4.89
+4.83
+6.08
+6.55
+9.23
+
+6.11
+5.50
+
+3.50
+
+2.32
+2.41
+
+3.11
+3.06
+
+3.20
+3.08
+
+3.30
+3.25
+
+6.50
+
+2.23
+2.86
+3.87
+
+.87
+1.45
+
+4.29
+
+4.25
+4.27
+5.68
+6.31
+9.98
+
+5.48
+4.99
+
+Instrument
+
+Short-term
+FOMC intended federal funds rate
+Treasury bills1
+     3-month
+     6-month
+Commercial paper (A1/P1 rates)2
+     1-month
+     3-month
+Large negotiable CDs1
+     3-month
+     6-month
+Eurodollar deposits3
+     1-month
+     3-month
+
+Bank prime rate
+
+Intermediate- and long-term
+U.S. Treasury4
+      2-year
+      5-year
+     10-year
+U.S. Treasury indexed notes5
+      5-year
+     10-year
+
+Municipal general obligations (Bond Buyer)6
+
+Private instruments
+     10-year swap
+     10-year FNMA7
+     10-year AA8
+     10-year BBB8
+     10-year high yield8
+
+Home mortgages (FHLMC survey rate)
+     30-year fixed
+     1-year adjustable
+
+Change to Jan. 24 from
+selected dates (percentage points)
+
+2006
+June 29
+
+2007
+Sept. 17
+
+2007
+Dec. 10
+
+-1.75
+
+-1.75
+
+-1.00
+
+-2.56
+-2.65
+
+-2.16
+-2.31
+
+-2.27
+-2.51
+
+-2.03
+-2.24
+
+-1.75
+
+-3.03
+-2.29
+-1.41
+
+-1.64
+-1.16
+
+-.42
+
+-1.56
+-1.32
+-.52
+-.43
+1.24
+
+-1.30
+-.83
+
+-1.73
+-1.74
+
+-2.12
+-2.19
+
+-2.32
+-2.28
+
+-2.25
+-2.35
+
+-1.75
+
+-1.89
+-1.32
+-.71
+
+-1.17
+-.70
+
+-.17
+
+-.92
+-.74
+-.37
+-.15
+1.03
+
+-.86
+-.66
+
+-.66
+-.79
+
+-1.25
+-1.88
+
+-1.98
+-1.90
+
+-2.10
+-2.00
+
+-1.00
+
+-.94
+-.69
+-.46
+
+-.55
+-.49
+
+-.09
+
+-.64
+-.56
+-.40
+-.24
+.75
+
+-.63
+-.51
+
+Stock exchange index
+
+Dow Jones Industrial
+S&P 500 Composite
+Nasdaq
+Russell 2000
+Wilshire 5000
+
+Record high
+
+2007
+
+2008
+
+Level
+
+14,165
+1,565
+5,049
+856
+15,807
+
+Date
+
+Sept. 17
+
+Dec. 10
+
+10-9-07
+10-9-07
+3-10-00
+7-13-07
+10-9-07
+
+13,403
+1,477
+2,582
+776
+14,839
+
+13,727
+1,516
+2,719
+791
+15,311
+
+Jan. 24
+
+12,379
+1,352
+2,361
+693
+13,608
+
+Change to Jan. 24 
+from selected dates (percent)
+
+Record
+high
+
+-12.61
+-13.61
+-53.24
+-19.05
+-13.91
+
+2007
+Sept. 17
+
+2007
+Dec. 10
+
+-7.65
+-8.44
+-8.55
+-1.71
+-8.30
+
+-9.82
+-1.81
+-13.17
+-12.45
+-11.12
+
+       1.  Secondary market.
+       2.  Financial commercial paper.
+       3.  Bid rates for Eurodollar deposits collected around 9:30 a.m. eastern time.
+       4.  Derived from a smoothed Treasury yield curve estimated using off-the-run securities.
+       5.  Derived from a smoothed Treasury yield curve estimated using all outstanding securities and adjusted for the carry effect.
+       6.  Most recent Thursday quote.
+       7.  Constant-maturity yields estimated from Fannie Mae domestic noncallable coupon securities.
+       8.  Derived from smoothed corporate yield curves estimated using Merrill Lynch bond data.
+       _______________________________________________________________________
+
+       NOTES:
+
+         June 29, 2006, is the day the most recent policy tightening ended.
+         September 17, 2007, is the day before the most recent policy easing began.
+         December 10, 2007, is the day before the most recent FOMC announcement.
+
+       _______________________________________________________________________
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+

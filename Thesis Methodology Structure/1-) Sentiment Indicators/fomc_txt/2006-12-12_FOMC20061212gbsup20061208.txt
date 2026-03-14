@@ -1,0 +1,2147 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version available 
+based on original files from the FOMC Secretariat at the Board of Governors of the 
+Federal Reserve System.   
+
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+
+Content last modified 02/09/2012. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Confidential (FR) Class III FOMC 
+
+December 8, 2006 
+
+CURRENT ECONOMIC 
+AND FINANCIAL CONDITIONS 
+
+Supplemental Notes 
+
+Prepared for the Federal Open Market Committee 
+by the staff of the Board of Governors of the Federal Reserve System 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+
+The Domestic Nonfinancial Economy ........................................................ 1 
+
+Labor Market Developments ...........................................................1 
+Consumer Sentiment........................................................................5 
+
+Tables 
+Changes in Employment ..................................................................2 
+Selected Unemployment and Labor Force Participation Rates .......3 
+University of Michigan Survey Research Center:  Survey of 
+
+Consumer Attitudes .............................................................6 
+
+Charts 
+Changes in Private Payroll Employment .........................................2 
+Aggregate Hours and Workweek of Production or  
+
+Nonsupervisory Workers .....................................................2 
+Labor Force Participation Rate and Unemployment Rate ...............3 
+Employment Change in the Household and Payroll Surveys ..........3 
+Long-Term Unemployed .................................................................3 
+Labor Market Indicators ..................................................................4 
+
+The Domestic Financial Economy  ...........................................................7  
+
+Tables 
+Commercial Bank Credit .................................................................7 
+Selected Financial Market Quotations .............................................8 
+
+Charts 
+Net Interest Margin ..........................................................................7 
+Loan-Loss Provisioning ...................................................................7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supplemental Notes 
+
+The Domestic Nonfinancial Economy 
+
+Labor Market Developments 
+Private payroll employment increased 114,000 in November from a level in October that 
+was 20,000 higher than previously estimated.  Over the three months ending in 
+November, private employment rose 104,000 jobs per month on average, slightly less 
+than the pace of 130,000 per month of the preceding three months.  Once again in 
+November, hiring at nonbusiness services establishments accounted for much of the 
+overall gain, with employment in the education and health services industry up 41,000 
+and jobs in the leisure and hospitality industry up 31,000.  Retail trade employers stepped 
+up their hiring noticeably last month (20,000) after having shed nearly 100,000 jobs thus 
+far this year.  However, weakness persisted in manufacturing (-15,000) and construction 
+(-29,000).  In contrast to recent months, the weakness in construction employment was 
+not confined to residential construction; rather, all the major subcategories, within both 
+residential and nonresidential, posted losses.  Finally, government employment continued 
+to expand (18,000), again led by hiring in education. 
+
+Average weekly hours of production or nonsupervisory workers on private nonfarm 
+payrolls held steady at 33.9 hours in November, but were up from the third quarter.  The 
+level of aggregate hours of these workers was 0.4 percent (not an annual rate) above the 
+third-quarter average. 
+
+Average hourly earnings of production or nonsupervisory workers on private nonfarm 
+payrolls rose 0.2 percent in November.  For the twelve months ending in November, 
+average hourly earnings rose 4.1 percent, up from an increase of 3.0 percent over the 
+preceding twelve months. 
+
+In the household survey, the unemployment rate ticked up 0.1 percentage point to 
+4.5 percent in November, reversing part of its decline the previous month.  In contrast, 
+the labor force participation rate edged up to 66.3 percent in November—the highest 
+level that the participation rate has reached since 2003.1
+
+1 The November survey reference week for the household survey was moved forward from the week 
+
+that included the 12th of the month to the week that included the 5th of the month.  According to our 
+contacts at the BLS, the major aggregates such as the unemployment rate and participation rate should be 
+little affected by the change.  
+
+-1- 
+
+                                                
+ 
+ 
+ 
+ 
+ 
+ 
+Changes in Employment
+(Thousands of employees; seasonally adjusted)
+
+2006
+
+Measure and sector
+
+2005
+
+Q1
+
+Q2
+
+Q3
+
+Sept.
+
+Oct.
+
+Nov.
+
+Average monthly change
+
+Monthly change
+
+Nonfarm payroll employment
+      (establishment survey)
+   Private
+      Natural resources and mining
+      Manufacturing
+      Construction
+      Wholesale trade
+      Retail trade
+      Transportation and utilities
+      Information
+      Financial activities
+      Professional and business services
+         Temporary help services
+      Nonbusiness services1
+   Total government
+Total employment (household survey)
+Memo:
+Aggregate hours of private production
+      workers (percent change)2
+Average workweek (hours)3
+   Manufacturing (hours)
+
+ 165    
+ 152    
+  4    
+  -6    
+ 25    
+  7    
+ 13    
+  6    
+ -1    
+12    
+ 41    
+ 14    
+ 51    
+14    
+ 221    
+
+ 176    
+ 169    
+  6    
+   1    
+ 26    
+ 13    
+  2    
+  4    
+  2    
+ 20    
+ 26    
+ -8    
+ 69    
+  7    
+ 287    
+
+ 115    
+  98    
+  5    
+  11    
+  1    
+  8    
+-28    
+  9    
+ -3    
+ 11    
+ 40    
+ -1    
+ 44    
+ 17    
+ 241    
+
+ 185    
+ 144    
+  3    
+ -12    
+  4    
+  7    
+ -5    
+  9    
+ -1    
+ 15    
+ 32    
+ -4    
+ 92    
+ 42    
+ 162    
+
+ 203    
+ 147    
+  2    
+  -9    
+ -1    
+ 13    
+ -5    
+  12    
+  -2    
+ 27    
+  13    
+-11    
+ 96    
+  56    
+ 271    
+
+  79    
+  51    
+  6    
+ -44    
+-24    
+ -3    
+  2    
+   7    
+   2    
+  0    
+  29    
+  2    
+ 76    
+  28    
+ 437    
+
+ 132    
+ 114    
+  4    
+ -15    
+-29    
+ 11    
+ 20    
+   2    
+  -3    
+ 11    
+  43    
+  5    
+ 69    
+  18    
+ 277    
+
+ 2.3    
+33.8    
+40.6    
+
+ 3.0    
+33.8    
+41.0    
+
+ 2.6    
+33.9    
+41.2    
+
+ 1.1    
+33.8    
+41.3    
+
+  .1    
+33.8    
+41.1    
+
+  .3    
+33.9    
+41.2    
+
+  .1    
+33.9    
+41.1    
+
+  1. Nonbusiness services comprises education and health, leisure and hospitality, and "other."
+  2. Establishment survey.  Annual data are percent changes from Q4 to Q4.  Quarterly data are percent changes from preceding
+quarter at an annual rate.  Monthly data are percent changes from preceding month.
+  3. Establishment survey.
+
+Changes in Private 
+Payroll Employment
+
+Thousands
+400
+
+Hours
+35.0
+
+Aggregate Hours and Workweek of    
+Production or Nonsupervisory Workers
+
+2002 = 100
+106
+
+3-month moving average
+
+Nov.
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007
+
+2000
+
+2004
+
+2002
+
+2006
+
+300
+
+200
+
+100
+
+0
+
+-100
+
+-200
+
+-300
+
+-400
+
+34.5
+
+34.0
+
+33.5
+
+33.0
+
+Aggregate
+   hours  
+(right scale)
+
+Nov.
+
+Workweek
+(left scale)
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007
+
+2004
+
+2000
+
+2006
+
+2002
+
+104
+
+102
+
+100
+
+98
+
+96
+
+94
+
+92
+
+90
+
+400
+
+300
+
+200
+
+100
+
+0
+
+-100
+
+-200
+
+-300
+
+-400
+
+- 2 - 
+ 
+ 
+ 
+ 
+Selected Unemployment and Labor Force Participation Rates
+(Percent; seasonally adjusted)
+
+2006
+
+Rate and group
+
+2005
+
+Q1
+
+Q2
+
+Q3
+
+Sept.
+
+Oct.
+
+Nov.
+
+Civilian unemployment rate
+Total
+   Teenagers
+   20-24 years old
+   Men, 25 years and older
+   Women, 25 years and older
+
+Labor force participation rate
+Total
+   Teenagers
+   20-24 years old
+   Men, 25 years and older
+   Women, 25 years and older
+
+5.1    
+16.6    
+ 8.8    
+3.8    
+4.2    
+
+66.0    
+43.7    
+74.6    
+75.4    
+59.4    
+
+4.7    
+15.5    
+ 8.1    
+3.6    
+3.9    
+
+66.0    
+43.7    
+74.0    
+75.5    
+59.4    
+
+4.7    
+14.7    
+ 8.1    
+3.6    
+3.8    
+
+66.1    
+43.8    
+74.2    
+75.5    
+59.5    
+
+4.7    
+16.1    
+ 8.2    
+3.5    
+3.8    
+
+66.2    
+43.6    
+74.9    
+75.4    
+59.8    
+
+4.6    
+16.4    
+ 8.0    
+3.3    
+3.8    
+
+66.2    
+43.3    
+74.7    
+75.5    
+59.7    
+
+4.4    
+15.4    
+ 8.5    
+3.2    
+3.4    
+
+66.2    
+43.3    
+74.6    
+75.5    
+59.8    
+
+4.5    
+15.1    
+ 8.4    
+3.3    
+3.6    
+
+66.3    
+43.4    
+74.7    
+75.7    
+59.8    
+
+Percent
+67.6
+
+Labor Force Participation Rate
+and Unemployment Rate    
+
+Participation rate (left scale)
+
+Unemployment rate (right scale)
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+Percent
+7.0
+
+6.5
+
+6.0
+
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+Nov.
+
+Employment Change in the
+Household and Payroll Surveys
+
+Thousands of employees
+500
+
+Household employment*
+
+Payroll employment**
+
+Nov.
+
+2000
+2000 2001 2002 2003 2004 2005 2006 2007
+
+2004
+
+2002
+
+2006
+
+Note. Six-month moving averages.
+*  Adjusted to the payroll concept.
+** Adjusted for benchmark revision.
+
+400
+
+300
+
+200
+
+100
+
+0
+
+-100
+
+-200
+
+-300
+
+Long-Term Unemployed
+(More Than 26 Weeks)
+
+Percent of labor force
+1.6
+
+Nov.
+
+2000
+2000 2001 2002 2003 2004 2005 2006 2007
+
+2002
+
+2004
+
+2006
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+1.6 
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+67.4
+
+67.2
+
+67.0
+
+66.8
+
+66.6
+
+66.4
+
+66.2
+
+66.0
+
+65.8
+
+65.6
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+-100
+
+-200
+
+-300
+
+- 3 - 
+ 
+ 
+ 
+ 
+Labor Market Indicators
+
+Unemployment Insurance
+
+Layoff Announcements
+
+Millions
+4.0
+
+4-week moving average
+
+Thousands
+550
+
+Insured unemployment
+(left scale)
+
+Initial claims
+(right scale)
+
+ Nov. 25 
+
+ Dec. 2
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007
+
+2000
+
+2004
+
+2002
+
+2006
+
+500
+
+450
+
+400
+
+350
+
+300
+
+250
+
+250 
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Thousands
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Nov.
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007
+
+2004
+
+2006
+
+2002
+
+2000
+
+  Note. Seasonally adjusted by FRB staff. 
+  Source. Challenger, Gray, and Christmas, Inc.
+
+Exhaustion Rate
+
+3-month moving average
+
+Labor Market Tightness
+
+Percent
+50
+
+Percent
+45
+
+45
+
+40
+
+35
+
+30
+
+25
+
+Oct.
+
+2004
+
+2002
+
+2000
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007
+  Note. The exhaustion rate is calculated as the number of 
+individuals who were receiving unemployment insurance 
+benefits but reached the end of their potential eligibility 
+expressed as a percent of all individuals who began 
+receiving such benefits 6 months earlier.
+
+2006
+
+Net Hiring Plans
+
+Manpower, Inc.
+
+Percent
+30
+
+Q4
+
+Nov.
+
+ National Federation of
+ Independent Business
+(3-month moving average)
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007
+
+2000
+
+2004
+
+2002
+
+2006
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+120 
+
+100
+
+80
+
+60
+
+40
+
+Job availability*
+(right scale)
+
+Hard to fill**
+(left scale)
+
+Index
+150
+
+130
+
+110
+
+90
+
+70
+
+50
+
+30
+
+Nov.
+
+2000
+
+2002
+
+2004
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007
+   *Proportion of households believing jobs are plentiful, minus 
+the proportion believing jobs are hard to get, plus 100.
+   **Percent of small businesses surveyed with at least one 
+"hard to fill" job opening.
+   Source.  For job availability, Conference Board; for hard 
+to fill, National Federation of Independent Business.
+
+2006
+
+10
+
+Expected Labor Market Conditions
+
+Conference Board
+
+Index
+120
+
+100
+
+Nov.
+
+Dec.
+
+Michigan SRC
+
+1999 2000 2001 2002 2003 2004 2005 2006 2007
+
+2004
+
+2002
+
+2006
+
+2000
+
+80
+
+60
+
+40
+
+3.6
+
+3.2
+
+2.8
+
+2.4
+
+2.0
+
+1.6
+
+50 
+
+45
+
+40
+
+35
+
+30
+
+25
+
+30 
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+  Note. Percent planning an increase in employment
+minus percent planning a reduction.
+
+  Note. The proportion of households expecting labor
+market conditions to improve, minus the proportion 
+expecting conditions to worsen, plus 100.
+
+- 4 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consumer Sentiment 
+According to the preliminary report, the Michigan Survey Research Center’s (SRC) index 
+of consumer sentiment dipped in early December to 90.2 after having edged down in 
+November.  The recent decrease reflected a weakening in the “expected conditions” 
+component that more than offset a modest strengthening in the “current conditions” 
+component of the overall index. 
+
+Among those items not included in the overall sentiment index, consumers’ expectations 
+about the change in unemployment over the next twelve months worsened a bit.  In 
+addition, consumers’ appraisals of buying conditions for cars weakened.  However, 
+consumers’ appraisals of buying conditions for homes improved.  Meanwhile, the median 
+of expected inflation over the next twelve months remained unchanged, and the median 
+over the next five to ten years ticked up to 3.1 percent in early December.   
+
+- 5 - 
+   
+ 
+University of Michigan Survey Research Center: Survey of Consumer Attitudes
+ Indexes of consumer sentiment 
+(Not seasonally adjusted)
+
+December 8, 2006
+
+2006
+
+Category
+
+May
+
+June
+
+July
+
+Aug.
+
+Sept. Oct. Nov. Dec.P
+
+Composite of current and expected conditions1
+Current conditions1
+Expected conditions1
+
+79.1
+96.1
+68.2
+
+84.9
+105.0
+72.0
+
+84.7
+103.5
+72.5
+
+82.0
+103.8
+68.0
+
+85.4
+96.6
+78.2
+
+93.6
+107.3
+84.8
+
+92.1
+90.2
+106.0 108.2
+78.6
+
+83.2
+
+Personal financial situation
+  Now compared with 12 months ago2
+  Expected in 12 months2
+
+Expected business conditions
+  Next 12 months2
+  Next 5 years2
+
+Appraisal of buying conditions
+  Cars
+  Large household appliances2
+  Houses
+
+Expected unemployment change - next 12 months
+
+Prob. household will lose a job - next 5 years
+
+Expected inflation - next 12 months
+  Mean
+  Median
+
+ Expected inflation - next 5 to 10 years
+  Mean
+  Median
+
+102
+112
+
+113
+120
+
+110
+122
+
+109
+112
+
+99
+122
+
+81
+80
+
+112
+147
+121
+
+127
+
+24
+
+4.7
+4.0
+
+3.8
+3.2
+
+88
+79
+
+124
+159
+123
+
+127
+
+21
+
+4.4
+3.3
+
+3.4
+2.9
+
+87
+80
+
+130
+158
+119
+
+129
+
+21
+
+3.8
+3.2
+
+3.2
+2.9
+
+75
+84
+
+124
+160
+117
+
+99
+92
+
+128
+151
+116
+
+130
+
+125
+
+19
+
+23
+
+4.6
+3.8
+
+3.5
+3.2
+
+3.6
+3.1
+
+3.2
+3.0
+
+118
+131
+
+113
+97
+
+137
+160
+129
+
+122
+
+22
+
+3.7
+3.1
+
+3.5
+3.1
+
+119
+125
+
+112
+97
+
+140
+156
+134
+
+121
+
+23
+
+3.3
+3.0
+
+3.5
+3.0
+
+118
+123
+
+97
+95
+
+137
+162
+136
+
+123
+
+20
+
+3.5
+3.0
+
+3.6
+3.1
+
+    Note. Figures on financial, business, and buying conditions are the percent reporting ’good times’ (or
+’better’) minus the percent reporting ’bad times’ (or ’worse’), plus 100.   Expected change in unemployment
+  is the fraction expecting unemployment to rise minus the fraction expecting unemployment to fall, plus 100.
+    P  Preliminary.
+    1.  Feb. 1966 = 100.
+    2.  Indicates the question is one of the five equally-weighted components of the index of sentiment.
+
+Consumer sentiment
+
+Expected inflation
+
+1985 = 100
+180
+
+1966 = 100
+130
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+Michigan SRC (right scale)
+
+ Nov.
+ Dec.P
+
+Conference Board (left scale)
+
+2000
+
+2002
+
+2004
+
+2006
+
+120
+
+110
+
+100
+
+90
+
+80
+
+70
+
+60
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Percent
+
+Median, 5 to 10 years ahead
+
+ Dec.P
+
+Median, 12 months ahead
+
+2000
+
+2002
+
+2004
+
+2006
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+P Preliminary.
+
+P Preliminary.
+
+- 6 -   
+ 
+ 
+ 
+ 
+Commercial Bank Credit
+(Percent change, annual rate, except as noted; seasonally adjusted)
+
+Type of credit
+
+2004
+
+2005
+
+H1 
+2006
+
+  Q3 
+2006
+
+Oct.
+2006*
+
+Nov.
+
+Level,1
+
+2006*e Nov. 2006*e
+
+Total2
+
+8.9
+
+10.5
+
+11.9
+
+7.7
+
+Loans3
+Total
+    To businesses
+        Commercial and industrial
+        Commercial real estate
+
+    To households
+        Residential real estate
+            Revolving home equity
+        Consumer
+            Originated4
+    Other5
+
+Securities
+Adjusted2
+Reported
+    Treasury and agency
+    Other6
+
+9.7
+
+1.2
+11.7
+
+15.6
+43.8
+8.8
+6.0
+7.4
+
+6.6
+5.2
+4.9
+5.7
+
+11.6
+
+13.2
+17.1
+
+12.0
+13.3
+3.1
+.5
+8.4
+
+7.6
+5.3
+.0
+13.3
+
+11.7
+
+16.4
+15.6
+
+7.7
+.1
+6.7
+7.1
+12.0
+
+12.8
+13.0
+8.3
+19.4
+
+10.0
+
+18.9
+12.9
+
+7.0
+3.2
+5.8
+5.5
+3.0
+
+1.1
+2.1
+4.2
+-.6
+
+.0
+
+3.5
+
+9.1
+2.2
+
+6.5
+.3
+-10.9
+-1.6
+4.8
+
+-10.6
+-12.4
+-27.5
+7.0
+
+6.0
+
+5.3
+
+4.6
+6.9
+
+-1.9
+4.3
+9.5
+9.6
+15.8
+
+8.1
+10.6
+-2.0
+26.5
+
+7,794     
+
+5,835     
+
+1,162     
+1,408     
+
+1,726     
+449     
+725     
+1,113     
+814     
+
+1,960     
+2,124     
+1,171     
+953     
+
+   * Adjusted to remove the effects of a consolidation of a sizable amount of thrift assets onto a commercial bank’s
+books in October 2006.
+   Note.  Yearly annual rates are Q4 to Q4; quarterly and monthly annual rates use corresponding average levels.  Data
+are adjusted to remove estimated effects of consolidation related to FIN 46 and for breaks caused by reclassifications.
+   1. Billions of dollars.  Pro rata averages of weekly (Wednesday) levels.
+   2. Adjusted to remove effects of mark-to-market accounting rules (FIN 39 and FAS 115).
+   3. Excludes interbank loans.
+   4. Includes an estimate of outstanding loans securitized by commercial banks.
+   5. Includes security loans and loans to farmers, state and local governments, and all others not elsewhere classified.
+Also includes lease financing receivables.
+   6. Includes private mortgage-backed securities, securities of corporations, state and local governments, foreign
+governments, and any trading account assets that are not Treasury or agency securities, including revaluation gains
+on derivative contracts.
+   e  Estimated.
+
+ Quarterly
+
+Net Interest Margin
+
+Loan-Loss Provisioning
+
+Percent
+
+Percent of average assets
+
+ Quarterly
+
+4.6
+
+4.4
+
+4.2
+
+4.0
+
+3.8
+
+3.6
+
+3.4
+
+3.2
+
+Q3
+
+1.4
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+Q3
+
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+1990
+
+1993
+
+1996
+
+1999
+
+2002
+
+2005
+
+       Note. Net interest margin is net interest income divided
+  by average interest-earning assets.
+       Source. Call Report.
+
+  Source. Call Report.
+
+The Domestic Financial Economy- 7 -  
+III-T-1
+Selected Financial Market Quotations
+(One-day quotes in percent except as noted)
+
+2004
+
+2005
+
+2006
+
+June 28
+
+Dec. 30
+
+Oct. 24
+
+Dec. 7
+
+Change to Dec. 7 from
+selected dates (percentage points)
+
+2004
+June 28
+
+2005
+Dec. 30
+
+2006
+Oct. 24
+
+Instrument
+
+Short-term
+FOMC intended federal funds rate
+Treasury bills1
+     3-month
+     6-month
+Commercial paper (A1/P1 rates)2
+     1-month
+     3-month
+Large negotiable CDs1
+     3-month
+     6-month
+Eurodollar deposits3
+     1-month
+     3-month
+
+Bank prime rate
+
+Intermediate- and long-term
+U.S. Treasury4
+      2-year
+      5-year
+     10-year
+
+U.S. Treasury indexed notes
+      5-year
+     10-year
+
+Municipal general obligations (Bond Buyer)5
+
+Private instruments
+     10-year swap
+     10-year FNMA6
+     10-year AA7
+     10-year BBB7
+     10-year high yield7
+
+Home mortgages (FHLMC survey rate)
+     30-year fixed
+     1-year adjustable
+
+1.00
+
+1.36
+1.74
+
+1.28
+1.45
+
+1.53
+1.82
+
+1.29
+1.51
+
+4.00
+
+2.88
+3.97
+4.90
+
+1.56
+2.25
+
+5.01
+
+5.21
+5.38
+5.60
+6.25
+8.41
+
+6.21
+4.19
+
+4.25
+
+3.99
+4.22
+
+4.23
+4.37
+
+4.49
+4.65
+
+4.36
+4.52
+
+7.25
+
+4.43
+4.35
+4.47
+
+2.03
+2.10
+
+4.38
+
+4.92
+4.84
+5.27
+5.82
+8.30
+
+6.21
+5.16
+
+5.25
+
+5.00
+4.99
+
+5.25
+5.24
+
+5.33
+5.37
+
+5.32
+5.38
+
+8.25
+
+4.93
+4.78
+4.90
+
+2.61
+2.52
+
+4.33
+
+5.36
+5.19
+5.78
+6.34
+8.39
+
+6.40
+5.60
+
+5.25
+
+4.85
+4.86
+
+5.25
+5.23
+
+5.30
+5.28
+
+5.35
+5.35
+
+8.25
+
+4.58
+4.42
+4.56
+
+2.17
+2.17
+
+4.03
+
+4.95
+4.79
+5.40
+5.95
+8.19
+
+6.11
+5.43
+
+Stock exchange index
+
+Dow Jones Industrial
+S&P 500 Composite
+Nasdaq
+Russell 2000
+Wilshire 5000
+
+Record high
+
+2005
+
+2006
+
+Level
+
+12,343
+1,527
+5,049
+797
+14,752
+
+Date
+
+Dec. 30
+
+Oct. 24
+
+11-17-06
+3-24-00
+3-10-00
+12-5-06
+3-24-00
+
+10,718
+1,248
+2,205
+673
+12,518
+
+12,128
+1,377
+2,345
+762
+13,802
+
+Dec. 7
+
+12,278
+1,407
+2,428
+792
+14,200
+
+       1.  Secondary market.
+       2.  Financial commercial paper.
+       3.  Bid rates for Eurodollar deposits collected around 9:30 a.m. eastern time.
+       4.  Derived from a smoothed Treasury yield curve estimated using off-the-run securities.
+       5.  Most recent Thursday quote.
+       6.  Constant-maturity yields estimated from Fannie Mae domestic noncallable coupon securities.
+       7.  Derived from smoothed corporate yield curves estimated using Merrill Lynch bond data.
+       _______________________________________________________________________
+
+       NOTES:
+
+         June 28, 2004, is the day before the most recent policy tightening began.
+         October 24, 2006, is the day before the most recent FOMC announcement.
+
+       _______________________________________________________________________
+
+4.25
+
+3.49
+3.12
+
+3.97
+3.78
+
+3.77
+3.46
+
+4.06
+3.84
+
+4.25
+
+1.70
+.45
+-.34
+
+.61
+-.08
+
+-.98
+
+-.26
+-.59
+-.20
+-.30
+-.22
+
+-.10
+1.24
+
+1.00
+
+.86
+.64
+
+1.02
+.86
+
+.81
+.63
+
+.99
+.83
+
+1.00
+
+.15
+.07
+.09
+
+.14
+.07
+
+-.35
+
+.03
+-.05
+.13
+.13
+-.11
+
+-.10
+.27
+
+.00
+
+-.15
+-.13
+
+.00
+-.01
+
+-.03
+-.09
+
+.03
+-.03
+
+.00
+
+-.35
+-.36
+-.34
+
+-.44
+-.35
+
+-.30
+
+-.41
+-.40
+-.38
+-.39
+-.20
+
+-.29
+-.17
+
+Change to Dec. 7 
+from selected dates (percent)
+
+Record
+high
+
+-.52
+-7.87
+-51.91
+-.64
+-3.74
+
+2005
+Dec. 30
+
+2006
+Oct. 24
+
+14.56
+12.74
+1.08
+17.69
+13.44
+
+1.24
+2.17
+3.53
+3.92
+2.89
+
+- 8 - 
+ 
+ 
+  
+ 
+ 
+ 
+   
+

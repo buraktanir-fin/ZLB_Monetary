@@ -1,0 +1,3589 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+CONFIDENTIAL  (FR)
+CLASS  III 
+
+FOMC
+
+May  19,  1995
+
+SUPPLEMENT
+
+CURRENT  ECONOMIC AND  FINANCIAL CONDITIONS
+
+Prepared  for  the
+Federal  Open Market  Committee
+
+By  the  Staff
+Board  of Governors
+of  the  Federal  Reserve  System
+
+TABLE  OF  CONTENTS
+
+Page
+
+1
+
+THE  DOMESTIC  NONFINANCIAL ECONOMY
+
+Errata  .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Chart
+
+Indicators  of  housing demand  .
+
+. ...
+
+THE  FINANCIAL ECONOMY
+
+May  Senior  Loan  Officer  Opinion  Survey  on
+
+bank  lending  practices .
+
+. . . . . . . ..
+
+Tables
+
+Selected  financial  market  quotations  . .
+Commercial  bank  credit  and  short-  and
+
+. .
+
+intermediate-term business  credit  . . . .
+
+....
+
+THE  INTERNATIONAL ECONOMY
+
+U.S.  international  trade  in  goods  and  services
+U.K. economic  developments  .
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Tables
+
+U.S.  international  trade  in  goods  and  services  .
+U.S.  trade  in  goods  and  services:
+
+Summary  details.  . . . . . . . . . . . . . . . .
+Summary  of  months  and  quarters--dollar  changes  .
+Summary  of  months  and  quarters--percent  changes.
+
+SUPPLEMENTAL  NOTES
+
+THE  DOMESTIC  NONFINANCIAL ECONOMY
+
+Errata
+
+1 
+
+On  page  1-21  the  fifth  line  below  the  table  contains  a
+
+typographical  error.  The  phrase  "risk in  interest  rates"  should
+
+read  "rise  in  interest  rates."
+
+2 
+
+On  page  II  18,  the  upper  panel  of  the  chart  is  mislabeled:  The
+
+solid  line  is  the  index of  consumer homebuying  attitudes  and  the
+
+dashed  line  is  single-family housing  starts.  A  corrected  copy
+
+of  the  chart  is  attached.
+
+Indicators of Housing Demand
+(Seasonally adjusted;  FRB  seasonals except starts)
+
+Consumer  Homebuying  Attitudes
+Millions of  units,  annual  rate
+
+\ 
+
+* 
+
+4 
+
+Single-famrnily starts  (left scale)
+
+/ "1 A 
+
+\- -
+
+0.7  [
+
+0.4
+
+Diffusion index
+
+-- 
+
+100
+
+%  1 
+
+-
+
+75
+
+Apr
+
+- S0
+
+udes
+
+May  [p)
+
+- 25
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I
+
+--  I 
+
+---
+
+1987 
+
+1988 
+
+1989 
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995
+
+Note. The  homebuying  attitudes index is calculated by the  Survey ResearchCenter  (University of Michigan) as the proportion  of respondents
+
+rating current conditions  as good minus  the proportion rating  such conditions  as bad.
+
+Builders'  Rating of New  Home Sales
+Millions of  units,  annual  rate
+
+(left  scale)
+
+Diffusion  index
+
+May  -
+
+|
+
+I
+
+1987 
+
+1988 
+
+1989 
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995
+
+Note. The index is calculated from  National Association of  Homebuilders data  as  the  proportion of respondents rating  current sales as good
+
+to excellent  minus the  proportion  rating  them  as poor.
+
+MBA  Index of Mortgage  Loan  Applications
+Millions of units,  annual rate
+
+Index,  March  16,  1990 =  100
+
+Single-family starts  (left scale)
+
+~.p 
+
+~
+
+'~
+
+I%/ 
+
+Purchase  index
+(right  scale)
+
+1990 
+1990
+
+1991 
+1991 
+
+1992 
+1992 
+
+1993 
+1993
+
+1994 
+1994
+
+1995
+1995
+
+THE  FINANCIAL  ECONOMY
+
+-3-
+
+The  May  Senior  Loan  Officer  Opinion  Survey on  Bank Lending  Practices
+
+The  May  1995  Senior  Loan  Officer  Opinion  Survey  on  Bank Lending
+
+Practices  posed  questions  about  changes  in  bank lending  standards
+
+and  terms,  changes  in  loan  demand by  businesses  and  households,
+
+merger  and  acquisitions  activity,  and  the  effects  on  the
+
+availability  of  credit of  lender  liability  concerns.  Fifty-eight
+
+domestic  commercial  banks  and  twenty-two  branches  and  agencies  of
+
+foreign banks  participated  in  the  survey.
+
+Supply  conditions  appear  to  have  eased  further  over  the  past
+
+three  months.  The  survey  found  that  a  relatively  small  net  fraction
+
+of  banks  reported  having  eased  standards  on  commercial  and
+
+industrial  loans  to  firms  of  all  sizes  over  the  past  three  months--
+
+about  as  in  the  last  survey.  Large  shares  of  the  domestic  and
+
+foreign  respondents  reported easing  some  terms  on  commercial  and
+
+industrial  loans  and  lines  of  credit  over  the  past  three  months.
+
+Standards  for  approving commercial  real  estate  loans were  about
+
+unchanged  in  the  latest  survey.  In  the  household  sector,  a
+
+significant  share  of  the  banks  reported  increased willingness  to
+
+make  consumer  loans,  and  a  smaller net  share  reported  an  easing  of
+
+standards  for  home  mortgage  loans.
+
+Credit demand  by businesses  continued  to  strengthen, while
+
+demand by  households was  reported to  have weakened.  A  large  share
+
+of  the  respondents  reported  stronger demand  for  commercial  and
+
+industrial  loans,  especially by  larger  firms,  over  the  past  three
+
+months,  while  a  smaller  fraction indicated  a  pickup  in  demand  for
+
+commercial  real  estate  loans.  In  contrast,  more  of  the  respondents
+
+reported a  weakening  of  demand  for  installment  loans  and  home  equity
+
+loans  than  reported  a strengthening,  and  a  slightly  larger  net  share
+
+-4-
+
+of  the  respondents  indicated  that  demand  for  residential  mortgages
+
+had  declined.
+
+Commercial  and  industrial  loans  other  than for  mergers
+
+The  survey  found  that  few banks,  less  than  10  percent  on  net,
+
+had  eased  standards  on  commercial  and  industrial  loans  to  large  and
+
+small  firms  over  the  past  three months.  An  even  smaller  net
+
+percentage  had  eased  standards  on  loans  to  middle-market  borrowers.
+
+Branches  and  agencies  of  foreign banks  also  reported  a  small  easing
+
+of  business  lending  standards.  The  fractions  reporting  easing  in
+
+the  May  survey were  similar  to  those  in  the  January  survey.
+
+Many  of  the  respondents  reported that  they  had  eased  their
+
+terms  on  business  loans  over  the  past  three  months,  and  only  a
+
+handful  reported  tightening terms.  Large  fractions  of  the  domestic
+
+respondents  reported  having  reduced  credit-line  costs  and  tightened
+
+spreads  of  loan  rates  over  base  rates  for  large  and  middle-market
+
+firms.  Fewer banks  reported  having  eased  these  terms  for  small
+
+firms.  In  addition,  significant,  though  smaller,  fractions  of  the
+
+respondents  reported  having  eased  other  terms,  including  the  size  of
+
+credit  lines,  the  costs  of  credit  lines,  loan  covenants,  and
+
+collateralization  requirements.  Foreign  branches  and  agencies  also
+
+noted  having eased  loan  terms.  The  latest  survey  results  regarding
+
+terms  on  business  loans  are  similar  to  those  reported  since  the  end
+
+of  1993,  with  about  half the  banks  indicating  a  narrowing  of  spreads
+
+on  loans  to  large  and  middle-market  firms,  about  a  quarter  narrowing
+
+spreads  to  smaller  firms,  and  smaller  fractions  of  banks  easing
+
+other  loan  terms.  The  respondents  attributed  the  easing  of  loan
+
+terms  and  standards  reported  in  the  latest  survey  to  more  aggressive
+
+competition  from  other  commercial  banks  and,  to  a  somewhat  lesser
+
+extent,  from nonbank  lenders.  In  addition, a  large  fraction of  the
+
+respondents  noted  that  demand  for  business  loans  from  firms  of  all
+
+-5-
+
+sizes  had become more  sensitive to  the  terms  offered  at  their bank
+
+relative  to  terms  available  at  their  competitors.
+
+As  has  been true  for  the  past  several  surveys,  many banks
+
+reported  increased  demand  for  business  loans  over  the  preceding
+
+three months.  On  net,  about  30  percent  of  the  respondents  reported
+
+greater  demand by  large  firms,  25  percent  by middle-market  firms,
+
+and  about  10  percent  by  small  firms.  These  percentages  are  lower
+
+than those  reported  in the  January  survey.  The  respondents
+
+indicated  that the  higher  demand was  due  to  growth  in  customers'
+
+inventory  financing  needs  and  investment  in  plant  and  equipment.  In
+
+addition,  merger and  acquisition  activity  reportedly boosted  demand,
+
+especially by  larger  customers.  Only  about  5 percent  of  the  foreign
+
+branches  and  agencies,  on  net,  reported  an  increase  in  demand.
+
+Commercial  real  estate  loans
+
+As  in  the  January  survey,  both  domestic and  foreign  respondents
+
+indicated  that  credit  standards  for  commercial  real  estate  loans
+
+were  little  changed  over the  past  three months.  The  number  of
+
+respondents  that  reported having  tightened  standards  for
+
+construction  and  land  development  loans  slightly  exceeded the  number
+
+that  reported  easing  standards.  On net,  the  banks  reported that
+
+demand  for  commercial  real  estate  loans  (a new question on  this
+
+survey) was  higher  than  it  had been three  months  earlier.
+
+Loans  to  individuals
+
+Nearly  20  percent  of  the  domestic  respondents  reported that
+
+they  are  more willing  to  make  consumer  installment  loans  now than
+
+they were  three months  ago,  a slightly  larger  share  than  in  January.
+
+A similar  fraction  reported  increased willingness  to  make  general-
+
+purpose  loans  to  individuals,  including home-equity  loans.  The
+
+respondents  also  reported  a slight net  easing of  standards  for
+
+approving  residential  mortgage  applications.
+
+-6-
+
+As  in  January,  the  survey  suggested  some  softening  of  consumer
+
+credit  demands.  Nearly  10  percent  of banks,  on  net,  reported  lower
+
+demand  for  consumer  installment  loans  and home-equity  loans.  Before
+
+the  January  survey,  there  had  not  been a  reported  net  decline  in
+
+demand  for  consumer  installment  credit  since  the  beginning  of  1992.
+
+On balance,  about  15  percent  of  the  banks  reported  weaker  demand  for
+
+residential  mortgages,  following three  surveys  in which more  than
+
+half  of  the  respondents  reported weaker mortgage  demand.
+
+Loans  to  finance  mergers  and  acquisitions
+
+Special  questions  on  the  May  survey  asked  about  loans  to
+
+finance  mergers  and  acquisitions.  The  respondents  indicated  that
+
+loans  and  undrawn  commitments  that were  part  of  financing  packages
+
+for mergers  and  acquisitions  had  increased  over  the  past  year.  At
+
+the  time  of  the  survey,  about  half  of this  financing  represented
+
+undrawn  commitments.  On balance,  only  a  small  fraction  of  the
+
+respondents  reported having  eased  standards  for  approving
+
+applications  for  loans  to  finance  mergers  and  acquisitions  over  the
+
+past  year.  In  contrast,  about  20  percent  of  the  banks,  on  net,
+
+reported  having  eased  terms  on  such  loans  over  the  same  period.
+
+Effects  of  lender  liability
+
+Another  set  of  special  questions  asked  about  the  effects  on  the
+
+cost  and  availability of  business  credit  of  banks'  concerns  about
+
+lender  liability  under  federal  or  state  environmental  laws.  More
+
+than  a quarter  of  the  domestic  respondents  reported  that  they
+
+received  loan  applications  that  raised  lender  liability concerns
+
+either  fairly  frequently  or  quite  frequently.  On  average,  the  banks
+
+reported  that  they  rejected  about  a fifth  of  these  applications
+
+solely  as  a  result  of  lender  liability  concerns.  The  respondents
+
+also  noted  that  even when  they  are  willing to  make  such  loans,  they
+
+often  charge  higher  fees  or  wider  spreads.  Moreover,  they  estimated
+
+-7-
+
+that  nearly  a third  of  the  loans  that  they were  willing  to  make with
+
+higher  spreads  or  fees  were  subsequently rejected  by the  borrower  as
+
+a result  of the  increased  cost.
+
+Instrument
+
+SHORT-TERM  RATES
+
+Federal  funds
+
+2
+
+3
+
+Treasury bills
+
+3-month
+6-month
+1-year
+
+Commercial  paper
+
+1-month
+3-month
+
+Large negotiable CDs
+
+1-month
+3-month
+6-month
+
+4
+
+Eurodollar deposits
+
+1-month
+3-month
+
+SELECTED FINANCIAL MARKET QUOTATIONS
+(Percent except  as noted)
+
+1994 
+
+1995 
+
+I
+
+Change  to May  18,  1995:
+
+Feb 3 
+
+I 
+
+FOMC,  I
+High  IMar  28IMay  18
+
+- 1________________ I1 _______
+
+-I-
+
+1 
+1
+
+From  1994
+Feb 3
+
+From 19941  From FOMC
+
+I  high 
+
+Mar 28
+
+I-
+
+3.07
+
+5.66 
+
+6.00 
+
+6-01 
+
+2.94
+
+0-35
+
+0.01
+
+3.13
+3.27
+3.52
+
+3.16
+3.25
+
+3.11
+3.25
+3.41
+
+3.06
+3.25
+
+5.78 
+6.38 
+6.84 
+
+5.71 
+5.83 
+5.98 
+
+5.69 
+5.68 
+5.66 
+
+2-56
+2-41
+2.14
+
+6.13 
+6.32 
+
+6.07 
+6.12 
+
+6.05 
+6.05 
+
+2.89
+2.80
+
+6.10 
+6.39 
+6.89 
+
+6.03 
+6.12 
+6.31 
+
+5-99 
+6.04 
+6.06 
+
+6.06 
+6.38 
+
+6.00 
+6.13 
+
+5.97
+6.00
+
+2.88
+2.79
+2.65
+
+2.91
+2.75
+
+-0.09
+-0.70
+-1-18
+
+-0.08
+-0.27
+
+-0.11
+-0.35
+-0.83
+
+-0.09
+-0.38
+
+-0.02
+-0.15
+-0.32
+
+-0.02
+-0.07
+
+-0.04
+-0.08
+-0.25
+
+-0.03
+-0.13
+
+Bank prime  rate
+
+6.00
+
+8.50 
+
+9.00 
+
+9.00 
+
+3.00
+
+0.50
+
+0.00
+
+INTERMEDIATE-  AND  LONG-TERM RATES  I
+
+U.S.  Treasury  (constant maturity)
+
+3-year
+10-year
+30-year
+
+4
+
+Municipal revenue
+
+(Bond Buyer)
+
+Corporate--A utility,
+
+recently offered
+
+6
+
+Home mortgages
+
+FHLMC  30-yr.  fixed  rate
+FHLMC  1-yr.  adjustable  rate
+
+4.60
+5.81
+6.31
+
+7.82
+8-. 04
+8.16
+
+6.85
+7.16
+7.41
+
+6.28
+6.61
+6.91
+
+1.68
+0.80
+0.60
+
+-1.54
+-1.43
+-1.25
+
+-0.57
+-0.55
+-0.50
+
+5.49
+
+7.37 
+
+6.34 
+
+6.15 
+
+0.66
+
+-1.22
+
+-0.19
+
+7.35
+
+9.05 
+
+8.37 
+
+7.81
+
+0.46
+
+-1.24
+
+-0.56
+
+6.97
+4.12
+
+9.25 
+6.79 
+
+8.40 
+6.41 
+
+7.87 
+6.12 
+
+0.90
+2.00
+
+-1.38
+-0.67
+
+-0.53
+-0.29
+
+-
+
+-
+
+I-
+
+Record high 
+
+1989 
+_______ 
+
+___
+
+1995
+
+I
+
+.1
+
+Stock  exchange  index 
+
+| 
+I  Level  !  Date 
+
+I 
+
+Low,  I FOMC,  I
+
+Jan. 31  Mar  28  I May 18
+
+Percentage change  to May 18:
+
+I  From  I
+
+From 
+record  I  1989  I  From FOM
+high 
+-1I.
+
+!  Mar  28
+
+I  low 
+
+C,
+
+Dow-Jones  Industrial 
+NYSE Composite 
+NASDAQ  (OTC) 
+Wilshire 
+
+I  4437.47 
+I  284.27 
+I  871.93 
+I  5171.41 
+
+5/15/95  2144.64  4151.81  4340.64
+279.80
+5/16/95  154.00 
+864.06
+5/17/95  378.56 
+5/16/95  2718.59  4940.44  5096.42
+
+271.95 
+826.14 
+
+-2.18
+-1.57
+-0.90
+-1.45
+
+102.39
+81.69
+128.25
+87.47
+
+4.55
+2.89
+4.59
+3.16
+
+1. One-day quotes  except  as  noted.
+2. Average  for two-week  reserve maintenance
+period closest  to  date  shown.  Last  observation
+is  average  to  date for  maintenance period  ending
+May  24,  1995.
+
+3. Secondary market.
+
+4. Bid rates  for Eurodollar
+
+deposits  at  11  a.m. London time.
+
+5. Most recent  observation based on
+
+one-day Thursday quote and futures
+market  index  changes.
+
+6. Quotes  for week ending  Friday
+
+previous  to  date shown.
+
+Commecial  Bank Credit and  Short- and  Intermediate-Term  Business  Credit
+(Percentage  change;  seasonally adjusted  annual  rate)1
+
+of credit 
+
+Type1994 
+
+1994 
+Q4 
+
+1995 
+Q1 
+
+1995 
+Feb 
+
+1995 
+Mar 
+
+1995 
+Apr 
+
+Level,
+Apr
+1995
+(billions of $)
+
+Commercial  bank credit
+
+1. Total loans and  securities
+
+2.  Securities
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+U.S. government
+
+Other
+
+Loans
+
+Business
+
+Real estate
+
+Consumer
+
+Security
+
+10. 
+
+Other
+
+6.7
+
+4.8
+
+0.0
+
+23.6
+
+7.6
+
+9.2
+
+6.5
+
+15.2
+
+4.0
+
+-7.6
+
+-11.2
+
+4.5
+
+8.8
+
+10.3
+
+7.8
+
+16.4
+
+-17.2
+
+-20.0
+
+3.3
+
+3.4
+
+4.7
+
+-10.9
+
+8.2
+
+2.9
+
+14.0
+
+3,424.5
+
+15.8
+
+951.6
+
+-8.1
+
+-20.6
+
+-.2
+
+704.4
+
+-19.8
+
+10.8
+
+21.7
+
+9.1
+
+5.2
+
+-14.0
+
+5.3
+
+79.6
+
+10.2
+
+6.3
+
+6.6
+
+14.6
+
+33.6
+
+23.9
+
+63.9
+
+247.2
+
+13.2
+
+2,472.9
+
+15.9
+
+682.0
+
+8.9
+
+1,036.0
+
+15.2
+
+60.3
+
+471.0
+
+73.2
+
+5.7
+
+210.6
+
+11.  Business  loans  net of bankers
+
+9.4 
+
+10.9 
+
+18.2 
+
+23.5 
+
+7.1 
+
+15.3
+
+674.8
+
+Short- and  intermediate-term  business  credit
+
+acceptances
+
+12.  Loans at foreign  branches 2
+
+13.  Sum  of  lines  11  and  12
+
+14.  Commercial  paper issued by
+
+nonfinancial firms
+
+-3.5
+
+10.6
+
+25.0
+
+15.9
+
+18.1
+
+22.1
+
+20.5
+
+23.4
+
+20.1
+
+-5.0
+
+6.6
+
+20.4
+
+45.6
+
+16.3
+
+24.6
+
+699.4
+
+36.7
+
+178.5
+
+15.  Sum  of lines  13  and  14
+
+7.6 
+
+13.3
+
+18.8
+
+22.6 
+
+9.2 
+
+20.6 
+
+877.9
+
+16.  Bankers acceptances,  U.S.  trade-
+
+-8.3 
+
+-25.7
+
+-21.2
+
+0.0 
+
+20.2 
+
+-6.6 
+
+18.0
+
+related3,4
+
+17.  Loans  at finance companies 4
+
+18.  Total  (sum of lines  15,  16,  and  17)
+
+12.2 
+
+8.6 
+
+17.0 
+
+13.7 
+
+20.3 
+
+18.7 
+
+18.9 
+
+21.2 
+
+15.0
+
+11.2
+
+n.a. 
+
+371.4
+
+n.a. 
+
+1,252.75
+
+1. Except as  noted, levels  are averages of  Wednesday data  and  percentage changes  are based on  averages of
+Wednesday  data.  For  years, "percentage change"  is  percentage change  in quarterly  average from fourth quarter
+of preceding  year to fourth quarter of specified year.  For quarters,  it is the  percentage  change in quarterly  average
+from  preceding  quarter to specified quarter,  annualized.  Data  are  adjusted for breaks  caused  by reclassification.
+2.  Loans to U.S. firms  made  by foreign  branches of  domestically chartered  banks.
+3.  Acceptances that finance  U.S.  imports,  U.S.  exports, and domestic  shipment  and storage of goods.
+4.  Levels and  changes are  based on averages  of  month-end data.
+5.  March  1995.
+n.a.  Not  available.
+
+THE  INTERNATIONAL  ECONOMY
+
+U.S.  International  Trade  in Goods  and  Services
+
+-10-
+
+In  March,  the  U.S.  trade  deficit  in  goods  and  services  was
+
+about  the  same  as  in  February  and  substantially  less  than  in
+
+January.  For  both  exports  and  imports,  increases  were  spread  among
+
+most  trade  categories.  Nonetheless,  for  the  first  quarter  the
+
+deficit was  larger  than  in the  fourth  quarter.
+
+Exports  in  the  first  quarter were  2 percent  higher  than  in  the
+
+fourth  quarter  of  last  year.  This  was  a  slower  rate  of  growth  than
+
+recorded  during  the  past  year,  and  reflects  in  part  a drop  in
+
+shipments  to  Mexico.  Increases  in  industrial  supplies,  machinery,
+
+agricultural  goods,  and  automotive  products  to  countries  other  than
+
+Mexico,  were  partly  offset  by  a sharp  drop  in  exports  of  aircraft,
+
+automotive  products  to  Mexico,  and  consumer  goods.
+
+Imports  in  the  first  quarter were  3 percent  higher  than in  the
+
+fourth  quarter;  this was  the  same  rate  of  growth  as  recorded  in  the
+
+fourth  quarter  of  last  year.  Increases were  recorded  in  all  major
+
+trade  categories.  The  price  of  oil  rose  in  each month  of  the  first
+
+quarter;  for  the  quarter,  the  rise  in  price  just  about  offset a
+
+small  decline  in  quantity.
+
+U.K.  Economic  Developments
+
+U.K. retail  sales  fell  0.2  percent  in  April  from a month  earlier,
+
+and  fourth  and  first-quarter  data were  revised  down  slightly.  The
+
+decline  in  retail  sales  occurred  despite  reports  of higher  sales  by
+
+business  surveys.  The  recent  weakness  is  primarily  due  to  a decline
+
+in  household  good  sales,  which  reflects  the  poor  housing market.
+
+UNITED  KINGDOM  ECONOMIC  INDICATORS
+(Percent change  from previous  period  except where  noted,  SA)
+
+1994 
+
+Q3 
+
+Q4 
+
+Q1 
+
+Jan. 
+
+1995
+Feb. 
+
+Mar. 
+
+Apr.
+
+Retail  sales 
+(Previous) 
+
+.7 
+
+.2 
+(.3) 
+
+-.2 
+(-  .1)  (-1.2) 
+
+-1.3 
+
+1.3 
+(1.2) 
+
+-.3 
+(-.1)
+
+-.2
+
+-11-
+
+TABLE  1
+
+U.S.  International Trade  in  Goods  and Services
+(in bittions  of  dollars,  seasonally adjusted)
+
+May  18,  1995
+
+NIPA  Real 
+Net  Exports 
+G  &  S  */ 
+
+--- 
+--------------------------------
+
+Balance 
+
+From  the Monthly  ress  Release  1/-------------------------
+I 
+
+Exports 
+
+I 
+
+Imports
+
+---------------------------. 
+Merch. 
+
+G &  S 
+
+Services 
+
+-------------------- 
+G  &  S 
+
+Merch. 
+
+--------- 
+
+Services 
+
+--------------------------------
+G &  S 
+
+Merch. 
+
+Services
+
+(1) 
+
+(2) 
+
+(3) 
+
+(4) 
+
+(5) 
+
+(6) 
+
+(7) 
+
+(8) 
+
+(9) 
+
+(10)
+
+-32.4 
+-74.0 
+-110.0 
+
+-40.4
+-75.7
+-106.6
+
+-96.1
+-132.6
+-166.6
+
+55.7
+56.8
+60.0
+
+616.9
+641.7
+697.9
+
+440.4
+456.9
+502.6
+
+176.6
+184.8
+195.3
+
+657.3
+717.4
+804.5
+
+536.5
+589.4
+669.2
+
+120.9
+128.0
+135.3
+
+-104.0 
+-111.8 
+-117.0 
+-107.1 
+
+-97.3 
+-106.6 
+-114.9 
+-107.5 
+
+-148.2 
+-166.9 
+-178.5 
+-172.7 
+
+50.9 
+60.3 
+63.5 
+65.2 
+
+658.9 
+681.7 
+709.2 
+741.6 
+
+471.4 
+490.0 
+510.6 
+538.4 
+
+187.6 
+191.7 
+198.7 
+203.2 
+
+756.2 
+788.3 
+824.2 
+849.1 
+
+619.6 
+656.9 
+689.0 
+711.1 
+
+136.6
+131.3
+135.2
+138.0
+
+B.1  .a.
+
+Years
+
+1992
+1993
+1994
+
+Quarters  (AR):
+
+1994  Qtr 1 
+2 
+3 
+4 
+
+1995  Qtr  1 
+
+-119.7 
+
+1  -120.9 
+
+-181.6 
+
+60.7 
+
+1  754.2 
+
+551.7 
+
+202.5 
+
+875.1 
+
+733.3 
+
+141.8
+
+Monthly Rates:
+Monthly Rates:
+
+1993  Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+1994  Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+
+1995  Jan
+Feb
+Mar
+
+-4.7
+-3.3
+-6.4
+-6.4
+-5.0
+-7.7
+-7.5
+-6.8
+-8.0
+-7.9
+-7.5
+-4.5
+
+-7,8
+-9.6
+-6.9
+-8.6
+-9.2
+-8.8
+-10.7
+
+-9.1
+-8.9
+-10.0
+-9.6
+-7.3
+
+-12.0 
+-9.2 
+-9.1 
+
+-9.3
+-8.7
+-11.2
+-11.3
+-10.0
+-12.5
+-12.3
+-11.6
+-12.5
+-12.5
+-11.5
+
+-9.1
+
+-12.0
+-13.6
+-11.5
+-13.4
+-14.3
+-14.1
+-16,0
+-14.1
+-14.5
+-15.1
+-15.2
+-12.9
+
+-16.9
+-14.3
+-14.2
+
+51.5
+51.8
+53.9
+53.4
+54.0
+52.7
+52.0
+52.7
+53.3
+55.1
+54.5
+56.7
+
+53.6
+52.8
+58.4
+55.9
+56.2
+58.3
+56.5
+60.3
+60.5
+59.9
+61.9
+63.6
+
+36.7
+36.4
+38.6
+37.9
+38.6
+37.3
+36.5
+37.4
+37.9
+39.4
+39.4
+41.0
+
+38.5
+37.4
+42.0
+40.3
+40.2
+42.0
+40.1
+44.1
+43.5
+43.3
+44.8
+46.5
+
+61.0 
+62.3 
+65.3 
+
+44.3
+45.4
+48.2
+
+14.8
+15.5
+15.3
+15.5
+15.4
+15.4
+15.6
+15.4
+15.4
+15.7
+15.1
+15.8
+
+15.1
+15.5
+16.3
+15.6
+16.0
+16.3
+16.4
+16.2
+17.0
+16.6
+17.1
+17.1
+
+16.7
+16.8
+17.1
+
+56.2
+55.2
+60.2
+59.8
+59.0
+60.3
+59.5
+59.6
+61.3
+63.0
+62.0
+61.3
+
+61.4
+62.4
+65.2
+64.5
+65.4
+67.1
+67.2
+69.4
+69.4
+69.9
+71.5
+70.9
+
+72.9
+71.4
+74.5
+
+46.1
+45.0
+49.7
+49.2
+48.6
+49.7
+48.8
+49.0
+50.4
+51.9
+50.9
+50.1
+
+50.5
+50.9
+53.5
+53.7
+54.5
+56.0
+56.1
+58.2
+58.0
+58.4
+60.0
+59.4
+
+61.2
+59.7
+62.5
+
+10.2
+10.1
+10.5
+10.6
+10.4
+10.6
+10.7
+10.6
+10.8
+11.1
+11.1
+11.2
+
+10.9
+11.5
+11.8
+10.8
+10.9
+11.1
+11.2
+11.2
+11.4
+11.5
+11.6
+11.5
+
+11.8
+11.7
+12.0
+
+1/ U.S. Department  of  Commerce, Bureau  of  the Census  and Bureau  of  Economic Analysis,  BOP vaLuation.
+*/ In  billions of  1987  dollars.
+Note:  Details may not  add to  totals because  of  rounding.
+
+B.1.b. 
+
+-12-
+
+TABLE 2
+
+May 18,  1995
+
+U.S.  TRADE IN GOODS AND  SERVICES:  SUMMARY  DETAILS
+(Millions of  dollars, seasonally  adjusted)
+
+1994 
+Nov 
+
+1994 
+Dec 
+
+1995 
+Jan 
+
+1995 
+Feb 
+
+1995 
+Mar 
+
+1994 
+Qtr-1 
+
+1994 
+Qtr-2 
+
+1994 
+Qtr-3 
+
+1994 
+Qtr-4 
+
+1995
+Qtr-1
+
+TRADE BALANCE  (G&S) 
+
+-9,628  -7,261  -11,953  -9,151  -9,115 
+
+-24,317  -26,640 -28,735  -26,885  -30,219
+
+EXPORTS,  Total  (G&S) 
+
+Services 
+Agricultural 
+Gold  (BOP) 
+Nonag Goods ex  Gold 
+
+Ind Supplies (Ex Ag,  Gold) 
+Fuels  (coal,petrol,etc) 
+Chemicals 
+Building  Materials 
+Other  Ind  Supplies 
+
+Capital  Goods 
+
+Aircraft & Parts 
+Computers & Access 
+Semiconductors 
+Other  Capital  Goods 
+
+Automotive Products 
+
+To  Canada 
+To  Mexico (NSA) 
+To  Rest  of World 
+
+61,909  63,611  60,964  62,251  65,344 
+17,095  17,121  16,665  16,830  17,142 
+4,545 
+4,647  4,840 
+4,460 
+229 
+845 
+265 
+40,040  41,442  39,574  40,478  42,517 
+
+4,731 
+318 
+
+296 
+
+164,737  170,427 177,311  185,401  188,559
+46,888  47,919  49,671  50,808  50,637
+10,925  10,944  11,680  13,521  13,947
+2,338 
+1,406
+104,586  110,131  114,804  120,215  122,569
+
+1,156 
+
+1,433 
+
+857 
+
+9,610  10,018  10,276  10,450  10,761 
+1,152 
+1,242 
+1,050 
+1,145 
+3,561 
+3,303  3,357  3,508 
+771 
+789 
+5,277 
+5,104 
+
+955 
+3,248 
+798 
+4,609 
+
+752 
+4,721 
+
+735 
+5,040 
+
+18,063  18,916  16,915  17,818  19,315 
+2,563 
+1,471 
+2,731 
+3,105 
+2,948 
+3,034 
+2,302 
+2,717 
+2,281 
+9,997  10,763  10,216  10,083  10,929 
+
+2,584 
+3,051 
+2,518 
+
+2,274 
+3,037 
+2,424 
+
+24,019  25,544  27,888  29,152  31,488
+3,144 
+3,288 
+2,721 
+3,347
+9,632  10,426
+9,109 
+7,856 
+2,295
+2,307 
+2,323 
+2,092 
+11,349  12,134  13,312  13,925  15,421
+
+2,819 
+8,491 
+2,099 
+
+48,637  51,016  51,758  53,868  54,048
+7,381 
+8,562 
+6,308
+9,008  9,090
+7,846 
+7,422
+7,041 
+5,845 
+26,384  28,503  29,845  30,438  31,227
+
+8,518 
+8,006 
+5,989 
+
+7,142 
+8,468 
+6,304 
+
+4,887  5,579 
+3,078 
+2,816 
+679 
+704 
+1,822 
+1,366 
+
+5,356  5,174 
+2,982 
+3,325 
+487 
+535 
+1,705 
+1,495 
+
+5,031 
+2,730 
+473 
+1,828 
+
+13,489  13,883  14,410  15,461  15,561
+9,037
+7,746 
+7,626 
+7,208 
+1,495
+1,900 
+2,100 
+1,983 
+5,029
+4,297  4,157  4,764 
+
+8,651 
+2,132 
+4,678 
+
+Consumer Goods 
+All  Other Merchandise 
+
+5,481 
+1,999 
+
+5,309 
+1,619 
+
+4,989 
+2,037 
+
+5,242 
+1,795 
+
+5,390 
+2,020 
+
+IMPORTS, Total  (G&S) 
+Services 
+Petroleum 
+Gold (BOP) 
+Nonpetroleum  Goods ex  Gold 
+
+71,537  70,872  72,917  71,402  74,459 
+11,553  11,486  11,765  11,678  12,008 
+4,681 
+4,123 
+4,575 
+769 
+148 
+208 
+55,201  55,110  56,881  55,206  57,001 
+
+4,336 
+182 
+
+4,096 
+180 
+
+13,846  14,575  15,352  16,199  15,620
+5,852
+4,595 
+
+5,114 
+
+5,395 
+
+5,535 
+
+189,054  197,067  206,046  212,286 218,778
+34,157  32,837  33,793  34,510  35,451
+10,409  12,850  15,157  12,790  13,141
+1,098
+2,198 
+142,291  150,211  156,390  164,321  169,087
+
+1,169 
+
+706 
+
+665 
+
+Ind  Supplies  (Ex Oil,  Gold) 
+
+Chemicals 
+Iron & Steel  Mill Prod 
+Building Materials 
+Other Ind  Supplies 
+
+9,773 
+1,937 
+1,182 
+1,094 
+5,560 
+
+9,908  10,274 
+2,186 
+1,965 
+1,167 
+1,116 
+1,095 
+1,153 
+5,827 
+5,675 
+
+9,884  10,621 
+2,117 
+2,067 
+1,198 
+1,047 
+987 
+1,053 
+6,319 
+5,717 
+
+25,287  26,581  27,667  29,269  30,779
+6,370
+5,461 
+4,967  5,147 
+3,412
+3,384 
+3,174 
+2,876 
+3,134
+3,216 
+3,103 
+2,984 
+14,459  15,157  15,606  16,716  17,863
+
+5,776 
+3,474 
+3,302 
+
+Capital  Goods 
+
+Aircraft & Parts 
+Computers & Access 
+Semiconductors 
+Other Capital  Goods 
+
+Automotive Products 
+
+From  Canada 
+From Mexico  (NSA) 
+From  Rest of  World 
+
+Consumer Goods 
+Foods,  Feeds,  and Beverages 
+All  Other Merchandise 
+
+Memo  Items,  NSA:
+
+Oil  Imports:  Value  (SITC) 
+Volume (mbd) 
+Price ($/bbl) 
+
+............ 
+
+16,964  16,791  17,220  16,856  17,445 
+1,041 
+4,258 
+2,620 
+9,526 
+
+780 
+1,074 
+4,294 
+4,219 
+2,537  2,795 
+9,351 
+8,961 
+
+826 
+4,114 
+2,608 
+9,308 
+
+1,050 
+4,425 
+2,542 
+8,946 
+
+10,743  10,729  11,070  10,708  10,781 
+3,982 
+4,248 
+4,142 
+1,610 
+1,406 
+1,490 
+5,190 
+5,416 
+5,111 
+
+4,080 
+1,380 
+5,270 
+
+4,040 
+1,423 
+5,245 
+
+12,913  12,892  13,441  13,073  13,157 
+2,885 
+2,854 
+2,638 
+2,111 
+2,022 
+2,171 
+
+2,803 
+1,882 
+
+2,657 
+2,133 
+
+3,078 
+
+42,582  44,706  46,936  50,327  51,521
+2,646
+2,823 
+10,468  11,113  11,813  12,826  12,666
+8,024
+6,742 
+5,754 
+23,538  24,599  25,919  26,855  28,185
+
+2,977 
+
+7,669 
+
+2,462 
+
+5,915 
+
+27,020  29,125  30,838  31,702  32,559
+9,278  10,348  11,098  11,923  12,270
+4,438
+3,345 
+14,397  15,224  16,265  15,495  15,851
+
+3,553  3,474 
+
+4,284 
+
+34,443  36,122  37,135  38,593  39,670
+8,542
+8,034 
+7,343 
+6,015
+5,780 
+5,616 
+
+7,968 
+6,464 
+
+7,612 
+6,065 
+
+4,359  4,022 
+8.700 
+9.399 
+14.91 
+15.46 
+
+3,938 
+8.310 
+15.29 
+
+3,782 
+8.567 
+15.77 
+
+4,601 
+9.333 
+15.90 
+
+9,942  12,423  14,799  12,415  12,321
+8.736
+8.918 
+15.66
+12.39 
+
+9.531  10.113 
+15.91 
+14.33 
+
+8.939 
+15.10 
+
+...........------------------------------------------------------------------------------------------
+
+B.1 .c.
+
+-13-
+
+TABLE 3
+
+May 18,  1995
+
+U.S. TRADE IN GOODS AND SERVICES:  SUMMARY  OF MONTHS AND  QUARTERS  -- DOLLAR CHANGES
+(Millions of  dollars,  seasonally adjusted)
+
+Amount  Change from Prev. Month 
+
+Dec 
+
+Jan 
+
+Feb 
+
+Mar 
+
+Amount  Change from Prev. Qtr. 
+Qtr-2  Qtr-3 
+atr-1 
+
+Qtr-4 
+
+$ Change from
+Year  Earlier
+01-01
+
+EXPORTS,  Total  (G&S)
+
+Services
+Agricultural
+Gold (BOP)
+Nonag  Goods ex Gold
+
+1,702  -2,647 
+-456 
+-270 
+-53 
+1,402  -1,868 
+
+26 
+185 
+89 
+
+1,287  3,093
+312
+193
+549
+2,039
+
+165 
+186 
+31 
+905 
+
+Ind Supplies  (Ex Ag, Gold)
+Fuels  (coal,petrot,etc)
+Chemicals
+Building Materials
+Other  Ind Supplies
+
+Capital  Goods
+
+Aircraft & Parts
+Computers  & Access
+Semiconductors
+Other capital  Goods
+
+Automotive Products
+
+To Canada
+To Mexico (NSA)
+To Rest of  World
+
+408 
+287 
+55 
+-46 
+112 
+
+258 
+-97 
+54 
+-17 
+319 
+
+853  -2,000 
+-147  -1,113 
+-103 
+-237 
+-548 
+
+17 
+216 
+766 
+
+693 
+262 
+-25 
+456 
+
+-224 
+247 
+-143 
+-327 
+
+Consumer Goods 
+Alt  Other Merchandise 
+. - - .
+
+. - - . - - - - - - - - .
+
+- - - - - - - .
+
+-320 
+-172 
+-381 
+419 
+. - - - - - - - - - - - - - - - - - - - - - .
+
+175 
+-95 
+151 
+54 
+64 
+
+902 
+803 
+89 
+143 
+-133 
+
+-182 
+-343 
+-49 
+210 
+
+253 
+-243 
+
+311
+102
+53
+-17
+173
+
+1,497
+289
+68
+293
+847
+
+-143
+-252
+-13
+123
+
+148 
+226 
+
+. - - - - - - - - - - - - - - - - .
+
+5,690 
+1,031 
+18 
+-905 
+5,546 
+
+1,525 
+98 
+635 
+7 
+785 
+
+6,884 
+1,752 
+736 
+-277 
+4,673 
+
+2,345 
+326 
+618 
+224 
+1,177 
+
+8,090  3,158
+-171
+1,137 
+426
+1,841 
+549
+-299 
+2,354
+5,410 
+
+1,263 
+143 
+523 
+-16 
+613 
+
+2,336
+59
+794
+-12
+1,496
+
+2,379 
+
+742 
+-44  -1,377 
+462 
+160 
+315 
+144 
+1,342 
+2,119 
+
+2,110 
+
+180
+239  -1,072
+82
+541 
+381
+737 
+789
+593 
+
+394 
+418 
+116 
+-140 
+
+527 
+120 
+-199 
+607 
+
+1,051 
+905 
+231 
+-85 
+
+100
+386
+-637
+350
+
+23,822
+3,749
+3,022
+-932
+17,983
+
+7,469
+626
+2,570
+202
+4,071
+
+5,411
+-2,254
+1,244
+1,577
+4,843
+
+2,072
+1,829
+-488
+732
+
+729 
+519 
+. - - - - - - - .
+
+-578 
+317 
+. - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+1,774
+1,258
+
+847 
+140 
+
+777 
+282 
+
+IMPORTS, Total  (G&S)
+Services
+Petroleum
+Gold  (BOP)
+Nonpetroleum Goods  ex Gold
+
+-665 
+-67 
+-479 
+-28 
+-91 
+
+2,045  -1,515 
+-87 
+213 
+34 
+1,771  -1,676 
+
+279 
+28 
+-33 
+
+3,057
+330
+345
+587
+1,795
+
+6,240 
+8,013  8,979 
+-1,320 
+717 
+956 
+2,442  2,307  -2,367 
+-41 
+-463 
+-1,029 
+7,931 
+6,179 
+7,920 
+
+6,492
+941
+352
+434
+4,766
+
+Ind  Supplies  (Ex  Oil,  Gold)
+
+Chemicals
+Iron & Steel  Mill  Prod
+Building Materials
+Other  Ind Supplies
+
+Capital  Goods
+
+Aircraft & Parts
+Computers & Access
+Semiconductors
+Other Capital  Goods
+
+Automotive Products
+
+From Canada
+From Mexico  (NSA)
+From Rest  of  World
+
+Consumer Goods 
+Foods, Feeds,  and Beverages 
+ALL  Other Merchandise 
+
+135 
+29 
+-67 
+59 
+115 
+
+-173 
+24 
+-206 
+-5 
+14 
+
+-13 
+-62 
+-110 
+159 
+
+-21 
+18 
+-38 
+
+366 
+221 
+51 
+-58 
+152 
+
+429 
+-294 
+75 
+258 
+391 
+
+341 
+168 
+26 
+146 
+
+549 
+197 
+-111 
+
+-390 
+-119 
+-120 
+-42 
+-110 
+
+-364 
+46 
+-180 
+-187 
+-43 
+
+-362 
+-208 
+17 
+-171 
+
+-368 
+-51 
+-140 
+
+737
+50
+152
+-66
+602
+
+589
+215
+144
+12
+219
+
+73
+-59
+187
+-55
+
+85 
+82 
+229 
+
+1,294 
+179 
+298 
+118 
+698 
+
+2,123 
+256 
+645 
+162 
+1,061 
+
+2,105 
+1,070 
+208 
+827 
+
+1,086 
+314 
+210 
+114 
+449 
+
+2,230 
+-616 
+700 
+827 
+1,320 
+
+1,714 
+751 
+-78 
+1,041 
+
+1,602 
+315 
+90 
+86 
+1,111 
+
+3,391 
+515 
+1,013 
+927 
+936 
+
+863 
+824 
+810 
+-771 
+
+1,511
+594
+-61
+-168
+1,146
+
+1,195
+-331
+-160
+355
+1,330
+
+857
+347
+154
+356
+
+1,679 
+269 
+450 
+
+1,013 
+422 
+-286 
+
+1,457 
+-66 
+684 
+
+1,078 
+574 
+-448 
+
+29,724
+1,294
+2,732
+-1,099
+26,797
+
+5,493
+1,403
+536
+150
+3,404
+
+8,939
+-176
+2,198
+2,270
+4,647
+
+5,539
+2,992
+1,094
+1,453
+
+5,228
+1,199
+400
+
+-.  ---------------------------------------------------------------------------------.--------------------------------.
+
+Memo Items,  NSA:
+
+Oil  Imports:  Value  (SITC) 
+Volume (mbd) 
+Price ($/bbl) 
+
+-85 
+
+-336 
+
+-156 
+-0.699  -0.390  0.257 
+0.48 
+-0.54 
+
+0.37 
+
+819 
+0.767 
+0.14 
+
+2,481 
+0.613 
+1.94 
+
+2,376  -2,383 
+-94 
+0.581  -1.174  -0.202 
+0.56 
+-0.81 
+1.58 
+
+2,379
+-0.182
+3.27
+
+-. 
+
+...................................................................................................................
+
+B.1.d.
+
+-14-
+
+TABLE  4
+
+U.S.  TRADE  IN GOODS AND  SERVICES:  SUMMARY  OF  MONTHS AND  QUARTERS  -- PERCENT CHANGES
+(Percent change from previous period)
+
+Percent  Change from  Prev. Month
+
+Dec 
+
+Jan 
+
+Feb 
+
+Mar
+
+EXPORTS, Total  (G&S)
+
+Services
+Agricultural
+Gold  (BOP)
+Nonag Goods ex  Gold
+
+Ind  Supplies (Ex Ag, Gold)
+Fuels (coat,petrol,etc)
+Chemicals
+Building Materials
+Other  Ind Supplies
+
+Capital  Goods
+
+Aircraft & Parts
+Computers  & Access
+Semiconductors
+Other Capital  Goods
+
+Automotive Products
+
+To Canada
+To Mexico (NSA)
+To Rest  of  World
+
+2.7
+0.2
+4.1
+38.9
+3.5
+
+4.2
+30.0
+
+1.7
+-5.8
+2.4
+
+4.7
+-5.4
+0.6
+9.4
+7.7
+
+14.2 
+9.3 
+-3.6 
+33.4 
+
+-4.2
+-2.7
+-5.7
+-16.6
+-4.5
+
+2.6
+-7.8
+
+1.6
+-2.3
+6.7
+
+-10.6
+-43.1
+-3.4
+-9.4
+-5.1
+
+-4.0
+8.0
+
+-21.1
+-17.9
+
+2.1
+1.0
+4.2
+11.7
+2.3
+
+1.7
+
+-8.3
+4.5
+7.4
+1.3
+
+5.3
+54.6
+3.0
+6.3
+-1.3
+
+-3.4
+-10.3
+-9.1
+14.0
+
+Consumer Goods 
+ALL  Other Merchandise 
+
+...................................................................................................
+
+-3.1 
+-19.0 
+
+-6.0 
+25.9 
+
+5.1 
+-11.9 
+
+IMPORTS,  Total  (G&S)
+Services
+PetroLeum
+Gold (BOP)
+Nonpetroleum Goods  ex  Gold
+
+Ind Supplies  (Ex Oil,  Gold)
+
+Chemicals
+Iron & Steel  Mill  Prod
+Building Materials
+Other Ind  Supplies
+
+Capital  Goods
+
+Aircraft & Parts
+Computers & Access
+Semiconductors
+Other Capital  Goods
+
+Automotive Products
+
+From  Canada
+From Mexico  (NSA)
+From  Rest  of  World
+
+-0.9
+-0.6
+-10.5
+-13.4
+-0.2
+
+1.4
+1.5
+
+-5.7
+5.3
+2.1
+
+-1.0
+2.3
+-4.7
+-0.2
+0.2
+
+2.9
+2.4
+0.7
+-18.1
+3.2
+
+3.7
+11.2
+4.6
+-5.0
+2.7
+
+2.6
+-27.4
+1.8
+
+10.2
+4.4
+
+Consumer Goods
+Foods,  Feeds,  and Beverages
+All  Other Merchandise
+
+-0.2 
+0.7 
+-1.8 
+
+4.3 
+7.4 
+-5.2 
+
+Memo  Items,  NSA:
+
+-2.1
+-0.7
+5.2
+23.3
+-2.9
+
+-3.8
+-5.4
+
+-10.3
+-3.8
+-1.9
+
+-2.1
+5.9
+-4.2
+-6.7
+-0.5
+
+-3.3 
+-4.9 
+1.2 
+-3.2 
+
+-2.7 
+-1.8 
+-6.9 
+
+5.0
+1.9
+4.2
+
+185.5
+5.0
+
+3.0
+9.7
+1.5
+
+-2.2
+3.4
+
+8.4
+12.7
+2.3
+12.1
+8.4
+
+-2.8
+-8.5
+-2.8
+7.2
+
+2.8 
+12.6 
+
+4.3
+2.8
+8.0
+
+322.4
+3.3
+
+7.5
+2.4
+14.5
+-6.3
+10.5
+
+3.5
+26.0
+3.5
+0.4
+2.3
+
+0.7
+-1.4
+13.1
+-1.1
+
+0.6
+2.9
+12.2
+
+Percent  Change  from Prev. Qtr.
+Qtr-1
+- - --.  - - - - -
+
+Qtr-2 
+- - - - - -.  - - -.  - -. - -
+
+Qtr-3 
+
+Qtr-4 
+
+5.5 
+2.6 
+
+-3.6
+5.7
+
+1.7
+
+-0.3
+3.2
+64.0
+2.0
+
+8.0
+1.8
+8.2
+-0.5
+10.7
+
+0.3
+-14.5
+
+0.9
+5.4
+2.6
+
+0.6
+4.5
+-29.9
+7.5
+
+3.1
+2.7
+2.7
+
+65.2
+2.9
+
+5.2
+10.3
+-1.8
+-5.1
+6.9
+
+2.4
+-11.1
+
+-1.2
+4.6
+5.0
+
+3.5
+2.2
+0.2
+-38.7
+5.3
+
+4.0
+3.7
+6.7
+-19.3
+4.2
+
+4.6
+2.3
+15.8
+-25.8
+
+4.7
+
+4.5
+4.6
+5.7
+-0.7
+4.6
+
+4.1
+3.3
+6.4
+11.7
+2.0
+
+7.3 
+11.7 
+12.2 
+-1.8 
+
+6.3
+3.6
+8.1
+0.3
+6.9
+
+4.9
+-0.5
+2.0
+2.5
+8.0
+
+2.9 
+5.8 
+5.9 
+-3.3 
+
+5.3 
+11.3 
+
+9.2
+11.5
+7.3
+10.7
+9.7
+
+1.5
+-16.2
+5.8
+5.3
+4.7
+
+3.8 
+1.6 
+-9.5 
+14.6 
+
+5.3 
+5.5 
+
+4.2
+-3.9
+23.5
+-46.8
+5.6
+
+4.6
+2.9
+17.9
+-39.6
+
+4.1
+
+3.0
+2.1
+
+-15.6
+-5.8
+5.1
+
+5.8
+5.8
+2.6
+2.7
+7.1
+
+7.2
+20.9
+8.6
+13.7
+3.6
+
+2.8
+7.4
+23.3
+-4.7
+
+5.1
+3.6
+10.4
+4.0
+4.8
+
+5.0
+9.1
+6.2
+2.8
+4.5
+
+7.8 
+11.5 
+6.2 
+5.7 
+
+4.9 
+3.7 
+8.0 
+
+4.1
+6.1
+6.6
+3.7
+3.0
+
+5.0
+-20.0
+6.3
+14.0
+5.4
+
+5.9 
+7.3 
+-2.2 
+6.8 
+
+2.8 
+5.5 
+-4.7 
+
+3.9 
+-0.8 
+11.8 
+
+2.8
+7.2
+-6.9
+
+Oil  Imports:  Value  (SITC) 
+Volume (mbd) 
+Price  C$/bbl) 
+
+-7.7 
+-7.4 
+-3.5 
+
+-2.1 
+-4.5 
+2.5 
+
+-4.0 
+3.1 
+3.2 
+
+21.7 
+8.9 
+0.9 
+
+25.0 
+6.9 
+15.6 
+
+19.1 
+6.1 
+11.0 
+
+-16.1 
+-11.6 
+-5.1 
+
+-0.8 
+-2.3 
+3.7 
+
+.....................................................................................................................
+
+May  18,  1995
+
+% Change from
+Year  Earlier
+Q1-01
+
+14.5
+8.0
+27.7
+-39.9
+17.2
+
+31.1
+23.0
+32.7
+
+9.7
+
+35.9
+
+11.1
+-26.3
+15.9
+27.0
+18.4
+
+15.4
+25.4
+-24.6
+17.0
+
+12.8
+27.4
+
+15.7
+3.8
+26.3
+-50.0
+18.8
+
+21.7
+28.2
+18.6
+5.0
+23.5
+
+21.0
+-6.2
+21.0
+39.5
+19.7
+
+20.5
+32.3
+32.7
+10.1
+
+15.2
+16.3
+7.1
+
+23.9
+-2.0
+26.4
+
+

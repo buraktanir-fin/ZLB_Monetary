@@ -1,0 +1,3141 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+CONFIDENTIAL  (FR)
+CLASS  III  - FOMC
+
+May  14,  1999
+
+SUPPLEMENT
+
+CURRENT  ECONOMIC  AND  FINANCIAL  CONDITIONS
+
+Prepared  for  the
+Federal  Open  Market  Committee
+
+By  the  Staff
+Board  of Governors
+of the Federal  Reserve  System
+
+TABLE  OF  CONTENTS
+
+THE DOMESTIC  NONFINANCIAL  ECONOMY 
+
+Consumer  Price  Index  (CPI) 
+
+................... 
+
+...................... 
+
+Industrial  Production  ............................................. 
+
+Retail  Inventories  .............................. 
+
+.. 
+
+..........
+
+Page
+
+1
+
+2
+
+3
+
+University  of Michigan  Survey  Research  Center
+Survey  of Consumer Attitudes 
+
+............... 
+
+............... 
+
+.
+
+. 4
+
+Tables
+
+CPI  and  PPI  Inflation  Rates 
+
+............. 
+
+............ 
+
+....... 
+
+...... 
+
+5
+
+Broad Measures  of Inflation 
+
+................ 
+
+...................... 
+
+Growth  in  Selected  Components  of Industrial  Production 
+
+.................. 
+
+Changes  in  Manufacturing  and  Trade  Inventories  .......................... 
+
+University  of Michigan  Survey  Research  Center:
+Survey  of Consumer Attitudes 
+
+................................ 
+
+Charts
+
+Measures  of Core Consumer  Price  Inflation 
+
+.............................. 
+
+Inventory-Sales  Ratios,  by  Major  Sector  ............................. 
+
+Inventory-Sales  Ratios  ............................................ 
+
+. 7
+
+8
+
+9
+
+. 12
+
+6
+
+.
+
+. 10
+
+11
+
+THE FINANCIAL  ECONOMY
+
+Tables
+
+Selected  Financial  Market  Quotations  . ............................... 
+
+Commercial  Bank  Credit  ............... 
+
+.......................... 
+
+13
+
+14
+
+SUPPLEMENTAL  NOTES
+
+THE DOMESTIC  NONFINANCIAL  ECONOMY
+
+Consumer Prices
+
+The  consumer  price  index jumped  0.7  percent  in  April,  boosted  in part  by  a  very  sharp
+
+rise  in  energy  prices;  the CPI  now  stands  2.3  percent  above  the level  of year  ago.  Consumer  food
+
+prices  edged  up  last month,  but consumer  prices  excluding  food  and  energy  increased  0.4
+
+percent.  The  twelve-month  change  in  the core  CPI  was  2.2  percent  in April,  up  0.3  percentage
+
+point from  the year-earlier  pace  (taking  into  account methodological  changes).  Higher  tobacco
+
+prices  accounted  for the acceleration,  and  (on  a  methodologically  consistent  basis)  core  CPI
+
+prices  excluding  tobacco  were  unchanged  over the past  twelve  months.
+
+Consumer  energy  prices  surged  6.1  percent  last  month,  the  largest  monthly  increase  on
+
+record,  and  are  now  3 percent  above  their  year-earlier  level.  The price  of motor  fuel jumped  a
+
+record  15  percent  in  April,  and  heating  oil  prices  also  surged;  these increases  reflect  the sizable
+
+rise  in  crude  oil prices  so far this  year as  well  as  disruptions to refinery  operations  in  California.
+
+For early  May,  survey  results  suggest  that  retail  prices  of gasoline  have  leveled  off.
+
+The  CPI  for  food  edged  up  0.1  percent  in  April,  after declining  slightly in  March.  The
+
+volatile  index  for fruits  and vegetables  increased  1.4  percent  in  April,  and  the index  for meats,
+
+poultry,  fish,  and  eggs turned  up  last  month.  Other  food  prices  fell  slightly on  balance,  led  by
+
+declines  in  the indexes  for  dairy  products  and butter.  Over the past twelve  months,  the  overall
+
+index  for  food  has  risen  2.3  percent.
+
+The  index  for commodities  other  than food  and energy  moved  up  0.6  percent  in  April.
+
+nearly  reversing  the declines  of the previous  two  months.  Tobacco  prices  rose  3.6  percent  last
+
+month,  following  a  decline  of the same  magnitude  in  March;  these  monthly  movements  reflect
+
+the removal  in  April  of discounts on  name-brand  cigarettes  that  were  in  effect  for  the month  of
+
+March.  The  April  index  for  tobacco  stands  33 percent  above  its  level  of a  year  ago.  Among
+
+other  goods,  apparel  prices  rose  1.5  percent  in  April,  the  first  increase  since  August  1998,  but
+
+remain  slightly  below  their year-earlier  level.  New and  used motor  vehicle  prices also  turned  up
+
+last  month.
+
+The  CPI  for  non-energy  services  rose  0.4  percent  last month.  Both  owners'  equivalent
+
+rent  and residential  rent increased  0.3  percent  in April,  while  the  index  for lodging  away  from
+
+-2-
+
+home jumped  1.9  percent,  following  a  similar rise  in  March.  Elsewhere,  air fares  rose 2  percent
+
+further  and are  up  11.3  percent  (not at  an  annual  rate)  over  the  first  four months  of this year.
+
+Last month's  0.4 percent  increase  in the  core  CPI  followed  increases  of only  0.1  percent
+
+in  each of the first  three  months  of the  year.  We  believe  that those  first-quarter  readings  were
+
+held  down  slightly  by  seasonal  adjustment  difficulties  associated  with the  introduction  of the
+
+geometric-mean  CPIs in  January.'  Although  the higher April  figure  appears  to  reflect a  partial
+
+reversal  of this  seasonal  adjustment  distortion,  this  effect  likely accounted  for only a  small  part  of
+
+the April  increase. 2
+
+Industrial  Production
+
+Industrial  activity  picked  up  in  recent  months,  after  a  period of slack.  IP rose  a  robust  0.6
+
+percent  in  April,  and  the increase  in  March  was revised  up to  0.5  percent.  Manufacturing
+
+production  rose  0.6 percent  in  April  following  upward-revised  gains  of 0.4  percent  in  February
+
+and  March.
+
+Within  manufacturing,  durable  goods  production  rose  rapidly  for a  second  month,  and  the
+
+advances  were again  widespread.  Output of motor  vehicles and  parts  rose 2.3  percent  in  April;
+
+automakers were  probably  a  bit  surprised  by  the  very  high level  of sales  last quarter,  and
+
+production  schedules  indicate  that  assemblies  are  likely  to  remain  high  in coming  months.  In  the
+
+high-technology  area,  production  gains  have  accelerated  after  slowing  early this  year.  In
+
+particular,  semiconductor  production  rose  rapidly  in  March  and  April,  above  the  pace  seen  in
+
+prior  months, and  communications  equipment  advanced  2.8  percent  in  April.  The  increase  in
+
+communication  equipment  indicates that  the  strength  in  orders in  this  category  finally  appears  to
+
+be  boosting  production.  The  production  of nondurable  goods  remains  below  its year-ago  level,
+
+but has  picked  up  over the past several  months.  Gains  in nondurables  in  April  were  widespread--
+
+1.  The  geometric-mean  CPIs  appear  to  have  a  different  seasonal  pattern  than the  Laspeyres
+
+CPIs  that  had  been  in  place  through  last year;  nevertheless,  in  adjusting  the new  data  for  seasonal
+variation,  BLS  is  using  seasonal  factors  calculated  on  the  old,  Laspeyres-weighted  data.
+
+2.  Apparel  and  lodging  away  from  home,  the two  series  with  the  greatest  differences  in
+seasonal  patterns  between  the  geometric-means  and  Laspeyres  CPIs,  both jumped  notably  in  April  after
+declining  in  earlier  months.
+
+the exception  being petroleum  products;  refinery  disruptions  in California  depressed  gasoline
+
+production.
+
+The production  of consumer  goods  increased  0.6 percent  in  April,  primarily  reflecting  a
+
+2.1  percent jump  in the  production of durable  consumer  goods;  notable  output  gains occurred  in
+
+automotive  products,  carpeting  and  furniture  and  home  electronics.  Production  of business
+
+equipment  advanced  0.3  percent  in April  after an  upward-revised  increase  of 0.7  percent  in
+
+March.  Transit equipment  fell,  reflecting  the drop-off in production  at Boeing  from last  fall's
+
+peak.  Information  processing  equipment  rose substantially  further,  largely  reflecting  the
+
+advances  in computers  and communications  equipment.  Construction  supplies have  fallen,  on
+
+net, over the  past  several  months--but  remain at  a  high level.
+
+The  increases  in production in recent  months  have  lifted  the factory  operating  to  79.8
+
+percent  in April.  This  level of utilization  is  still  about  two  percentage  points  below  the  long-term
+
+average.  Utilization  rates  have  fallen  in  most industries  over the  past twelve months.  The
+
+exceptions  include  lumber and  lumber products  and  stone,  clay, and  glass  products,  which  have
+
+probably  been  held  up  by  strong  construction  activity,  light  trucks,  where  utilization rates  have
+
+increased  as  sales  and  production  picked  up over  the past year,  and  petroleum products.
+
+Retail  Inventories
+
+The  book  value  of retail  inventories  rose  $70.3  billion at an  annual  rate in  March,  driven
+
+by  a  whopping  increase  in  inventories  held by  auto  dealers.  Excluding  autos,  retail  stocks
+
+accumulated  at  a $20.1  billion  pace.  For  the quarter  as  a whole,  non-auto  retail  inventories  rose
+
+at  a $19.1  billion annual  rate.  considerably  faster  than the  $6.9  billion  annual  rate  posted  in the
+
+fourth  quarter.  However,  with non-auto  retail sales  rising 3.2 percent  in the  first  quarter (not  at
+
+an  annual  rate),  the inventory-sales  ratio  for this  category  fell  to  1.38  months,  the lowest
+
+quarterly  ratio  since  1980.
+
+Nondurable  goods  inventories  increased  at  a $14.9  billion pace  in March,  led  by
+
+stockbuilding  at  general  merchandisers  and  "other  nondurable  goods"  establishments--the
+
+category  that includes  eating and  drinking  places,  and  drug and  proprietary  stores.  In  contrast,
+
+apparel  outlets  liquidated  inventories  in March,  and  the  inventory-sales  ratio  at  these
+
+establishments  fell  to 2.36  months, the  lowest  level  since  the  summer of  1997.  Durable  goods
+
+-4-
+
+held by  non-auto retailers  expanded  at  a $5.2  billion annual  rate  in March, with  the accumulation
+
+occurring  at lumber  and  building  materials  and  "other durable  goods"  establishments.
+
+Today's  report supplied  the last  piece  of the  inventory  data  that were  not available  at the
+
+time of BEA's first-quarter  advance  GDP  release.  For the  quarter as  a whole,  manufacturing  and
+
+trade  inventories  (excluding  motor vehicles)  rose  at an  $11.8  billion annual  rate,  up  a bit  from the
+
+$6.3  billion pace  reported  in the  fourth quarter.  Although the  retail  inventory  data released today
+
+were  stronger than  BEA's assumption,  the wholesale  inventory  data  released  last week  were
+
+much weaker  than BEA  had pencilled  in.  Thus, the  total book-value  inventory  accumulation  in
+
+the  first quarter  was  about  $5  billion lower  than BEA  had  assumed  when assembling  the  advance
+
+GDP  estimate.
+
+Consumer  Sentiment
+
+According to the  preliminary report,  the Michigan  SRC  index of consumer sentiment rose
+
+almost  two points in early  May.  Assessments  of current  conditions  improved this month:
+
+Respondents'  views on their current  personal  finances  rose to the highest level  in more  than a
+
+year, and appraisals  of buying  conditions  for large  household  appliances  surged to an  historical
+
+high.  In contrast,  respondents  had  less  favorable  assessments  of future  business conditions  and
+
+of their financial  situations  over the  next year.
+
+Among  those  series not  in the  overall  index, the  index  of expected  unemployment  change
+
+moved  back up  in early  May.  Nevertheless,  households  assessments  on buying  conditions
+
+improved  considerably  this month.  Although respondents  had  less favorable  views  on current
+
+mortgage rates, a greater  share  felt that  now was a good  time to  buy a house because  "times are
+
+good" and a house  is a "good  investment."  Assessments  of buying conditions  for cars  also
+
+moved  sharply  higher.
+
+The mean of expected  inflation  over the  next year,  edged  down 0.1  percentage  point to
+
+2.9  percent in May,  but the  median  was unchanged  at 2.7 percent.  The  mean of expected
+
+inflation  over the  next five  to ten  years,  edged  up  0.1  percentage  point to 3.1  percent.  The
+
+median  also  was  unchanged  at 2.8 percent.
+
+CPI  AND PPI  INFLATION RATES
+(Percent change)
+
+From twelve
+
+months  earlier 
+
+Apr. 
+
+1998 
+
+Apr.
+1999 
+
+1998 
+
+1999 
+
+1999
+
+Q4 
+
+Q1 
+
+Mar. 
+
+Apr.
+
+-Annual  rate-
+
+-Monthly rate-
+
+All  items  (100.0)1
+
+Food  (15.4)
+Energy  (6.3)
+CPI  less  food and  energy  (78.3)
+
+Commodities  (24.0)
+
+New vehicles  (5.0)
+Used cars  and  trucks  (1.9)
+Apparel  (4.8)
+Tobacco  (1.2)
+Other Commodities  (11.1)
+
+Services  (54.3)
+
+Shelter  (29.9)
+Medical  care  (4.5)
+Other Services  (19.9)
+
+2.0
+-7.4
+2.1
+
+.2
+
+-. 6
+-4.0
+-. 2
+8.3
+.6
+
+3.0
+
+2.3 
+3.0 
+2.2 
+
+2.9
+
+-6.2
+2.3
+
+2.4
+-2.0
+1.6
+
+.8 
+
+1.0
+
+.0 
+
+-. 9
+5.2
+-1.3
+34.3
+-. 4
+
+-. 7
+-11.5
+-6.8
+81.5
+-. 6
+
+-. 7
+.1
+-. 4
+32.8
+-. 6
+
+2.8
+
+3.1
+3.3
+2.2
+
+-. 3
+
+-.2
+-. 6
+-. 3
+-3.5
+.0
+
+.3 
+
+.1
+.6
+1.5
+3.6
+.1
+
+.4
+
+PPI
+
+Finished goods  (100.0)2
+
+Finished  consumer  foods  (23.3)
+Finished  energy  (11.9)
+Finished goods  less  food
+and  energy  (64.8)
+
+-. 4
+
+-8.7
+
+.6
+
+1.0
+-6.1
+
+2.9
+
+Consumer  goods  (39.6)
+Capital  equipment  (25.2)
+Intermediate materials  (100.0) 3
+
+Intermediate materials
+
+less  food  and energy  (83.2)
+
+Crude materials  (100.0) 4
+
+Crude  food  materials  (42.2)
+Crude  energy  (31.9)
+Crude materials  less
+
+food  and  energy  (25.9)
+
+2.3
+-2.0
+
+2.3
+
+-2.0
+
+-1.5
+
+.1 
+.0 
+
+.1
+
+.0
+.0
+
+.2
+
+-1.6 
+
+-1.4 
+
+-3.4 
+
+-. 1 
+
+-1.4 
+
+-2.9 
+
+-7.0
+
+-9.3
+-4.8
+-5.6
+
+-9.9
+
+-5.8 
+
+-11.4
+
+-9.5
+-8.5
+-12.7
+
+1.5
+-1.8
+-24.0
+
+-1.2
+-27.5
+-5.3
+
+1.0
+
+-1.3
+6.1
+-. 8
+
+1.3
+
+-2.5
+8.5
+-1.1
+
+1. Relative
+2. Relative
+3. Relative
+4. Relative
+
+importance  weight
+importance  weight
+importance weight
+importance weight
+
+for  CPI,  December  1998.
+for  PPI,  Decamber  1998.
+for  intermediate materials, December  1998.
+for  crude materials, December  1998.
+
+Measures  of Core  Consumer  Price Inflation
+(Twelve-month  change  except  as  noted)
+
+CPI  Excluding  Food  and  Energy
+
+Percent
+
+3-month  change
+
+I 
+
+S 
+
+*  I 
+
+S- 
+
+Apr. 
+
+1990
+
+1993 
+
+1994 
+
+1995
+
+1997 
+
+1998 
+
+1999
+
+CPI  Services  and  Commodities
+
+/4  =
+
+CPI  services  ex.  energy
+
+,\ 
+
+' 
+
+/,\ 
+
+, 
+
+-
+
+-
+
+S--,
+
+1990
+
+CPI and  PCE
+
+1996 
+1996 
+
+1997 
+1997 
+
+1998 
+1998 
+
+PCE deflator  ex, food  and  energy 
+
+-
+
+SApr.
+,
+
+0  1 
+
+1 1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996 
+
+1997 
+
+1998 
+
+Percent
+
+Apr,
+
+1999
+1999
+
+Percent
+
+Mar.1
+
+1999
+
+3
+3
+
+2
+
+0
+
+4
+
+0
+
+-7-
+
+BROAD MEASURES  OF  INFLATION
+(Four-quarter percent change)
+
+Product prices
+
+GDP  chain price  index 
+
+Nonfarm business  chain-type price  index 1  
+
+Expenditure prices
+
+Gross domestic purchases chain-type price  index 
+
+Less  food and  energy 
+
+PCE chain-type price  index 
+
+Less  food and  energy 
+
+CPI 
+
+Less  food and  energy 
+
+Median CPI 
+Trimmed mean CPI 
+
+1. Excluding housing.
+
+1996 
+Q1 
+
+1997 
+Q1 
+
+1998 
+Q1 
+
+1999
+Q1
+
+2.0 
+
+1.3 
+
+1.9 
+
+1.9 
+
+1.2 
+
+1.1 
+
+2.0 
+2.0 
+
+2.0 
+2.0 
+
+2.8 
+2.9 
+
+3.4 
+2.8 
+
+1.8 
+1.5 
+
+2.2 
+1.8 
+
+2.9 
+2.5 
+
+2.8 
+2.7 
+
+0.7 
+1.1 
+
+0.9 
+1.3 
+
+1.5 
+2.3 
+
+2.9 
+2.0 
+
+1.0
+
+0.4
+
+0.7
+0.9
+
+1.0
+1.2
+
+1.7
+2.2
+
+2.8
+1.7
+
+SURVEYS  OF  (CPI)  INFLATION EXPECTATIONS
+(Percent)
+
+Actual 
+inflation I  
+
+(1-year) 
+
+Mean 2  
+
+Median 3  
+
+(5- to  -10-year) 
+Mean 4  
+
+Median 5  
+
+University  of  Michigan 
+
+Professional
+forecasters
+(10-year) 6
+
+1997-Q1 
+Q2 
+Q3 
+Q4 
+
+1998-Q1 
+Q2 
+Q3 
+Q4 
+
+1999-Q1 
+
+Oct. 
+Nov. 
+Dec. 
+
+1999-Jan. 
+Feb. 
+Mar. 
+
+Apr. 
+May 
+
+2.9 
+2.3 
+2.2 
+1.9 
+
+1.5 
+1.6 
+1.6 
+1.5 
+
+1.7 
+
+1.5 
+1.5 
+1.6 
+
+1.7 
+1.6 
+1.7 
+
+2.3 
+
+3.8 
+3.6 
+3.4 
+3.3 
+
+2.8 
+3.0 
+2.8 
+2.7 
+
+3.0 
+
+2.6 
+2.7 
+2.8 
+
+3.0 
+2.8 
+3.1 
+
+3.0 
+2.9 
+
+2.9 
+2.9 
+2.7 
+2.8 
+
+2.4 
+2.6 
+2.4 
+2.4 
+
+2.6 
+
+2.5 
+2.3 
+2.5 
+
+2.7 
+2.5 
+2.7 
+
+2.7 
+2.7 
+
+3.8 
+3.8 
+3.6 
+3.8 
+
+3.3 
+3.3 
+3.2 
+3.2 
+
+3.3 
+
+3.2 
+3.1 
+3.2 
+
+3.5 
+3.3 
+3.0 
+
+3.0 
+3.1 
+
+3.1 
+3.0 
+3.0 
+3.1 
+
+2.9 
+2.8 
+2.8 
+2.8 
+
+2.8 
+
+2.8
+2.8
+2.9 
+
+3.0
+2.8
+2.7 
+
+2.8
+2.8
+
+3.0
+2.9
+3.0
+2.7
+
+2.6
+2.5
+2.5
+2.5
+
+2.3
+
+2.5
+
+2.3
+
+1. CPI;  percent  change from  the  same  period in  the  preceding year.
+2. Average increase  for  responses to  the  question:  By  about what  percent  do you
+
+expect prices  (CPI)  to go up,  on  the  average,  during the  next  12  months?
+
+3. Median  increase  for  responses  to the  question above.
+4. Average  increase  for responses  to the  question:  By  about  what percent  per year
+do you expect  prices  (CPI) to go up,  on the  average,  during  the  next  5 to  10  years?
+
+5. Median  increase  for responses  to question above.
+6. Compiled  by the  Federal  Reserve Bank  of  Philadelphia.
+
+GROWTH  IN SELECTED COMPONENTS OF INDUSTRIAL PRODUCTION
+(Percent change  from preceding comparable period)
+
+Proportion 
+1998 
+
+-
+19981 
+
+1998 
+
+1999 
+
+1999
+
+Q4 
+
+Q1 
+
+Feb.  Mar.  Apr.
+
+-Annual  rate-  -- Monthly rate---
+
+100.0 
+
+88.4 
+49.6 
+5.1 
+3.1 
+38.8 
+
+1.9 
+1.9 
+
+2.5 
+5.3 
+.7 
+8.9 
+-. 9 
+
+2.2 
+2.2 
+
+1.1 
+.7 
+
+.1 
+.3 
+
+.5 
+.1
+
+.6
+
+1.6 
+4.9 
+1.9 
+8.6 
+-3.0 
+37.3 
+-2.6  -11.2 
+1.2 
+
+.3 
+
+.4 
+.2 
+1.7 
+-. 9 
+.6 
+
+.6
+.4 
+.8
+.7 
+.9 
+2.3
+.6  -3.1
+.3
+.1 
+
+83.3 
+
+2.6 
+
+3.1 
+
+1.9 
+
+.3 
+
+.4 
+
+5.4 
+6.2 
+
+-4.9 
+-1.1 
+
+-10.8  -11.1 
+-20.5 
+
+-.8 
+4.4  -2.1 
+
+-.7 
+2.8 
+
+.5
+
+.1
+.7
+
+27.5 
+6.0 
+21.5 
+
+15.4 
+6.1 
+2.5 
+4.8 
+3.1 
+1.5 
+
+-.4 
+4.9 
+-1.8 
+
+8.3 
+14.4 
+53.0 
+1.5 
+12.1 
+-1.4 
+
+.1 
+18.0 
+-4.4 
+
+1.2 
+7.1 
+-.4 
+
+.3 
+
+-. 1 
+1.4  -1.3 
+.2 
+-. 1 
+
+.6
+2.1
+.2
+
+6.2 
+11.2 
+45.9 
+-2.9 
+19.1  -10.2 
+2.4 
+-8.2 
+
+.0 
+-1.8 
+.0 
+6.3 
+29.6 
+1.3 
+-6.8  -1.4 
+-.9 
+6.6 
+
+.3
+.7 
+1.7
+1.5 
+1.9
+2.3 
+-.1 
+.7
+-.1  -1.0
+1.2  -3.7
+
+Total  index 
+Previous 
+
+Manufacturing 
+Durables 
+
+Motor  vehicles  and parts 
+Aircraft  and parts 
+
+Nondurables 
+
+Manufacturing excluding
+
+motor vehicles  and parts 
+
+Mining 
+Utilities 
+
+IP  by market  group
+
+Consumer goods 
+
+Durables 
+Nondurables 
+
+Business  equipment 
+
+Information processing 
+
+Computer  and  office  eq. 
+
+Industrial 
+Transit 
+Other 
+
+Construction supplies 
+
+6.0 
+
+5.1 
+
+5.9 
+
+7.0 
+
+-.5 
+
+-. 2 
+
+.4
+
+Materials 
+
+Durables 
+
+Semiconductors 
+Basic metals 
+
+Nondurables 
+
+39.1 
+23.8 
+3.9 
+3.6 
+8.4 
+
+1.6 
+3.8 
+25.7 
+-6.3 
+-2.8 
+
+3.5 
+9.5 
+51.7 
+-7.5 
+-3.2 
+
+2.2 
+3.1 
+16.6 
+
+.3 
+.2 
+.6 
+.9  -1.5 
+.9 
+
+2.0 
+
+.8 
+1.3 
+2.2 
+1.2 
+.1 
+
+.9
+1.2
+3.3
+-. 3
+.2
+
+1. From the  final  quarter  of  the  previous  period  to the  final  quarter of  the
+
+period  indicated.
+
+CAPACITY UTILIZATION
+(Percent of  capacity;  seasonally adjusted)
+
+1988-89  1959-98 
+
+1998 
+
+1999 
+
+1999
+
+High 
+
+Avg. 
+
+Q1 
+
+Q4 
+
+Q1 
+
+Feb. 
+
+Mar. 
+
+Apr.
+
+Manufacturing 
+
+Primary processing 
+Advanced processing 
+
+85.7 
+
+88.9 
+84.2 
+
+81.6 
+
+80.2 
+
+80.1 
+
+79.5 
+
+79.5 
+
+79.6 
+
+79.8
+
+82.8 
+81.1 
+
+82.9 
+79.3 
+
+82.5 
+79.3 
+
+82.9 
+78.4 
+
+82.8 
+78.4 
+
+82.7 
+78.5 
+
+83.0
+78.8
+
+CHANGES  IN MANUFACTURING AND TRADE  INVENTORIES
+(Billions of  dollars;  annual  rate  except as  noted;
+based on seasonally  adjusted Census  book value)
+
+Category
+
+1998 
+
+1999 
+
+1999
+
+Q3 
+
+Q4 
+
+Q1 
+
+Jan. 
+
+Feb. 
+
+Mar.
+
+Manufacturing  and trade 
+
+Less  wholesale and  retail
+
+41.4 
+
+26.2 
+
+35.5 
+
+-6.1 
+
+42.8 
+
+motor vehicles 
+
+33.8 
+
+6.3 
+
+11.8 
+
+-8.0 
+
+27.3 
+
+Manufacturing 
+
+Less  aircraft 
+
+Merchant wholesalers 
+
+Less motor vehicles 
+
+Retail  trade 
+
+Automotive  dealers 
+Less  automotive  dealers 
+
+7.4 
+1.3 
+
+26.4 
+24.5 
+
+7.6 
+5.7 
+1.8 
+
+-7.0 
+-3.9 
+
+11.3 
+6.3 
+
+21.9 
+14.9 
+6.9 
+
+-13.8 
+-4.6 
+
+6.5 
+6.4 
+
+42.8 
+23.7 
+19.1 
+
+-23.2 
+-2.8 
+
+-12.7 
+-8.3 
+
+29.7 
+6.3 
+23.4 
+
+-8.0 
+-9.4 
+
+22.3 
+21.5 
+
+28.5 
+14.7 
+13.8 
+
+69.9
+
+16.0
+
+-10.2
+-1.6
+
+9.8
+6.0
+
+70.3
+50.1
+20.1
+
+SELECTED  INVENTORY-SALES RATIOS  IN MANUFACTURING AND TRADE
+(Months' supply, based on seasonally  adjusted Census  book value)
+
+Category 
+
+Cyclical 
+reference  points 
+
+1990-91 
+high 
+
+1991-98 
+low 
+
+Range  over
+preceding
+12  months
+
+High 
+
+Low 
+
+March
+1999
+
+Manufacturing and  trade 
+
+Less wholesale  and retail
+
+1.58 
+
+1.37 
+
+1.39 
+
+1.36 
+
+motor vehicles 
+
+1.55 
+
+1.34 
+
+1.37 
+
+1.34 
+
+Manufacturing 
+
+Primary metals 
+
+Steel 
+
+Nonelectrical machinery 
+Electrical  machinery 
+Transportation equipment 
+
+Motor vehicles 
+Aircraft 
+
+Nondefense  capital  goods 
+Textiles 
+Paper 
+Chemicals 
+Petroleum 
+Home goods  & apparel 
+
+Merchant  wholesalers 
+
+Less  motor vehicles 
+
+Durable goods 
+Nondurable  goods 
+
+Retail  trade 
+
+Less  automotive  dealers 
+
+Automotive  dealers 
+General  merchandise 
+Apparel 
+GAF 
+
+1.75 
+2.08 
+2.56 
+2.48 
+2.08 
+2.93 
+.97 
+5.84 
+3.09 
+1.71 
+1.32 
+1.44 
+.94 
+1.96 
+
+1.36 
+1.31 
+
+1.83 
+.95 
+
+1.61 
+1.48 
+
+2.22 
+2.42 
+2.53 
+2.42 
+
+1.36 
+1.46 
+1.59 
+1.61 
+1.21 
+1.51 
+.53 
+4.05 
+2.04 
+1.38 
+1.06 
+1.25 
+.80 
+1.59 
+
+1.24 
+1.21 
+
+1.54 
+.90 
+
+1.44 
+1.38 
+
+1.56 
+1.98 
+2.27 
+2.04 
+
+1.40 
+1.74 
+2.25 
+1.67 
+1.39 
+1.85 
+.64 
+4.97 
+2.21 
+1.59 
+1.23 
+1.45 
+.99 
+1.75 
+
+1.33 
+1.32 
+
+1.66 
+.99 
+
+1.49 
+1.43 
+
+1.71 
+2.07 
+2.54 
+2.10 
+
+1.35 
+1.55 
+1.83 
+1.61 
+1.21 
+1.56 
+.53 
+4.05 
+2.04 
+1.48 
+1.17 
+1.38 
+.88 
+1.60 
+
+1.29 
+1.27 
+
+1.59 
+.94 
+
+1.42 
+1.36 
+
+1.56 
+1.91 
+2.37 
+1.99 
+
+1.35
+
+1.33
+
+1.33
+1.64
+2.06
+1.65
+1.23
+1.48
+.52
+4.13
+2.04
+1.58
+1.20
+1.37
+.85
+1.60
+
+1.30
+1.28
+
+1.59
+.96
+
+1.44
+1.37
+
+1.66
+1.92
+2.36
+1.98
+
+-10-
+
+Inventory-Sales  Ratios, by  Major  Sector
+(Book  value)
+
+Manufacturing 
+
+1987 
+
+1989 
+
+I Ii 
+1991 
+
+l 
+
+lIIII 
+
+1993 
+
+1995 
+
+1997 
+
+Wholesale 
+
+Total  excluding  motor vehicles
+
+-
+
+Ratio
+
+1.9
+
+1.7
+
+1.5
+
+Mar.
+
+1999
+
+, 1 .3
+
+Ratio
+
+S1.4
+
+1.3
+
+Mar.
+
+-
+
+1.2
+
+1.1
+
+Total  excluding  motor vehicles, chemicals,  metals,  and  industrial  machinery
+
+1987 
+
+1989 
+
+1991 
+
+1993 
+
+1995 
+
+1997 
+
+1999
+
+Retail 
+
+2.8  -
+
+2.6  -
+
+2.41.5
+
+2.2
+
+2  -
+
+GAF  group  (left  scale) 
+
+Ratio
+-
+
+1.7
+
+1.6
+
+Tntnl  yrhArlinn  ;ltn.  (rinht  snal
+
+- 1.4
+
+1987
+
+1989
+
+1991 
+
+1993 
+
+1995
+
+1997
+
+1999
+
+-11-
+
+Inventory-Sales  Ratios
+Manufacturing  and  Wholesale
+
+Machinery ex.  High Tech
+Ratio
+
+Ratio 
+
+Metals
+Ratio
+
+Ratio
+
+1995
+
+1997 
+
+1999
+
+1995
+
+1997 
+
+1999
+
+Chemicals
+Ratio
+
+Ratio
+
+High Tech
+Ratio
+
+Ratio
+
+1.4
+
+1.3
+
+1.2
+
+1.7
+
+1.5
+
+1.3
+
+1.1
+
+1995 
+
+1997
+
+1999 
+
+1995 
+
+1997
+
+1999
+
+General  Merchandise  and  Apparel
+
+Furniture  and  Home  Furnishings
+
+Retail  Trade
+
+Ratio
+
+- 23
+
+-2.2
+
+- 2.1
+
+2
+
+Mar.
+
+- 1.9
+
+Ratio
+
+2.3
+
+2.2
+
+2.1
+
+2
+
+1.9
+
+1995 
+
+1997
+
+1999 
+
+1995
+
+1997 
+
+1999
+
+0 l044
+
+0
+o
+01  p
+@<?
+
+0 
+
+*0
+
+r1  h
+
+*
+
+0 
+0  0
+
+o
+
+Ch  0
+
+i
+o 
+HO
+01  *
+
+*U
+
+a 1 000
+
+m.
+
+C
+
+H
+
+0
+
+0
+
+CIu
+
+00
+
+4i
+
+0
+
+.CO 0
+
+Iz
+
+-12-
+
+tm 
+MM 
+V1-1 
+
+M 0 
+n 1m1 
+
+r-  1  %0
+in w 
+o 
+
+-
+r-I
+H-i 
+
+D  N 
+In r- 
+
+Ni
+.
+
+C %0 
+
+r4  in 
+
+o  r- o
+
+-l  ri
+
+rl  n  0
+-4 01
+0 
+
+rq  rq
+
+oin  mo
+.-  o
+o 
+.4i A
+
+MO 
+fn 
+
+r- 
+N 
+
+MON  O
+mw 
+
+ro
+
+f MM 
+
+14 
+
+inr-- f
+
+I T- m
+
+S1-1
+
+M 
+
+mo 
+
+- o  w
+
+CII 
+
+MCIN
+
+or- 
+<  N 
+
+0  co
+
+O
+
+D LN 
+
+Mn  D
+
+mo 
+N  f 
+
+o> 
+
+m n  0
+MO
+
+mo
+
+S 
+
+-0 
+
+44 
+0 
+
+0
+
+-
+
+0  4
+
+o 
+
+b
+
+0  A  *r
+OU  i
+0 
+0
+-Mo
+
+0 
+
+D)f
+
+0•o
+0 
+0 
+
+0
+-rl
+U
+
+I3 0 
+) 
+
+Ok
+
+*  r> 
+
+1-1
+O
+
+i-io 
+
+m
+
+ma 
+
+t- rn 
+Lfl~ 
+
+r4
+an
+
+in
+C
+il
+
+H H0  -l  01
+
+,-4
+
+S0S10
+
+-40OrIM0-41.Si  ri
+
+4rlao'-4
+a
+
+0 Su
+**r
+
+w  a
+
+14  0
+o
+00
+
+0
+
+00
+a
+
+n
+a 
+C a o
+
+00
+9  U
+
+so, 
+
+B
+
+n  M 
+
+S.i 
+
+MO 
+
+H4 .l 
+
+m  ko
+
+r-1  -H
+
+So> 
+
+N
+-4
+
+MN 
+
+M  M
+
+00 
+
+om  n 
+
+-m  %
+
+n  r 
+
+fm
+
+.- i
+
+mm 1 
+fnM 
+
+o- 
+M  -4 
+
+N io
+n u.
+
+w  n 
+CN 
+
+C4 00
+m M
+
+1i 1 
+OOrl 
+
+O  H 
+H  ril fi 
+
+1 
+(
+
+-1 r
+
+M 
+
+in  r,
+
+o 0 
+
+T-4
+
+eOin 
+
+C O
+
+Nm 
+
+m 
+
+ror
+
+mm  a
+
+CNN C 
+
+NC
+
+49
+0
+0
+
+SS
+
+)
+
+0 
+
+m 
+
+a
+
+U  z  0
+a
+AO
+
+0
+4rl
+4J
+
+*r
+
+*4rl 
+0 
+
+NCI
+.4
+
+am
+
+00
+
+S0
+
+400
+
+Wm 
+u  *aI
+A 
+
+N
+
+I
+
+>r
+
+MMO «  n
+oMM
+*  * u  P
+UE  r
+ooo
+fti
+
+o
+
+*rl 
+S 
+
+0 
+u  
+
+h 
+q 
+a
+3 
+
+4-4 
+0o
+
+0
+0
+
+w
+A
+
+0
+A
+
+0
+
+a
+
+S  0
+
+o 
+
+I  0
+
+0
+
+00
+
+0  0
+
+ma
+
+m
+a  00
+rl
+0  0
+
+oH
+*S-S
+
+O
+
+$4
+
+o0
+
+I
+
+0
+
+ri
+
+.4
+.rl
+a
+
+0a
+
+N
+
+m
+
+0
+
+CI
+
+.4
+0
+
+.1-I
+
+a44*rl
+
+.4
+
+'0 
+*
+0 
+
+II"
+
+I
+
+0
+
+0 
+0 
+
+0 
+t 
+
+0 
+-4 
+
+1 
+0 
+
+A 
+
+4
+0
+0 
+M  w  v
+H  0
+0
+aH
+r4 
+
+00
+
+o
+
+i 
+
+.
+
+-a
+
+S
+
+0'0-
+
+0
+
+*0s 
+ow u  60
+0-r4 
+
+fi
+
+r
+
+r4 
+.4 
+>  o  0
+
+0f
+01-4
+
+k 
+
+r s0  A.4
+4-4.
+
+0 
+a 
+& 
+
+4 
+w 
+> 
+
+a 
+
+0 0
+6A 
+.
+
+o
+U  U  1
+
+A 4 
+0 
+1&  --a 
+
+-
+
+0
+0
+EEo
+
+s) 
+#$ 
+444 
+
+rl  09
+
+@-E
+
+*>
+
+-13-
+
+III-T-1
+Selected  Financial Market Quotations
+(One-day  quotes  in  percent  except  as noted)
+
+Instrument 
+
+1998 
+
+1999 
+
+Oct.  15 
+
+Dec. 31 
+
+FOMC* 
+Mar.  30 
+
+Change  to  May  13  from
+selected  dates  (percentage  points)
+
+May  13 
+
+Oct.  15 
+
+Dec.  31 
+
+FOMC*
+Mar.  30
+
+Short-term
+Federal  funds
+
+FOMC intended  rate
+Realized  rate  1
+
+Treasury  bills 2
+3-month
+6-month
+1-year
+
+Commercial paper
+
+1-month
+3-month
+
+Large negotiable  CDs 2
+
+1-month
+3-month
+6-month
+
+Eurodollar  deposits  3
+
+1-month
+3-month
+
+Bank prime  rate
+
+Intermediate- and long-term
+U.S.  Treasury  (constant  maturity)
+
+2-year
+10-year
+30-year
+
+U.S.  Treasury  10-year indexed  note
+
+Municipal  revenue  (Bond Buyer)  4
+
+Corporate  bonds,  Moody's  seasoned  Baa
+
+5.00
+5.40
+
+4.05
+4.12
+4.06
+
+5.27
+5.13
+
+5.35
+5.31
+5.10
+
+5.34
+5.28
+
+8.25
+
+4.13
+4.58
+5.02
+
+3.69
+
+5.21
+
+7.26
+
+4.75
+4.58
+
+4.37
+4.39
+4.33
+
+4.90
+4.84
+
+5.01
+4.97
+4.97
+
+4.94
+4.94
+
+7.75
+
+4.54
+465
+5.09
+
+3.88
+
+5.26
+
+7.23
+
+High-yield  corporate  5
+
+11.29
+
+10.52
+
+Home  mortgages  (FHLMC survey  rate)  6
+
+30-year  fixed
+1-year  adjustable
+
+6.49
+5.36
+
+6.77 
+5.58 
+
+6.98
+5.69
+
+4.75 
+4.79 
+
+4.75
+4.71
+
+-.25 
+-.69 
+
+.00 
+.13 
+
+.00
+-.08
+
+4.84 
+4.80 
+
+4,78
+4.79
+
+4.83
+4.88
+4.96
+
+4.78
+4.84
+
+7.75
+
+5.12
+541
+5.75
+
+3.85
+
+5.34
+
+7.61
+
+10.30
+
+7.02
+5.68
+
+-.49 
+-.34 
+
+-.12 
+-.05 
+
+-.06
+-01
+
+.53 
+.32 
+
+.25 
+.10 
+
+.04
+-.01
+
+Stock  exchange  index
+
+Dow-Jones  Industrial
+S&P 500  Composite
+NASDAQ  (OTC)
+Russell  2000
+Wilshire  5000
+
+11,107.19 
+1,367.56 
+2,652.05 
+491.41 
+12,549.05 
+
+5-13-99 
+5-13-99 
+4-26-99 
+4-21-98 
+5-13-99 
+
+9,181.43 
+1,229.23 
+2,192.69 
+421.96 
+11,317.59 
+
+10,006.78 
+1 310.17 
+'  492.84 
+399.76 
+11,893.39 
+
+11,107.19 
+1,367.56 
+2,582.00 
+450.84 
+12,549.05 
+
+.00 
+00 
+-2.64 
+-8.26 
+.00 
+
+20.97 
+11.25 
+17.75 
+6.84 
+10.88 
+
+11.00
+4.38
+3.58
+12.78
+5.51
+
+1.  Average  for two-week  reserve  maintenance  period ending  on  or before  date  shown.  Most  recent
+
+observation is  average  for  current  maintenance  period  to date.
+
+2.  Secondary  market.
+3.  Bid rates  for  Eurodollar deposits  collected  around  9:30  a.m.  Eastern  time.
+4.  Most  recent Thursday quote.
+5.  Merrill  Lynch  Master  II high-yield  bond  index  composite.
+6.  For  week ending Friday  previous to  date  shown.
+*  Data are  as of the close  on  March  29,  1999.
+
+-14-
+
+Commercial  Bank Credit
+(Percent  change;  seasonally  adjusted annual  rate)
+
+Type  of credit 
+
+1998 
+
+Q4 
+
+Q1 
+
+Feb 
+
+Mar 
+
+Apr 
+
+1998 
+
+1999 
+
+1. Bank  credit:  Reported 
+
+11.0 
+
+,6.9 
+
+-1.0 
+
+-3.5 
+
+-8.9 
+
+2. 
+
+Adjusted 1  
+
+10.3 
+
+15.4 
+
+1.1 
+
+-1.9 
+
+-1.7 
+
+0.2 
+
+0.1 
+
+Level,
+Apr
+Apr
+1999
+(billions of $)
+4,484.2
+
+4,397.2
+
+3.  Securities:  Reported 
+
+13.9 
+
+22.8 
+
+-6.0 
+
+-10.2 
+
+-19.1 
+
+-1.7 
+
+1,184.1
+
+Adjusted 1  
+
+11.1 
+
+17.5 
+
+U.S.  government 
+
+5.8 
+
+8.2 
+
+1.7 
+
+4.0 
+
+-4.5 
+
+8.9 
+
+-2.5 
+
+1,097.1
+
+-3.6 
+
+11.2 
+
+-0.9 
+
+Other2  
+
+31.9 
+
+51.9 
+
+-24.1 
+
+-22.2 
+
+-77.3 
+
+-3.1 
+
+7. 
+
+Loans 3  
+
+Business 
+
+Real  estate 
+
+10.0 
+
+14.7 
+
+12.2 
+
+16.3 
+
+6.7 
+
+10.2 
+
+0.9 
+
+0.2 
+
+7.0 
+
+-1.0 
+
+-5.2 
+
+0.3 
+
+2.5 
+
+4.6 
+
+-0.2 
+
+2.4 
+
+0.9 
+
+2.3 
+
+0.4 
+
+9.7 
+
+Home equity 
+
+0.0 
+
+-3.2 
+
+-2.4 
+
+-4.9 
+
+Other 
+
+Consumer:  Reported 
+
+Adjusted 4  
+
+7.3 
+
+11.4 
+
+-1.5 
+
+6.0 
+
+5.1 
+
+8.0 
+
+7.7 
+
+2.5 
+
+3.1 
+
+-1.2 
+
+3 1 
+
+-0.2 
+
+-0.3 
+
+-0.3 
+
+1,238.2
+
+-2.9 
+
+3.8 
+
+1.0 
+
+4.1 
+
+501.6
+
+761.6
+
+Other 5  
+
+29.4 
+
+32.9 
+
+-14.3 
+
+-12.3 
+
+-37.8 
+
+-0.2 
+
+506 8
+
+797.2
+
+387.0
+
+3,300.0
+
+954.1
+
+1,337.5
+
+99.4
+
+4. 
+
+5. 
+
+6. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+
+Note. Adjusted for breaks caused  by  reclassifications.  Monthly  levels are  pro rata averages of weekly (Wednesday)  levels.  Quar-
+terly levels (not shown) are simple averages of monthly  levels. Annual levels (not shown) are  levels for the fourth quarter. Growth rates
+shown are  percentage changes  in consecutive levels, annualized but not compounded
+
+1. Adjusted to remove  effects of mark-to-market accounting  rules (FIN  39 and FASB  115).
+2. Includes  securities of corporations, state and  local governments,  and  foreign governments and  any trading account assets that
+
+are not U.S.  government securities.
+3  Excludes  interbank loans.
+4. Includes an  estimate of outstanding  loans securitized  by commercial  banks
+5. Includes security  loans, loans to farmers,  state  and local governments,  and all others not elsewhere classified. Also includes
+
+lease financing receivables.
+
+

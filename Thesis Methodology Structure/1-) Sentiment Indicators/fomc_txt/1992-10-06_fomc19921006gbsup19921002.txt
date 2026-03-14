@@ -1,0 +1,3370 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+CONFIDENTIAL  (FR)
+CLASS  III  - FOMC
+
+October  2, 1992
+
+SUPPLEMENT
+
+CURRENT ECONOMIC AND  FINANCIAL  CONDITIONS
+
+Prepared  for  the
+Federal Open  Market  Committee
+
+By  the  Staff
+Board  of  Governors
+of  the  Federal  Reserve  System
+
+TABLE OF  CONTENTS
+
+THE  DOMESTIC NONFINANCIAL ECONOMY
+
+Page
+
+Employment  and  unemployment  .
+Purchasing managers'  report.  .
+Consumer  sentiment  .
+.
+Manufacturers'  inventories,  shipments,  and  orders.  ..
+Nonresidential  construction.  .
+.
+
+...  .. 
+.
+.
+
+. . .
+.
+.
+
+. ..  .
+
+. .
+. .
+.
+
+.
+. .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+.
+
+.
+
+Tables
+
+Initial  claims with EUC  adjustment.  .
+Average  hourly earnings  .
+.
+Changes  in  employment  .
+.
+Unemployment  and  labor  force  participation  rates  .
+University  of  Michigan  Survey Research  Center:
+. ... .. 
+
+Survey  of  consumer  attitudes  .
+
+.
+.
+.
+. ...  .
+
+.
+. ..  . .
+. .
+..
+
+.
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Changes  in  manufacturing  and  trade  inventories  .
+Inventories  relative  to  sales.  .
+.
+Business  capital  spending  indicators  .
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+. .. 
+
+.
+. ... ...  .12
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+. .. 
+. .. 
+.
+
+Charts
+
+Labor market  indicators.  .
+Alternative  labor market  indicators.  .
+Purchasing managers.  .
+.
+.
+.
+.
+. ..  .
+Ratio  of  inventories  to  sales.  .
+Recent  data  on  orders  and  shipments.  .
+. ... 
+.
+Nonresidential  construction  and  selected  indicators.  .
+
+.
+. ..  . .
+.
+.
+. ...  ..
+.
+
+. .....  .
+.
+
+.
+.
+.
+
+. .
+
+.
+.
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1
+2
+3
+4
+4
+
+1
+2
+5
+5
+
+9
+10
+10
+
+6
+7
+8
+11
+13
+14
+
+THE  FINANCIAL ECONOMY
+
+Tables
+
+Monetary  aggregates  .
+Commercial  bank credit  and  short-  and
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+intermediate-term business  credit.  .
+Selected  financial market quotations  .
+
+.
+
+.
+.
+
+.
+
+.
+.
+
+.
+
+.
+.
+
+.
+
+.
+
+.
+
+. ...  .
+
+.
+
+. ... 
+
+. ... .
+
+15
+
+16
+17
+
+SUPPLEMENTAL  NOTES
+
+THE  DOMESTIC NONFINANCIAL ECONOMY
+
+Employment  and Unemployment
+
+The  September  labor  market  surveys  point  to  continued  weakness
+
+in  labor market  conditions  last  month.  Private  payroll  employment
+
+rose  just  31,000,  after  a decline  in  August  that  was  larger  than
+
+originally  reported.  The  average workweek  and  the  aggregate number
+
+of  hours worked  both  reversed  their  sharp  reported August  increases.
+
+The  civilian  unemployment  rate  did  edge  down  to  7.5  percent  in
+
+September.  However,  initial  claims for  unemployment  insurance were
+
+trending up  as  of  the  week following  the  survey  reference week.
+
+INITIAL  CLAIMS  WITH EUC  ADJUSTMENT
+(In  thousands;  seasonally adjusted  by  BLS)
+
+Aug. 
+15 
+
+Aug. 
+22 
+
+Aug. 
+29 
+
+Sep. 
+5 
+
+Sep. 
+12 
+
+Sep.
+19
+
+1992
+
+Initial  claims
+
+All  regular  programs 
+EUC  effect 
+Adjusted  claims 
+
+391 
+12 
+403 
+
+394 
+15 
+409 
+
+402 
+25 
+427 
+
+408 
+23 
+431 
+
+422 
+30 
+452 
+
+438
+33
+471
+
+1.  Initial  claims  (all  regular  programs)  plus  the  EUC  effect.
+
+As  expected,  the  overall  payroll  figures  for  September  were
+
+depressed by the  end  of many of  the  federally funded  summer  jobs  for
+
+youth.  The  BLS  estimates  that  about  140,000  such  jobs were  created
+
+in  July and  August  (mostly in  local  governments)  and  that  about
+
+97,000  of  these  jobs  ended in  September.  The  only  notable  increase
+
+in  private payrolls  in  September  came  from the  services  industry,
+
+where  employment was  up  72,000  after  a small  decline  in  August.
+
+Health  services  posted  a modest  gain,  but  hiring  in business
+
+services was  down  slightly.  The  trade and  finance  industries
+
+reported  little  change in  employment.  In  contrast,  manufacturing
+
+-2-
+
+and  construction both  posted modest  declines  in  jobs  in  September
+
+after  much  larger  losses  in  the preceding month.
+
+In  the household  survey,  employment  edged  down  36,000  last
+
+month.  The decline was  concentrated  among adult  women;  teenage
+
+employment was  up  despite  the  loss  of  temporary  summer  jobs.
+
+Unemployment  fell  as  well,  and  the  civilian  labor  force  declined
+
+164,000  in  September.  After  rising  about  300,000  per  month between
+
+November  and  June,  the  labor  force has  declined  about  100,000  per
+
+month  since then.  Other  indicators  from the  household  survey
+
+changed  little  in  September.  Indeed,  the number  of  persons  working
+
+part  time for  economic  reasons  and  the share  of  the  unemployed who
+
+are  job  losers  both  have  shown no  clear trend  in  recent months.
+
+Average  hourly  earnings  of  production or  nonsupervisory workers
+
+dropped  back  0.2  percent  in September  after  jumping  0.7  percent  in
+
+August.  Over  the  12  months  ended  in  September,  average  hourly
+
+earnings for  the private  production workers  increased only
+
+2.2  percent,  down about  3/4  percentage point  from the  preceding
+
+twelve-month  period.
+
+AVERAGE  HOURLY EARNINGS
+(Percent change;  based  on  seasonally adjusted  data)
+
+Total private  nonfarm 
+
+Manufacturing 
+Services 
+Finance,  insurance,
+
+real  estate 
+
+12  months  ending  in  Sep. 
+1991 
+
+1992 
+
+1990 
+
+3.8 
+3.5 
+4.9 
+
+5.2 
+
+3.0 
+3.1 
+3.8 
+
+4.2 
+
+2.2 
+2.7 
+2.7 
+
+3.2 
+
+1992
+July  Aug.  Sep.
+--Monthly rate--
+
+.0 
+.1 
+.0 
+
+.7  -.2
+.6  .3
+.8  .3
+
+.0  1.8  -.9
+
+Purchasing Managers' Report
+
+The  Purchasing Managers'  Report suggests  that  the  pace  of
+
+industrial  activity weakened  a bit  in  September.  The  Purchasing
+
+Managers'  Index fell  to  49.0  last month--the  lowest  reading  since
+
+-3-
+
+January.  In  September,  the number  of  companies  reporting declines
+
+in  new  orders about  matched  those  reporting  increases;  the net
+
+difference of  -0.8  percentage  point was  down  sharply  from the
+
+19  percentage  points that  had  prevailed  in  earlier  months.  In
+
+contrast  to  total new  orders,  net  new  export  orders  picked  up  in
+
+September.  Production  gains  reportedly  continued  in  September,  but
+
+at  a slower  pace than  in  August.  More  firms  reduced  inventories  and
+
+employment  in  September than  increased them.
+
+The  speed  of  supplier  deliveries  slowed  for  the  fourth
+
+consecutive month,  and  average  lead times  for  ordering  maintenance
+
+and  repair  supplies,  production materials, and  capital  goods  all
+
+edged  up.  However,  the number  of  firms  reporting higher  prices  for
+
+materials  dropped  in  September,  retracing much  of  the firming  that
+
+had been  evident  earlier  in  the year.
+
+Consumer  Sentiment
+
+Based  on  a complete  tally  of  responses  for  September,  the
+
+University  of  Michigan's composite  index  of  consumer  sentiment  edged
+
+down 0.5  index points,  to  a level  of  75.6,  almost  5 index points
+
+below  its  recent  peak  in June.  The  current  conditions  component  of
+
+the index  rose  2 index points,  but  the  expected  conditions
+
+component, which  is weighted  more  heavily  in the composite  index,
+
+dropped  2 points.  The  deterioration  in  expected conditions  owed
+
+chiefly to  greater  pessimism  about business  conditions  over  the next
+
+five years.  The brighter  assessment  of  current  conditions  resulted
+
+from a substantial improvement  in  the  assessment  of  personal
+
+financial conditions.  The  other  component  of the  current  conditions
+
+index,  consumers'  appraisal of  buying conditions  for  large  household
+
+durable  goods,  declined.
+
+Among  survey items  not  included  in  the  composite index,
+
+expectations  about  unemployment worsened  a bit,  inflation
+
+-4-
+
+expectations  were  essentially unchanged,  and  slightly more  consumers
+
+believed  that-it  is  a good  time  to  buy a house.
+
+Manufacturers'  Inventories.  Shipments,  and  Orders
+
+Manufacturers'  inventories  rose  sharply  in  August  as  shipments
+
+of  manufactured  goods  slackened.  In  current-cost terms,  factory
+
+stocks  increased at  an  annual  rate  of  $25.3  billion  while  factory
+
+shipments  slumped  2.4  percent.  As  a result,  the  inventory-to-
+
+shipments  ratio  for  all  manufacturing shot up  to  1.60 months  in
+
+August--about  midway  in the  range  of  the  past  year.
+
+Among the major  industries,  only  aircraft  reported  a
+
+significant  inventory drawdown  in  August.  Stocks  held  by producers
+
+of  primary metals,  industrial machinery, electrical  and  electronic
+
+equipment,  and  chemicals  all  posted  sizable  increases, while  their
+
+shipments  fell.  By  stage  of  fabrication,  about  70  percent  of  the
+
+August  accumulation was  in  stocks  of  finished  goods.
+
+Revised  data  now  indicate that  new orders  for  all manufactured
+
+goods  fell  1.9  percent  in  August,  following a 0.9  percent  drop  in
+
+July.  For  nondefense  capital  goods  excluding aircraft,  more
+
+complete  sample counts  now show that  orders  fell  3.1  percent  in
+
+August,  a bit more  than the 2.9  percent  decline  indicated  in the
+
+advance  report.
+
+Nonresidential Construction
+
+The nominal  value  of  private  nonresidential  construction  put  in
+
+place plunged  5.8  percent  in  August.  The large  decline  was
+
+concentrated  in  the office,  other  commercial,  and  industrial
+
+sectors,  all  of  which fell more than  10  percent.  Nothing  else we
+
+have  seen points  to  such an  abrupt  deterioration  in  nonresidential
+
+construction, and  we would  be  inclined  to  discount the  steep drop  in
+
+this  preliminary report.  Nonetheless,  these data will  be the  latest
+
+-5-
+
+available to BEA when  it  compiles  the  advance  estimate  of  third-
+
+quarter  activity.
+
+Expenditures  on  public  construction  projects were  little
+
+changed  in  August  from an  upward-revised  estimate for  July.
+
+Relative to  a year  earlier,  the average  level  of  this  spending in
+
+July and  August was  up  7.4  percent, with most  of  the  gain  coming
+
+from projects  of  state  and  local  governments.
+
+CHANGES  IN  EMPLOYMENT 1
+(Thousands of  employees;  based  on  seasonally  adjusted  data)
+
+-6-
+
+1990  1991 
+
+Q1 
+
+1992 
+Q2 
+
+Q3 
+
+July 
+
+Aug. 
+
+Sept
+
+1992
+
+------------  Average monthly changes  -------------
+
+Nonfarm payroll  employment 2 
+
+-5 
+
+-79 
+
+15 
+
+74 
+
+-5 
+
+171 
+
+-128 
+
+Private 
+
+Manufacturing 
+
+Durable 
+
+Defense-related 
+
+Nondurable 
+Construction 
+Retail  trade 
+Finance,  insurance,  real  estate 
+Services 
+
+Health services 
+Business  services 
+
+Total  government 
+
+Private nonfarm production  workers 
+Manufacturing production workers 
+
+Total  employment4  
+Nonagricultural 
+
+Memo:
+
+-34 
+-47 
+-36 
+-4 
+-11 
+-23 
+-8 
+-1 
+44 
+31 
+0 
+29 
+
+-40 
+-39 
+
+-32 
+-39 
+
+-91 
+-36 
+-33 
+-8 
+-3 
+-26 
+-35 
+-3 
+30 
+29 
+3 
+12 
+
+-76 
+-23 
+
+-62 
+-54 
+
+Aggregate hours  of  private production
+
+workers  (percent change) 
+
+Average workweek  (hours) 
+
+.0 
+
+-. 1 
+34.5  34.3 
+
+-17 
+-16 
+
+-4 
+
+64 
+-14 
+-15 
+-9  -12 
+1 
+-1 
+-1 
+4 
+21 
+-7 
+2 
+-1 
+70 
+28 
+20 
+16 
+39 
+11 
+10 
+19 
+
+-23 
+-37 
+-29 
+-12 
+
+-9 
+-12 
+-17 
+
+-1 
+61 
+19 
+5 
+18 
+
+18 
+1 
+
+89 
+-9 
+
+-38 
+-30 
+
+207 
+203 
+
+75 
+56 
+
+42 
+46 
+
+103 
+6 
+-24 
+-16 
+30 
+-16 
+28 
+-12 
+117 
+32 
+8 
+68 
+
+59 
+14 
+
+198 
+246 
+
+-203 
+-92 
+-44 
+-12 
+-48 
+2 
+-79 
+3
+-7 
+7 
+14 
+75 
+
+-170
+
+-81 
+
+-35 
+-49 
+
+-57
+
+31
+-2E
+-1E
+-E
+-E
+-22
+C
+
+71
+1E
+-f
+-8E
+
+-21
+
+-3(
+-6(
+
+.1 
+
+-. 1 
+34.5  34.4  34.4 
+
+.0 
+
+.0 
+34.3 
+
+.7 
+34.6 
+
+-1.
+34.:
+
+1.  Average  change  from  final month  of preceding  period  to  final  month of  period
+
+indicated.
+
+2.  Survey  of  establishments.
+3.  Industries which  are dependent  on  defense  expenditures  for at  least  50  percent  of
+
+their  output.
+
+4.  Survey  of households.
+
+UNEMPLOYMENT AND LABOR FORCE PARTICIPATION RATES
+(Percent:  seasonally  adjusted)
+
+1990 
+
+1991 
+
+01 
+
+1992 
+Q2 
+
+Q3 
+
+July  Aug.  Sept.
+
+1992
+
+Civilian unemployment  rate
+(16  years  and  older) 
+
+5.5 
+
+6.7 
+
+7.2 
+
+7.5 
+
+7.6 
+
+7.7 
+
+7.6 
+
+7.5
+
+Teenagers 
+20-24  years old 
+Men,  25  years  and  older 
+Women.  25  years  and  older 
+
+15.5 
+8.8 
+4.4 
+4.3 
+
+18.7  19.6  21.0  20.4  21.0 
+10.8  11.1  11.3  11.6  11.7 
+6.5 
+6.5 
+5.7 
+5.9 
+5.8 
+5.1 
+
+6.6 
+5.8 
+
+6.3 
+5.6 
+
+19.8  20.4
+11.5  11.6
+6.6
+5.7
+
+6.7 
+5.9 
+
+Labor  force  participation rate 
+
+66.4 
+
+66.0  66.2  66.5  66.4  66.6 
+
+66.4  66.3
+
+-7-
+
+LABOR  MARKET  INDICATORS
+
+Average weekly hours  of production  or nonsupervisory workers
+
+Aggregate  hours of  production  or nonsupervisory  workers
+
+Aggregate hours  of production  or nonsupervisory workers
+
+l i 
+
+Hours
+
+-7
+
+35.2
+
+34.8
+
+34.4
+
+\tv/ 
+
+Sept
+
+ii 
+
+il l  I 
+
+i 
+
+I 
+
+I 
+
+ill 
+
+i  i
+
+34
+
+1982-100
+
+130
+
+125
+
+120
+
+115
+
+110
+
+550
+
+500
+
+450
+
+400
+
+350
+
+300
+
+250
+
+Initial  Claims for Unemployment  Insurance
+
+-
+- - -
+
+-
+
+All regular programs
+
+-Including  EUC  Adjustment
+
+Thousands
+
+1987 
+
+1988
+
+1989 
+
+1990
+
+ALTERNATIVE  LABOR  MARKET  INDICATORS
+
+-8-
+
+Help-Wanted Advertising
+
+1967-100
+
+Aug
+
+I 
+
+I 
+
+_ 
+
+I 
+
+I 
+
+I 
+
+I
+
+1985 
+
+1986 
+
+1987 
+
+1988
+
+1989
+
+1990
+
+1991
+
+Conference  Board:  Percent  Reporting Jobs  Plentiful
+
+I 
+
+I 
+
+I 
+
+I 
+
+1985 
+
+1986 
+
+1987 
+
+1988
+
+I 
+
+I
+
+198 
+1989
+
+Manpower  Inc. Employment  Outlook Index
+
+..........
+
+iI ill IIiii I i i
+1992
+
+_._
+
+Percent
+
+-40
+
+30
+
+20
+
+Sept  -
+
+litnilisitilhi
+1992L·····LI
+1992
+
+Percentage  points
+
+1985 
+
+1986 
+
+1987 
+
+1988 
+
+1989 
+
+1990 
+
+1991 
+
+1992
+
+1. Percent of respondents planning to increase  employment minus the percent
+
+planning to decrease employment; seasonally  adjusted.
+
+-9-
+
+Purchasing  Managers*
+(Seasonally adjusted)
+
+Percent
+
+10/1/92
+
+Percent
+
+A
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+Percent
+
+Percent
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+Percent reporting  increases are  netted with  those  reporting decreases.
+
+"  Positive  entries  represent slower  deliveries.
+
+UNIVERSITY OF MICHIGAN SURVEY RESEARCH CENTER:  SURVEY OF  CONSUMER ATTITUDES
+(Not seasonally  adjusted)
+
+October 2,  1992
+
+1992  1992  1992  1992  1992  1992  1992  1992  1992
+Sep
+(f)
+
+Apr  May 
+
+Feb  Mar 
+
+Aug 
+
+Jan 
+
+Jun 
+
+Jul 
+
+Indexes of consumer  sentiment  (Feb. 1966=100)
+
+Composite  of current  and expected  conditions  67.5  68.8  76.0  77.2  79.2  80.4  76.6  76.1  75.6
+
+Current  conditions
+Expected conditions
+
+80.5  79.7  84.9  87.7  91.5  95.4  90.6  86.2  88.3
+59.1  61.8  70.3  70.5  71.2  70.7  67.6  69.5  67.4
+
+Personal  financial  situation
+
+Now compared with  12  months ago*
+Expected in  12  months*
+
+90 
+119 
+
+91 
+123 
+
+93 
+113 
+
+97 
+129 
+
+97 
+122 
+
+100 
+125 
+
+96 
+125 
+
+91 
+121 
+
+102
+123
+
+Expected business conditions
+
+Next  12 months*
+Next  5  years*
+
+Appraisal of buying  conditions
+
+Cars
+Large household appliances*
+Houses
+
+Willingness to  use  credit
+Willingness  to use  savings
+
+53 
+63 
+
+60 
+63 
+
+90 
+77 
+
+87 
+66 
+
+92 
+70 
+
+88 
+70 
+
+78
+66
+
+81 
+76 
+
+78
+68
+
+123 
+117 
+155 
+
+126 
+114 
+163 
+
+125 
+126 
+153 
+
+37 
+46 
+
+39 
+47 
+
+39 
+53 
+
+131 
+130 
+162 
+
+31 
+54 
+
+135 
+139 
+159 
+
+45 
+59 
+
+144 
+147 
+163 
+
+38 
+67 
+
+128 
+138 
+153 
+
+129 
+132 
+159 
+
+130
+126
+162
+
+39
+58
+
+Average expected  increase  in  prices  during
+
+the next  12  months
+
+3.5 
+
+3.5 
+
+3.3 
+
+3.7 
+
+3.4 
+
+4.2 
+
+3.9 
+
+4.0 
+
+4.1
+
+Average expected  increase  in  prices
+
+(per  year)
+
+over the next  5 to  10  years
+
+5.4 
+
+4.5 
+
+4.6 
+
+4.9 
+
+5.5 
+
+4.7 
+
+4.7 
+
+5.0 
+
+5.0
+
+*  --  Indicates  the question  is  one  of the  five
+(p)  --  Preliminary
+(f)  --  Final
+Note:  Figures  on  financial,  business,  and  buying conditions  are the  percent  reporting  'good times'  (or
+
+equally-weighted  components  of the  index of  sentiment.
+
+'better')  minus the  percent  reporting  'bad times'  (or 'worse'),  plus  100.  Asterisk  (*) indicates
+the  question is  one  of the  five  equally-weighted components  of the  index  of  sentiment.
+
+-11-
+
+CHANGES  IN  MANUFACTURING AND  TRADE  INVENTORIES
+(Billions of  dollars  at  annual  rates:
+based on  seasonally  adjusted  data)
+
+Current-cost basis
+
+Total 
+
+Excluding auto  dealers 
+Manufacturing 
+
+Excluding  aircraft 
+
+Wholesale 
+Retail 
+
+Automotive 
+Excluding  auto  dealers 
+
+Constant-dollar basis
+
+Total 
+
+Excluding  auto  dealers 
+Manufacturing 
+Wholesale 
+Retail 
+
+Automotive 
+Excluding auto dealers 
+
+1991 
+
+1992 
+
+1992
+
+Q4 
+
+Q1 
+
+Q2 
+
+June 
+
+July 
+
+Aug.
+
+23.1 
+22.1 
+-14.0 
+-7.0 
+19.9 
+17.3 
+1.1 
+16.2 
+
+-7.9 
+-13.7 
+-11.2 
+-7.1 
+-1.2 
+4.5 
+5.8 
+-1.3 
+
+16.2 
+17.0 
+-11.3 
+15.2 
+12.3 
+-. 9 
+13.1 
+
+-13.2 
+-18.0 
+-8.7 
+-4.9 
+.5 
+4.8 
+-4.4 
+
+22.7 
+16.1 
+-1.5 
+6.3 
+6.1 
+18.1 
+6.6 
+11.5 
+
+7.4 
+1.9 
+-6.5 
+2.1 
+11.8 
+5.5 
+6.3 
+
+46.1 
+44.4 
+-5.2 
+2.5 
+33.7 
+17.6 
+1.6 
+15.9 
+
+34.1 
+29.5 
+-6.5 
+25.2 
+15.4 
+4.6 
+10.7 
+
+18.5 
+23.6 
+7.6 
+15.7 
+-6.1 
+17.0 
+-5.1 
+22.1 
+
+7.9 
+15.3 
+5.3 
+-7.5 
+10.1 
+-7.3 
+17.5 
+
+n.a.
+n.a.
+25.3
+27.8
+n.a.
+n.a.
+n.a.
+n.a.
+
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+
+INVENTORIES  RELATIVE  TO  SALES 1
+(Months supply;  based on  seasonally adjusted  data)
+
+1991 
+
+1992 
+
+1992
+
+Q4 
+
+Q1 
+
+Q2 
+
+June 
+
+July 
+
+Aug.
+
+Current-cost basis
+
+Total 
+
+Excluding  auto dealers 
+Manufacturing 
+
+Excluding aircraft 
+
+Wholesale 
+Retail 
+
+Automotive 
+Excluding auto  dealers 
+
+1.54 
+1.52 
+1.62 
+1.45 
+1.37 
+1.58 
+1.87 
+1.50 
+
+1.52 
+1.50 
+1.62 
+1.45 
+1.36 
+1.54 
+1.85 
+1.46 
+
+1.51 
+1.49 
+1.57 
+1.41 
+1.36 
+1.57 
+1.90 
+1.48 
+
+1.50 
+1.47 
+1.55 
+1.39 
+1.35 
+1.57 
+1.90 
+1.48 
+
+1.49 
+1.47 
+1.55 
+1.39 
+1.33 
+1.56 
+1.88 
+1.47 
+
+n.a.
+n.a.
+1.60
+1.43
+n.a.
+n.a.
+n.a.
+n.a.
+
+1. Ratio  of  end of period  inventories  to  average monthly sales  for  the period.
+
+-12-
+
+RATIO  OF  INVENTORIES  TO SALES
+(Current-cost data)
+
+Manufacturing
+
+Ratio
+
+2.1
+
+- 1.9
+
+I 
+
+Total 
+
+&
+
+- 1.7
+
+Excluding aircraft 
+
+(cid:127)",- 
+
+,,, 
+
+'* 
+
+/ 
+
+'-1\
+
+1980 
+
+1982 
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+1,3
+
+Wholesale
+
+Ratio
+-
+
+1.5
+
+1.4
+
+1.3
+
+1.2
+
+I 
+I 
+1980 
+
+II 
+1982 
+
+I 
+1984 
+
+I 
+
+I 
+1986 
+
+I 
+I 
+1988 
+
+I 
+
+I1.1
+1990 
+
+1992
+
+Ratio 
+
+2.7  -
+
+Retail
+
+1 * 
+
+, 
+
+GA.F.
+
+2.5 
+
+-
+
+p 
+
+' 
+
+i 
+
+* 
+
+'- 
+
+is 
+
+2.3 
+
+Ratio
+
+1.7
+
+,f 
+
+-
+
+1,6
+
+july
+
+1.5
+
+2.1 
+
+-
+
+.Excluding 
+
+auto 
+
+- 1.4
+
+1980 
+
+1982 
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+-13-
+
+BUSINESS  CAPITAL  SPENDING  INDICATORS
+(Percent change  from preceding  comparable  period;
+based on  seasonally  adjusted data)
+
+1991 
+
+1992 
+
+1992
+
+Q4 
+
+Q1 
+
+Q2 
+
+June 
+
+July 
+
+Aug.
+
+Producers'  durable equipment
+
+Shipments  of  nondefense capital  goods 
+
+Excluding aircraft  and  parts 
+
+Office and computing 
+All other  categories 
+
+.9 
+1.2 
+6.8 
+-. 3 
+
+.5 
+.2 
+5.0 
+-1.2 
+
+1.4 
+2.6 
+3.8 
+2.3 
+
+7.3 
+4.9 
+4.5 
+5.0 
+
+-3.0 
+.2 
+.4 
+-1 
+
+-2.2
+-2.5
+-3.2
+-2.3
+
+Shipments  of  complete aircraft 1 
+
+-23.2 
+
+65.0  -12.7 
+
+9.8  -16.3 
+
+n.a.
+
+Sales  of heavy weight  trucks 
+
+-1.4 
+
+7.1 
+
+5.9 
+
+.5 
+
+.8 
+
+1.2
+
+Orders  of nondefense  capital goods 
+
+Excluding aircraft  and  parts 
+
+Office and  computing 
+All  other categories 
+
+-4.0 
+-1.3 
+.4 
+-1.8 
+
+2.5 
+4.0 
+9.2 
+2.6 
+
+-. 4 
+.5 
+4.4 
+-. 6 
+
+1.6 
+4.9 
+2.4 
+5.6 
+
+-5.4 
+-1.3 
+-2.5 
+-. 9 
+
+-3.9
+-3.1
+3.9
+-5.1
+
+Nonresidential  structures
+
+Construction  put-in-place 
+
+Office 
+Other commercial 
+Industrial 
+Public utilities 
+All  other 
+
+-4.2 
+-10.8 
+-10.4 
+2.7 
+.8 
+-4.2 
+
+.6 
+-4.9 
+1.5 
+2.4 
+5.2 
+-2.7 
+
+.6 
+-6.7 
+3.8 
+-6.0 
+2.5 
+6.2 
+
+2.8 
+4.3 
+13.0 
+-3.4 
+.3 
+1.4 
+
+-2.1 
+-5.8
+-9.7  -10.5
+-7.0  -11.9
+.9  -13.7
+1.8
+-1.8
+
+1.4 
+.6 
+
+Rotary drilling  rigs  in use 
+
+-9.2 
+
+-4.7 
+
+-1.4 
+
+-7.3 
+
+6.5 
+
+-.2
+
+Footage  drilled 2  
+
+.7  -18.0 
+
+-4.0 
+
+-8.9 
+
+n.a. 
+
+n.a.
+
+Memo:
+
+Business  fixed investment 3
+
+-5.2 
+
+3.0 
+
+16.1 
+
+n.a. 
+
+n.a. 
+
+n.a.
+
+1. From the  Current  Industrial Report  "Civil Aircraft  and Aircraft  Engines."
+Monthly data are  seasonally adjusted using FRB  seasonal  factors constrained to
+BEA quarterly seasonal  factors.  Quarterly  data  are  seasonally  adjusted using
+BEA seasonal  factors.
+
+2. From Department of Energy.  Not  seasonally  adjusted.
+3. Based on constant-dollar data;  percent  change, annual  rate.
+n.a.  Not  available.
+
+RECENT  DATA  ON  ORDERS  AND  SHIPMENTS
+
+-14-
+
+Office and  Computing  Equipment
+
+-
+
+-
+
+-
+
+Orders
+- Shipments
+
+Billions  of dollars
+
+1987 
+
+1988 
+
+1989 
+
+1990 
+
+1991 
+
+1992
+
+Other Equipment  (excluding aircraft  and  computers)
+
+Billions  of dollars
+
+-
+
+-
+
+-
+
+SOrders
+- Shipments
+
+1987 
+
+1988
+
+1989 
+
+1990
+
+1991
+
+1992
+
+-15-
+
+NONRESIDENTIAL  CONSTRUCTION  AND  SELECTED  INDICATORS*
+(Index, Dec.  1982 =  100, ratio  scale)
+
+Total  Building
+
+-- 
+------ 
+
+Construction  (C)
+Permits (P),  Contracts  (CN), or
+New commitments  (NC)
+
+1980 
+
+1982 
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+Office
+_ 
+
+(C)
+
+Other Commercial
+
+75
+
+'IIi
+I"
+
+1 
+
+1984 
+
+I 
+1 
+1986 
+
+I 
+1 
+1988 
+
+I 
+
+1 
+1990
+
+1
+1992
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+Industrial
+
+Institutional
+
+N 
+
+(C)
+
+I 
+
+I 
+
+I 
+
+I 
+
+II 
+
+I  i
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992 
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+*Six-month moving  average for all series  shown.  For contracts,  total only  Includes  private, while Indivkdual sectors include private  and  public.
+
+New commitments  are the sum of pemits and contracts.
+
+MONETARY  AGGREGATES
+(based  on  seasonally  adjusted  data  unless  otherwise  noted)
+
+-16-
+
+1991 1 
+
+1992 
+92 
+
+1992 
+Q3pe 
+
+1992 
+Jul 
+
+1992 
+Aug 
+
+Growth
+Q4  91-
+Sep pe Sep  92pe
+
+1992 
+
+------------ Percent  change  at  annual  rates---------------------
+
+8.0 
+2.8 
+1.2 
+
+9.8 
+0.3 
+
+-1.3 
+
+10½
+0
+-¼
+
+11.3 
+-0.9 
+-1.1 
+
+16.0
+3.1
+2.7
+
+19 
+3 
+1 
+
+13;
+1i
+k
+
+----------
+
+Percent  change  at  annual
+
+rates------------ 
+
+Levels
+bil. 
+$
+Aug  92
+
+1.  Ml
+2.  M2
+3.  M3
+
+Selected  components
+
+4.  MI-A
+
+5. 
+6. 
+
+Currency
+Demand deposits
+
+5.6 
+
+8.4 
+3.4 
+
+9.1 
+
+11 
+
+5.8 
+12.5 
+
+114 
+114 
+
+14.7 
+
+12.2 
+17.7 
+
+6.1 
+
+16.9
+
+14.2
+19.4
+
+14.1
+
+22 
+
+610.9
+
+17 
+26 
+
+282.3
+320.7
+
+13 
+
+362.7
+
+7.  Other checkable deposits
+
+12.4 
+
+11.0 
+
+9k 
+
+8.  M2 minus  M1
+
+2
+
+1.1 
+
+-3.1 
+
+-31 
+
+-5.6 
+
+-1.9
+
+-3 
+
+2496.0
+
+9. 
+Overnight  RPs  and Eurodollars, NSA
+10.  General  purpose  and  broker/dealer  money
+
+market  mutual  fund  shares
+
+Savings  deposits  (including  MMDAs)
+Small  time  deposits
+
+11.  Commercial  banks
+12. 
+13. 
+14.  Thrift  institutions
+15. 
+16. 
+
+Savings  deposits  (including MDlOAs)
+Small  time  deposits
+
+-6.9 
+
+-27.1 
+
+16h 
+
+8.3 
+
+57.6
+
+-35 
+
+76.4
+
+3.9
+7.1
+13.3
+1.1
+-6.9
+9.3
+-16.8
+
+-4.8
+0.5
+12.0
+
+-13.2
+
+-6.7
+18.9
+-29.4
+
+-8
+-14
+10
+-16½
+-5%
+8
+-194
+
+-11.5
+
+-2.1
+9.3
+-17.0
+-7.3
+5.2
+-19.6
+
+-5.8
+-0.6
+13.6
+-19.0
+
+-5.9
+8.9
+
+-21.7
+
+349.1
+1259.5
+724.4
+535.2
+811.9
+421.1
+390.8
+
+3
+17.  M3 minus  MZ
+
+-5.7 
+
+-9.1 
+
+-2½ 
+
+-1.9 
+
+0.9
+
+-8 
+
+702.7
+
+18.  Large  time  deposits
+19. 
+20. 
+21.  Institution-only money market
+
+At commercial  banks, net 4
+At  thrift  institutions
+
+mutual  fund  shares
+
+22.  Term  RPs,  NSA
+23.  Term  Eurodollars, NSA
+
+-11.7
+
+-5.1
+
+-31.7
+
+33.4
+-22.0
+-11.0
+
+-18.9
+-14.8
+-37.0
+
+20.1
+6.1
+
+-18.4
+
+-17% 
+-17h 
+-17¼ 
+
+41J 
+-3% 
+
+-20z 
+
+-20.6
+-23.6
+-5.2
+
+48.1
+-23.0
+-11.3
+
+-16.1
+-15.4
+-22.4
+
+54.9
+5.0
+-22.8
+
+-16 
+-18 
+-5 
+
+10 
+17 
+-63 
+
+383.3
+315.0
+68.2
+
+217.2
+71.9
+51.6
+
+MEMORANDA:
+
+24.  Managed liabilities at  commercial
+
+banks  (25+26)
+
+25.  Large  time  deposits, gross
+26.  Nondeposit  funds
+27. 
+
+Net due  to  related  foreign
+
+institutions
+
+6
+
+28. 
+29.  U.S. government  deposits at commercial
+
+Other
+
+banks
+
+7
+
+----- Average  monthly  change  in  billions  of  dollars---
+
+-0.6
+-0.2
+-0.5
+
+-2.8 
+-4.8 
+2.1 
+
+0.4 
+-0.9 
+
+5.0 
+-3.0 
+
+0.2 
+
+1.3 
+
+-3½
+-3%
+0
+
+-1 
+1 
+
+0 
+
+-3.7 
+-6.4 
+2.7 
+
+2.1 
+0.6 
+
+-4.1
+-1.5
+-2.6
+
+-4.0
+1.4
+
+-3.9 
+
+10.7
+
+-2 
+-3 
+
+0 
+
+-1 
+1 
+
+-7 
+
+681.1
+384.5
+296.6
+
+59.8
+236.8
+
+32.6
+
+1.  Amounts  shown  are  from  fourth quarter  to  fourth  quarter.
+2.  Nontransactions  M2  is  seasonally  adjusted  as  a  whole.
+3.  The  non-MZ  component  of  M3  is  seasonally  adjusted  as  a  whole.
+4.  Net  of  large  denomination  time  deposits  held  by  money  market  mutual  funds  and  thrift  institutions.
+5.  Dollar  amounts  shown  under  memoranda  are  calculated  on  an  end-month-of-quarter  basis.
+6.  Consists  of  borrowing  from  other  than  commercial  banks 
+to  repurchase,  and  other  liabilities 
+
+in 
+
+the  form  of  federal  funds  purchased,  securities
+
+for  borrowed  money  (including  borrowing  from  the
+
+sold  under  agreements 
+Federal  Reserve  and  unaffiliated  foreign  banks, 
+
+loan  RPs  and  other  minor  items).  Data  are  partially  estimated.
+
+7.  Consists  of  Treasury  demand  deposits  and  note  balances  at  commercial  banks.
+pe  - preliminary  estimate
+
+-17-
+
+COMMERCIAL  BANK  CREDIT  AND  SHORT-  AND  INTERMEDIATE-TERM  BUSINESS  CREDIT 1
+(Percentage  change at  annual  rate,  based  on seasonally  adjusted data)
+
+Category 
+
+1. Total  loans  and securities at banks 
+
+2.  Securities 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+U.S. government 
+
+Other 
+
+Loans 
+
+Business 
+
+Real estate 
+
+Consumer 
+
+Security 
+
+10. 
+
+Other 
+
+1990 
+Dec.  to 
+1991 
+Dec. 
+
+3.9 
+
+17.6 
+
+23.8 
+
+1.4 
+
+-0.2 
+
+-2.9 
+
+2.9 
+
+-3.9 
+
+1992 
+Q2 
+
+1992 
+Q3p 
+
+1992 
+Jul. 
+
+1992 
+Aug. 
+
+1992 
+Sep. p 
+
+Level,
+bil.$
+1992
+Sep. p
+
+2.1 
+
+14.7 
+
+19.7 
+
+-2.3 
+
+-2.4 
+
+-7.3 
+
+0.5 
+
+-2.2 
+
+Commercial  bank credit
+
+3.6 
+
+15.1 
+
+17.2 
+
+7.7 
+
+-0.7 
+
+-1.4 
+
+0.0 
+
+-3.1 
+
+1.9 
+
+2.8 
+
+-0.0 
+
+5.4 
+
+5.5  2,895.5
+
+14.5 
+
+22.9 
+
+14.4 
+
+15.3 
+
+-5.5 
+
+-5.0 
+
+-2.5 
+
+-1.0 
+
+28.7 
+
+2.8 
+
+-1.3 
+
+-4.0 
+
+-1.5 
+
+-5.0 
+
+7.3 
+
+8.0 
+
+4.8 
+
+809.7
+
+634.1
+
+175.6
+
+4.9  2,085.9
+
+4.8 
+
+4.0 
+
+596.3
+
+881.4
+
+-3.4 
+
+356.7
+
+-65.0 
+
+37.3 
+
+36.2 
+
+64.9
+
+-8.4 
+
+2.6 
+
+14.3 
+
+186.6
+
+21.3 
+
+25.0 
+
+-2.7 
+
+-9.3 
+
+11.  Business  loans net of bankers 
+
+-2.5 
+
+-7.0 
+
+-1.7 
+
+-6.7 
+
+-3.7 
+
+5.3 
+
+589.7
+
+Short-  and  intermediate-term  business credit
+
+acceptances
+
+12.  Loans at foreign  branches2  
+
+13.  Sum  of  lines 11  and  12 
+
+14.  Commercial  paper issued by 
+
+nonfinancial firms
+
+-1.6 
+
+-2.5 
+
+-10.4 
+
+26.3 
+
+-5.8 
+
+-3.9 
+
+1.6 
+
+44.4 
+
+-42.9 
+
+-4.7 
+
+-5.1 
+
+4.9 
+
+4.9 
+
+24.4
+
+614.0
+
+4.3 
+
+15.3 
+
+12.6 
+
+144.2
+
+-1.6 
+
+10.8 
+
+15.  Sum  of lines  13  and  14 
+
+-4.0 
+
+-5.4 
+
+0.7 
+
+-3.0 
+
+-1.3 
+
+6.5 
+
+758.3
+
+16.  Bankers acceptances, U.S.  trade- 
+
+related 3 ,4
+
+17.  Finance company  loans to business4  
+
+18.  Total  (sum  of lines  15,16, and  17) 
+
+-16.2 
+
+-27.3 
+
+n.a. 
+
+-4.9 
+
+-29.4 
+
+n.a. 
+
+5
+
+23.9
+
+1.4 
+
+-2.9 
+
+-1.6 
+
+n.a. 
+
+-4.9 
+
+n.a. 
+
+9.2 
+
+0.3 
+
+n.a. 
+
+n.a. 
+
+n.a. 
+
+n.a. 
+
+301.06
+6
+
+1,080.4
+
+1. Average  of Wednesdays. Data  are adjusted for breaks  caused by  reclassifications.
+2. Loans at foreign branches are loans made  to U.S.  firms by foreign  branches of domestically chartered  banks.
+3. Consists of acceptances that finance U.S.  imports, U.S.  exports, and domestic shipment and storage of goods.
+4. Based  on  average  of data for current  and  preceding ends of month.
+5. August  1992.
+6. July 1992.
+p-Preliminary.
+n.a.--Not available.
+
+-18-
+
+(percent)
+
+1992 
+
+1992 
+
+1992 
+
+Change  from:
+
+FOMC 
+Aug  18 
+
+Sept  4  Oct  1 
+
+FOMC
+
+Sept  4 Aug  16
+
+3.27 
+
+3.19 
+
+3.24
+
+0.05 
+
+-0.03
+
+3.07
+3.13
+3.22
+
+2.92
+2.96
+3 .06
+
+2.61
+2.75
+2.85
+
+3.38 
+3.37 
+
+3.22 
+3.22 
+
+3.24
+3.23
+
+3.26
+3.27
+3.33
+
+3.06
+3.06
+3.11
+
+3.06
+3.09
+3.09
+
+-0.31
+-0.21
+-0.21
+
+-0.46
+-0.38
+-0.37
+
+0.02  -0.14
+0.01  -0.14
+
+0.00
+0.03
+0.02
+
+-0.20
+-0.18
+-0.24
+
+3.25 
+3.31 
+
+3.31 
+3.31 
+
+3.06
+3.13
+
+-0.25  -0.19
+-0.18  -0.18
+
+Short-term rates
+
+Federal  funds 2
+
+Treasury bills 3
+
+3-month
+6-month
+1-year
+
+Commercial paper
+
+1-month
+3-month
+
+Large  negotiable  CDs3
+
+1-month
+3-month
+6-month
+
+Eurodollar  deposits 4
+
+1-month
+3-month
+
+Bank prime  rate
+
+6.00 
+
+6.00 
+
+6.00
+
+0.00 
+
+0.00
+
+Intermediate-  and  long-term  rates
+
+U.S.  Treasury  (constant maturity)
+
+3-year
+10-year
+30-year
+
+Municipal  revenue
+
+(Bond Buyer)
+
+Corporate--A  utility
+
+recently  offered
+
+Home mortgage  rates 6
+FHLMC  30-yr.  FRM 
+FHLMC  1-yr.  ARM 
+
+Stock prices
+
+4.56
+6.48
+7.33
+
+4.38
+6.40
+7.29
+
+4.18
+6.23
+7.30
+
+-0.20
+-0.17
+0.01
+
+-0.38
+-0.25
+-0.03
+
+6.20 
+
+6.31 
+
+6.45
+
+0.14 
+
+0.25
+
+8.10 
+
+8.06 
+
+8.17
+
+0.11 
+
+0.07
+
+7.96 
+5.30 
+
+7.84 
+5.15 
+
+8.02 
+5.02 
+
+0.18 
+
+0.06
+-0.13  -0.28
+
+1989 
+
+1992 
+
+Percent  change  from:
+
+Record
+highs 
+
+Date
+
+Lows 
+Jan 3  Aug  18 
+
+FOMC
+
+Oct  1
+
+Record  1989  FOMC
+highs 
+
+lows  Aug  18
+
+Dow-Jones  Industrial  3413.21 
+NYSE Composite 
+AMEX Composite 
+NASDAQ  (OTC) 
+Wilshire 
+
+233.73  9/14/92 
+418.99  2/12/92 
+644.92  2/12/92 
+
+-4.65  51.74 
+6/1/92  2144.64  3329.48  3254.37 
+-2.14  48.53 
+154.00  231.90  228.73 
+305.24  386.81  374.81  -10.54  22.79 
+378.56  570.87  578.33  -10.33  52.77 
+-2.69  47.52 
+
+4121.28  1/15/92  2718.59  4053.95  4010.55 
+
+............................................................................................-
+
+-2.26
+-1.37
+-3.10
+1.31
+-1.07
+
+1/ One-day quotes  except  as  noted.
+2/ Average  for  two-week  reserve maintenance period
+
+closest  to  date  shown.  Last  observation is  average
+for maintenance period ending  September  30,  1992.
+
+3/ Secondary market.
+4/ Bid  rates  for  Eurodollar
+
+deposits at  11  a.m.  London  time.
+5/ Based on  one-day Thursday quotes
+and futures market  index  changes
+
+6/ Quotes  for week  ending
+
+Friday  previous  to  date  shown.
+
+

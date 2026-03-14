@@ -1,0 +1,1230 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version available 
+based on original files from the FOMC Secretariat at the Board of Governors of the 
+Federal Reserve System.   
+
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+
+Content last modified 04/01/2015. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Class III FOMC - Internal (FR) 
+
+June 19, 2009 
+
+CURRENT ECONOMIC 
+AND FINANCIAL CONDITIONS 
+
+Supplemental Notes 
+
+Prepared for the Federal Open Market Committee 
+by the staff of the Board of Governors of the Federal Reserve System 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+
+The Domestic Nonfinancial Economy ......................................................1 
+
+Errata................................................................................................1 
+
+The Domestic Financial Economy ............................................................1 
+
+Exhibits 
+Commercial Bank Credit .................................................................2 
+Selected Financial Market Quotations .............................................3 
+
+The International Economy ......................................................................4 
+
+U.S. Current Account.......................................................................4 
+U. S. International Financial Transactions.......................................4 
+
+Exhibits 
+U.S. Current Account.......................................................................4 
+Summary of U.S. International Financial Transactions...................6 
+
+ii 
+
+ 
+ 
+ 
+ 
+ 
+Supplemental Notes 
+
+The Domestic Nonfinancial Economy 
+
+Errata 
+In the box on page I-2 of Part 1, “Explanations for the Rapid Rise in the Unemployment 
+Rate,” the third sentence of the second paragraph should read: “Although real GDP fell 
+by more than real GDI in the first quarter of this year, that difference reversed only a 
+small portion of the sharp rise in the statistical discrepancy since early 2007 (shown in 
+the bottom right). 
+
+The Domestic Financial Economy 
+
+-1- 
+
+ 
+ 
+ 
+ 
+Commercial Bank Credit
+(Percent change, annual rate, except as noted; seasonally adjusted)
+
+Type of credit
+
+2007
+
+H1 
+2008
+
+H2 
+2008
+
+  Q1 
+2009
+
+Apr.
+2009
+
+May
+2009 May 2009
+
+Level1
+
+Total
+
+Loans2
+Total
+    To businesses
+        Commercial and industrial
+        Commercial real estate
+
+    To households
+        Residential real estate
+            Revolving home equity
+            Closed-end mortgages
+        Consumer
+            Originated3
+    Other
+
+Securities
+Total
+    Treasury and agency
+    Other4
+
+10.9
+
+11.4
+
+19.5
+10.6
+
+7.0
+6.5
+7.2
+6.6
+6.0
+17.2
+
+9.4
+-5.6
+30.6
+
+4.1
+
+5.8
+
+13.6
+9.8
+
+-1.0
+12.2
+-5.0
+8.0
+8.0
+1.4
+
+-1.2
+.9
+-3.5
+
+4.6
+
+-6.3
+
+-12.9
+
+1.3
+
+9,461     
+
+2.4
+
+-6.3
+
+-11.1
+
+-1.7
+
+7,101     
+
+13.0
+2.9
+
+-4.1
+12.9
+-9.8
+7.4
+4.7
+-4.5
+
+11.5
+37.7
+-16.0
+
+-9.6
+-.9
+
+-.8
+8.4
+-4.2
+7.3
+1.8
+-36.9
+
+-6.2
+4.1
+-20.3
+
+-16.9
+-1.9
+
+-7.5
+3.5
+-11.8
+-15.6
+-5.1
+-23.7
+
+-18.7
+-27.7
+-5.9
+
+-15.6
+-2.2
+
+1,503     
+1,722     
+
+-6.8
+-1.8
+-8.8
+-.4
+-2.2
+37.6
+
+10.2
+-3.6
+29.7
+
+2,159     
+613     
+1,546     
+881     
+1,293     
+836     
+
+2,360     
+1,365     
+995     
+
+   Note:  Yearly annual rates are Q4 to Q4; quarterly and monthly annual rates use corresponding average levels.  Data have been
+adjusted to remove the effects of mark-to-market accounting rules (FIN 39 and FAS 115), the initial consolidation of certain variable
+interest entities (FIN 46), and the initial adoption of fair value accounting.  Data also account for the effects of nonbank structure
+activity of $5 billion or more.
+   1. Billions of dollars.  Pro rata averages of weekly (Wednesday) levels.
+   2. Excludes interbank loans.
+   3. Includes an estimate of outstanding loans securitized by commercial banks.
+   4. Includes private mortgage-backed securities; securities of corporations, state and local governments, and foreign governments;
+and any trading account assets that are not Treasury or agency securities.
+   Source:  Federal Reserve.
+
+19851990199520002005-4-3-2-1 0 1 2 3Percent (annual rate)Source: Call Reports.Top 25 BHCsOther BHCsQuarterly, SAReturn on AssetsQ1NBERPeak19901994199820022006-40-30-20-10  0 10 20 30 40Percent (annual rate)Source: Call Reports.QuarterlyGrowth in Unused CommitmentsQ1NBERPeak19972000200320062009120140160180200Basis points*The spread over market interest rate onan instrument of comparable maturity.**Adjusted for changes in non-price loancharacteristics.Source: Survey of Terms of Business Lending.QuarterlyC&I Loan Rate Spreads*Q2NBERPeakWeighted Average Adjusted**-2-  
+III-T-1
+Selected Financial Market Quotations
+(One-day quotes in percent except as noted)
+
+2007
+
+2009
+
+Aug. 6
+
+Mar. 17
+
+Apr. 28
+
+June 18
+
+Change to June 18 from
+selected dates (percentage points)
+
+2007
+Aug. 6
+
+2009
+Mar. 17
+
+2009
+Apr. 28
+
+5.25
+
+4.74
+4.72
+
+5.26
+5.29
+
+5.34
+5.27
+
+5.33
+5.35
+
+8.25
+
+4.49
+4.52
+4.82
+
+2.43
+2.48
+
+4.51
+
+5.44
+5.34
+6.12
+6.57
+9.21
+
+6.59
+5.65
+
+.13
+
+.24
+.44
+
+.44
+.66
+
+1.08
+1.83
+
+1.00
+1.65
+
+3.25
+
+1.04
+2.14
+3.47
+
+2.04
+2.26
+
+5.03
+
+3.14
+4.04
+6.99
+9.25
+16.41
+
+4.98
+4.91
+
+.13
+
+.13
+.31
+
+.31
+.55
+
+.80
+1.38
+
+.90
+1.40
+
+3.25
+
+.92
+2.04
+3.38
+
+1.55
+1.92
+
+4.57
+
+3.07
+3.88
+6.33
+8.49
+12.79
+
+4.78
+4.77
+
+.13
+
+.18
+.33
+
+.26
+.40
+
+.36
+.65
+
+.65
+1.15
+
+3.25
+
+1.27
+2.84
+4.18
+
+1.54
+2.17
+
+4.86
+
+3.98
+4.56
+6.12
+7.71
+12.15
+
+5.38
+4.95
+
+-5.12
+
+-4.56
+-4.39
+
+-5.00
+-4.89
+
+-4.98
+-4.62
+
+-4.68
+-4.20
+
+-5.00
+
+-3.22
+-1.68
+-.64
+
+-.89
+-.31
+
+.35
+
+-1.46
+-.78
+.00
+1.14
+2.94
+
+-1.21
+-.70
+
+.00
+
+-.06
+-.11
+
+-.18
+-.26
+
+-.72
+-1.18
+
+-.35
+-.50
+
+.00
+
+.23
+.70
+.71
+
+-.50
+-.09
+
+-.17
+
+.84
+.52
+-.87
+-1.54
+-4.26
+
+.40
+.04
+
+.00
+
+.05
+.02
+
+-.05
+-.15
+
+-.44
+-.73
+
+-.25
+-.25
+
+.00
+
+.35
+.80
+.80
+
+-.01
+.25
+
+.29
+
+.91
+.68
+-.21
+-.78
+-.64
+
+.60
+.18
+
+Instrument
+
+Short-term
+FOMC intended federal funds rate
+Treasury bills1
+     3-month
+     6-month
+Commercial paper (A1/P1 rates)2
+     1-month
+     3-month
+Large negotiable CDs1
+     3-month
+     6-month
+Eurodollar deposits3
+     1-month
+     3-month
+
+Bank prime rate
+
+Intermediate- and long-term
+U.S. Treasury4
+      2-year
+      5-year
+     10-year
+U.S. Treasury indexed notes5
+      5-year
+     10-year
+
+Municipal general obligations (Bond Buyer)6
+
+Private instruments
+     10-year swap
+     10-year FNMA7
+     10-year AA8
+     10-year BBB8
+     10-year high yield8
+
+Home mortgages (FHLMC survey rate)
+     30-year fixed
+     1-year adjustable
+
+Record high
+
+2009
+
+Stock exchange index
+
+Dow Jones Industrial
+S&P 500 Composite
+Nasdaq
+Russell 2000
+D.J. Total Stock Index
+
+Level
+
+14,165
+1,565
+5,049
+856
+15,807
+
+Date
+
+Mar. 17
+
+Apr. 28
+
+June 18
+
+10-9-07
+10-9-07
+3-10-00
+7-13-07
+10-9-07
+
+7,396
+778
+1,462
+404
+7,878
+
+8,017
+855
+1,674
+473
+8,754
+
+8,556
+918
+1,808
+509
+9,393
+
+Change to June 18 
+from selected dates (percent)
+
+Record
+high
+
+-39.60
+-41.32
+-64.19
+-40.47
+-40.57
+
+2009
+Mar. 17
+
+2009
+Apr. 28
+
+15.68
+18.02
+23.64
+26.24
+19.24
+
+6.72
+7.39
+8.00
+7.75
+7.31
+
+       1.  Secondary market.
+       2.  Financial commercial paper.
+       3.  Bid rates for Eurodollar deposits collected around 9:30 a.m. eastern time.
+       4.  Derived from a smoothed Treasury yield curve estimated using off-the-run securities.
+       5.  Derived from a smoothed Treasury yield curve estimated using all outstanding securities and adjusted for the carry effect.
+       6.  Most recent Thursday quote.
+       7.  Constant-maturity yields estimated from Fannie Mae domestic noncallable coupon securities.
+       8.  Derived from smoothed corporate yield curves estimated using Merrill Lynch bond data.
+       _______________________________________________________________________
+
+       NOTES:
+       August 6, 2007, is the day before the August 2007 FOMC meeting.
+       March 17, 2009, is the day before the March 2009 FOMC monetary policy announcement.
+       April 28, 2009, is the day before the most recent FOMC monetary policy announcement.
+       ________________________________________________________________________
+
+-3- 
+ 
+  
+ 
+ 
+   
+The International Economy 
+
+U.S. Current Account 
+The U.S. current account deficit was $406 billion at an annual rate in the first quarter of 
+2009, $214 billion narrower than in the fourth quarter (revised) of last year and the 
+smallest deficit since the fourth quarter of 2001.  For the second consecutive quarter, the 
+narrowing of the current account deficit was the result of a substantially narrower deficit 
+in goods and services, as imports have fallen more than exports.  A somewhat smaller 
+surplus in investment income in the first quarter offset a somewhat smaller deficit in 
+other income and transfers.  
+
+U.S. Current Account 
+(Billions of dollars, seasonally adjusted annual rate) 
+
+Period 
+
+Goods and 
+services,     
+
+Investment 
+income,     
+
+Annual 
+2007 
+2008 
+
+Quarterly 
+
+2008:Q2 
+        Q3 
+        Q4 
+2009:Q1 
+
+net 
+
+-701.4
+-695.9
+
+-731.4
+-743.8
+-578.0
+-364.8
+
+net 
+
+97.9
+125.6
+
+112.3
+143.7
+92.1
+84.3
+
+Other  
+income and 
+transfers, net
+
+-123.1
+-135.7
+
+-131.8
+-136.7
+-133.6
+-125.5
+
+Current 
+account 
+balance 
+
+-726.6 
+-706.1 
+
+-750.9 
+-736.7 
+-619.5 
+-406.0 
+
+Change 
+Q2-Q1 
+Q3-Q2 
+Q4-Q3 
+Q1-Q4 
+     Source:  U.S. Department of Commerce, Bureau of Economic Analysis. 
+
+-0.8
+-12.4
+165.8
+213.2  
+
+8.8
+-4.9
+3.1
+8.1  
+
+-41.7
+31.4
+-51.6
+
+-7.8  
+
+-33.7 
+14.2 
+117.2 
+213.5 
+
+U.S. International Financial Transactions 
+The balance of payments data also included more complete information on financial 
+flows in the first quarter.  U.S. direct investment abroad and foreign direct investment 
+into the United States both slowed notably, primarily reflecting weaker equity capital 
+flows and reduced retained earnings (see lines 6 and 7 of the attached table “Summary of 
+U.S. International Transactions”).  On net, direct investment provided an inflow of 
+$11 billion, about the same as in the past two quarters.  Other flows from non-bank 
+
+-4- 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+concerns, bank-reported data available only quarterly, and foreign acquisitions of U.S. 
+currency on net provided a very small inflow (lines 9 and 10).   
+
+Despite the more complete information on financial flows in the balance of payments 
+release, it is clear that the data collection systems are not capturing all types of 
+transactions and all types of counterparties for cross-border financial flows.  Indeed, 
+despite the substantial narrowing of the current account deficit, the statistical discrepancy 
+in the first quarter was still a sizable positive $55 billion at a quarterly rate, similar to that 
+recorded over the past several quarters.  A positive discrepancy indicates some over-
+reporting of the current account deficit or under-reporting of net financial inflows.  
+
+With the release of the first-quarter data, the Bureau of Economic Analysis also published 
+revised estimates of the current account for previous years.  The current account deficit 
+was increased $33 billion in 2008, mostly in the fourth quarter.  The fourth-quarter 
+increase primarily reflected higher income payments on foreign direct investment in the 
+United States.  There were also large revisions to financial flows, especially in 2007 and 
+2008.  These revisions primarily reflect recent surveys of U.S. holdings of foreign 
+securities and foreign holdings of U.S. securities.  Taken together, the surveys implied 
+smaller net inflows through securities transactions, which contributed to a significant 
+widening of the statistical discrepancy.   
+
+-5- 
+ 
+  
+ 
+Summary of U.S. International Transactions
+(Billions of dollars; not seasonally adjusted except as noted)
+
+Official financial flows
+   1. Change in foreign official assets
+             in the U.S. (increase, +)
+      a. G-10 countries + ECB
+      b. OPEC
+      c. All other countries
+
+   2. Change in U.S. official
+             assets (decrease, +) 1
+
+Private financial flows
+Banks
+   3. Change in net foreign positions
+             of banking offices in the U.S. 2
+
+Securities 3
+   4. Foreign net purchases (+) of U.S.
+             securities
+      a. Treasury securities
+      b. Agency bonds
+      c. Corporate and municipal bonds
+      d. Corporate stocks 4
+
+   5. U.S. net acquisitions (-) of foreign
+             securities
+      a. Bonds
+      b. Stock purchases
+      c. Stock swaps 4
+
+Other flows 5
+   6. U.S. direct investment (-) abroad
+   7. Foreign direct investment in the U.S.
+   8. Net derivatives (inflow, +)
+   9. Foreign acquisitions of U.S. currency
+   10. Other (inflow, +) 6
+
+U.S. current account balance 5
+Capital account balance 7
+Statistical discrepancy 5
+
+2007
+
+2008
+
+451.1
+
+-54.6
+
+475.2
+36.8
+33.0
+405.5
+
+479.9
+-8.4
+45.5
+430.0
+
+2008
+Q3
+-108.9
+
+117.5
+8.9
+16.1
+92.5
+
+Q2
+138.0
+
+182.3
+0.3
+16.3
+165.8
+
+Q4
+-286.5
+
+Q1
+313.6
+
+-17.9
+-16.0
+-3.4
+-11.4
+
+70.8
+-7.4
+-5.0
+83.2
+
+2009
+Mar.
+
+22.7
+
+11.9
+6.2
+5.3
+0.4
+
+Apr.
+
+97.8
+
+37.3
+1.9
+-1.4
+36.8
+
+-24.1
+
+-534.6
+
+-44.3
+
+-226.4
+
+-268.7
+
+242.8
+
+10.8
+
+60.5
+
+212.5
+
+559.7
+
+-31.0
+
+252.0
+
+374.9
+
+-266.5
+
+...
+
+...
+
+-81.7
+
+28.3
+
+-91.4
+
+-31.8
+
+311.5
+
+-247.8
+
+-33.0
+
+-9.2
+
+673.9
+67.1
+-8.6
+384.7
+230.7
+
+-366.2
+-218.5
+-136.4
+-11.3
+
+-398.6
+275.8
+6.2
+-10.7
+113.8
+
+-726.6
+-1.9
+64.9
+
+71.1
+197.0
+-185.0
+2.5
+56.6
+
+64.0
+64.2
+3.4
+-3.6
+
+-332.0
+319.7
+-28.9
+29.2
+408.2
+
+-706.1
+1.0
+200.1
+
+40.0
+18.3
+-52.7
+52.1
+22.1
+
+-40.3
+-18.4
+-19.9
+-2.0
+
+-103.6
+100.7
+-2.4
+0.2
+65.8
+
+-187.7
+-0.7
+81.4
+
+-23.9
+79.1
+-70.1
+-35.4
+2.6
+
+79.6
+65.5
+14.1
+0.0
+
+-54.1
+62.8
+-4.1
+5.8
+217.7
+
+52.7
+81.6
+-21.5
+-3.8
+-3.6
+
+72.1
+37.0
+35.8
+-0.8
+
+-84.5
+96.8
+-14.5
+29.9
+-89.1
+
+0.5
+55.4
+-45.2
+-15.6
+6.0
+
+-33.1
+-31.8
+0.6
+-1.9
+
+-24.0
+35.3
+n.a.
+11.8
+-9.2
+
+-184.2
+3.0
+38.1
+
+-154.9
+-0.7
+67.2
+
+-101.5
+-0.7
+55.1
+
+44.5
+49.7
+-18.7
+1.5
+11.9
+
+-3.1
+-1.5
+-1.6
+0.0
+
+...
+...
+...
+...
+...
+
+...
+...
+...
+
+-49.1
+-23.0
+-13.7
+-15.5
+3.1
+
+-25.1
+-14.8
+-10.3
+0.0
+
+...
+...
+...
+...
+...
+
+...
+...
+...
+
+     Note: Data in lines 1 through 5 differ in timing and coverage from the balance of payments data published by the
+Department of Commerce. Details may not sum to totals because of rounding.
+     1. Includes changes in U.S. official reserve assets and in outstanding reciprocal currency swaps with certain foreign central banks.
+     2. Changes in dollar-denominated positions of all depository institutions and bank holding companies plus certain
+transactions between broker-dealers and unaffiliated foreigners (particularly borrowing and lending under repurchase
+agreements). Includes changes in custody liabilities other than U.S. Treasury bills.
+     3. Includes commissions on securities transactions and therefore does not match exactly the data on U.S. international
+transactions published by the Department of Commerce.
+     4. Includes (4d) or represents (5c) stocks acquired through nonmarket means such as mergers and reincorporations.
+     5. Quarterly data; seasonally adjusted.
+     6. Transactions by nonbanking concerns and other banking and official transactions not shown elsewhere plus amounts
+resulting from adjustments made by the Department of Commerce and revisions (in lines 1 through 5 and 8) since publication
+of the quarterly data in the Survey of Current Business.
+     7. Seasonally adjusted; consists of transactions in nonproduced nonfinancial assets and capital transfers.
+     G-10    Group of Ten (Belgium, Canada, France, Germany, Italy, Japan, the Netherlands, Sweden, Switzerland, United
+Kingdom, United States).
+     ECB    European Central Bank.
+     OPEC  Organization of the Petroleum Exporting Countries.
+     ... Not applicable.
+     Source: U.S. Department of Commerce, Bureau of Economic Analysis; U.S. Treasury International Capital reports with staff
+adjustments.
+
+-6- 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,3393 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+Strictly Confidential  (FR)  Class  I FOMC
+
+November  2,  1984
+
+MONETARY  POLICY  ALTERNATIVES
+
+Prepared  for the  Federal  Open  Market  Committee
+
+By  the  staff  Board  of Governors  of  the  Federal  Reserve  System
+
+STRICTLY  CONFIDENTIAL  (FR) 
+FOMC
+CLASS  I  -
+
+November  2,  1984
+
+Recent  developments
+
+MONETARY  POLICY  ALTERNATIVES
+
+(1) 
+
+Preliminary  data  for  October  indicate  that  M1  declined  last
+
+month  at  an  annual  rate  of  around  6-1/2  percent,  following  growth  in  September
+
+that  turned  out  to  be  4-3/4  percent  (or  about  2  percentage  points  less  than
+
+expected  at  the  time  of  the  previous  FOMC  meeting). 
+
+The  estimated  level
+
+of  M1  in  October  was  well  below  the  growth  path  adopted  at  the  last  FOMC
+
+meeting  for  the  September-December  period  and  in  the  lower  half  of  its
+
+longer-run  target  range.  Both  demand  deposits  and  other  checkable  deposits
+
+were  drawn  down  last  month,  while  currency  continued  to  grow  at  a  slower
+
+pace  than  in  the  first  half  of  the  year.
+
+(2) 
+
+The  nontransactions  component  of  M2  grew  a  bit  faster  in
+
+October  than  the  advanced  September  pace,  boosted  particularly  by  strength-
+
+ened  inflows  to  MMDAs  and  money  market  funds,  whose  yields  lagged  declines
+
+in  short-term  market  rates.  But  with  the  drop  in  M1,  growth  of  M2  for
+
+October  is  estimated  to  have  been  around  6  percent,  somewhat  below  the
+
+Committee's  three-month  objective  of  7-1/2  percent.  M3  growth,  on  the
+
+other  hand,  appears  to  have  picked  up  in  October  to  a  10-1/2  percent
+
+annual  rate,  somewhat  above  the  Committee's  short-run  path.  CD  issuance
+
+strengthened  considerably  in  October,  as  the  runoff  at  the  thrift  subsi-
+
+diary  of  FCA  stopped  and  as  banks  stepped  up  sales  of  CDs  in  part  to  off-
+
+set  declining  Treasury  deposits;  in  addition,  institution-only  money  mar-
+
+ket  funds  expanded  by  a  very  substantial  amount.
+
+KEY  MONETARY  POLICY  AGGREGATES
+
+(Seasonally  adjusted  annual  rates  of  growth)
+
+Aug. 
+
+Sept. 
+
+Oct.pe 
+
+QIV  to
+Oct.  pe
+
+Money  and  Credit  Aggregates
+
+M1
+
+M2
+
+M3
+
+2.0
+
+Domestic  nonfinancial  debt
+
+14.0
+
+Bank  credit
+
+Reserve  Measures1
+
+Nonborrowed  reserves 2
+
+Total  reserves
+
+Monetary  base
+
+11.2
+
+6.9
+
+-3.0
+
+-8.9
+
+7.6
+
+-. 3
+
+Memo: 
+
+(Millions  of  dollars)
+
+Adjustment  and  seasonal
+
+borrowing
+
+Excess  reserves
+
+974
+
+683
+
+4.7
+
+6.8
+
+9.3
+
+4.4
+
+4.6
+
+7.1
+
+-6.6
+
+5.9
+
+10.5
+
+-16.0
+
+-13.2
+
+2.9
+
+849
+
+6293
+
+1.  Growth  rates  of  reserve  measures  are  adjusted  to  remove  the  effects  of  dis-
+continuities  resulting  from  phased  changes  in  reserve  ratios  under  the  Monetary
+Control  Act.
+2.  Includes  "other extended  credit"  from  the  Federal  Reserve.
+3.  Average  through  October  24  reserve  maintenance  period.
+pe-preliminary  estimate.
+Note:  Monthly  reserve  measures, 
+are  calculated  by  prorating  averages  for  2-week  reserve  maintenance  periods
+that  overlap  months.
+
+including  excess  reserves  and  borrowing,
+
+-3-
+
+(3)  Expansion  of  the  debt  of  private  domestic  sectors  moderated
+
+further  in  September  to  an  estimated  annual  rate  of  11-1/2  percent,  and  with
+
+borrowing  by  the  federal  sector  temporarily  slowing  at  the  same  time,  growth
+
+in  total  nonfinancial  debt  fell  to  11-1/4  percent  from  over  13  percent  in
+
+the  previous  two  months.  At  banks,  a  slackening  in  the  pace  of  consumer
+
+lending  and  slower  growth  in  business  borrowing,  as  merger  financing  dropped
+
+off  and  declines  in  bond  yields  encouraged  greater  reliance  on  long-term
+
+finance,  contributed  to  a  moderation  in  credit  growth.  Partial  data  for
+
+October  suggest  some  additional  slowing  in  bank  credit,  but  with  bond
+
+issuance  by  business  and  state  and  local  governments  strengthening  con-
+
+siderably  further  and  Treasury  borrowing  rebounding,  total  credit  growth
+
+probably  was  at  least  as  rapid  as  in  September.
+
+(4)  Total  reserves  fell  at  about  a  13  percent  annual  rate  in
+
+October,  reflecting  a  decline  in  required  reserves  mainly  in  response  to
+
+the  weakness  in  transactions  deposits  in  October  and  the  runoff  of  CDs  in
+
+September.  Nonborrowed  reserves  plus  extended  credit  also  declined
+
+sharply.  Use  of  the  discount  window  was  especially  heavy  early  in  each
+
+of  the  two  maintenance  periods  ending  in  October,  particularly  by  large
+
+banks,  which  appear  to  have  become  more  willing  to  borrow  after  the
+
+increasingly  cautious  approach  that  had  developed  since  last  spring.
+
+Adjustment  plus  seasonal  borrowing  averaged  $762  million  over  the  four
+
+Wednesday-ending  weeks  since  the  last  Committee  meeting.  A  level  of
+
+borrowing  of  $700  million  most  recently  has  been  assumed  in  constructing
+
+the  reserve  paths.
+
+(5) 
+
+The  greater  willingness  of  banks  to  use  discount  window
+
+credit,  market  expectations  of  monetary  easing  as  M1  weakened,  and  a  drop
+
+in  other  short-term  rates  contributed  to  a  decline  in  the  federal  funds
+
+rate  from  around  11  percent  just  before  the  October  FOMC  meeting  to  the
+
+neighborhood  of  10  percent  most  recently;  funds  traded  below  that  level  on  a
+
+number  of  days  in  the  latter  part  of  October.  Rates  on  Treasury  bills  have
+
+dropped  about  120  basis  points  and  on  short-term  private  instruments  by  125
+
+to  150  basis  points  during  the  intermeeting  period,  bringing  the  3-month  bank
+
+CD  rate  to  about  9-1/2  percent;  most  major  banks  reduced  their  prime  rates  to
+
+12  percent  late  in  October.  Treasury  and  corporate  bond  yields  have  declined
+
+by  about  80  basis  points,  responding  as  well  to  the  apparently  improved  out-
+
+look  for  inflation  from  the  weakness  in  oil  prices  and  to  information  suggest-
+
+ing  a  more  moderate  pace  of  economic  activity.
+
+(6) 
+
+Exchange  market  conditions  were  fairly  volatile  over  the
+
+period  since  the  last  Committee  meeting.  The  dollar  has  dropped  about  2-1/2
+
+percent  on  balance,  after  first  rising  to  a  new  record  high  in  mid-October.
+
+The  Desk  intervened  on  one  day  in  the  period,  selling  $95  million.
+
+Prospective  developments
+
+(7) 
+
+The  table  below  gives  two  alternative  specifications  for
+
+growth  in  the  monetary  aggregates  over  the  period  from  September  to  December,
+
+along  with  associated  federal  funds  rate  ranges. 
+
+(More  detailed  data,  in-
+
+cluding  implied  growth  for  the  QIV  1983-to-QIV  1984  period  and  for  October
+
+through  December,  can  be  found  on  the  table  and  charts  on  the  following
+
+pages.) 
+
+Given  the  substantial  weakness  of  M1  in  October,  both  alternatives
+
+contemplate  growth  in  this  aggregate  over  the  three-month  September-to-December
+
+period  well  below  the  short-run  objective  specified  by  the  Committee  at  its
+
+last  meeting,  but  growth  of  M2  and  M3  would  be  expected  to  be  near  their
+
+short-run  objectives.  Alternative  A  involves  an  initial  easing  in  bank
+
+reserve  positions,  while  no  substantial  change  is  contemplated  by  alternative
+
+B.  No  alternative  that  would  initially  tighten  bank  reserve  positions  is
+
+presented  in  view  of  the  size  of  recent  shortfalls  in  M1  and  M2,  with  both
+
+aggregates  now  in  the  lower  halves  of  their  ranges  for  1984.
+
+Alt.  A 
+
+Alt.  B 
+
+MEMO:  Current
+FOMC  specifications
+
+Growth  from
+September  to
+December
+
+M1 
+M2 
+M3 
+
+Federal  funds
+rate  range 
+
+3-1/2 
+7-1/2 
+9-1/2 
+
+2-1/2 
+7 
+9-1/4 
+
+6
+7-1/2
+9
+
+7  to  11 
+
+8  to  12 
+
+8  to  12
+
+(8)  Under  alternative  B,  M1  is  expected  to  grow  fairly  rapidly
+
+over  the  last  two  months  of  the  quarter-at  about  a  7  percent  annual
+
+rate. 
+
+Some  of  the  unusual  factors  that  depressed  M1  in  October-such  as
+
+the  possible  pull  of  relatively  high-yielding  MMDA  accounts  on  funds  that
+
+Alternative Levels  and  Growth Rates  for  Key Monetary Aggregates
+
+Monthly Levels
+
+1984--July
+
+August
+September
+
+October
+November
+December
+
+Growth Rates
+
+Monthly
+
+1984--July
+
+August
+September
+
+October
+November
+December
+
+1984  June  to  Sept.
+1984  Sept.  to Dec.
+1984  Oct.  to  Dec.
+
+Growth  Rates
+
+Quarterly Average
+
+1984--Q1
+Q2
+Q3
+Q4
+
+Memo:
+
+'83 Q4  to  Sept.'84
+'83  Q4  to  Oct.  '84
+'83  Q4  to  '84  Q4
+
+Alt. A 
+------ 
+
+Alt.  B  Alt.  A 
+------ 
+------ 
+
+Alt.  B 
+------ 
+
+Alt.  A 
+------ 
+
+Alt.  B
+------
+
+545.8
+546.7
+548.9
+
+545.9
+549.4
+553.7
+
+545.8
+546.7
+548.9
+
+545.9
+549.1
+552.3
+
+2281.8
+2290.9
+2306.4
+
+2317.7
+2333.2
+2349.6
+
+2281.8
+2290.9
+2306.4
+
+2317.7
+2332.1
+2346.6
+
+2860.4
+2872.0
+2891.0
+
+2916.3
+2937.7
+2960.0
+
+2860.4
+2872.0
+2891.0
+
+2916.3
+2937.3
+2958.3
+
+-1.3
+2.0
+4.8
+
+-6.6
+7.7
+9.4
+
+1.8
+3.5
+8.6
+
+7.2
+6.2
+4.5
+1.9
+
+5.8
+4.7
+5.0
+
+-1.3
+2.0
+4.8
+
+-6.6
+7.0
+7.0
+
+1.8
+2.5
+7.1
+
+7.2
+6.2
+4.5
+1.5
+
+5.8
+4.7
+4.9
+
+5.1
+4.8
+8.1
+
+5.9
+8.0
+8.4
+
+6.0
+7.5
+8.3
+
+6.9
+6.9
+6.2
+7.1
+
+6.8
+6.8
+6.9
+
+5.1
+4.8
+8.1
+
+5.9
+7.5
+7.5
+
+6.0
+7.0
+7.5
+
+6.9
+6.9
+6.2
+6.8
+
+6.8
+6.8
+6.9
+
+8.8
+4.9
+7.9
+
+10.5
+8.8
+9.1
+
+7.2
+9.5
+9.0
+
+8.9
+10.3
+8.2
+8.8
+
+9.1
+9.3
+9.4
+
+8.8
+4.9
+7.9
+
+10.5
+8.6
+8.6
+
+7.2
+9.3
+8.6
+
+8.9
+10.3
+8.2
+8.7
+
+9.1
+9.3
+9.3
+
+Chart  1
+
+Actual  and  Targeted  M1
+
+CONFIDENTIAL  (FR)
+
+CLASS  II  FOMC
+
+Billions  of  dollars
+1570
+
+/  8%
+
+-
+--
+
+ACTUAL  LEVELS
+ESTIMATED  LEVELS
+
+*  SHORT  RUN  ALTERNATIVES
+
+7,
+
+-
+
+560
+
+-1  550
+
+-
+
+540
+
+--  530
+
+--  520
+
+-J510
+
+O 
+
+I 
+
+I
+
+N 
+1983 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I
+
+D 
+
+J 
+
+F 
+
+M 
+
+A 
+
+M 
+
+J 
+
+J 
+
+A 
+
+S 
+
+O 
+
+N 
+
+D
+
+1984
+
+Chart  2
+
+Actual  and  Targeted  M2
+
+CONFIDENTIAL  (FR)
+CLASS  II  FOMC
+
+-
+
+-
+--
+
+ACTUAL  LEVELS
+ESTIMATED  LEVELS
+
+SSHORT  RUN  ALTERNATIVES
+
+//
+
+• 
+
+7
+
+Billions  of  dollars
+1 *  A AA
+
+9%
+
+/
+
+/
+
+/
+
+2380
+
+2360
+
+2340
+
+76
+
+2320
+
+2300
+
+2280
+
+2260
+
+2240
+
+2220
+
+2200
+
+2180
+
+2160
+
+O 
+
+I 
+
+I
+
+N 
+1983 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I
+
+I 
+
+I 
+
+I 
+
+I
+
+D 
+
+J 
+
+F 
+
+M 
+
+A 
+
+M 
+
+J 
+
+J 
+
+A 
+
+S 
+
+O 
+
+N 
+
+D
+
+1984
+
+Chart 3 
+
+Actual  and  Targeted  M3
+
+CONFIDENTIAL  (FR)
+CLASS  II FOMC
+
+--
+--
+
+ACTUAL  LEVELS 
+ESTIMATED  LEVELS 
+
+SSHORT  RUN  ALTERNATIVES 
+
+/ 
+
+/ 
+
+S- 
+
+S- 
+
+// 
+
+/
+
+/V- 
+
+Billions  of dollars
+
+*A-
+*B- 2960
+
+/9%  2940
+
+-
+
+2920
+
+/
+
+//
+
+2900
+
+2880
+
+S2860
+
+-2840
+
+S2820
+
+-2800
+
+2780
+
+S2760
+
+2740
+
+2720
+
+-2700
+
+-2680
+
+-2660
+
+o 
+
+N
+1983
+
+D 
+
+I  11 
+J 
+
+F 
+
+1I 
+A 
+
+M 
+
+I 
+
+I 
+
+I 
+
+2640
+
+M 
+
+J 
+
+J 
+
+A
+
+1984
+
+might  have  otherwise  gone  into  transactions  balances  and  possible  shifts
+
+out  of  cash  into  longer-term  market  instruments  as  expectations  of
+
+declining  rates  became  more  widespread--are  expected  to  abate.  Moreover,
+
+demand  for  this  aggregate  will  be  boosted  over  coming  months  by  increases
+
+in  nominal  income  and  spending  and  by  the  usual  lagged  effects  of  the
+
+sizable  declines  in  short-term  interest  rates  since  early  September.  The
+
+expected  pickup  in  M1  growth  in  November  and  December  would  yield  only
+
+about  a  2-1/2  percent  annual  growth  rate  over  the  last  three  months  of  the
+
+year  and  only  1-1/2  percent  on  a  quarterly  average  basis.  For  the  year
+
+as  a  whole  (QIV  to  QIV),  M1  growth  would  be  around  5  percent.
+
+(9)  Assuming  GNP  grows  as  projected  in  the  Green  Book  for  the
+
+fourth  quarter,  the  velocity  of  M1  would  rise  by  about  5-3/4  percent  at  an
+
+annual  rate  in  that  period.  Such  a  relatively  rapid  rise  in  velocity
+
+appears  unusual, 
+
+looking  back  over  previous  experience  for  periods  when
+
+interest  rates  have  dropped. 
+
+In  part,  it  reflects  the  shifts  out  of
+
+cash  that  have  already  occurred.  But  still, 
+
+such  a  large  implied  velocity
+
+growth  does  raise  questions  about  whether  the  actual  outcome  might  instead
+
+involve  more  money  growth  and/or  less  GNP  expansion,  given  the  interest
+
+rates  contemplated  in  this  alternative.
+
+(10) 
+
+The  pickup  in  M1  growth  is  expected  to  lead  to  more  rapid
+
+expansion  in  M2  over  the  balance  of  the  quarter.  For  the  quarter  as  a  whole,
+
+M2  should  grow  about  in  line  with  nominal  GNP,  bringing  its  growth  for
+
+the  year  to  around  7  percent,  somewhat  below  the  mid-point  of  its  longer-term
+
+range.  M3  is  expected  to  increase  in  November  and  December  at  somewhat
+
+less  than  its  October  pace, 
+
+in  part  as  yields  on  institution-only  money
+
+funds  adjust  to market  rates;  growth  for  the  year  would  be  a  bit  above  the
+
+upper  end  of  the  Comittee's  longer-run  range.  Outstanding  CDs  at  banks
+
+are  expected  to  grow  at  a  moderate  rate  over  the  balance  of  the  year,
+
+with  expansion  restrained  in  part  by  efforts  of  a  number  of  larger  banks
+
+to  manage  their  balance  sheets  more  conservatively  in  the  wake  of  the
+
+summer's  banking  difficulties  and  issuance  of  proposed new  capital  guide-
+
+lines.
+
+(11)  Credit  is  projected  to  expand  more  slowly  in  the  fourth
+
+quarter  than  in  the  third,  owing  entirely  to  a  drop-off  in  private  borrow-
+
+ing,  while  federal  government  borrowing  is  expected  to  be  substantially
+
+stronger  in  the  current  quarter  than  during  the  summer.  Business  borrowing
+
+for  mergers  and  the  like  is  expected  to  continue  to  decline,  and  needs  for
+
+credit  to  fund  outlays  may  edge  lower  from  the  third  quarter  pace  as
+
+inventory  accumulation  slows. 
+
+In  the  household  sector  mortgage  takedowns
+
+should  continue  to  slow,  as  housing  expenditures  weaken  a  little  further
+
+in  reflection  of  the  increase  in  interest  rates  earlier  this  year.  Consumer
+
+credit  will  probably  continue  to  expand  at  a  pace  well  below  the  extra-
+
+ordinary  rate  of  earlier  this  year.
+
+(12) 
+
+The  aggregate  specifications  of  alternative  B are  thought
+
+to  involve  pressures  on  bank  reserve  positions  indexed  by  discount  window
+
+borrowing  of  around  $700  million.  This  is  expected  to  be  associated  with
+
+a  federal  funds  rate  averaging  around  10  percent,  given  the  apparent
+
+considerable  diminution  in  banks'  reluctance  to  borrow  over  recent  weeks
+
+and  also  assuming  that  the  "frictional "  level  of  borrowing  is,  at  $300
+
+to  $400  million,  somewhat  higher  than  usual. 
+
+Such  an  assumption  for
+
+"frictional"  borrowing  appears  consistent  with  the  recent  sustained  level
+
+of  seasonal  borrowing  at  an  unusually  large  $300  million.  After  declining
+
+sharply  in  October,  nonborrowed  and  total  reserves  would  be  expected  to
+
+expand  at  annual  rates  of  around  9  and  6  percent,  respectively,  over  the
+
+last  two  months  of  the  year.
+
+(13) 
+
+Interest  rates  are  not  likely  to  change  substantially
+
+under  this  alternative,  although  they  could  back  up  somewhat  from  current
+
+levels,  given  apparent  expectations  in  the  market  of  a  further  easing  in
+
+pressures  on  bank  reserve  positions.  The  3-month  bill  rate  may  be  in  a
+
+8-7/8  to  9-3/8  percent  range,  probably  moving  into  the  upper  part  of  that
+
+range  if  funds  trade  persistently  around  10  percent.  Long-term  markets,
+
+too,  remain  sensitive  to  expectations  about  the  near-term  stance  of
+
+monetary  policy,  as  well  as  to  incoming  data  on  inflation  and  economic
+
+activity.  The  pressure  of  credit  demands  on  longer-term  markets  may
+
+moderate,  though, as  the  effects of  the  previous  relatively  steep  declines
+
+in  rates  on  corporate  and  state  and  local  issuance  wear  off.
+
+(14)  Alternative  A  contemplates  a  more  expansive  reserve  posture
+
+that would  encourage  more  rapid  growth  in  M1  and  M2.  Growth  of  M1  over
+
+the  last  two  months  of  the  year  would  be  anticipated  to  be  around  8-1/2
+
+percent,  encouraged  by  growth  of  nonborrowed  reserves  at  a  15  percent  annual
+
+rate.  Over  the  three-month  September-to-December  period,  M1  would  expand
+
+at  a  3-1/2  percent  annual  rate  and  M2  at  a  7-1/2  percent  rate-still 
+
+below
+
+objectives  set  at  the  last meeting  for  M1 but  on  target  for  M2.  Growth
+
+of  M3  may  turn  out  to  be  somewhat  further  above  the  currently  specified
+
+3-month  growth  rate,  as  an  additional  easing  of  market  conditions  encourages
+
+credit  expansion.
+
+(15) 
+
+The  behavior  of  monetary  aggregates  and  aggregate  re-
+
+serves  under  alternative  A  is  expected  to  be  consistent  with  borrowing
+
+at  the  discount  window  of  around  $400  million,  near  the  currently  esti-
+
+mated  "frictional"  level.  The  federal  funds  rate  would  decline  to  close
+
+-10-
+
+to  the  9  percent  discount  rate,  probably  just  above  it.  Other  interest
+
+rates,  both  short-  and  long-term,  would  decline  sharply,  with  the  3-month
+
+Treasury  bill 
+
+rate  falling  to  the  8-1/4  to  8-3/4  percent  area;  the  dollar
+
+would  probably  decline  substantially  further  on  exchange  markets.  Expecta-
+
+tions  of  a  discount  rate  cut  would  become  widespread. 
+
+In  credit  markets,
+
+bond  issuance  would  be  enlarged,  and  mortgage  commitments  and  borrowing
+
+could  begin  to  pick  up  in  late  fall  and  winter  in  response  to  the  lower
+
+rates  and  the  greater  willingness  of  thrifts  to  supply  credit  aggressively
+
+as  their  financial  condition  improved. 
+
+The  decline  in  rates  in  November
+
+and  December  would  tend  to  boost  money  demand  in  1985  both  through  its
+
+direct  effect  on  opportunity  costs  and  indirectly  by  fostering  somewhat
+
+faster  growth  of  income  and  credit  demands  than  currently  projected.
+
+This  would  increase  the  odds  of  some  backup  in  rates  in  the  first  part  of
+
+next  year  in  the  process  of  restraining  money  growth  to  around  the  mid-
+
+points  of  the  Committee's  tentative  long-run  ranges  for  1985.
+
+Directive  language
+
+-11-
+
+(16) 
+
+Two  alternative  operational  paragraphs  for  the  directive
+
+are  given  below.  Alternative  I  represents  the  current  paragraph,  with
+
+updating  modifications  (shown  in  the  usual  way).  This  approach  involves
+
+a  potential  drawback  that,  based  on  the  staff's  current  estimates  of
+
+relationships,  the  directive  would  specify  an  M1  growth  for  the  fourth
+
+quarter  that  is  well  below  the  previously  adopted  target.  That  drawback
+
+might  be  avoided  by  showing  M1  as  a  range,  possibly  encompassing  the
+
+previous  decision.  A  second  possibility  would  be  to  show  a  growth  rate
+
+for  M1  near  that  of  the  earlier  decision-which,  however,  would  tilt 
+
+the
+
+directive  toward  ease  over  the  intermeeting  period  (if  staff  estimates
+
+are  near  correct). 
+
+The  language  under  alternative  II  partially  restructures
+
+the  existing  directive  as  another  approach  to  resolving  the  difficulties.
+
+ALTERNATIVE  I
+
+In  the  implementation  of  policy  in  the  short  run,  the  Committee
+
+seeks  to  DECREASE  SOMEWHAT  (alt.  A)  /maintain  (alt.  B)  EXISTING  PRESSURES
+
+the 
+[DEL: 
+
+of 
+lesser 
+degree 
+
+restraint] on  reserve  positions 
+
+sought  in  recent]
+[DEL: 
+
+weeks.  This  action  is  expected  to  be  consistent  with  growth  of  M1,  M2,
+
+and  M3  at  annual  rates  of  around [DEL: 
+
+6]  ____, 
+
+[DEL: 7-1/2], ____ and [DEL: 
+
+9] ____ percent  during
+
+the  period  from  September  to  December.  [DEL: A  somewhat  further  lessening  of]
+
+LESSER  restraint  on  reserve  positions  would  be  acceptable  in  the  event  of
+
+significantly  slower  growth  in  the  monetary  aggregates,  evaluated  in
+
+relation  to  the  strength  of  the  business  expansion  and  inflationary
+
+pressures,  domestic  and  international  financial  market  conditions,  and
+
+-12-
+
+the  rate  of  credit  growth.  Conversely,  greater  restraint  might  be  acceptable
+
+in  the  event  of  substantially  more  rapid  monetary  growth  and  indications
+
+of  significant  strengthening  of  economic  activity  and  inflationary  pressures.
+
+The  Chairman  may  call  for  Committee  consultation  if 
+
+it  appears  to  the
+
+Manager  for  Domestic  Operations  that  pursuit  of  the  monetary  objectives
+
+and  related  reserve  paths  during  the  period  before  the  next  meeting  is
+
+likely  to  be  associated  with  a  federal  funds  rate  persistently  outside  a
+
+range  of [DEL: 
+
+8 
+
+to 12]  ____ TO  ____ percent.
+
+ALTERNATIVE  II
+
+In  the  implementation  of  policy  in  the  short-run,  the  Committee
+
+seeks  to  decrease  somewhat  (alt.  A)  /maintain  (alt.  B)  existing  pressures
+
+on  reserve  positions.  This  action  is  expected  to  be  consistent  with
+
+growth  of  M1  at  around ____ percent  at  an  annual  rate  over  the  last  two
+
+months  of  the  year;  more  rapid  growth  would  be  acceptable  in  view  of  the
+
+substantial  decline  of  M1  in  October  which  brought  that  aggregate  into
+
+the  bottom  half  of  its  long-run  range.  Growth  of  M2  and  M3  is  expected
+
+to  be  generally  consistent  with  the  7-1/2  and  9  percent  growth  paths  for
+
+the  September-to-December  period  set  at  the  last  Committee  meeting.
+
+Lesser  restraint  on  reserve  positions  would  be  acceptable  in  the  event  of
+
+significantly  slower  growth  in  the  monetary  aggregates,  evaluated  in
+
+relation  to  the  strength  of  the  business  expansion  and  inflationary
+
+pressures,  domestic  and  international  financial  market  conditions,  and
+
+the  rate  of  credit  growth.  Conversely,  greater  restraint  might  be  acceptable
+
+in  the  event  of  substantially  more  rapid  monetary  growth  and  indications
+
+of  significant  strengthening  of  economic  activity  and  inflationary  pressures.
+
+The  Chairman  may  call  for  Committee  consultation  if  it  appears  to  the
+
+-13-
+
+Manager  for  Domestic  Operations  that  pursuit  of  the  monetary  objectives
+
+and  related  reserve  paths  during  the  period  before  the  next  meeting  is
+
+likely  to  be  associated  with  a  federal  funds  rate  persistently  outside
+
+a  range  of [DEL: 
+
+8 
+
+to 12] ____ 
+
+TO  ____ percent.
+
+Selected  Interest  Rates
+Percent
+
+U.S  government  constant 
+maturity  yields 
+
+Lon 
+
+-Term
+
+copoate 
+A ultlty 
+recently 
+
+munl 
+cipal 
+Bond 
+
+conne 
+tlon  l 
+
+1_ye6r 
+
+30-y ear 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+10.21 
+6.42 
+
+11.77 
+9.41 
+
+9.48 
+9.34 
+9.47 
+
+9.56 
+9.59 
+9.91 
+
+10.29 
+10.32 
+11.06 
+
+9.49
+7.63
+
+10.65
+8.84
+
+8.64
+8.76
+9.00
+
+8.90
+9.09
+9.52
+
+9.69
+9.83
+9.87
+
+11.23 
+11.64 
+11.30 
+
+10.12
+10.47
+10.37
+
+9.64 
+7.72 
+
+9.79 
+7.82 
+
+9.93 
+8.15 
+
+9.85 
+8.01 
+
+8.79 
+1.71 
+
+11.50
+10.50
+
+10.76 
+8.94 
+
+11.09 
+9.01 
+
+11.71 
+9.35 
+
+11.35 
+9.16 
+
+10.72 
+8.70 
+
+8.83 
+8.93 
+9.17 
+
+9.02 
+9.18 
+9.66 
+
+9.84 
+10.31 
+10.51 
+
+10.52 
+10.61 
+10.47 
+
+8.98 
+9.08 
+9.24 
+
+9.07 
+9.20 
+9.67 
+
+9.95 
+10.57 
+10.93 
+
+10.89 
+10.71 
+10.51 
+
+9.18 
+9.36 
+9.69 
+
+9.42 
+9.54 
+10.08 
+
+10.41 
+11.11 
+11.34 
+
+11.56 
+11.47 
+11.29 
+
+9.03 
+9.10 
+9.56 
+
+9.21 
+9.35 
+9.81 
+
+10.17 
+10.38 
+10.82 
+
+11.06 
+11.19 
+11.11 
+
+8.67 
+8.55 
+8.69 
+
+8.80 
+8.72 
+8.91 
+
+9.29 
+9.52 
+9.92 
+
+10.30 
+10.58 
+10.62 
+
+11.00
+11.00
+
+11.00
+11.00
+11.00
+
+11.00
+11.00
+11.21
+
+11.93
+12.39
+12.60
+
+11.00
+11.00
+12.97
+
+3_yea 
+O 
+
+11.57 
+9.40 
+
+13.44 
+10.87 
+
+10.87 
+10.96 
+11.13 
+
+10.93 
+11.05 
+11.59 
+
+11.98 
+12.75 
+13.18 
+
+13.08 
+12.50 
+12.34 
+
+12.14
+10.18
+
+13.84
+11.62
+
+11.54
+11.69
+11.83
+
+11.67
+11.84
+12.12
+
+12.63
+13.41
+13.56
+
+13.36
+12.72
+12.52
+
+12.11 
+10.32 
+
+13.42 
+11.64 
+
+10.56
+9.21
+
+13.81 
+11.69 
+
+15.30 
+12.83 
+
+11.44
+9.86
+
+11.58 
+11.75 
+11.88 
+
+11.75 
+11.95 
+12.38 
+
+12.65 
+13.43 
+13.44 
+
+13.21 
+12.54 
+12.29 
+
+12.89 
+13.14 
+13.29 
+
+12.99 
+13.05 
+13.63 
+
+13.96 
+14.79 
+15.00 
+
+10.14
+10.22
+10.40
+
+10.03
+10.00
+10.37
+
+10.26
+10.88
+11.07
+
+14.93 
+14.12 
+13.86 
+
+10.84
+10.40
+10.54
+
+9.99 
+
+9.74
+
+9.87 
+
+9.93 
+
+10.38 
+
+10.05 
+
+10.
+
+20
+
+p 
+
+12.58
+
+11.85 
+
+12.16
+
+11.98 
+
+iJ.12p  10.77
+
+11.53 
+11.59 
+11.63 
+11.77 
+11.50 
+
+11.68 
+11.52 
+11.46 
+10.73 
+
+11.20 
+10.01 
+10.22 
+9.45 
+9.73 
+
+10.34
+10.49
+10.36
+10.37
+10.58
+
+10.65
+10.47
+10.33
+10.26
+
+10.21
+10.11
+9.93
+9.49
+9.20
+
+10.60 
+10.63 
+10.53 
+10.54 
+10.68 
+
+10.76 
+10.60 
+10.41 
+10.34 
+
+10.32 
+10.22 
+10.05 
+9.56 
+9.43 
+
+10.73 
+10.72 
+10.64 
+10.65 
+10.78 
+
+10.85 
+10.66 
+10.42 
+10.38 
+
+10.36 
+10.26 
+10.08 
+9.64 
+9.53 
+
+11.18 
+11.41 
+11.43 
+11.51 
+11.50 
+
+11.57 
+11.49 
+11.32 
+11.09 
+
+10.99 
+10.89 
+10.61 
+10.00 
+9.72 
+
+10.99 
+11.06 
+11.15 
+11.26 
+11.27 
+
+11.35 
+11.31 
+11.18 
+10.86 
+
+10.76 
+10.55 
+10.25 
+9.63 
+9.41 
+
+10.44 
+10.55 
+10.55 
+10.62 
+10.60 
+
+10.66 
+10.68 
+10.72 
+10.51 
+
+10.49 
+10.35 
+10.19 
+10.16 
+9.82 
+
+9.59 
+10.2' 
+10.15p 
+
+9.34
+9.01
+9.00
+
+9.58 
+9.20 
+9.23 
+
+9.67 
+9.33 
+9.32 
+
+9.77 
+9.53 
+9.55 
+
+9.33 
+9.51 
+9.50 
+
+-- 
+-- 
+-- 
+
+13.00
+13.00
+13.00
+1I.00
+13.00
+
+13.00
+13.00
+13.00
+13.00
+
+12.75
+12.75
+12.71
+12.50
+12.29
+
+12.50
+12.00
+12.00
+
+12.72 
+12.48 
+12.44 
+12.45 
+12.54 
+
+12.65 
+12.46 
+12.21 
+12.26 
+
+12.26 
+12.16 
+12.00 
+11.56 
+11.46 
+
+12.92
+12.69
+12.69
+12.67
+12.76
+
+12.86
+12.64
+12.37
+12.45
+
+12.48
+12.41
+12.31
+11.89
+11.86
+
+12.89 
+12.65 
+12.51 
+12.43 
+12.53 
+
+12.56 
+12.39 
+12.17 
+12.24 
+
+12.29 
+12.22 
+12.13 
+11.71 
+11.69 
+
+14.10 
+14.08 
+14.16 
+14.13 
+14.15 
+
+14.01 
+13.70 
+13.76 
+13.84 
+
+10.39
+10.29
+10.47
+10.30
+10.45
+
+10.56
+10.47
+10.47
+10.65
+
+13.81 
+10.88
+10.93
+11.70 
+10.71
+13.29 
+13.24 
+10.54
+13.06p  10.62
+
+11.59 
+11.18 
+11.21p 
+
+11.99
+11.66
+11.67p
+
+11.78
+11.53
+11.55p
+
+1983--High
+LOW
+
+1984--High
+
+Lou
+
+1983--Oct.
+Nov.
+Dec.
+
+1984--Jan.
+Feb.
+eNr.
+
+Apr.
+HKey
+June
+
+July
+Aug.
+Sept.
+
+Oct.
+
+1984--Aug.  I
+8
+15
+22
+29
+
+September 
+
+October 
+
+Daily--Oct. 
+Nov. 
+
+5
+12
+19
+26
+
+3
+10
+17
+24
+31
+
+26
+I
+2
+
+November  5,  1984
+
+home  moiga
+FHA/VA 
+
+celing 
+
+_15 
+
+FNMA
+I year
+ARM
+
+1
+
+13.89
+12.55
+
+14.68
+13.19
+
+13.54
+13.44
+13.42
+
+13.37
+13.23
+13.39
+
+13.65
+13.94
+14.42
+
+14.67
+14.47
+14.35
+
+14.13
+
+14.68
+14.54
+14.39
+14.36
+14.38
+
+14.42
+14.43
+14.29
+14.26
+
+14.18
+14.19
+14.10
+14.05
+13.85
+
+13.50 
+11.50 
+
+14.00 
+12.50 
+
+13.00 
+12.50 
+12.50 
+
+12.50 
+12.50 
+12.70 
+
+13.00 
+13.94 
+14.00 
+
+14.00 
+13.70 
+13.50 
+
+12.50
+10.49
+
+13.70
+11.25
+
+11.40
+11.40
+11.56
+
+11.45
+11.38
+11.91
+
+12.10
+12.83
+13.45
+
+13.59
+13.27
+13.15
+
+13.38 
+
+12.58
+
+14.00 
+14.00 
+13.50 
+13.50 
+13.50 
+
+13.50 
+13.50 
+13.50 
+13.50 
+
+13.50 
+13.50 
+13.50 
+13.00 
+13.00 
+
+11.35
+1J.25
+11.25
+13.20
+13.30
+
+13.45
+13.25
+13.00
+12.911
+
+12.90
+12.75
+12.60
+12.20
+11.90
+
+NOTE  Weekly  data for  columns  1  through  I  are statement  week  averages.  Dta  In column  7  are  laken  from 
+Donoghue's  Money  Fund  Report  Columns  12  and  13  se  1-day Quotes  lor  Friday  and  Thursday,  respeclively 
+following the  end ol the  stalement week  Column  13  is  the Bond  Buyt revenue  index. Column  14 is  an average 
+ol contract  interest tales  on  new  commnment 
+lor  conventional  lurst  mortgages  with a  percent  loanlto value 
+
+rallos  at  a  sample  of  savings  and  loan associations on  the Friday  following  the  end  ol  the  statemenl  week
+Alter  November  30.  193, column  15  trers  only  to VA-guaranleed  loans  Column  16 is  the  nlllial  gross  yield
+posted by FNMA, on  the Friday  lollowing the end o  the  statement week.  in  ts purchase  program lor  adjuslable
+
+late ntome mortgages  having 
+
+ite  and  payment  adjustments  once  a  year
+
+FR136714184)
+
+Security Dealer  Positions
+Millions of  dollars
+
+November  5,  1984
+
+-Posiions
+
+e
+
+Fra 
+
+Forward 
+
+--- 
+
+ad 
+
+Treasury  coupons
+
+and  Fut 
+
+u 
+
+private
+short-term
+
+Treasury 
+bills 
+
+under 
+1 year 
+
+i 
+
+-
+
+i 
+
+17,005
+8,839
+
+18,737
+11,263
+
+14,242
+15,302
+15,449
+
+12,788
+13,349
+12,764
+
+13,065
+12,525
+14,457
+
+14,751
+15,556
+17,699
+16,312*
+
+14,673
+15,526
+15,466
+15,556
+15,503
+
+16,684
+17,345
+18,737
+17,443
+
+17,206
+15,192*
+15,666*
+16,335*
+17,147*
+
+1,654
+-11,307
+
+8,272
+-13,048
+
+-9,132
+-7,993
+-5,549
+
+-10,846
+-8,774
+-1,026
+
+-2,140
+5,511
+2,207
+
+-2,516
+-7,312
+-9,772
+-9,880*
+
+-3,131
+-2,847
+-8,498
+-9,858
+-8,350
+
+-8,669
+-10,117
+-9,891
+-9,881
+
+-8,698
+-8,668*
+-10,371*
+-11,336*
+-9,748*
+
+14
+
+-95
+
+22
+-327
+
+-12
+-2
+-2
+
+-15
+-38
+-10
+
+-13
+-10
+-21
+
+-89
+-240
+-122
+-72
+
+-147
+-174
+-225
+-264
+-327
+
+-209
+-202
+-77
+-75
+
+-58
+-54*
+-77*
+-77*
+-88*
+
+i 
+
+I 
+
+over
+year
+
+-
+
+1,516
+-3,270
+
+3,368
+-933
+
+-1,667
+-1,022
+669
+
+-116
+23
+1,042
+
+476
+345
+1,448
+
+2,797
+2,536
+2,157
+2,049*
+
+3,368
+2,875
+2,045
+1,910
+3,107
+
+2,575
+2,156
+2,381
+2,160
+
+1,540
+2,151*
+2,277*
+2,941*
+1,064*
+
+federal
+agency
+
+-- 
+
+.
+
+-907
+-8,001
+
+-7,223
+-10,622
+
+-5,909
+-5,445
+-7,354
+
+-7,474
+-8,192
+-9,552
+
+-9,422
+-9,676
+-9,937
+
+-9,650
+-9,073
+-8,332
+-8,800*
+
+-9,071
+-9,858
+-8,407
+-8,483
+-9,265
+
+-9,334
+-9,332
+-8,044
+-7,610
+
+-8,124
+-9,478*
+-9,071*
+-8,473*
+-8,498*
+
+private
+short-term
+
+i
+
+-4,411
+-9,564
+
+5
+12,475
+
+-6,798
+-6,331
+-5,596
+
+-5,829
+-8,673
+-6,236
+
+-5,462
+-2,236
+-1,191
+
+-2,599
+-9,304
+-8,960
+-5,208*
+
+-5,454
+-7,739
+-8,201
+-9,337
+-11,273
+
+-13,295
+-13,312
+-9,203
+-5,522
+
+-3,821
+-3,158*
+-4,385*
+-7,021*
+-6,946*
+
+SI 
+
+Period
+
+Treasury 
+bills 
+
+-
+
+i 
+
+1983--High
+Low
+
+1984--High
+
+Low
+
+1983--Oct.
+Nov.
+I)ec.
+
+1984--  an.
+Feb.
+Mar.
+
+Apr.
+May
+June
+
+July
+Aug.
+Sept.
+Oct.
+
+19H4--Aug.  1
+8
+15
+22
+29
+
+Sept. 
+
+Oct. 
+
+5
+12
+19
+26
+
+3
+10
+17
+24
+31
+
+20,858
+-296
+
+21,963
+5,107
+
+14,672
+15,981
+18,172
+
+12,472
+9,287
+15,936
+
+14,408
+14,159
+16,484
+
+12,374
+11,542
+17,984
+21,965*
+
+14,424
+15,156
+12,612
+7,605
+10,099
+
+13,790
+13,384
+18,379
+21,963
+
+23,495
+21,068*
+20,030*
+20,701*
+24,283*
+
+13,273
+-3,461
+
+13,695
+-8,251
+
+9,694
+10,762
+8,653
+
+10,815
+9,658
+4,619
+
+2,929
+-7,105
+-2,631
+
+-2,362
+4,555
+10,316
+11,688*
+
+**
+2,776
+4,537
+5,258
+5,282
+
+8,322
+9,780
+11,025
+10,052
+
+12,944
+11,504*
+11,962*
+10,281
+11,725*
+
+Cash  Posltions
+
+Cash.. 
+
+Treasury  coupons
+
+under 
+1 year 
+
+1,579
+-687
+
+1,296
+-1,038
+
+609
+934
+1,165
+
+1,083
+949
+811
+
+-32
+-291
+-596
+
+-604
+-89
+310
+102*
+
+-275
+
+18
+-101
+-252
+-42
+
+173
+490
+481
+80
+
+-36
+
+23*
+-38*
+136*
+382*
+
+-
+
+over 
+1 year 
+
+8,778
+-3,148
+
+3,069
+-5,664
+
+3,390
+325
+-831
+
+667
+-1,547
+-2,626
+
+-1,643
+-1,754
+-3,248
+
+-3,393
+-1,186
+626
+2,628*
+
+-1,331
+-2,758
+153
+-1,423
+-948
+
+-210
+-262
+-1,044
+3,069
+
+853
+740*
+943*
+4,268*
+5,605*
+
+P 
+
+i-on 
+
+federal
+agency
+
+12,088
+4,013
+
+17,495
+11,086
+
+10,255
+9,451
+11,568
+
+11,398
+12,532
+16,151
+
+16,649
+16,849
+15,996
+
+16,040
+16,098
+14,063
+13,146*
+
+15,791
+17,338
+15,841
+14,497
+16,423
+
+16,627
+16,037
+14,014
+12,247
+
+11,688
+12,816*
+13,130*
+13,647*
+13,640*
+
+NOTE  Government  securities dealer  cash positions  consist of  securities  already delivered,  cor
+mitments to  buy  (sell) securities  on  an  outright  basis  for  Immediate  delivery (5  business  days  or  less),
+and  certain "when  Issued"  securities  for delayed  delivery  (more  than  5  business days)  Futures  and  for-
+ward  positions  Include  all  other  commitments  involving delayed  delivery,  futures contracts  are  arrang-
+ed  on  organized  exchanges
+
+1  Cash  plus  forward  plus  futures  positions In  Treasury,  federal  agency,  and private  short-term
+
+securities
+
+SStrictly  confidential
+
+**LA s,. 
+
+h  n  5 $500),00()1.10
+
+Net  Changes  in System  Holdings of Securities 1
+Millions  of  dollars, not  seasonally  adjusted
+
+Treasury 
+bills  net 
+change2 
+change 
+
+within 
+1-year 
+
+Treasury coupons  net purchases 3  
+
+1-5 
+
+5-10 
+
+over  10 
+
+total 
+
+within 
+1-year 
+
+Federal  agencies  net purchases 4  
+over 
+over  10 
+
+10 
+510 
+
+1-5 
+1-5 
+
+STRICTLY  CONFIDENTIAL  (FR)
+CLASS  II-FOMC
+
+November  5,  1984
+
+Net  change
+outright 
+holdin
+s
+total
+
+total 
+
+Net  RPs 6
+
+6,243 
+-3,052 
+5,337 
+5,698 
+13,068 
+
+5,116 
+4,617 
+4,738 
+
+-1,168 
+491 
+-424 
+
+-3,593 
+801 
+
+-1,497 
+-2,104 
+3,178 
+
+603 
+912 
+294 
+312 
+484 
+
+173 
+156 
+155 
+
+-- 
+198 
+600 
+
+-
+-
+
+-
+-
+600 
+
+3,456 
+2,138 
+1,702 
+1,794 
+1,896 
+
+595 
+481 
+820 
+
+-
+808 
+-- 
+
+-
+-
+
+-
+-
+
+-
+
+2,993 
+
+-300 
+
+300 
+
+-1,346 
+-1,194 
+-272 
+-125 
+-700 
+
+1,950 
+589 
+328 
+569 
+
+-431 
+
+-1,078 
+-1,146 
+-615 
+207 
+
+-- 
+
+-
+-- 
+-
+
+-
+-
+-
+600 
+
+-300 
+-- 
+-
+-
+-- 
+
+-- 
+
+-
+-
+-
+
+-
+-
+-
+
+-
+
+-- 
+-
+-
+-- 
+300 
+
+523 
+703 
+393 
+388 
+890 
+
+326 
+215 
+349 
+
+-300 
+200 
+-
+
+-
+-
+
+-- 
+-- 
+-
+
+-
+
+-
+
+-
+-- 
+-- 
+
+-
+-
+-
+-- 
+
+-
+-- 
+-
+-
+
+-
+
+454 
+811 
+379 
+307 
+383 
+
+108 
+124 
+151 
+
+-- 
+277 
+-- 
+
+-
+-
+
+-- 
+-
+-
+
+-
+
+-- 
+
+-
+-
+-
+
+-
+-
+-- 
+-- 
+
+-- 
+-
+-
+-
+-- 
+
+5,035 
+4,564 
+2,768 
+2,803 
+3,653 
+
+1,203 
+975 
+1,474 
+
+-300 
+1,484 
+600 
+
+-
+-
+
+-
+-
+-
+
+-
+
+-
+
+-
+-
+-
+
+-
+-
+-- 
+600 
+
+-300 
+-
+
+-
+300 
+
+131 
+217 
+133 
+-
+-
+
+317 
+298 
+360 
+-
+-
+
+-
+-
+
+-
+-
+
+-
+
+-
+
+-
+-
+
+-
+-- 
+-
+
+-
+
+-- 
+
+-
+-- 
+-- 
+
+-
+-
+-- 
+-- 
+
+-
+-- 
+-
+-- 
+-- 
+
+-
+-
+-- 
+
+-
+-
+-
+
+-- 
+-- 
+
+-- 
+-
+-
+
+-
+
+-
+
+-
+-- 
+-- 
+
+-
+-
+-
+-- 
+
+-- 
+-
+-
+-- 
+-- 
+
+5 
+29 
+-
+
+-
+-
+
+-
+-
+-
+
+-
+-
+-- 
+
+-- 
+-
+
+-- 
+-
+
+-
+
+-- 
+
+-
+-
+-- 
+
+-- 
+-
+-- 
+-
+
+-
+
+-
+-- 
+-- 
+-_ 
+
+-- 
+24 
+-- 
+-
+-
+
+454 
+668 
+494 
+-
+-- 
+
+10,290 
+2,035 
+8,491 
+8,312 
+16,342 
+
+6,208 
+5,439 
+6,120 
+
+-1,555 
+1,918 
+169 
+
+-3,633 
+
+786 
+
+-1,499 
+-2,110 
+3,777 
+
+-2,597
+2,462
+684
+1,461
+-5,445
+
+-793
+9,412
+-10,739
+
+-286
+70
+1,982
+
+-3,643
+-3,572
+
+-656
+4,951
+-2,312
+
+-3,007 
+
+-3,805
+
+-1,351 
+- 1,194 
+-272 
+-125 
+-700 
+
+1,950 
+588 
+328 
+1,169 
+
+-731 
+-1,087 
+-1,151 
+-615 
+507 
+
+2,530
+502
+-5,699
+5,828
+-638
+
+114
+2,228
+2,915
+-4,573
+
+-608
+-3,925
+4,133
+-1,926
+-165
+
+3,727
+
+-
+-- 
+-- 
+
+-
+-
+-- 
+
+-
+
+-
+
+-- 
+
+-
+
+-
+
+-- 
+
+-- 
+-- 
+-- 
+
+-
+-
+-- 
+-- 
+
+-- 
+-- 
+-- 
+-- 
+-- 
+
+-
+-
+-- 
+
+-
+-
+-- 
+
+-
+-- 
+
+-- 
+-- 
+-
+
+-
+
+-
+
+-
+-
+-- 
+
+-- 
+
+-- 
+-
+
+-- 
+-- 
+-
+-- 
+_ 
+
+.4 
+
+Period 
+
+1979 
+1980 
+1981 
+1982 
+1983 
+
+1983--QTR.  II 
+
+III 
+IV 
+
+I 
+II 
+III 
+
+1984--QTR. 
+
+1984  May 
+
+June 
+
+July 
+Aug. 
+Sept. 
+
+Oct. 
+
+1984--AUG.  1 
+8 
+15 
+22 
+29 
+
+SEPT. 
+
+OCT. 
+
+5 
+12 
+19 
+26 
+
+3 
+10 
+17 
+24 
+31 
+
+LEVEL-NOV. 
+
+1 
+
+67.0 
+
+18.7 
+
+33.7 
+
+14.8 
+
+19.4 
+
+86.5 
+
+2.5 
+
+4.4 
+
+1.2 
+
+8.5 
+
+162.0 
+
+1  Change  from  end  of period  to  end of period
+2  Outright  transactions  in  market and with  foreign accounts, and  redemptions  (-) 
+in bill  auctions
+3  Outright  transactions  in  market  and  with foreign accounts,  and  short term  notes  acquired  in ex
+change  for maturing  bills  Excludes redemptions, maturity  shifts, rollovers of maturing coupon
+issues, and  direct Treasury  borrowing  from  the System
+
+4  Outright transdctions  in  market and  with foreign accounts only  Excludes redemptions  and maturit
+
+shifts
+
+5  In addition  to  the net purchases of securities, also reflects  changes in  System  holdings of bankers'
+acceptances,  direct Treasury  borrowing from  the System and  redemptions  (-)  of  agency and  Trea
+sury coupon  issues
+
+6  Includes changes  in  RPs  (+),  matched  sale  purchase transactions  (-), and  matched purchase  sale
+
+transactions  (+)
+
+FR  1'FR  (71/1)
+
+

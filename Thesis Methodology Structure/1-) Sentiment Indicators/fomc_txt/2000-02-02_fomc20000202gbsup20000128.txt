@@ -1,0 +1,1545 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+Confidential  (FR)  Class  III FOMC
+
+__
+
+January  28, 2000
+
+CURRENT  ECONOMIC
+AND  FINANCIAL  CONDITIONS
+
+Supplemental  Notes
+
+Prepared for the  Federal  Open  Market  Committee
+by the staff  of the  Board  of Governors of the  Federal  Reserve  System
+
+Contents
+
+Domestic  Nonfinancial  Developments 
+
+.......................... 
+
+1
+
+Gross Domestic  Product  (1999:Q4,  advance  estimate)  ...-..... 
+Employment  Cost Index  ................................ 
+Consumer Sentiment  ................................... 
+
+Tables
+Real Gross  Domestic  Product  and Related Items 
+Broad Measures  of Inflation  .............................. 
+Employment Cost Index of Hourly  Compensation  for
+
+............. 
+
+Private  Industry W orkers 
+
+.............................. 
+University  of Michigan  Survey Research  Center:
+
+Survey  of Consumer Attitudes  .......................... 
+
+Charts
+Components  of ECI Benefits Costs  ........................ 
+
+The Financial Economy  .................................... 
+
+Tables
+Selected  Financial  Market Quotations  ...................... 
+
+1
+4
+7
+
+2
+3
+
+5
+
+8
+
+6
+
+9
+
+9
+
+Supplemental  Notes
+
+The Domestic  Nonfinancial  Economy
+
+Gross Domestic  Product (1999:Q4, advance  estimate)
+
+According  to BEA's  advance  release, real  GDP rose at an  annual  rate  of
+5.8  percent  in the  fourth quarter of 1999  after  having increased  at a 5.7  percent
+rate in the third quarter.  Final  sales  rose at an annual rate of 4.6 percent in  the
+fourth quarter--also  similar to  the pace  in the preceding quarter.  The  change in
+private inventories  contributed  more  than  1 percentage  point to  the change in
+real  GDP for the  second consecutive  quarter;  the  fourth-quarter  figure is based
+on BEA's assumption  that manufacturing  and trade inventory investment  in
+December ran close  to the  substantial  average  pace  of accumulation  currently
+shown  in the Census Bureau's  data for October and November.
+
+Among  the components of final  sales, real PCE posted a further sizable  gain  in
+the  fourth quarter, rising at  an annual  rate  of 5.3  percent, and the personal saving
+rate moved  down 0.2 percentage  point to  1.9 percent.  Real  federal  government
+purchases  accelerated  sharply,  to a  16 percent  rate, because  of a surge  in defense
+outlays.1  In contrast, business spending  on equipment  and software  slowed to an
+annual  rate of about a 5  percent,  with decelerations  in all of its  major
+components.  Spending on structures--both  residential and nonresidential--
+slipped  further in the fourth quarter.  Finally, real  exports  and imports both
+decelerated  in the fourth quarter;  on balance,  net exports  held down the rise  in
+real  GDP roughly 3/4 percentage  point--about the  same as  in the third quarter.
+
+The chain-weighted  price  index  for GDP rose at  an annual  rate  of 2 percent  last
+quarter  after an  increase of 1.1  percent in  the third quarter.  The pickup in  GDP
+price  inflation  reflected larger  increases  in the price  indexes for most of the
+major categories  of private  final sales.
+
+The figure reported  today for fourth-quarter  GDP growth was  about
+1/2 percentage  point above the January Greenbook  projection.  The BEA's
+estimates for inventory investment  and  federal  government  spending both were  a
+good deal higher than the  Greenbook projections.  As  noted above,  the disparity
+in the  inventory numbers  involves  some  important assumptions  regarding
+missing data.  In the case of federal  purchases,  the  BEA  simply translated the
+jump  in vendor payments  into purchases,  without making any judgment about
+the  degree  to which that jump might have reflected  financial transactions
+
+1. The jump in the BEA's estimate  of defense spending appears  to be based in part on  the
+sharp  increase  in payments  to defense  vendors  during  December that may have  been  related  to
+Y2K concerns.  Vendor payments  dropped below  trend  in early January-a pattern  consistent
+with  an acceleration  of payments  before year-end.
+
+-2-
+
+Real  Gross  Domestic  Product and  Related  Items
+(Percent change from  previous  period at  compound annual  rates;
+based on seasonally adjusted data,  chain-type indexes)
+
+1-28-00
+
+1999:Q2 
+Final 
+
+1999:Q3 
+Final 
+
+1999:Q4
+Advance
+
+1.  Gross  domestic product 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+Final sales 
+
+Consumer spending 
+
+Durables 
+
+Nondurables 
+
+Services 
+
+Business fixed investment 
+
+Equipment  and software 
+
+Nonresidential structures 
+
+Residential investment 
+
+Federal  government consumption
+
+expenditures  and investment 
+
+12. 
+
+State  and Local  government consumption
+
+expenditures  and investment 
+
+13. 
+
+14. 
+
+Exports of goods  and services 
+
+Imports  of goods and  services 
+
+ADDENDA:
+
+15.  Nonfarm inventory investment 
+
+16. 
+
+17. 
+
+Motor vehicles 1 
+
+Excl.  motor vehicles  1 
+
+1.9 
+
+3.4 
+
+5.1 
+
+9.1 
+
+3.3 
+
+5.2 
+
+7.0 
+
+11.2 
+
+-5.3 
+
+5.5 
+
+2.1 
+
+.9 
+
+4.0 
+
+14.4 
+
+13.1 
+
+1.3 
+
+11.8 
+
+5.7 
+
+4.5 
+
+4.9 
+
+7.7 
+
+3.6 
+
+5.0 
+
+10.9 
+
+15.7 
+
+-3.8 
+
+-3.8 
+
+4.1 
+
+4.8 
+
+11.5 
+
+14.9 
+
+41.2 
+
+12.7 
+
+28.5 
+
+5.8
+
+4.6
+
+5.3
+
+11.8
+
+6.1
+
+3.5
+
+2.5
+
+4.9
+
+-5.3
+
+-1.2
+
+16.0
+
+4.4
+
+6.9
+
+10.6
+
+71.4
+
+15.6
+
+55.8
+
+18.  Net exports  of goods  and services  1 
+
+-319.0 
+
+-338.2 
+
+-356.1
+
+19.  Nominal  GDP 
+
+20.  GDP  price index 
+
+21.  Profit share 2  
+22. 
+
+(Excluding  FR  banks) 
+
+23.  Real  disposable personal  income 
+
+24.  Personal  saving  rate  (percent) 
+
+1 
+Level,  billions of chained (1996) dollars.
+2.  Economic  profits as  a share  of nominal GNP.
+
+3.3 
+
+1.3 
+
+9.6 
+
+9.3 
+
+3.2 
+
+2.5 
+
+6.8 
+
+1.1 
+
+9.5 
+
+9.2 
+
+2.9 
+
+2.1 
+
+7.9
+
+2.0
+
+n.a.
+n.a.
+
+4.6
+
+1.9
+
+BROAD MEASURES  OF  INFLATION
+(Four-quarter percent  change)
+
+Product prices
+
+GDP  chain price  index 
+
+Nonfarm business  chain price  index1 
+
+Expenditure prices
+
+Gross domestic purchases  chain price index 
+
+Less  food and energy 
+
+PCE  chain price index 
+
+Less food and energy 
+
+CPI 
+
+Less food and energy 
+
+Median CPI 
+Trimmed mean CPI 
+
+1. Excluding housing.
+
+1996 
+Q4 
+
+1997 
+Q4 
+
+1998 
+Q4 
+
+1999
+Q4
+
+1.7 
+
+1.5 
+
+1.6 
+
+1.5 
+
+1.1 
+
+0.4 
+
+1.7 
+1.3 
+
+2.2 
+1.6 
+
+3.1 
+2.6 
+
+2.9 
+2.9 
+
+1.1 
+1.3 
+
+1.3 
+1.4 
+
+1.9 
+2.2 
+
+2.9 
+2.2 
+
+0.7 
+1.1 
+
+1.0 
+1.4 
+
+1.5 
+2.4 
+
+3.0 
+1.9 
+
+1.6
+
+1.4
+
+1.9
+1.5
+
+2.0
+1.5
+
+2.6
+2.1
+
+2.2
+1.9
+
+(accelerated  payments) rather  than  actual deliveries.  The  differences  in the
+estimates  of inventory change  and defense  spending  were offset to  some extent
+by  lower-than-anticipated  figures  for business  fixed  investment,  residential
+investment,  and net  exports.  The  increase  in the GDP price  index  was  almost
+1/2 percentage  point  above our projection;  the difference  is largely attributable
+to lower-than-expected  prices  for imports  and higher-than-expected  prices  for
+computers  and  software.  The data in  the  advance release  for fourth-quarter  GDP
+also imply that productivity in the nonfarm business  sector rose at an annual  rate
+of about 4-3/4 percent  last  quarter--and  3-1/4 percent over  the four quarters  of
+1999.
+
+Employment  Cost Index
+
+The Employment cost index for hourly compensation  of private industry  workers
+increased  at an annual rate of 4.3 percent  in the three months  ending  in
+December,  up from the 3.4 percent  increase  posted  in the preceding quarter.  The
+wage  and  salary component of compensation  rose  at  an annual  rate  of
+4.0 percent, while benefit costs  were  up  at a 5.5 percent  rate.  Over the  twelve
+months of  1999,  hourly  compensation  increased  3.4 percent,  about the same as
+during  1998.  (Excluding sales  occupations,  ECI compensation rose  3.7 percent
+over the twelve months  ending  in December,  compared  with  a 3.1  percent
+increase over  the preceding  year.)  At 3.4 percent,  ECI wage inflation  was  0.4
+percentage  point lower in  1999  than  in  1998, but  benefit costs accelerated
+1 percentage  point, rising at the  same pace  as  wages  in  1999.
+
+Benefit detail--other  than  that for health  insurance--is  unpublished  and is
+provided to  us by the BLS  on a confidential  basis. Health insurance  costs rose
+5.8 percent  over  1999, up  from a  2.5  percent increase  over the preceding  twelve-
+month period.  Employer costs  for workers  compensation  fell 0.7 percent  over
+1999,  but this rate of decline  was  much slower than that  seen  in  1998, when
+these costs dropped  5.3 percent.  Elsewhere,  nonproduction  bonuses provided  a
+rare exception  to  the general  pattern  of benefit  cost acceleration:  After having
+risen 6.2 percent  during  1998,  nonproduction  bonuses  declined 7.6  percent
+during  1999.2
+
+Compensation  in manufacturing,  retail trade,  and services  (particularly  for
+health-service  workers) accelerated  in  1999, but  this was offset by a  deceleration
+in finance,  insurance,  and real  estate  (FIRE)  and in transportation  and public
+utilities.  By occupation,  a sharp deceleration  in the compensation  of sales
+workers  over the course  of  1999  offset more  rapid increases in  compensation for
+
+2. In this  release, BLS announced  that the definition  of nonproduction  bonuses will be
+
+expanded  beginning in June of this year to  include hiring and referral  bonuses.
+
+EMPLOYMENT  COST  INDEX  OF  HOURLY  COMPENSATION
+FOR  PRIVATE  INDUSTRY  WORKERS
+
+1998 
+
+1999
+
+Dec. 
+
+Mar. 
+
+June 
+
+Sept. 
+
+Dec.
+
+----- Quarterly  percent  change------
+(Compound  annual  rate)
+
+6.7 
+0.9 
+4.3 
+3.1 
+
+-1.4
+3.0
+-2.8
+2.0
+
+4.6
+5.0
+3.9
+
+2.1
+2.6
+4.4
+
+5.1
+6.3
+12.7
+3.4
+
+5.2
+3.3
+3.8
+
+3.2
+
+4.4
+4.6
+2.0
+
+7.0
+4.1
+1.9
+4.7
+
+4.8
+4.1
+4.6
+
+4.6
+
+----- Twelve-month percent  change----
+
+3.0
+3.0
+3.3
+3.4
+2.2
+
+3.8
+2.6
+2.9
+
+3.6
+2.8
+3.5
+3.0
+
+3.1
+3.2
+3.0
+2.9
+3.1
+
+3.2
+2.7
+2.8
+
+4.3
+3.5
+5.3
+3.1
+
+3.4
+3.9
+3.3
+2.9
+3.4
+
+2.9
+
+3.0
+
+5.7 
+3.0 
+5.9 
+3.0 
+
+3.9
+6.8
+3.3
+2.7
+2.9
+
+3.0
+
+3.4
+3.7
+3.5
+3.7
+3.4
+
+3.3
+3.4
+2.2
+
+4.0
+3.8
+4.1
+3.4
+
+3.5
+1.9
+3.8
+3.4
+3.3
+
+3.4
+
+3.4
+2.8
+2.4
+
+3.9
+3.0
+4.7
+3.0
+
+3.2
+2.6
+3.3
+3.1
+2.7
+
+2.9
+
+Total  hourly compensation1
+Wages and salaries
+Benefit costs
+
+By  industry
+
+Construction
+Manufacturing
+Trans.,  comm., 
+
+public utilities
+
+and
+
+Wholesale trade
+Retail  trade
+FIRE
+Services
+
+By occupation
+
+White collar
+Blue collar
+Service occupations
+
+Memo:
+State and local  governments
+
+Total  hourly  compensation
+
+Excluding  sales workers
+Wages and  salaries
+
+Excluding  sales workers
+
+Benefit  costs
+
+By industry
+
+Construction
+Manufacturing
+Trans.,  comm.,  and
+
+public utilities
+
+Wholesale trade
+Retail  trade
+FIRE
+Services
+
+By occupation
+
+White collar
+
+Sales
+Nonsales
+Blue collar
+Service  occupations
+
+Memo:
+State and  local governments
+
+1. Seasonally  adjusted by the
+
+BLS.
+
+Components  of ECI  Benefits Costs (CONFIDENTIAL)
+(Private  industry workers;  twelve-month  change)
+
+Insurance  Costs
+
+Supplemental  Pay
+
+Percent
+
+Percent
+
+Paid  Leave
+
+Retirement  and Savings
+
+Percent
+
+Workers'  Compensation  Insurance
+
+State  Unemployment  insurance
+
+Percent
+
+S15
+
+flA
+
+1985 
+
+1990 
+
+1995
+
+Note. Unpublished and  confidential ECI  benefits detail.
+
+other white-collar  workers and for blue-collar  and service  workers.  For white-
+collar occupations,  the acceleration  in the compensation  of non-sales  workers
+was concentrated  in executive,  administrative,  and managerial  occupations;
+among  blue-collar  and service  occupations,  the pickup  was more broad-based.
+
+Consumer Sentiment
+
+According  to the final  report, the  Michigan  Survey  Research  Center index of
+consumer  sentiment shot up 6-1/2 points in January to  a record  level.  Looking
+at  prospects  for the coming  year, consumers  in January were even  more
+optimistic  about  their own  personal  financial  situations  and about  general
+business conditions  than  they  were during  1999.  In  addition, survey respondents
+have  never before  expressed such  favorable  expectations  for business conditions
+over the  next five years.  Appraisals of buying conditions  for large household
+appliances  also bounced back in  January,  and  assessments  of current  financial
+situations  moved  slightly above last month's favorable  level.
+
+Most  of the questions not included in  the overall index recorded  modest  changes
+in January.  Appraisals of buying  conditions for cars rose  a little this month,
+while  appraisals  of home  buying conditions  slipped  a bit.  Views on buying
+conditions for both of these  big-ticket items, although  still reasonably  positive,
+were in the lower end of the ranges  posted over the past two years.  The index of
+expected  unemployment  change  ticked down in January,  indicating that
+respondents  continue to hold  a very favorable  outlook  for labor market
+conditions.  One area in  which responses  from households  changed  noticeably in
+January  was in  their willingness  to use savings to finance  a major purchase:
+This index  surged  to the highest  level  recorded since  mid-summer and to the
+second  highest  reading in the  16  years that the  question has been  included  in the
+survey.
+
+The  mean  of expected  inflation over the next year ticked  down 0.1  percentage
+point to 3.5  percent  in January,  and the median of expected  inflation was
+unchanged  at  3.0 percent.  Looking  five years ahead,  the mean  of expected
+inflation  increased  0.3 percentage  point to 3.5  percent, while the median rose 0.1
+percentage  point to 3.0 percent.
+
+UNIVERSITY OF MICHIGAN SURVEY RESEARCH CENTER:  SURVEY OF CONSUMER ATTITUDES
+(Not seasonally adjusted)
+
+January 28,  2000
+
+1999 
+1999 
+May  June 
+
+1999 
+July 
+
+1999 
+1999 
+Aug.  Sept. 
+
+1999 
+Oct. 
+
+1999 
+1999 
+Nov.  Dec. 
+
+2000
+Jan.
+(f)
+
+Indexes  of  consumer  sentiment  (Feb. 1966=100)
+
+Composite  of  current and expected conditions
+Current conditions
+Expected conditions
+
+106.8
+121.1
+97.6
+
+107.3
+118.9
+99.8
+
+106.0
+116.5
+99.2
+
+104.5
+114.1
+98.4
+
+107.2
+115.9
+101.5
+
+103.2
+112.7
+97.1
+
+107.2
+116.8
+101.0
+
+105.4
+112.2
+101.1
+
+112.0
+117.3
+108.6
+
+Personal  financial  situation
+
+Now compared with 12  months  ago*
+Expected in  12  months*
+
+Expected business  conditions
+
+Next  12  months*
+Next  5 years*
+
+Appraisal of  buying conditions
+
+Cars
+Large household appliances*
+Houses
+
+Willingness to use credit
+Willingness to use  savings
+
+133 
+135 
+
+133 
+133 
+
+132 
+135 
+
+132 
+139 
+
+132 
+135 
+
+127 
+133 
+
+138 
+138 
+
+133 
+132 
+
+144 
+114 
+
+147 
+122 
+
+147 
+118 
+
+140 
+118 
+
+150 
+124 
+
+140 
+118 
+
+146 
+123 
+
+150 
+125 
+
+151 
+182 
+171 
+
+52 
+75 
+
+150 
+176 
+168 
+
+53 
+88 
+
+153 
+171 
+167 
+
+49 
+73 
+
+148 
+165 
+153 
+
+50 
+65 
+
+145 
+169 
+149 
+
+47 
+62 
+
+146 
+166 
+149 
+
+48 
+59 
+
+148 
+166 
+156 
+
+50
+68
+
+141 
+158 
+154 
+
+135
+141
+
+165
+133
+
+144
+169
+152
+
+Expected  unemployment change  - next  12  months
+
+110 
+
+102 
+
+109 
+
+113 
+
+110 
+
+112 
+
+111 
+
+105 
+
+104
+
+Prob.  household will  lose  a job - next 5 years
+
+22 
+
+20 
+
+24 
+
+21 
+
+20 
+
+20 
+
+21 
+
+19 
+
+18
+
+Expected inflation - next  12  months
+
+Mean
+Median
+
+Expected inflation - next  5 to  10  years
+
+Mean
+Median
+
+3.2 
+2.8 
+
+3.1 
+2.5 
+
+3.0 
+2.7 
+
+3.2 
+2.8 
+
+3.2 
+2.7 
+
+3.5 
+2.9 
+
+3.3 
+2.9 
+
+3.6 
+3.0 
+
+3.5
+3.0
+
+3.5 
+2.9 
+
+3.3 
+2.8 
+
+3.3 
+2.9 
+
+3.3 
+2.8 
+
+3.5 
+2.9 
+
+3.2 
+2.8 
+
+3.5 
+2.9 
+
+3.2 
+2.9 
+
+3.5
+3.0
+
+* -- Indicates  the  question is  one of  the  five  equally-weighted components  of  the  index of  sentiment.
+(p) --  Preliminary
+(f)  --  Final
+Note:  Figures  on financial,  business, and buying conditions  are the percent  reporting  'good times'  (or
+'better')  minus  the  percent reporting  'bad times'  (or  'worse'), plus  100.  Expected change  in
+unemployment is  the fraction  expecting unemployment to  rise minus the  fraction  expecting
+unemployment  to  fall,  plus  100.
+
+Selected  Financial Market Quotations
+(One-day  quotes  in percent  except as noted)
+
+1999 
+
+2000 
+
+Change  to Jan. 27  from
+selected dates (percentage  points)
+
+Instrument 
+
+June 29 
+
+Dec.  31 
+
+FOMC* 
+Dec. 21 
+
+Jan. 27 
+
+1999 
+Jue 29 
+
+1999 
+Dec. 31 
+
+FOMC*
+Dec. 21
+
+Short-term
+FOMC intended  federal  funds rate 
+
+Treasury  bills
+3-month 
+6-month 
+1-year 
+
+Commercial  paper
+
+1-month 
+3-month 
+
+Large negotiable CDs
+
+1-month 
+3-month 
+6-month 
+
+Eurodollar deposits 2
+
+1-month 
+3-month 
+
+Bank prime rate 
+
+Inrermediate- and long-term
+U.S. Treasury  (constant maturity)
+
+2-year 
+10-year 
+30-year 
+
+U.S. Treasury  10-year indexed  note 
+Municipalrevenue  (Bond Buyer) 3  
+
+Corporate bonds, Moody's seasoned  Baa 
+High-yield corporate 4  
+
+Home mortgages  (FHLMC survey rate) 5
+
+30-year fixed 
+1-year adjustable 
+
+4.75 
+
+4.70 
+4.92 
+4.89 
+
+5.18 
+5.12 
+
+5.21 
+5.32 
+5.43 
+
+5.13 
+5.25 
+
+7.75 
+
+5.68 
+5.93 
+6.07 
+
+4.01 
+
+5.62 
+
+8.05 
+
+5.50 
+
+5.17 
+5.49 
+5.63 
+
+5.13 
+5.75 
+
+5.72 
+5.90 
+6.08 
+
+5.69 
+5.88 
+
+850 
+
+6.24 
+6.45 
+6.48 
+
+4.33 
+
+623 
+
+8.18 
+
+550 
+
+5.39 
+5.60 
+5.64 
+
+6.30 
+5.93 
+
+6.47 
+6.17 
+6.15 
+
+6.38 
+6.13 
+
+8.50 
+
+6.21 
+6.36 
+6.44 
+
+4.31 
+
+6.17 
+
+8.27 
+
+550 
+
+5-42 
+5-54 
+5.79 
+
+5.64 
+5.82 
+
+5.80 
+5.94 
+614 
+
+5.69 
+5.94 
+
+850 
+
+651 
+6.68 
+653 
+
+4.32 
+
+6.34 
+
+8.23 
+
+1053 
+
+10.94 
+
+10.95 
+
+11.09 
+
+7.63 
+5.93 
+
+8.06 
+656 
+
+7.86 
+6.49 
+
+8.26 
+6.56 
+
+.75 
+
+.72 
+.62 
+.90 
+
+.46 
+.70 
+
+59 
+.62 
+.71 
+
+.56 
+.69 
+
+.75 
+
+.83 
+.75 
+.46 
+
+.31 
+
+.72 
+
+.18 
+
+56 
+
+.63 
+.63 
+
+.00 
+
+.25 
+.05 
+.16 
+
+51 
+.07 
+
+.08 
+.04 
+.06 
+
+.00 
+.06 
+
+.00 
+
+27 
+.23 
+.05 
+
+-.01 
+
+.11 
+
+.05 
+
+.15 
+
+.20 
+.00 
+
+.00
+
+.03
+-.06
+.15
+
+-.66
+-. 11
+
+-.67
+-.23
+-.01
+
+-.69
+-.19
+
+.00
+
+.30
+32
+.09
+
+-01
+
+.17
+
+-.04
+
+.14
+
+.40
+.07
+
+Stock exchange index 
+
+Dow-Jones  Industrial 
+S&P 500 Composite 
+Nasdaq (OTO 
+Russell 2000 
+Wilshire 5000 
+
+Record high 
+
+1999 
+
+2000 
+
+Level 
+
+11,723 
+1,469 
+4,235 
+534 
+13,813 
+
+Date 
+
+Dec. 31 
+
+1-14-00 
+12-31-99 
+1-21-00 
+1-21-00 
+12-31-99 
+
+11,497 
+1,469 
+4,069 
+505 
+13,813 
+
+FOMC* 
+Dec. 21 
+
+11,144 
+1,418 
+3,784 
+467 
+13,249 
+
+Jan. 27 
+
+11,028 
+1,399 
+4,040 
+517 
+13,396 
+
+Change to Jan. 27
+from selected dates  (percent)
+
+Record 
+high 
+
+Dec.  31 
+
+FOMC*
+Dec. 21
+
+-5.93 
+-4.81 
+-4.62 
+-3.17 
+-3-02 
+
+-4.08 
+-4.81 
+-.73 
+2.43 
+-3.02 
+
+-1.04
+-138
+6.76
+10.67
+1.11
+
+1.  Secondary  market.
+2.  Bid rates  for Eurodollar deposits collected around  9:30 am. Eastern  time.
+3.  Most recent  Thursday quote.
+4.  Merrill  Lynch  175  high-yield bond index composite.
+5.  For week ending  Friday previous to date shown.
+*  Data are  as of the close on December 20,  1999.
+
+

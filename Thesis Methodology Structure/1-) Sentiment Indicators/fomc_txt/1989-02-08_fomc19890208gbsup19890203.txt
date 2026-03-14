@@ -1,0 +1,2791 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+CONFIDENTIAL  (FR)
+CLASS  III  - FOMC
+
+February  3, 1989
+
+SUPPLEMENT
+
+CURRENT ECONOMIC AND  FINANCIAL CONDITIONS
+
+Prepared  for the
+Federal Open Market  Committee
+
+By the  Staff
+Board  of  Governors
+of the  Federal  Reserve System
+
+TABLE OF CONTENTS
+
+THE DOMESTIC NONFINANCIAL ECONOMY
+
+.
+Employment  and  unemployment 
+Manufacturers'  inventories  .
+.
+Sales  of  new  single-family  homes 
+Federal  sector  accounts--correction 
+
+.
+.
+.
+
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+Tables
+
+Changes  in employment  .
+.
+.
+Selected  unemployment  rates  .
+.
+Manufacturers'  inventories:  change  in current  cost  .
+Private  housing activity  .
+.
+.
+Federal  sector accounts  .
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+
+.
+
+. .. 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Page
+
+1
+3
+5
+5
+
+2
+2
+4
+6
+7
+
+THE FINANCIAL  ECONOMY
+
+Tables
+
+Monetary aggre'ates  .
+.
+Commercial bank credit  and  short-  and
+intermediate-term business  credit  .
+Selected  financial market  quotations  .
+
+..  . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. .
+
+.
+
+.
+
+.
+
+.
+. .. 
+
+8
+
+9
+10
+
+SUPPLEMENTAL NOTES
+
+DOMESTIC NONFINANCIAL ECONOMY
+
+Employment  and unemployment
+
+The labor market  surveys indicate that  labor demand was quite  strong  in
+
+January.  In the  payroll  survey, employment  grew more than 400,000  last
+
+month and the  average workweek moved up  0.2 hour to  34.9  hours.  As a result
+
+of  the increased pace of hiring and the longer workweeks,  aggregate hours of
+
+production workers  jumped more than  1 percent  in January.  In  the household
+
+survey, employment advanced more than 700,000  last  month.  That  gain was
+
+accompanied by a sharp pickup in labor force  growth, and the  unemployment
+
+rate edged up  slightly to 5.4  percent.
+
+In part,  some  of the strength  in payroll  employment  seen in January may
+
+reflect  temporary factors.  Construction employment  rose  more than 100,000,
+
+as employers apparently did not  lay off as many workers as  usual for  this
+
+time  of year, owing  to the unusually mild January weather.  And, in retail
+
+trade,  a relatively early  survey week may have  reduced the number  of post-
+
+Christmas layoffs  captured in the  January report.  If  so,  both of these
+
+components of overall  employment  growth  could drop back  somewhat  in
+
+February.
+
+Overall, however,  employment  gains  suggest that  the labor market
+
+maintained considerable momentum through mid-January.  Manufacturing
+
+employment rose  45,000  last month, with  large gains in nonelectrical
+
+machinery, transportation equipment,  and  food processing.  Moreover, the
+
+factory workweek moved up 0.1  hour,  suggesting that  production gains  remain
+
+sufficiently robust to maintain the  relatively high levels  of overtime  seen
+
+-2-
+
+CHANGES  IN EMPLOYMENT 1
+(Thousands of employees;  based on  seasonally adjusted data)
+
+Nonfarm payroll  employment2  
+
+Strike-adjusted 
+
+Manufacturing 
+Durable 
+Nondurable 
+Construction 
+Trade 
+Finance and services 
+Total government 
+
+Private nonfarm production workers 
+Manufacturing production workers 
+
+Total  employment 
+Nonagricultural 
+
+Memo:
+
+4
+Average  hourly earnings 
+
+1987 
+
+1988 
+
+Q2 
+
+1988 
+Q3 
+
+Q4 
+
+1988 
+Nov.  Dec. 
+
+1989
+Jan.
+
+------- Average Monthly  Changes------
+
+286 
+283 
+
+38 
+21 
+16 
+21 
+68 
+114 
+28 
+208 
+30 
+257 
+252 
+
+303 
+302 
+
+346 
+345 
+
+227 
+229 
+
+301 
+295 
+
+32 
+21 
+10 
+27 
+80 
+122 
+28 
+216 
+20 
+189 
+191 
+
+46 
+35 
+12 
+39 
+81 
+141 
+20 
+258 
+30 
+291 
+311 
+
+2 
+7 
+-6 
+19 
+52 
+93 
+51 
+124 
+-3 
+123 
+105 
+
+63 
+38 
+25 
+24 
+72 
+126 
+5 
+237 
+47 
+213 
+207 
+
+446 
+435 
+
+66 
+42 
+24 
+47 
+103 
+138 
+72 
+299 
+53 
+374 
+374 
+
+221 
+221 
+
+23 
+13 
+10 
+23 
+51 
+136 
+-18 
+193 
+9 
+62 
+107 
+
+408
+410
+
+46
+22
+24
+102
+166
+66
+-18
+386
+50
+702
+595
+
+3.0 
+
+3.7 
+
+5.1 
+
+3.5 
+
+4.1 
+
+-.1 
+
+.2 
+
+.6
+
+1. Average change  from  final month of preceding period to  final month of
+
+period  indicated.
+
+2. Survey of  establishments.  Strike adjusted data noted.
+3. Survey of  households.
+4. Changes  are  from final  quarter of preceding period to  final  quarter  of period
+
+indicated at  a compound annual  rate.  Monthly  f.gures  are  simple percent  change.
+
+SELECTED UNEMPLOYMENT RATES
+(Percent; based on  seasonally adjusted data)
+
+1987 
+
+1988 
+
+Q2 
+
+1988 
+Q3 
+
+Q4 
+
+1988 
+Nov.  Dec. 
+
+1989
+Jan.
+
+Civilian,  16  years and older 
+
+6.2 
+
+5.5 
+
+5.5 
+
+5.5 
+
+5.3 
+
+5.4 
+
+5.3 
+
+5.4
+
+Teenagers 
+20-24  years old 
+Men,  25  years  and older 
+Women,  25 years  and older 
+
+16.9 
+9.7 
+4.8 
+4.8 
+
+15.3  15.2 
+8.7 
+8.7 
+4.2 
+4.2 
+4.3 
+4.3 
+
+15.3 
+8.5 
+4.1 
+4.4 
+
+14.6 
+8.7 
+4.1 
+4.2 
+
+14.1 
+8.7 
+4.2 
+4.2 
+
+14.8 
+8.7 
+4.1 
+4.1 
+
+16.4
+
+9.3
+4.0
+4.1
+
+White 
+Black 
+
+5.3 
+13.0 
+
+4.7 
+
+4.7 
+11.7  11.9 
+
+4.8 
+11.3 
+
+4.6 
+11.3 
+
+4.6 
+11.2 
+
+4.6 
+11.6 
+
+4.6
+12.0
+
+Fulltime workers 
+
+5.8 
+
+5.2 
+
+5.1 
+
+5.1 
+
+5.0 
+
+5.0 
+
+5.1 
+
+5.0
+
+Memo:
+
+Total National 1 
+
+6.1 
+
+5.4 
+
+5.4 
+
+5.4 
+
+5.3 
+
+5.3 
+
+5.3 
+
+5.4
+
+1. Includes  resident armed forces  as  employed.
+
+-3-
+
+over the past  year.  In most  other industries,  hiring continued at  about  its
+
+recent  trend pace,  although  some weakness was  evident in business  services
+
+and  in finance.
+
+In the household survey, the  sharp advances  in employment  and the labor
+
+force  represent a rebound  from the  inexplicably low rates of  growth through
+
+much of  1988.  Nonetheless, even with the bigger  increase  in household
+
+employment in  January, payroll gains  have  outpaced household employment
+
+gains by a considerable amount over the  past year.  The unemployment  rate,
+
+which probably  is  little  affected by sampling errors in the household
+
+survey, has  held steady at  a bit  less  than 5-1/2 percent  in recent  months,
+
+after dropping about  1/2 percentage point over  the  first  three quarters  of
+
+last  year.
+
+Wage rates,  as measured by  average hourly earnings,  rose  0.6  percent  in
+
+Janaury to  a level nearly 4 percent  above  last  January.  This is  somewhat
+
+more than  changes seen  in past months, and is,  in general,  consistent  with
+
+other measures of wage  change, most  of which have  shown some  evidence of
+
+acceleration recently.
+
+Manufacturers'  inventories
+
+Manufacturers'  inventories, measured in current-cost terms,  rose  $28.7
+
+billion at  an  annual rate  in December,  after an upward-revised increase of
+
+$26.3  billion in the  preceding month.  As was the  case  over much  of 1988,
+
+the bulk of the buildup in  factory stocks  in December was reported by
+
+durable goods  industries;  in particular, industries producing nondefense
+
+capital goods  accounted for  $19.5  billion of the total  increase.  The
+
+December inventory rise  was accompanied by a 2.4 percent  gain in  factory
+
+shipments.  As  a result,  the manufacturers' inventory-shipments ratio fell
+
+-4-
+
+MANUFACTURERS' INVENTORIES:  CHANGE  IN CURRENT  COST
+(Billions of dollars,  seasonally adjusted  annual  rate)
+
+1988
+
+188
+
+Ql 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Sept.  Oct. 
+
+Nov.r  Dec.
+
+22.3 
+
+21.1 
+
+23.3 
+
+24.9 
+
+23.8 
+
+19.5 
+
+15.7 
+6.6 
+
+13.9 
+7.2 
+
+16.9 
+6.4 
+
+21.8 
+3.0 
+
+19.4 
+4.5 
+
+18.3 
+1.3 
+
+26.3 
+(23.5)
+24.4 
+1.9 
+
+28.7
+
+22.8
+5.9
+
+Total 
+
+(Previous) 
+Durable 
+Nondurable 
+
+STAGE OF  PROCESSING
+
+Materials  and supplies 
+Work  in process 
+Finished  goods 
+
+9.6 
+7.6 
+5.1 
+
+7.1 
+10.3 
+3.8 
+
+11.4 
+1.6 
+10.4 
+
+-.6 
+16.0 
+9.4 
+
+8.3 
+5.5 
+10.1 
+
+3.8 
+10.3 
+5.4 
+
+.3  -5.9
+19.2
+15.4
+
+18.5 
+7.4 
+
+Detail  may not  add to  totals because of  rounding.
+r--Revised.
+p--Preliminary.
+
+MANUFACTURERS'  INVENTORY-SALES  RATIOS
+
+1988 
+
+1988
+
+Q1 
+
+Q2 
+
+Q3 
+
+Q4 
+
+Sept.  Oct. 
+
+r 
+Nov. r  Dec.
+
+p
+
+1.62 
+1.99 
+1.19 
+
+1.58 
+1.95 
+1.16 
+
+1.58 
+1.96 
+1.15 
+
+1.57 
+1.94 
+1.14 
+
+1.57 
+1.93 
+1.16 
+
+1.57 
+1.94 
+1.15 
+
+1.57 
+1.93 
+1.14 
+
+1.54
+1.89
+1.13
+
+Total 
+
+Durable 
+Nondurable 
+
+r--Revised.
+p--Preliminary.
+
+-5-
+
+markedly,  to  1.54 months  in December--below the  range observed over the past
+
+year.
+
+For  the  fourth quarter as  a whole,  factory  stocks  posted a $24.9
+
+billion  (annual rate)  accumulation--roughly the  same pace  as  that  seen  in
+
+the  third quarter.  In  current-cost terms,  the  fourth-quarter factory
+
+inventory buildup was  $3.7  billion above the BEA's assumptions incorporated
+
+in the advance  estimate  of GNP  for  1988-Q4.
+
+Sales of new  single-family homes
+
+Sales  of new homes  in December were  nearly  670,000,  about unchanged
+
+from the  level  recorded in November.  In  contrast to the  figures  on single-
+
+family starts  and existing  home sales,  the  fourth-quarter pace  of  new home
+
+sales edged slightly below the  relatively  strong pace  of the third quarter.
+
+The  average price  of new homes  was up  11-3/4 percent  from a year  ago,  while
+
+the median price  increased 8-1/4  percent  from a year  earlier.  These  price
+
+measures are  influenced importantly by the regional  composition of sales  and
+
+the year-over-year  changes are  volatile on a monthly basis.
+
+Federal  sector accounts  (Correction)
+
+The attached table on the  federal  sector accounts  is  a corrected copy
+
+of the version that  appears on page  I-15  of the Greenbook, Part  I.  The CBO
+
+baseline  deficit  shown in the third line,  columns  3 and  6, should be  $155
+
+billion in FY  1989  and $141  billion in FY 1990,  instead  of $144  billion in
+
+FY  1989  and  $136 billion in FY  1990.
+
+-6-
+
+PRIVATE HOUSING ACTIVITY
+(Seasonally adjusted annual  rates;  millions  of units)
+
+1987 
+
+1988 
+
+1988 
+
+1988
+
+Annual Annual 
+
+Q3 
+
+Q4p 
+
+Oct. 
+
+Nov. 
+
+Dec.
+
+1.53 
+1.62 
+
+1.45 
+1.49 
+
+1.43  1.53 
+1.47  1.54 
+
+1.52 
+1.53 
+
+1.52 
+1.56 
+
+1.54
+1.52
+
+1.02 
+1.15 
+
+1.00 
+1.08 
+
+.99  1.05 
+1.06  1.13 
+
+1.03 
+1.14 
+
+1.05 
+1.14 
+
+1.06
+1.11
+
+All  units
+
+Permits 
+Starts 
+
+Single-family units
+
+Permits 
+Starts 
+
+Sales
+
+New  homes 
+.67 
+Existing homes  3.53 
+
+.68 
+3.63 
+
+.70 
+
+.69 
+3.67  3.81 
+
+.72 
+3.67 
+
+.67 
+3.67 
+
+.67
+4.09
+
+Multifamily units
+
+Permits 
+Starts 
+
+.51 
+.47 
+
+.45 
+.41 
+
+.43 
+.40 
+
+.48 
+.41 
+
+.49 
+.40 
+
+.47 
+.42 
+
+.48
+.41
+
+p--preliminary estimates.  r--revised.
+
+CONFIDENTIAL  FR CLASS II
+
+FEDERAL SECTOR ACCOUNTS
+(Billions of  dollars)
+
+F 
+
+r  r
+
+February  2,  1989
+
+Fiscal
+Year
+1988a
+
+I 
+
+_ 
+
+FY1989p
+
+Admin
+
+1
+
+2
+
+CBO
+
+---
+
+FRB
+Staff
+
+____  FY1990p
+
+Admin'  CBO
+
+2
+
+FRB
+Staff
+
+1988
+IVa
+
+-I-
+
+FRB Staff  Projection
+
+1989
+
+I 
+
+II 
+
+III 
+
+IV
+
+I 
+
+II 
+
+1990
+
+III 
+
+IV
+
+976
+1137
+
+-161
+-218
+56
+
+983
+1138
+
+-155
+-211
+56
+
+979
+1139
+
+-159
+-209
+49
+
+1059
+1152
+
+-93
+-161
+69
+
+1069
+1209
+
+-141
+-209
+68
+
+1068
+1195
+
+-127
+-192
+65
+
+224 
+286 
+
+-62 
+-77 
+15 
+
+285 
+284 
+
+249 
+279 
+
+1
+
+-17
+
+18
+
+-30 
+-42 
+11 
+
+236
+303
+
+-66
+-74
+8
+
+253 
+299 
+
+-46 
+-64 
+18 
+
+313 
+301 
+
+265 
+292 
+
+12
+
+-10
+
+22
+
+-26 
+-43 
+17 
+
+254
+307
+
+-53
+-67
+13
+
+-68 
+-73 
+
+6 
+
+Not  seasonally  adjusted
+
+144 
+14 
+3 
+
+140 
+n.a. 
+n.a. 
+
+139
+4
+16
+
+91
+0
+2
+
+141
+n.a.
+n.a.
+
+121
+0
+6
+
+909
+1064
+
+-155
+-194
+39
+
+162
+-8
+1
+
+44 
+
+30 
+
+n.a.
+
+40 
+
+30 
+
+n.a. 
+
+40
+
+34 
+
+9 
+
+33 
+
+40 
+
+18 
+
+15 
+
+35 
+
+40 
+
+18 
+
+I
+
+1029
+1174
+398
+298
+100
+776
+-145
+
+1037
+1177
+395
+302
+93
+782
+-140
+
+1030
+1175
+397
+301
+96
+779
+-146
+
+1133
+1213
+413
+305
+108
+800
+-77
+
+1133
+1255
+416
+311
+105
+839
+-122
+
+1117
+1246
+409
+303
+106
+837
+-130
+
+991
+1143
+393
+298
+95
+750
+-152
+
+1020
+1172
+394
+300
+94
+778
+-152
+
+1045
+1187
+398
+301
+97
+789
+-141
+
+1062
+1199
+401
+303
+99
+798
+-137
+
+1079
+1217
+403
+300
+102
+815
+-139
+
+1113
+1244
+410
+305
+105
+834
+-131
+
+1128
+1257
+411
+304
+107
+846
+-129
+
+1146
+1266
+412
+304
+108
+854
+-120
+
+1166
+1283
+413
+304
+109
+871
+-117
+
+Seasonally  adjusted  annual  rates
+
+n.a. 
+
+n.a.  -164
+
+n.a. 
+
+n.a.  -137
+
+-163 
+
+-172 
+
+-162 
+
+-158 
+
+-157 
+
+-142 
+
+-132 
+
+-116 
+
+-109
+
+BUDGET
+
+3
+
+Budget  receipts
+3
+Budget outlays
+Surplus/deficit(-)
+to be  financed 3
+(On-budget)
+(  ff-budget)
+
+Means  of  financing:
+Borrowing
+Cash  decrease
+Other 4
+
+Cash operating  balance,
+
+end of  period
+
+NIPA  FEDERAL SECTOR
+
+Receipts
+Expenditures
+Purchases
+Defense
+Nondefense
+Other expend.
+Surplus/deficit
+
+FISCAL INDICATORS 5
+
+High-employment  (HEB)
+surplus/deficit(-)
+
+Change  in  HEB, percent
+of  potential GNP
+Fiscal  impetus  measure
+
+964
+1107
+380
+298
+82
+727
+-143
+
+51 
+
+.2 
+
+(FI),  percent
+
+.1 * 
+
+n.a. 
+
+n.a.  -4.1 *
+
+n.a. 
+
+n.a.  -6.9 *
+
+n.a. 
+
+n.a. 
+
+.3
+
+n.a. 
+
+n.a. 
+
+-.5
+
+.6 
+
+.9 
+
+.2 
+
+-. 2 
+
+-. 1 
+
+0 
+
+-. 3 
+
+-. 2 
+
+-. 3 
+
+-. 1
+
+-2 
+
+-.4 
+
+-.4 
+
+-2.9 
+
+-3.8 
+
+-.5 
+
+-.5 
+
+-.4
+
+a--actual
+
+p--projection
+
+*--calendar  year
+
+n.a.--not  available
+
+Note:  Details  may  not  add  to  totals  due  to  rounding.
+
+1.  The  Budget of  the United  States Government,  Fiscal  Year  1990  (January 1989).  Budget  estimates include  policy proposals.
+2.  Baseline  budget  estimates  from  The  Economic  and  Budget  Outlook:  Fiscal  Years  1990-1994  (January  1989).
+3. 
+
+Includes  social  security  (OASDI)  receipts,  outlays  and  surplus,  respectively.  The  OASDI  surplus  is  excluded  from  the  "on-budget"  deficit  and
+shown separately as  "off-budget", as classified  under current law.
+
+4.  Checks  issued  less  checks  paid,  accrued  items  and  changes 
+5.  HEB 
+
+is  the  NIPA  measure  in  current  dollars  with  cyclically-sensitive  receipts  and  outlays  adjusted  to  a  6  percent  unemployment  rate.  Quarterly
+
+figures  for  change 
+the  weighted  difference  of  discretionary  federal  spending  and  tax  changes  (in  1982  dollars),  scaled  by  real  federal  purchases.  For  change 
+and  FI,  (-) indicates  restraint.
+
+in  HEB  and  FI  are  not  at  annual  rates.  Change  in  HEB,  as  a  percent  of  nominal  potential  GNP, 
+
+is  reversed  in  sign. 
+
+FI  is
+
+in  HEB
+
+in  other  financial  assets  and  liabilities.
+
+MONETARY  AGGREGATES
+(based  on  seasonally  adjusted  data  unless  otherwise  noted)
+
+-8-
+
+19881 
+
+1988 
+3 
+
+1988 
+94 
+
+1988 
+Nov 
+
+1988 
+Dec 
+
+Growth
+Q4  88-
+Jan  pe  Jan  89pe
+
+1989 
+
+------------ Percent  change  at  annual  rates--------------------
+
+4.3 
+5.3 
+6.2 
+
+5.2 
+3.8 
+5.5 
+
+2.4
+3.8
+4.9
+
+2.0 
+7.0 
+6.9 
+
+5.5
+5.2
+5.6
+
+-5 
+0 
+2 
+
+-k
+24
+4
+
+----------- Percent  chnge  at
+
+Levels
+anual  rates------------  bil.  S
+De  88
+
+H1
+1. 
+2.  n2
+3.  M3
+
+Selected  components
+
+4.  M1-A
+
+5. 
+6. 
+
+Currency
+Demand  deposits
+
+2.6 
+
+8.1 
+-1.2 
+
+3.3 
+
+7.5 
+0.4 
+
+6.6 
+-1.8 
+
+4.6 
+-5.0 
+
+1.7 
+
+-0.7 
+
+5.2
+
+-6 
+
+507.9
+
+7.  Other  chckable  deposits
+
+7.7 
+
+8.7 
+
+3.4 
+
+6.4 
+
+8. 
+
+M2 minus  M12
+
+5.6 
+
+3.3 
+
+4.3 
+
+8.8 
+
+9. 
+Overnight  RPs  and  Eurodollars,  NSA
+10.  General  purpose  and  broker/dealer  money
+market  mutual  fund  shares,  NSA
+
+11.  Commercial  banks
+12. 
+13. 
+14.  Thrift  institutions
+15. 
+16. 
+
+Savings  deposits,  SA,  plus  MMDAs,  NSA 3
+Smll  time  deposits
+
+Savings  deposits,  SA,  plus  MMOAs,  NSA 3
+Smll  time  deposits
+
+-5.1 
+
+-4.0 
+
+-7.6 
+
+-12.6 
+
+75.0
+
+7.7
+6.9
+1.4
+14.8
+4.7
+-4.3
+11.7
+
+-3.1
+5.5
+1.0
+11.6
+2.3
+-2.0
+5.4
+
+35.3
+12.0
+9.1
+15.9
+0.5
+-7.0
+
+5.4
+
+7.4 
+3.8 
+
+6.0 
+
+5.1 
+
+9 
+-17 
+
+211.8
+288.6
+
+-3 
+
+282.4
+
+1 
+
+2283.0
+
+50 
+
+12 
+4 
+
+-12 
+23 
+-2 
+-13 
+5 
+
+79.9
+
+240.8
+988.4
+544.9
+443.5
+971.7
+389.1
+582.6
+
+17.  M3  minus  HZ2
+
+10.0 
+
+12.1 
+
+9.1 
+
+6.6 
+
+7.2 
+
+11 
+
+842.6
+
+Large  time  deposits
+
+At  ommercial  banks,  net 5
+At  thrift  institutions
+
+Institution-only  money  market
+mutual  fund  shares,  NSA
+
+Tere  RPs,  NSA
+Term  Eurodollars,  NSA
+
+11.1 
+12.2 
+8.7 
+
+-0.8 
+13.3 
+10.3 
+
+13.4 
+18.1 
+4.1 
+
+-23.3 
+12.0 
+38.1 
+
+11.5 
+13.1 
+7.8 
+
+10.9 
+3.9 
+6.8 
+
+5.6 
+7.0 
+2.8 
+
+39.7 
+26.2 
+37.5 
+
+8.1
+13.3
+-2.8
+
+2.7
+-36.0
+20.0
+
+----- Average  monthly  change  in  billions  of  dollars----
+
+MEMORANDA:'
+
+24.  Maneged  liabilities at  commercial
+
+banks  (25+26)
+
+Large  time  deposits,  gross
+
+25. 
+26.  Nondeposit  funds
+27. 
+
+Net  due  to  related  foreign
+
+institutions,  SA
+
+7
+
+28. 
+29.  U.S.  goverment  deposits  at  commercial
+
+Other
+
+4.5 
+5.5 
+-1.0 
+
+0.0 
+-1.0 
+
+4.0
+3.2
+0.8
+
+-0.7 
+1.5 
+
+8.6 
+1.3 
+7.3 
+
+5.6 
+1.6 
+
+-0.3
+4.8
+-5.1
+
+-3.2 
+-1.7 
+
+-0.7 
+2.0 
+
+banksr
+
+0.0 
+
+0.5 
+
+0.5 
+
+-4.2 
+
+1.9 
+
+0 
+-9 
+
+-5 
+
+538.1
+365.3
+172.8
+
+87.6
+122.8
+103.9
+
+642.0
+429.3
+212.7
+
+6.7
+206.1
+
+24.9
+
+1.  Amounts  shown  are  from  fourth  quarter to  fourth  quarter.
+2.  Nontransactions  M2  is  seasonally  adjusted  as  a  whole.
+3.  Commercial  bank  savings  deposits  excluding  HMDAs  grew  during  Decembr  and  January  at  rates  of  -1.9
+
+percent  and  -15  percent,  respectively.  At  thrift  institutions,  savings  deposits  excluding  MMOAs  grew
+during  December  and  January  at  rates  of  -1.5  percent  and  -7  percent,  respectively.
+
+4.  The  non-M2  component  of  M3  is  seasonally  adjusted  as  a  whole.
+5.  Net  of  large  denomination  time  deposits  held  by  money  market  mutual  funds  and  thrift  institutions.
+6.  Dollar  amounts  shown  under  memoranda  are  calculated  on  an  end -onth-of-quarter  basis.
+7.  Consists  of  borrowing  from  other  than  commercial  banks  in  the  fore  of  federal  funds  purchased,  securities
+
+sold  under  agreements  to  repurchase,  and  other  liabilities  for  borrowed  money  (including  borrowing  from  the
+Federal  Reserve  and  unaffiliated  foreign  banks, 
+
+loan  RPs  and  other  minor  items).  Data  are  partially  estimated.
+
+8.  Consists  of  Treasury  demand  deposits  and  note  balances  at  commercial  banks.
+pe  - preliminary  estimate
+
+Note:  The  "net  due  to  related  foreign  institutions"  component  of
+nondeposit  funds  is  now  measured  on  a  seasonally  adjusted  basis  and  the
+"other"  component  of  this  series  has  been  revised.
+
+Measures of  the money  stock have been revised to incorporate
+
+annual  benchmark  and  seasonal  adjustments.  These  data  are  to  be
+regarded  as  strictly confidential  until  their  release  scheduled  for
+February  9.
+
+-9-
+
+COMMERCIAL  BANK  CREDIT  AND  SHORT-  AND 
+
+INTERMEDIATE-TERM  BUSINESS  CREDIT
+
+(Percentage changes at  annual  rates, based on  seasonally  adjusted data)
+
+1987:Q4
+
+to 
+
+1988 
+
+1988:Q4 
+
+Q3 
+
+Q4 
+
+Nov. 
+
+p 
+Dec. 
+
+p 
+Jan. 
+
+Levels
+bil.$
+
+p
+Jan.
+
+-----------------------  Commercial  Bank Credit  ------------------
+
+3. 
+
+4. 
+
+8. 
+
+9. 
+
+547.7
+
+361.5
+
+186.2
+
+606.9
+
+36.1
+
+668.0
+
+355.7
+
+188.7
+
+1.  Total  loans  and  securities
+
+at  banks
+
+2. 
+
+Securities
+
+U.S.  government  securities
+
+7.2 
+
+4.5 
+
+7.2 
+
+4.3 
+
+-.2 
+
+2.3 
+
+4.4 
+
+6.0 
+
+.1 
+
+2.5 
+
+2403.2
+
+3.7 
+
+2.4 
+
+.4 
+
+-8.9 
+
+9.5 
+
+5.7 
+
+13.8 
+
+2.0 
+
+Other securities
+
+-.4 
+
+-4.7 
+
+-6.8 
+
+-3.7 
+
+-24.0 
+
+-29.5 
+
+5. 
+
+Total  loans
+
+6. 
+
+Business  loans
+
+8.1 
+
+6.5 
+
+5.6 
+
+3.2 
+
+4.7 
+
+7.1 
+
+.0 
+
+5.8 
+
+1855.4
+
+2.2 
+
+-2.4 
+
+1.4 
+
+14.0 
+
+Security  loans
+
+-5.5 
+
+-29.4 
+
+3.3 
+
+-28.1 
+
+-22.3 
+
+-26.0 
+
+Real estate  loans
+
+13.0 
+
+12.6 
+
+11.4 
+
+13.3 
+
+7.3 
+
+Consumer  loans
+
+5.5 
+
+6.3 
+
+6.9 
+
+9.6 
+
+8.7 
+
+7.1 
+
+8.4 
+
+0.0 
+
+10. 
+
+Other loans
+
+-1.8 
+
+-12.8 
+
+23.3 
+
+-40.9 
+
+-26.1 
+
+---------  Short- and  Intermediate-Term Business  Credit  ---------
+
+11 
+
+Business  loans net  of bankers
+
+acceptances 
+
+2. 
+
+Loans  at  foreign branches2  
+
+13. 
+
+Sum  of  lines  11  & 12 
+
+id. 
+
+Commercial  paper issued  by
+nonfinancial  firms 
+
+15. 
+
+Sum of  lines  13  & 14 
+
+6.6
+
+30.5
+
+7.3
+
+15.6
+
+8.3
+
+3.1
+
+24.1
+
+2.7
+
+-2.4
+
+2.2
+
+13.7
+
+.0
+
+-16.6
+
+-16.8
+
+-56.9
+
+3.8
+
+2.5
+
+-2.9
+
+1.6
+
+11.3
+
+-4.8
+
+2.6
+
+54.0
+
+24.4
+
+9.1
+
+.7
+
+92.0
+
+13.5
+
+60.9
+
+18.3
+
+603.8
+
+20.1
+
+623.9
+
+107.7
+
+731.6
+
+16. 
+
+Bankers  acceptances:  U.S.  trade
+
+related  ' 
+
+-6.3
+
+-7.3
+
+24.8 
+
+26.5 
+
+70.6
+
+n.a.
+
+34.2
+
+17. 
+
+Line  15  plus bankers  acceptances:
+
+U.S.  trade  related 
+
+18. 
+
+3
+Finance  company  loans to  business 
+
+19. 
+
+Tctal  short-  and  intermediate-
+
+term business  credit  (sum of
+lines  17  & 18) 
+
+7.6
+
+n.a
+
+2.2
+
+10.9
+
+9.9 
+
+1.9 
+
+16.1
+
+n.a 
+
+9.3 
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a
+
+4.2 
+
+n.a 
+
+3.6 
+
+n.a. 
+
+n.a.
+
+754.85
+
+232.96
+
+977.6
+977.8
+
+1. Average  of Wednesdays.
+2. Loans  at  foreign branches  are loans  made to U.S.  firms  by  foreign branches  of  domestically
+3. Based on  average of  data for  current  and preceding ends  of month.
+4. Consists  of acceptances  that  finance  U.S.  imports,  U.S.  exports,  and domestic  shipment  and
+5. December data.
+6. November data.
+n.a.--not  available.
+p--preliminary
+
+chartered banks.
+
+storage  of  goods.
+
+-
+
+10
+
+SELECTED  FINANCIAL  MARKET  QUOTATIONS 1/
+
+(percent)
+
+1987 
+
+1988 
+
+1989 
+
+Change  from:
+
+Jan-Feb 
+lws 
+
+2/ 
+Oct  16 
+
+F(C 
+Feb 
+los  Dec  14  Feb  2 
+
+POC
+Dec  14
+
+Sh rt-tern  rates
+
+Federal  fuads  3/
+
+Treasry  bills 4/
+
+1-year
+
+Commrcal  pape
+l-mnth
+3-mmth
+
+LaTe-C 
+
+tiable CD's  4/
+
+6-nDnth
+
+Erodollar
+1-ionth
+3-amth
+
+deposits  5/
+
+5.95 
+
+7.59 
+
+6.38 
+
+8.55 
+
+9.14
+
+5.30
+5.31
+5.35
+
+5.81 
+5.73 
+
+5.85
+5.80
+5.78
+
+6.00 
+6.00 
+
+6.93
+7.58
+7.74
+
+5.59
+5.77
+6.10
+
+8.12 
+8.33 
+8.45 
+
+7.9 
+8.65 
+
+6.41 
+6.45 
+
+9.28 
+9.11 
+
+9.92
+
+9.12
+
+6.44
+6.49
+6.55
+
+7.79 
+.69 
+
+6.60 
+6.69 
+
+9.40 
+9.34 
+9.31 
+
+9.50 
+9.31 
+
+8.38
+8.41
+8.36
+
+9.03
+9.07
+
+9.05
+9.19
+9.35
+
+9.14
+9.26
+
+Baer  prim  rate
+
+7.50
+
+9.25 
+
+8.50 
+
+10.50 
+
+10.50
+
+Intrmediate-  and  log-term rates
+
+U.S. Teasury
+3-year
+
+30year
+
+(constant  mturity)
+
+6.34
+7.01
+7.29
+
+9.52
+
+10.24
+
+7.28
+8.11
+8.32
+
+9.21
+9.19
+9.06
+
+Mmnipal  revenue  6/
+(IBond  Byer  index)
+
+Corporate-A  utility
+Recntly of  ed
+
+IHoe  mertpa 
+
+rates  7/
+
+ARM,  1-year
+
+6.92 
+
+9.59 
+
+7.76 
+
+7.96 
+
+7.58
+
+8.78 
+
+11.50 
+
+9.63 
+
+10.16 
+
+10.03
+
+0.59
+
+0.26
+0.08
+-0.09
+
+-0.25
+-0.04
+
+-0.35
+-0.15
+0.04
+
+-0.36
+-0.05
+
+0.00
+
+-0.09
+-0.21
+-0.24
+
+-0.13
+
+0.14
+0.19
+
+11.58 
+8.45 
+
+9.84 
+7.59 
+
+10.46 
+8.35 
+
+10.60
+8.54
+
+9.10 
+7.52 
+
+1986 
+
+1987 
+
+1988 
+
+1989 
+
+Peroent  charge  fem:
+
+Record 
+Year  end  hibs 
+
+Lows 
+
+EMC 
+Dec  14 
+
+Feb  2 
+
+FC
+Dec  14
+
+Stock  prices
+
+Dow-Jones  Industrial  18 
+NSE  Cposite 
+AME  Composite 
+NASDQ 
+
+) 
+
+.95 
+.58 
+.27 
+.83 
+
+2722.42  1738.74  2134.25  2333.759.35
+
+1.99  125. 
+154.72. 
+295.00  324.52 
+365.01 
+231. 
+55.26  291.88  372.77  405.16 
+
+.
+10.01
+8.69
+
+1/  One-day  qotes  exept  as  noted. 
+2/  last  business  day  prior  to stock  market  decline  on Maxday 
+
+Oct.  19,  1987. 
+
+3/  Avtae fr 
+
+tweek  rese/e 
+eb an  Feb.  1,  rspectively. 
+
+de  oxept ows  ao 
+
+ifcch are  ooe%eek  aerges  einae
+st observati o 
+
+closest  to 
+
+to  date  fbr  naintenance  period  ending  February  8,  1989. 
+
+4/  Secondary  market.
+5/  Average  fbr statement  week
+sst  to  date  abun.
+da 
+Is  averae  7/  Qotes  fbr week  anding
+Friday  closest  to  date 
+
+6/ 
+
+jo.
+
+ahoin.
+
+e-estimate
+
+

@@ -1,0 +1,3001 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+CONFIDENTIAL 
+(FR)
+CLASS  III  - FOMC
+
+March  24,  1989
+
+SUPPLEMENT
+
+CURRENT  ECONOMIC AND  FINANCIAL  CONDITIONS
+
+Prepared  for the
+Federal  Open Market  Committee
+
+By the  Staff
+Board of  Governors
+of  the  Federal Reserve  System
+
+TABLE OF CONTENTS
+
+THE  DOMESTIC  NONFINANCIAL ECONOMY
+
+Revised GNP  data  for the  fourth  quarter of  1988.  .
+Personal  income  and  consumption.  .
+.
+Sales  of  existing homes  .
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+. ... .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.. 
+.
+. .. 
+
+.
+
+.
+
+Tables
+
+Real  gross  national product  and related  items  .
+Personal  income  .
+.
+Real personal  consumption expenditures  .
+Private housing activity  .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+. ...  .
+.
+
+.
+
+.
+
+.
+
+.
+..
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+.
+
+.
+
+THE FINANCIAL ECONOMY
+
+Tables
+
+Monetary aggregates  .
+Commercial  bank credit  and short-  and
+
+.. 
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+intermediate-term business  credit  .
+Selected financial  market  quotations  .
+
+ADDENDUM:
+
+.
+
+.
+.
+
+.
+
+.
+.
+
+.
+
+.
+.
+
+.
+
+.
+.
+
+.
+
+.
+.
+
+.
+
+.
+.
+
+.
+
+.
+.
+
+. ..  .
+
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+
+Summary of President  Bush's  Budget  Plan  for  1990  and Recent
+. ... .
+.
+
+Budget  Developments  .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Page
+
+1
+1
+4
+
+2
+3
+3
+5
+
+6
+
+7
+8
+
+A-1
+
+SUPPLEMENTAL  NOTES
+
+DOMESTIC NONFINANCIAL  ECONOMY
+
+Revised  GNP  data  for the  fourth quarter  of 1988
+
+Real  GNP  grew  2.4  percent at  an annual  rate  in the  fourth  quarter  of
+
+1988  according to BEA's  final  (third) report,  an upward  revision  of
+
+0.4 percentage point  from the preliminary estimate;  excluding drought
+
+effects,  real  GNP  advanced 3.5  percent  last  quarter.  Among the  components
+
+of GNP,  there  were upward revisions to  government purchases and to  outlays
+
+for producers'  durable equipment,  which more than offset  a sharper  decline
+
+in net  exports than had been reported previously.  In contrast,  only  slight
+
+adjustments were made to  consumer  spending, residential  investment,  and
+
+inventory accumulation.  On  the price  side,  the estimated increase  in the
+
+GNP  fixed-weight  price  index--4.2 percent  at  an annual  rate--was the  same  as
+
+in  the preliminary GNP  report.  The rate  of  increase  in  the  implicit  price
+
+deflator  for  GNP,  at  5.3 percent,  also was  the same  as  was  reported
+
+previously.  Fourth-quarter corporate profits--reported for  the  first  time
+
+in the  latest  GNP  release--posted a sizable gain, and the profit  share  edged
+
+up to  6.8  percent.
+
+Personal  income  and consumption
+
+The  growth of  personal  income  remained strong in February.  In  nominal
+
+terms,  personal income  increased $42.4  billion last month,  following  a
+
+$72.1  billion rise  in January.  Part  of the  February advance  reflected a
+
+large increase in  subsidy payments  to  farm proprietors.  Excluding these
+
+payments, personal  income  increased $30.1  billion.  Private  wages and
+
+salaries rose  $11.8  billion in  February,  about in  line with increases  over
+
+REAL  GROSS  NATIONAL  PRODUCT  AND  RELATED  ITEMS
+(Percent change  from previous period at compound annual rates;
+based on seasonally  adjusted data)
+
+1987-Q4 to 
+1988-Q4 
+
+1988-Q3 
+Final 
+
+1988-Q4
+
+Prelim. 
+
+Final
+
+1.  Gross national  product 
+
+la.  Excluding drought effects 
+
+2.  Final sales 
+
+2a.  Excluding CCC  purchases 
+
+3.  Consumer  spending 
+
+3a.  Excluding motor  vehicles 
+
+4.  Business fixed  investment 
+
+4a.  Producers' durable equipment 
+4b.  Structures 
+
+5.  Residential  structures 
+
+6.  Federal  purchases 
+6a.  Defense 
+
+7.  State  and local purchases 
+
+8.  Exports  of goods and services 
+
+9. 
+
+Imports of goods and services 
+
+ADDENDA:
+10. 
+
+Inventory  change  1 
+10a.  Nonfarm  1 
+10b.  Farm  1 
+
+1.  Net  exports  1
+
+2.  Nominal GNP
+
+3.  GNP implicit price  deflator
+
+4.  GNP fixed-weight  price index
+
+5.  Real disposable personal  income
+
+6.  Saving rate  (percent)
+
+7.  Profit share (percent)
+
+Level, billions of constant dollars.
+
+1. 
+2.  Annual  average.
+
+2.8
+3.5
+
+3.9
+4.1
+
+3.7
+3.5
+
+5.7
+10.0
+-5.0
+
+2.0
+
+-3.5
+-2.1
+
+3.4
+
+13.7
+
+7.2
+
+42.5  2
+40.0  2
+2.5  2
+
+2.5 
+3.0 
+
+2.0 
+2.0 
+
+3.9 
+4.2 
+
+4.0 
+4.6 
+2.6 
+
+4.3 
+
+-13.2 
+-10.5 
+
+1.1 
+
+14.5 
+
+13.1 
+
+39.5
+40.4
+-. 8
+
+2.0
+3.1
+
+3.1
+2.5
+
+3.5
+3.5
+
+-4.6
+-5.9
+
+-. 3
+
+10.9
+
+16.8
+7.5
+
+5.1
+
+7.7
+
+13.0
+
+29.3
+37.7
+-8.3
+
+2.4
+3.5
+
+3.5
+2.8
+
+3.5
+3.6
+
+-2.9
+-3.5
+-1.0
+
+10.9
+
+20.7
+9.9
+
+6.0
+
+6.5
+
+13.5
+
+29.1
+37.6
+-8.5
+
+-100.2
+
+-93.9
+
+-103.3
+
+-105.4
+
+7.2
+
+4.3
+
+4.5
+
+3.6
+
+4.2  2
+
+6.7  2
+
+7.3
+
+4.7
+
+5.3
+
+5.6
+
+7.2
+
+5.3
+
+4.2
+
+4.8
+
+7.6
+
+5.3
+
+4.2
+
+4.1
+
+4.3
+
+6.8
+
+PERSONAL INCOME
+
+1988
+
+Q3 
+
+Q4
+
+1988 
+Dec.r 
+
+1989
+
+Jan.r 
+
+Feb.p
+
+- - - Average monthly change,
+
+billions of dollars ---
+
+1.  Personal Income
+
+23.3 
+
+28.7 
+
+35.6
+
+72.1 
+
+42.4
+
+2.  Wage and salary
+disbursements
+
+3.  Proprietors'  income
+
+3a. Farm  proprietors'
+income
+
+4. 
+
+Personal interest income
+
+5.  Transfer payments
+
+6.  Other income
+
+7.  Personal tax and nontax
+
+payments
+
+8.  Disposable  personal income
+
+20.1
+
+r = revised 
+
+p =  preliminary
+
+15.8
+
+-2.6
+
+18.2
+
+1.0
+
+-4.4
+
+-1.4
+
+6.8
+
+2.0
+
+1.2
+
+3.2
+
+7.3
+
+2.7
+
+-. 2
+
+4.0
+
+24.7
+
+15.4
+
+11.7
+
+9.6
+
+7.4
+
+1.4
+
+-. 5
+
+4.0
+
+31.6
+
+28.9
+
+26.7
+
+23.9
+
+8.6
+
+15.2
+
+-7.3
+
+11.7
+
+60.4
+
+14.2
+
+16.1
+
+15.0
+
+8.8
+
+2.0
+
+1.3
+
+2.7
+
+39.8
+
+REAL  PERSONAL  CONSUMPTION  EXPENDITURES
+
+1988 
+
+Q3 
+
+Q4 
+
+1988 
+Dec.r 
+
+1989
+
+Jan.r 
+
+Feb.p
+
+- --  Percent change from preceding period 
+
+- - -
+
+3.9 
+
+-. 2 
+
+5.0 
+
+4.5 
+
+3.5 
+
+6.1 
+
+1.3 
+
+4.2 
+
+.3 
+
+3.9 
+
+-1.2 
+
+.2 
+
+-. 3 
+
+-3.8 
+
+1.0 
+
+.0 
+
+.4
+
+-. 2
+
+-. 1
+
+.9
+
+1.  Personal  consumption
+
+expenditures 
+
+2. 
+
+3. 
+
+4. 
+
+Durable  goods 
+
+Nondurable  goods 
+
+Services 
+
+1.  Quarterly  changes are  at annual rate.
+r  =  revised 
+
+p =  preliminary
+
+the past  year.  Among the  nonwage components  of  income, the  rise  in  farm
+
+subsidies  accounted for most  of a $15  billion rise  in  farm income.  Personal
+
+interest  income  rose  $8.8  billion, while other  components of nonwage  income
+
+showed only modest  increases.  The big gains  in nominal  income in  January
+
+and February were only partly  offset  by price  increases,  and in real  terms,
+
+the average  level  of disposable increase  for the  two months  was  about  1.7
+
+percent  above the  fourth-quarter average  (not at  an annual  rate).
+
+Real personal  consumption expenditures  increased 0.4 percent  in
+
+February,  following a decline of  0.3  percent  in January.  Spending  for  goods
+
+edged down in February, as  real  purchases of  gasoline and  oil  fell  more  than
+
+$4 billion at  an annual  rate.  In the  durable  goods category,  spending on
+
+new  cars  and trucks was  about  flat in  real terms,  but net  purchases of used
+
+cars  declined roughly  $1 billion.  Outlays  for  services rose  sharply,
+
+largely  reflecting a rebound  in  purchases of  electricity and  natural gas
+
+from January's  weather-depressed figure.
+
+Sales of  existing homes
+
+Sales  of existing homes fell  3 percent  in February from a downward-
+
+revised January pace  to 3.44 million units  at  an annual  rate.  The  February
+
+decline  in home  sales was  concentrated mainly  in the Northeast.  In other
+
+regions,  sales  of existing homes were  little  changed in February, but were
+
+down  from their  strong pace  in the fourth quarter  of  1988.  The median price
+
+of  resold homes was  $93,100  in February--up 4.7  percent  from a year  earlier.
+
+The  average  sales  price was  $119,400,  up  7.7  percent over  the year.  (These
+
+price  data are  not  adjusted  for  changes  in  quality or  regional mix.)
+
+PRIVATE HOUSING  ACTIVITY
+(Seasonally adjusted annual  rates;  millions  of  units)
+
+1988 
+
+1988 
+
+1988 
+
+1989
+
+Annual 
+
+Q2 
+
+Q3 
+
+r 
+
+Q4 
+
+r 
+Dec. r  Jan. 
+
+r  F
+
+Feb.
+
+All  units
+
+Permits 
+Starts 
+
+Single-family units
+
+Permits 
+Starts 
+
+Sales
+
+1.45 
+1.49 
+
+1.46 
+1.48 
+
+1.43  1.53 
+1.47  1.56 
+
+1.57 
+1.58 
+
+1.51 
+1.69 
+
+1.40
+1.50
+
+1.00 
+1.08 
+
+.98 
+1.06 
+
+.99  1.05 
+1.06  1.14 
+
+1.08 
+1.14 
+
+1.06 
+1.20 
+
+.99
+1.05
+
+New homes 
+Existing  homes 
+
+.68 
+3.59 
+
+.69 
+3.64 
+
+.70 
+3.66 
+
+.68 
+3.77 
+
+.67 
+3.92 
+
+.70 
+3.55 
+
+n.a.
+3.44
+
+Multifamily units
+
+Permits 
+Starts 
+
+.45 
+.41 
+
+.48 
+.42 
+
+.43 
+.41 
+
+.48 
+.42 
+
+.48 
+.44 
+
+.44 
+.49 
+
+.42
+.45
+
+p--preliminary estimates.  r--revised.  n.a.--not  available.
+
+MONETARY AGGREGATES
+(based on seasonally adjusted  data unless otherwise noted)
+
+19881 
+
+1988 
+Q3 
+
+1988 
+Q4 
+
+1988 
+Dec 
+
+1989 
+Jan 
+
+Growth
+Q4 88-
+Feb p  Feb 89p
+
+1989 
+
+------------ Percent  change  at  annual  rates---------------------
+
+4.3 
+5.2 
+6.3 
+
+5.2 
+3.8 
+5.7 
+
+2.3 
+3.6 
+5.0 
+
+5.5 
+4.0 
+5.4 
+
+-6.1
+-1.3
+1.6
+
+------------
+
+Percent  change  at  annual  rates------------
+
+0.0
+1.8
+3.5
+
+Levels
+bil.  $
+Feb  89p
+
+2.5 
+
+3.3 
+
+1.7 
+
+5.2 
+
+-6.9 
+
+3.8 
+
+506.6
+
+8.1 
+-1.2 
+
+7.5 
+0.4 
+
+6.6 
+-1.8 
+
+7.4
+3.8
+
+9.1 
+-19.1 
+
+5.1 
+3.4 
+
+214.3
+284.8
+
+1.  M1
+2.  M2
+3.  M3
+
+Selected  components
+
+4.  Mi-A
+
+5. 
+6. 
+
+Currency
+Demand deposits
+
+7.  Other checkable deposits
+
+7.7 
+
+8.7 
+
+3.3 
+
+5.6 
+
+-4.7 
+
+-1.7 
+
+280.8
+
+8.  M2 minus M1 2
+
+5.5 
+
+3.3 
+
+4.1 
+
+3.5 
+
+0.3
+
+1.7 
+
+2282.9
+
+9. 
+Overnight  RPs  and Eurodollars,  NSA
+10.  General purpose  and  broker/dealer money
+market mutual  fund shares,  NSA
+
+11.  Commercial  banks
+12. 
+13. 
+14.  Thrift  institutions
+15. 
+16. 
+
+Savings deposits,  SA,  plus MMDAs, NSA 3
+Small  time deposits
+
+Savings deposits,  SA, plus MMDAs, NSA 3
+Small  time  deposits
+
+-5.9 
+
+-3.0 
+
+-9.2 
+
+44.6 
+
+52.2 
+
+-36.8 
+
+79.1
+
+7.5 
+6.9 
+1.4 
+14.7 
+4.6 
+-4.3 
+11.7 
+
+-2.9 
+
+5.5 
+1.0 
+11.6 
+2.3 
+-2.0 
+5.4 
+
+9.7 
+6.8 
+
+-1.8 
+18.0 
+0.3 
+-8.6 
+6.6 
+
+11.1 
+5.7 
+-4.2 
+18.1 
+-2.1 
+-7.7 
+1.7 
+
+12.0 
+2.8 
+-12.8 
+
+21.9 
+-3.3 
+
+-16.3 
+5.4 
+
+29.3 
+4.5 
+
+-14.2 
+
+26.9 
+-5.2 
+
+-21.3 
+5.1 
+
+247.9
+993.9
+532.7
+461.2
+964.4
+377.0
+587.3
+
+17.  M3 minus  M2 4
+
+10.6 
+
+13.1 
+
+10.2 
+
+10.3 
+
+12.4
+
+8.3 
+
+863.2
+
+18.  Large  time deposits
+19. 
+20. 
+21.  Institution-only money market
+
+At  commercial  banks, net 5
+At  thrift  institutions
+
+mutual  fund  shares, NSA
+
+22.  Term RPs, NSA
+23.  Term Eurodollars, NSA
+
+11.0 
+12.2 
+8.8 
+
+-0.8 
+15.0 
+13.3 
+
+13.4 
+18.1 
+4.1 
+
+-23.3
+13.0
+45.6
+
+11.3 
+13.0 
+8.0 
+
+10.9 
+8.4 
+11.0 
+
+7.4 
+12.3 
+-2.1 
+
+2.7
+-33.5
+
+40.5
+
+14.7
+18.7
+5.6
+
+23.3
+14.4
+-57.0
+
+15.7
+24.3
+-2.1
+
+4.0
+28.4
+-9.4
+
+551.4
+378.1
+173.4
+
+89.6
+129.8
+101.4
+
+MEMORANDA:
+
+6
+
+24. Managed  liabilities  at commercial
+
+banks  (25+26)
+
+25.  Large time  deposits, gross
+26.  Nondeposit  funds
+27. 
+
+Net  due  to  related  foreign
+
+institutions,  SA
+
+Other
+
+7
+
+"9.  U.S. government  deposits at commercial
+
+banks
+
+8
+
+----- Average monthly change  in billions  of dollars----
+
+4.9 
+3.3 
+1.7 
+
+4.5, 
+5.5 
+-1.0 
+
+-0.4 
+2.1 
+
+0.0
+
+-1.0
+
+4.5 
+3.1 
+1.4 
+
+-0.5 
+1.9 
+
+0.7 
+4.6 
+-3.9 
+
+-2.6 
+-1.3 
+
+0.3 
+5.8 
+-5.5 
+
+1.3 
+-6.8 
+
+10.3
+5.5
+4.8
+
+653.2
+440.4
+212.8
+
+2.7 
+2.1 
+
+10.6
+202.2
+
+0.0 
+
+0.5 
+
+0.5 
+
+1.9 
+
+-4.6 
+
+0.0 
+
+20.3
+
+1.  Amounts  shown are  from fourth quarter  to  fourth quarter.
+2.  Nontransactions  M2  is  seasonally  adjusted as  a whole.
+3.  Commercial  bank savings  deposits  excluding MMDAs grew during January and February at  rates of  -10.6
+
+percent  and -2.5  percent,  respectively. At  thrift  institutions, savings  deposits  excluding MMDAs grew
+during January and February at  rates  of  -9 percent  and -13.7 percent,  respectively.
+
+4.  The  non-M2 component of  M3  is  seasonally adjusted as a whole.
+5.  Net  of large  denomination time deposits  held by money market mutual  funds  and thrift  institutions.
+6.  Dollar  amounts  shown  under  memoranda  are  calculated  on  an end-month-of-quarter  basis.
+7.  Consists  of  borrowing  from  other  than  commercial  banks  in  the  form  of  federal  funds  purchased,  securities
+
+sold  under  agreements  to  repurchase,  and  other  liabilities 
+Federal  Reserve  and  unaffiliated  foreign  banks, 
+
+for  borrowed  money  (including  borrowing  from  the
+
+loan  RPs  and  other  minor  items).  Data  are  partially  estimated.
+
+8.  Consists  of  Treasury  demand  deposits  and  note  balances  at  commercial  banks.
+p  - preliminary
+
+COMMERCIAL  BANK  CREDIT  AND  SHORT-  AND 
+
+INTERMEDIATE-TERM  BUSINESS  CREDIT
+
+(Percentage changes 
+
+at  annual  rates, based  on seasonally  adjusted data)  1
+
+1987:Q4
+to 
+1988:Q4 
+
+Q3 
+
+1988
+
+Q4 
+
+Dec.
+
+Jan. 
+
+Feb.
+
+1989
+
+Levels
+bil.$
+Feb.
+
+---------------------- 
+
+Commercial Bank Credit  ---------------------
+
+1.  Total  loans  and  securities
+
+at  banks
+
+2. 
+
+Securities
+
+3. 
+
+4. 
+
+U.S. government  securities
+
+Other  securities
+
+5. 
+
+Total  loans
+
+6. 
+
+Business  loans
+
+7.3 
+
+4.7 
+
+7.4 
+
+.2 
+
+8.1 
+
+6.3 
+
+5.1
+
+2.2
+
+5.0
+
+-2.6
+
+6.0
+
+3.5
+
+6.1 
+
+3.7 
+
+2.4 
+
+14.4 
+
+2441.8
+
+5.0 
+
+3.3 
+
+-11.9 
+
+10.4 
+
+13.1 
+
+-2.0 
+
+-5.1 
+
+-14.7 
+
+-30.5 
+
+4.6 
+
+5.3 
+
+3.2 
+
+551.9
+
+363.4
+
+188.5
+
+6.4 
+
+3.8 
+
+6.7 
+
+17.3 
+
+1889.9
+
+4.0 
+
+1.6 
+
+9.6 
+
+24.0 
+
+Security  loans
+
+-6.2 
+
+-28.4
+
+13.1 
+
+.0  -28.5 
+
+227.0 
+
+8. 
+
+9. 
+
+Real  estate  loans
+
+Consumer loans
+
+10. 
+
+Other loans
+
+13.4 
+
+8.6 
+
+.2 
+
+12.8
+
+6.4
+
+-1.8
+
+11.0 
+
+10.0 
+
+11.6 
+
+12.7 
+
+8.3 
+
+9.5 
+
+5.7 
+
+3.0 
+
+-5.9 
+
+-20.6 
+
+-16.0 
+
+-1.2 
+
+616.6
+
+44.0
+
+678.3
+
+357.9
+
+193.1
+
+--------- 
+
+Short-
+
+and Intermediate-Term Business Credit----------
+
+11. 
+
+Business  loans  net of  bankers
+
+acceptances 
+
+2
+Loans  at  foreign branches 
+
+13. 
+
+Sum of  lines  11  & 12 
+
+14. 
+
+Commercial  paper  issued by
+nonfinancial firms 
+
+15. 
+
+Sum of  lines  13  & 14 
+
+6.4
+
+30.3
+
+7.1
+
+15.6
+
+8.2
+
+3.6
+
+20.1
+
+4.2
+
+4.1
+
+2.0
+
+9.7
+
+13.4
+
+11.2
+
+-38.9
+
+4.4
+
+2.3
+
+8.0
+
+-.9 
+
+50.1
+
+82.7 
+
+57.4 
+
+3.5 
+
+10.3
+
+13.1 
+
+15.0 
+
+24.5
+
+28.7
+
+24.7
+
+22.4
+
+24.3
+
+16. 
+
+Bankers  accetances:  U.S. trade
+
+related ' 
+
+-6.8
+
+-6.0
+
+11.0 
+
+36.9 
+
+17.9 
+
+28.2
+
+17. 
+
+Line  15  plus bankers  acceptances:
+
+U.S.  trade related 
+
+7.4
+
+18. 
+
+Finance company  loans  to business  12.4
+
+3.0
+
+10.9
+
+10.3
+
+12.7
+
+14.0 
+
+15.4
+
+24.4
+
+7.7 
+
+4.6
+
+n.a.
+
+613.7
+
+21.4
+
+635.1
+
+109.3
+
+744.4
+
+34.8
+
+779.2
+
+235.3
+
+19. 
+
+Total  short-  and intermediate-
+
+term business  credit  (sum of
+lines  17  & 18) 
+
+8.5
+
+4.9 
+
+10.9 
+
+12.6 
+
+12.6
+
+n.a.
+
+998.8
+
+1. Average of Wednesdays.
+2. Loans  at  foreign branches  are  loans made  to U.S.  firms by  foreign
+3. Based on  average  of data for  current  and preceding  ends  of  month.
+4. Consists  of acceptances  that  finance  U.S.  imports, U.S.  exports,  and domestic  shipment  and
+5. January  data.
+p--preliminary.
+n.a. not  available.
+*Data reflect  benchmarking  to  the June  1988  call  report  and new  seasonal  adjustments.
+
+branches  of domestically chartered  banks.
+
+storage of  goods.
+
+SELECTED  FINANCIAL  MARKET  QUOTATIONS  1/
+
+(percent)
+
+1987 
+
+1988 
+
+1989 
+
+1989 
+
+Change from:
+
+Jan-Feb 
+lows 
+
+2/ 
+Oct  16 
+
+Feb 
+lows 
+
+FOC 
+Feb  8  Mar  23 
+
+FOC
+Feb  8
+
+Short-term  rates
+
+Federal  funds  3/ 
+
+5.95 
+
+7.59 
+
+6.38 
+
+9.13 
+
+9.85 
+
+Treasury  bills  4/
+
+-5nth 
+
+1-year 
+
+nth 
+
+Connercial  paper
+1-month 
+3-onth 
+
+5.30 
+5.31 
+5.35 
+
+5.81 
+5.73 
+
+Lare  negtiable  CD's  4/
+
+-n 
+
+e  Cs  5.85 
+5.80 
+nth 
+5.78 
+
+6  nth 
+
+6.93 
+7. 
+7.74 
+
+5.59 
+5.77 
+6.10 
+
+8.53 
+8.47 
+8.44 
+
+9.04 
+9.02 
+8.93 
+
+7.94 
+8.65 
+
+6.41 
+6.45 
+
+9.11 
+9.17 
+
+9.98 
+10.06 
+
+7.92 
+8.90 
+9.12 
+
+6.44 
+6.49 
+6.55 
+
+9.15 
+9.29 
+9.44 
+
+9.98 
+10.18 
+10.56 
+
+Eurodollar  deposits  5/
+
+1-month 
+3-nmnth 
+
+6.00 
+6.00 
+
+8.00 
+9.06 
+
+6.44 
+6.50 
+
+9.25 
+9.38 
+
+10.00 
+10.25 
+
+Bank  prime  rate 
+
+7.50 
+
+9.25 
+
+8.50 
+
+10.50 
+
+11.50 
+
+Intermediate-  and  long-term  rates
+
+U.S.  Treasury  (constant  maturity)
+
+3-year 
+10-year 
+30-year 
+
+6.34 
+7.01 
+7.29 
+
+9.52 
+10.23 
+10.24 
+
+7.28 
+8.11 
+8.32 
+
+9.19 
+8.5 
+8.82 
+
+9.76 
+9.43 
+9.23 
+
+0.72
+
+0.51
+0.55
+0.49
+
+0.87
+0.89
+
+0.83
+0.89
+1.12
+
+0.75
+0.87
+
+1.00
+
+0.
+0.
+0.41
+
+0.37
+
+0.41
+
+0.43
+0.46
+
+Mnicipal  revenue  6/
+(Bond  Buyer  index) 
+
+Corporate-A  utility
+Recently  offered 
+
+Home  mortgage  rates  7/
+
+Fixed-rate 
+AIM,  1-year 
+
+6.92 
+
+9.59 
+
+7.76 
+
+7.58 
+
+7.95 
+
+8.78 
+
+11.50 
+
+9.63 
+
+10.05 
+
+10.46 
+
+11.58 
+8.45 
+
+9.84 
+7.59 
+
+10.55 
+8.56 
+
+10.98 
+9.02 
+
+9.10 
+7.52 
+
+1986
+
+1987
+
+1989
+
+1989
+
+Percent change from:
+
+Record
+Year end  highs 
+
+Lows
+
+Feb  8
+
+Mar 23
+
+Stock  prices
+
+Dow-Jones  Indkstrial
+NYSE  Composite
+AMEX Comosite
+NASDAQ  (TC)
+
+1895.95
+138.58
+263.27
+348.8 3
+
+2722.42
+187.99
+65.01
+55.26
+
+1738.74
+125.91
+231.90
+291.88
+
+2343.21
+167.69
+327.23
+407.97
+
+2243.04
+162.64
+24.87
+400.94
+
+FOMC
+Feb 8
+
+-4.27
+-3.01
+-0.72
+-1.72
+
+1/  One-day  quotes  except  as  noted. 
+2/  Last  business  day  prior  to  stock  market  decline  on  Monday 
+
+Oct.  19,  1987. 
+
+3/  Average  for  two-week reserve  maintenance  period  closest  to 
+
+date  shown  except  lows  shown  which  are  one-week  averages  ending 
+Feb.  25  and  Feb.  10,  respectively.  Last  observation  is  average  7/  Quotes  for  week  ending
+for  maintenance period  ending  March  22,  1989. 
+
+Friday  closest  to  date  shown.
+
+e--estimate
+
+4/  Secondary  market.
+5/  Bid  rates  for  Eurodollar
+
+deposits  at  11  a.m.  London  time.
+6/  Based  on  one-day  Thursday  quotes
+and  fUtures-market  index  changes.
+
+SUMMARY OF  PRESIDENT BUSH'S  BUDGET PLAN  FOR 1990
+AND  RECENT BUDGET DEVELOPMENTS
+
+President  Bush presented his  proposed budget  priorities in  a document,
+
+Building A Better America, that  accompanied his February  9 message to
+
+Congress.  The  aggregate  budget  goals  and  underlying economic  assumptions
+
+are  presented in  table  1.1  CBO's  analysis  of  President Bush's  budget
+
+proposals  was  presented early in March.  The biggest  issue  raised by  CBO
+
+about  the  administration's  budget  estimates  related to the  accounting for
+
+the  President's proposed  resolution of the thrift  crisis.  In  Congress,
+
+hearings  are proceeding  on the thrift proposal, and congressional  leadership
+
+and administration  representatives are  just  finishing a round of  negotia-
+
+tions before  the  Budget Committees  begin to  formulate  the  Congressional
+
+Budget  Resolution.
+
+The  President's budget  document  emphasizes  limiting the  year-to-year
+
+growth in  spending to no  more than the available  growth  in receipts,  less
+
+the amount  necessary to  reduce  the  deficit  from almost  $165  billion for
+
+FY1989  ($171 on a GRH  accounting basis)  to  the $100  billion level  mandated
+
+by the  Gramm-Rudman law  for  FY1990.  Consequently, the plan for  FY1990  calls
+
+for an  increase in  spending  (excluding the effects  of  asset  sales)  of  only
+
+$11  billion.  After allowing  for  some  reduction in  asset  sales  between
+
+FY1989  and FY1990,  total  net  outlays  rise by  $14  billion, about matching the
+
+restrained advance  in  FY1987  and  less than one-quarter the  average year-to-
+
+year  rise  for  the period 1980  through  1988.  With such  substantial
+
+1. The  economic assumptions  that  had been used in  the Reagan  Administra-
+
+tion budget  submitted  in  January were  slightly modified,  in  light  of
+incoming data,  and the  FY1989 budget  estimate was revised, mainly to  reflect
+the  greater-than-anticipated surge  in FSLIC  activity  in December.
+
+A-1
+
+A-2
+
+restraints on  spending and an anticipated increase of  $81  billion in
+
+receipts under  existing tax laws, the deficit  could be  reduced to  $100
+
+billion, even without  the estimated $5.6 billion  revenue gain  from proposed
+
+legislation.  After allowing  for this  gain and  for asset  sales,  the
+
+President  proposes  a FY1990  deficit  of  $91  billion.
+
+The  largest  boost to  revenues  from proposed changes  in tax law
+
+($4.8 billion) is  estimated to  result  from a reduction in the capital  gains
+
+tax  rate  for  selected assets.  In addition, proposals  are made  (as in
+
+President  Reagan's January  Budget)  for  extension of the Medicare payroll  tax
+
+to  state  and local  employees  not  now covered  and for  retention of
+
+aviation-related taxes that  would expire  under current  law.  President  Bush
+
+also proposes  some  revenue reductions,  mainly larger tax breaks  for  research
+
+and experimentation costs.  (His child-care tax  credit  results almost
+
+entirely in a small addition to outlays,  rather than a loss  of receipts,
+
+because  it  is  refundable  and leads  to  cash payments to  low-income
+
+beneficiaries.)
+
+On the  spending  side,  the  President's  document does  not  specify all
+
+policy changes necessary to  arrive  at  the outlay  total that  he endorses.
+
+Rather,  it  lays  out  a series  of principles  for  determining subtotals  for
+
+major blocks  of the  budget  and identifies  key priorities.  Military  outlays
+
+are  estimated on the basis  of  holding appropriations  constant  in real  terms
+
+for FY1990;  in addition,  an increase of  $0.7  billion  for  the  "clean-up" of
+
+atomic weapons production is  recommended.  This  results  in a year-to-year
+
+increase in total  defense spending of  $2.1  billion  from FY1989 to  FY1990,  as
+
+shown in table  2.  Income  security programs,  such as  Social  security and
+
+unemployment  compensation, and  key  "means-tested" entitlements  (the safety
+
+A-3
+
+net  programs  for  the poor) are to be  "fully funded"--that  is,  spending is
+
+estimated to grow  as  required to meet the  increase  in the recipient
+
+population and the  cost-of-living adjustments  specified in the  current  law.
+
+Other existing,  and some  new,  programs  are identified as  "areas  of
+
+priority initiative  spending. 
+
+The  Bush  figures  indicate proposed  nominal
+
+increases  in these  categories relative to the  FY1989  levels  of  $11.7
+
+billion.  The  Board staff estimates this  increase to be  about  $3.5 billion
+
+relative to  current  services levels  for FY1990.  The major priority  areas
+
+were  identified as:  (a) investment  projects  in NASA and National  Institute
+
+of Health;  (b) education programs,  principally involving small  amounts  of
+
+spending  for  initiatives  to encourage excellence in teaching and student
+
+performance;  (c) programs  for  ending drug  abuse and increasing law
+
+enforcement;  (d) environmental programs to  curb acid  rain and promote  land
+
+and water conservation;  (e) welfare programs, primarily related to
+
+homelessness  and increased effectiveness of Medicaid;  (f) spending  for  the
+
+Federal Aviation Administration;  and  (g) international  affairs.
+
+The  Bush budget  identifies  specific program cuts  from current  services
+
+amounting to almost  $15  billion.  Within this  total,  $11.8  billion of cuts
+
+are  concentrated in Medicare,  federal employee  health benefits,  federal
+
+lump-sum retirement  benefits,  and  farm price  supports;  a one-year  freeze  on
+
+COLAs  in  federal retirement  benefits would  save  $1.4  billion.  Proposals to
+
+shift  from direct  loans to guaranteed  loans or  vouchers  in a number of
+
+agricultural credit  and rural  housing programs  are  estimated to save  an
+
+additional  $1.7  billion.
+
+The  President's  plan explicitly incorporates the  proposed reform of
+
+deposit  insurance and  off-budget  financing for  rapid  resolution of  insolvent
+
+A-4
+
+thrift  institutions;  it also reflects  the growth  of  interest  outlays and
+
+proposes  to raise offsetting receipts by sale  of  some  public activities to
+
+the private  sector.  Remaining programs are  not  considered specifically;  the
+
+Board  staff estimates that  outlays  for  these programs  would be  required to
+
+decline by about  $5 billion between  FY1989 and FY1990  to meet  the
+
+President's aggregate  spending objective.  Such a decline  would reduce them
+
+about  $11  billion below the  level that  would result  if  current  laws  were
+
+retained and  spending levels  for discretionary programs  were  raised enough
+
+2
+to  compensate  for projected inflation. 
+
+Overall,  outlays  (excluding loan
+
+asset  sales)  proposed for  FY1990  are  shown in  table  2 to be about  $27
+
+billion below  the  current  services total  reported in the  January budget
+
+document  (adjusted for the  revisions  to economic  assumptions).
+
+The Congressional Budget  Office has  prepared an analysis  of President
+
+Bush's budget  plan that  was  presented early  in March  in testimony by CBO
+
+Director  Robert  Reischauer.  In his  testimony, he  noted that  the economic
+
+and technical assumptions  that  CBO used  in preparing its  own baseline
+
+(essentially current  services)  budget  projections would add a total  of $17
+
+billion to the  FY1990  budget  deficit  projected by OMB.  CBO's baseline
+
+budget  estimates  and economic projections  are shown on table  3.  CBO's
+
+2. A significant  part  of the year-to-year decline and  the reduction  from
+current  services in the  residual program category could be  accomplished by
+the President's proposals for  increases  in offsetting collections  from
+service  fees  and charges, and  leasing.  In  total, these  increases  are
+estimated to  amount  to  $5.2  billion  in  FY1990.
+
+3. It is  difficult  to estimate the magnitude of  the  Bush budget proposals
+
+in NIPA terms  without more  detail--including determination of the
+unspecified components of  the  proposal that  have  been  left  for negotiation
+with Congress.  It appears  likely, however,  that  as  much as  $25  billion  of
+the  outlay reduction from current  services could be  reflected in NIPA terms.
+On  the  receipts  side, proposed changes  are  very  small  except  for  the highly
+controversial  effects of the proposed  change  in  the  capital gains tax.
+These  changes  in tax law would be  reflected in the NIPA accounts.
+
+A-5
+
+projection of higher  interest  rates than anticipated by the administration
+
+accounts  for essentially all  of the  $9 billion net  contribution of economic
+
+assumptions  to their  higher FY1990  deficit;  CBO's  higher  inflation
+
+projection  raises  receipts and  costs of indexed benefit  programs  by  roughly
+
+offsetting amounts.  CBO's  estimates  of spending  for  defense  and by FDIC
+
+account for most  of the  $8 billion technical difference with the
+
+administration. 4
+
+Allowing  for these  economic  and technical differences would raise the
+
+President's  estimated deficit  (excluding asset  sales)  from $95  billion to
+
+$112  billion.  Apart  from the  effects  of the thrift  proposal,  CBO's
+
+reestimates imply  $26  billion of deficit  reduction in the President's
+
+proposed budget  for  FY1990,  or roughly  $7 billion less than  implied  in the
+
+administration's projections.  This  difference is  almost  entirely accounted
+
+for by  CBO's expectation of smaller  increases  in receipts  from the
+
+President's proposed  changes in capital  gains taxes and  their conclusion
+
+that anticipated new  leasing income  could not  be  realized in  1990.
+
+The President's proposal  for resolving the  savings  and loan  industry
+
+problems would provide for  substantially more  spending than in the  CBO
+
+baseline but  would also bring in  modest amounts  of additional  income, both
+
+from higher  deposit  insurance premiums and  from  sources such as FHLB
+
+earnings.  CBO estimates that  this proposal  would result,  on net,  in  FY1990
+
+outlays  of  $22  billion, before  allowing for  the proposed offsetting receipts
+
+of  $25  billion  from the  Resolution Financing Corporation  (REFCORP).  CBO
+
+questions the  off-budget  status  of  this  new financing  agency in the
+
+4. Estimates of  FSLIC  outlays are  considered separately by CBO and  are
+
+discussed below.
+
+A-6
+
+President's  plan.  If the  President's plan were  fully implemented and
+
+incorporated in  the budget  as  he proposed, however,  the FY1990  deficit would
+
+be  reduced to  $109  billion, according to CBO.
+
+The  issue of  the off-budget  status  of REFCORP  has been  raised in
+
+hearings  on the thrift  proposal.  Several  alternatives to the  administra-
+
+tion's plan also have been  suggested.  These include:  (a) shifting the
+
+timing of budget  outlays  for  thrift  resolutions  so  as to avoid  adding to
+
+difficulties  in meeting the  Gramm-Rudman targets  for  FY1990  and  (b)
+
+providing some  form of exemption from Gramm-Rudman accounting for
+
+extraordinary thrift  resolution outlays.  Like the  administration's
+
+proposal, these  alternatives  are designed to avoid  a sequester.
+
+General  budget negotiations  also have been underway between  senior
+
+representatives  of the  administration and the  Budget  Committees.  Before
+
+leaving for  the Easter  recess,  these negotiators  reported to the  President
+
+in  a March 23  letter that  a number of budget options  had been considered and
+
+progress  had been made on technical  issues.  It was  noted, however,  that
+
+policy differences  remain and that it  would be  "essential to  resume
+
+negotiations after the  Easter break."
+
+Table  1
+
+BUSH ADMINISTRATION FEDERAL  BUDGET PROPOSALS
+(Billions of  dollars)
+
+Outlays 
+
+Receipts 
+
+1989 
+
+1990 
+
+Fiscal  years
+1991 
+
+1992 
+
+1993 
+
+1994
+
+1150 
+
+1160 
+
+1212 
+
+1249 
+
+1284 
+
+n.a.
+
+979 
+
+1066 
+
+1148 
+
+1219 
+
+1287 
+
+n.a.
+
+Deficit,  excluding asset
+
+sales 
+
+171 
+
+95 
+
+64 
+
+31 
+
+-3 
+
+n.a.
+
+Source:  Building a Better  America, February  9, 1989.
+* In testimony before the  House  Budget  Committee on February 22,  OMB
+Director  Darman revised  the FY1989  administration outlay total upward by
+$0.4  billion.  The FY1989  deficit,  excluding asset  sales,  now  rounds  to  $171
+billion.
+
+BUSH ADMINISTRATION ECONOMIC ASSUMPTIONS
+
+1989 
+
+1990 
+
+Calendar years
+1992 
+
+1991 
+
+1993 
+
+1994
+
+----------
+
+Percent  change,  Q4  to  Q4---------
+
+7.3 
+
+7.0 
+
+6.4 
+
+3.5 
+
+3.7 
+
+3.4 
+
+3.5 
+
+3.3 
+
+3.0 
+
+5.8 
+
+3.2 
+
+2.5 
+
+5.3 
+
+3.2 
+
+2.0 
+
+4.7
+
+3.2
+
+1.5
+
+-----------
+
+Percent,  annual  average--------
+
+5.3 
+
+5.2 
+
+5.0 
+
+5.0 
+
+5.0 
+
+5.0
+
+Nominal  GNP 
+
+Real  GNP 
+
+GNP  deflator 
+
+Civilian  unemployment
+
+rate 
+
+Interest  rate
+
+(3-month  Treasury  bills) 
+(10-year Treasury Notes) 
+
+7.4 
+8.6 
+
+5.5 
+7.2 
+
+4.5 
+6.0 
+
+4.0 
+5.0 
+
+3.5 
+4.5 
+
+3.0
+4.0
+
+Source:  OMB,  Revised Economic Assumptions  for the  Bush Budget,
+February  9, 1989.
+
+Table  2
+
+SUMMARY OF BUSH  BUDGET PLAN FOR FY1990
+(Billions of dollars)
+
+1990
+
+--------- Change--------
+From
+current
+services1
+
+Year-to-year 
+
+FY1989 
+
+FY1990 
+
+979.3 
+
+1065.6 
+
++86.3 
+
+298.2 
+
+300.3 
+
++2.1 
+
+5.6
+
+-.62
+
+314.4 
+
+330.9 
+
++16.5 
+
+.0
+
+104.4 
+
+116.1 
+
++11.7 
+
++3.5e
+
+167.3 
+
+165.5 
+
+-1.8 
+
+-14.8
+
+Receipts 
+
+Outlays
+
+Defense 
+Income  security--
+
+Social  security,
+unemployment  comp.,
+veterans pensions,
+and means-tested
+programs. 
+
+Priority  spending--
+
+Science,  conservation,
+education, drugs,
+crime prevention,
+Medicaid, and  interna-
+tional  affairs. 
+
+Specified programs with
+cuts  from current
+services--farm price
+support  and  credit,
+Medicare,  federal
+employee health  and
+retirement. 
+
+Deposit  insurance 
+
+14.7 
+
+.4 
+
+-14.3 
+
+Interest 
+
+168.8 
+
+173.3 
+
+Offsetting  receipts 
+
+-36.9 
+
+-39.6 
+
+All  other  spending 
+Total4  
+
+118.6 
+
+113.5 
+
+1149.5 
+
+1160.4 
+
++4.5 
+
+-2.7 
+
+- 5.1 
+
++10.9 
+
+Deficit 
+
+-170.2 
+
+-94.8 
+
++75.4 
+
+-.3
+
+-1.1
+
+-2.7
+
+-11.3
+
+27.3
+
+-32.9
+
+Deficit,  with asset sales 
+
+-163.3 
+
+-91.1 
+
++72.2 
+
+n.a.
+
+e--estimated by the  staff.
+1. Current  services as estimated in  the January budget  documents,  adjusted
+for  changes in  economic  assumptions.
+2. Reduction in outlays  from current  services is  in parts  of the defense
+function other than the military functions  of  the Department  of Defense  and
+the  nuclear waste  clean-up activities  in the Department  of  Energy.
+3. Deposit  insurance  estimates  include all  aspects of  the  President's thrift
+resolution proposal as  estimated February 9;  current  services estimate was
+preliminary.
+4. Outlays before asset  sales,  which  are estimated to  amount  to  $6.9  billion
+in FY1989 and  $3.7  billion  in FY1990.
+
+Table  3
+
+CBO  BASELINE BUDGET  ESTIMATES 1
+(Billions of  dollars)
+
+1989 
+
+1990 
+
+Fiscal years
+1991 
+
+1992 
+
+1993 
+
+1994
+
+1142 
+
+1215 
+
+1287 
+
+1348 
+
+1416 
+
+1489
+
+983 
+
+1069 
+
+1140 
+
+1209 
+
+1280 
+
+1359
+
+159 
+
+146 
+
+146 
+
+140 
+
+135 
+
+130
+
+CBO ECONOMIC ASSUMPTIONS
+
+1989 
+
+1990 
+
+Calendar  years
+1992 
+
+1991 
+
+1993 
+
+1994
+
+---------Percent  change,  year-to-year------
+
+7.2 
+
+2.9 
+
+4.2 
+
+6.4 
+
+2.1 
+
+4.2 
+
+6.5 
+
+2.2 
+
+4.2 
+
+6.4 
+
+2.2 
+
+4.1 
+
+6.4 
+
+2.3 
+
+4.1 
+
+6.5
+
+2.3
+
+4.1
+
+-----------
+
+Percent,  annual  average--------
+
+Outlays 
+
+Receipts 
+
+Deficit 
+
+Nominal  GNP 
+
+Real  GNP 
+
+GNP  deflator 
+
+Civilian unemployment
+
+rate 
+
+Interest  rate
+
+(Treasury bills) 
+(Treasury notes) 
+
+5.5 
+
+5.5 
+
+5.5 
+
+5.6 
+
+5.6 
+
+5.6
+
+7.9 
+9.3 
+
+7.1 
+9.0 
+
+6.7 
+8.6 
+
+6.4 
+8.1 
+
+6.1 
+7.7 
+
+5.9
+7.4
+
+Source:  CBO, An Analysis  of  President  Reagan's Budgetary Proposals  for
+Fiscal  Year  1990,  (February 1989).
+
+1. CBO projections  assume that  revenues  and outlays evolve  according to  laws
+now on the  statute  books, and that  defense  and nondefense  discretionary
+appropriations  are  held  constant  in  real  terms.
+
+

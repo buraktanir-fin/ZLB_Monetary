@@ -1,0 +1,13892 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version 
+
+available based on original copies culled from the files of the FOMC Secretariat at the 
+Board of Governors of the Federal Reserve System.  This electronic document was 
+created through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1 and then making the scanned versions 
+text-searchable.2  Though a stringent quality assurance process was employed, some 
+imperfections may remain. 
+
+Please note that this document may contain occasional gaps in the text.  These 
+
+gaps are the result of a redaction process that removed information obtained on a 
+confidential basis.  All redacted passages are exempt from disclosure under applicable 
+provisions of the Freedom of Information Act.    
+
+1 In some cases, original copies needed to be photocopied before being scanned into electronic format.  All 
+scanned images were deskewed (to remove the effects of printer- and scanner-introduced tilting) and lightly 
+cleaned (to remove dark spots caused by staple holes, hole punches, and other blemishes caused after initial 
+printing). 
+2 A two-step process was used.  An advanced optimal character recognition computer program (OCR) first 
+created electronic text from the document image.  Where the OCR results were inconclusive, staff checked 
+and corrected the text as necessary.   Please note that the numbers and text in charts and tables were not 
+reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+Confidential  (FR)  Class III  FOMC
+
+Part  2
+
+December  2, 1996
+
+CURRENT  ECONOMIC
+AND  FINANCIAL  CONDITIONS
+
+Recent  Developments
+
+Prepared  for  the  Federal  Open  Market  Committee
+
+By  the  staff of the  Board  of Governors  of the  Federal  Reserve  System
+
+Confidential  (FR)  Class  III  FOMC
+
+_
+
+December  12,  1996
+
+RECENT  DEVELOPMENTS
+
+Prepared  for the  Federal Open  Market Committee
+by the staff of the  Board of Governors of the  Federal  Reserve  System
+
+DOMESTIC  NONFINANCIAL
+DEVELOPMENTS
+
+DOMESTIC NONFINANCIAL  DEVELOPMENTS
+
+The  economy  exhibited  moderate  growth  early in  the  fourth
+
+quarter.  Employment  continued  to  increase  at  a solid  clip  in the
+first  two months  of the  quarter,  and  consumer  spending  revived
+after  a summer lull.  Meanwhile,  inflation  remained  on  a fairly
+steady  trend, with  the  core CPI  continuing to  run  just  above
+2-1/2  percent  on a twelve-month basis.
+
+Real  GDP
+
+According to  BEA's  preliminary  estimate,  real  GDP  rose  at  an
+
+annual  rate  of  2 percent  in the  third  quarter,  0.2  percentage  point
+less  than  in the  advance  report.  The  revision  reflected  sharp
+
+downward  adjustments  to  inventory  investment  and  net  exports,  which
+were  partially  offset by  upward  adjustments  to  consumer  spending,
+business  fixed  investment, and  government  expenditures.  Data
+
+received  since  the  preliminary  report  suggest  that  slightly higher
+inventories will  lead  BEA  to  revise  third-quarter  GDP  growth back  up
+to  the  area  of  2-1/4 percent.  However,  none  of  these  revisions
+alters  the  basic  expenditure mix portrayed  in  the  advance  report:
+strong business  fixed  investment  and  inventory accumulation but  weak
+consumer  spending  and  net  exports.
+
+The  BEA  report  also  indicated that  gross  domestic  income  (GDI),
+
+which  rose  4 percent  at  an  annual  rate  in  the  third  quarter  and
+3-1/2  percent  during the  past year,  continued  to  grow  substantially
+faster  than  GDP.1  Total  economic  profits  (including inventory
+
+valuation  and  capital  consumption adjustments)  held  steady in  the
+third  quarter  after  strong  gains  over the  first  half  of  the year,
+and  the  profit  share  edged  down  only  a tad,  to  8.6  percent.
+
+Domestic nonfinancial  profits were  up  for  the  third  straight  quarter
+and  about  offset  declines  in  profits  from  the  domestic  financial
+sector  and  the  foreign  sector.
+Labor Market  Developments
+
+The  November  survey  of establishments  revealed  continued  solid
+
+demand  for  labor.  Private  nonfarm  payrolls  rose  140,000,  after
+
+1. The  difference between  the  product-  and  income-side measures
+has  led  to  a sharp  widening  in  the  statistical  discrepancy  in  recent
+years.  Because  BEA truncated  this  year's  normal  annual  revision
+process  and  because  the  swing  in  the  statistical  discrepancy  is  so
+dramatic, we  find  it  useful  to  examine  both  the  product-based  and
+income-based measures.
+
+II-1
+
+II-2
+
+Real  Gross Domestic Product and Related Items
+(Percentage change from previous period at compound  annual  rates;
+based on seasonally adjusted data, chain-type indexes)
+
+1.  Gross domestic product
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+Private domestic final purchases
+
+Consumer spending
+
+Business fixed investment
+
+Residential investment
+
+Federal  government
+
+State and local government
+
+MEMO:
+8.  Nonfarm  inventory investment'
+9. 
+10. 
+
+Motor vehicles  '
+Excl. motor vehicles'
+
+11. 
+
+Farm  inventory investment
+
+1996:Q3 
+
+Advance 
+
+Preliminary 
+
+1995:Q3 to
+1996:Q3
+
+2.2
+
+1.9
+
+.4
+
+14.7
+
+-5.8
+
+-4.0
+
+.2
+
+41.2
+4.8
+36.4
+
+-2.2
+
+2.0
+
+2.3
+
+.6
+
+16.9
+
+-5.9
+
+-3.4
+
+1.7
+
+33.0
+5.8
+27.2
+
+-. 5
+
+2.2
+
+3.1
+
+2.1
+
+8.5
+
+5.7
+
+-. 7
+
+2.2
+
+37.2  2
+2.1  2
+35.1  2
+
+-4.7  2
+
+12.  Net  exports of  goods and  services'
+
+-132.2
+
+-138.8
+
+-107.62
+
+13.  Nominal GDP
+
+14.  Gross domestic income
+
+1. Level, billions of chained (1992)  dollars.
+2.  1995 annual  average.
+
+3.8
+
+n.a.
+
+3.6
+
+4.1
+
+4.1
+
+3.4
+
+Comparison  of GDP  and  GDI 
+
+Corporate  Profit Share
+
+Percent
+
+Percent
+
+1988 
+
+1991 
+
+1994 
+
+1997 
+
+1962 
+Note. Economic  profits divided by nominal GNP.
+
+1974 
+
+1986
+
+LJ- 4
+1998
+
+II-3
+
+surging  230,000  in October.2  The  average  workweek  of  private
+production or  nonsupervisory workers  rose  to  34.5  hours  in November,
+
+reversing half  of  its  October  decline  and  lifting  the  workweek
+
+0.1  hour  above  the  average  for  the  first  ten months  of  the  year.
+
+Aggregate  hours  of  production workers  in  November  stood  0.4  percent
+above  their third-quarter  average.
+
+Private  employment  gains  were widespread  in November.  Payrolls
+
+rose  118,000  in  the  service-producing  sector,  led by  increases  in
+
+health  services,  private  educational  services,  and  computer
+
+services.  However,  employment  in help  supply  services,  which  had
+
+been  at  a high  level  since  a big  jump  in August,  dropped back
+
+32,000,  to below  its  July  reading.  Anecdotal  reports  suggest  that  a
+
+possible  explanation  for  at  least  part  of  the  weakness  in  employment
+
+in  this  industry  is  that  firms  had  difficulty hiring additional
+
+workers.  Employment  in  retail  trade  rose  17,000  in  November after  a
+
+sharp  increase  in October  that  BLS  attributes,  in  large  part,  to
+
+unusually  early seasonal  hiring  at  general  merchandise  and  apparel
+
+stores.  In  the  goods-producing  sector,  both construction  and
+
+manufacturing  firms  added  jobs  in November.  The  gains  included  a
+
+second  consecutive strong  month for  aircraft  and  parts.
+
+Employment,  as  measured  by the  household  survey,  fell  30,000  in
+
+November,  and  the  labor  force  expanded  244,000.  The  published
+
+unemployment  rate  increased  0.2  percentage  point, to  5.4  percent,
+
+but  the  unemployment  rate  estimated  with concurrent  seasonal  factors
+
+edged  up  only  0.1  percentage  point, to  5.3  percent.  Among
+
+demographic  groups,  increases  in  unemployment rates  were  largest  for
+
+teenagers  (16.1  to  17.0  percent)  and  men  aged  20  to  24  (8.7  to  9.3
+
+percent).  Unemployment  rates  for  prime-age workers  (those 25  to  54
+
+years  old)  held  steady  at  4.0  percent  for  men  and  rose  slightly  from
+
+4.3  to  4.5  percent  for women.  The  labor  force  participation  rate
+
+remained  at  66.9  percent.  1/2  percentage  point  higher  than  a year
+
+ago.
+
+Other  labor  market  indicators  hint  at  a bit  more  strength than
+
+is  apparent  in  the  recent  household  and  payroll  surveys.  Weekly
+
+initial  claims  for  unemployment  insurance  (state programs  only)
+
+averaged  332,000  during  the  past  four  weeks--a  level  historically
+associated with  faster  employment  growth.  The  Conference  Board's
+
+help-wanted  index  (with FRB  adjustments)  was  little  changed  in
+
+2. With  the  November  labor  market  report.  BLS  updated  the
+seasonal  factors  in  the  payroll  survey  for  September  through
+November  of  this  year.
+
+I-4
+
+CHANGES  IN EMPLOYMENT 1
+(Thousands of  employees;  based on  seasonally adjusted data)
+
+1996 
+
+1996
+
+1994  1995 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Sept.  Oct.  Nov.
+
+Nonfarm payroll employment 2  
+
+Private 
+
+Manufacturing 
+
+Durable 
+
+Transportation equipment 
+
+Nondurable 
+Construction 
+Trade 
+Finance,  insurance, real  estate 
+Services 
+
+Help supply services 
+
+Total  government 
+
+------------ Average monthly changes--------
+262 
+245 
+6 
+24 
+16 
+-19 
+20 
+82 
+12 
+113 
+29 
+17 
+
+224 
+232 
+9 
+7 
+-2 
+2 
+12 
+108 
+16 
+88 
+2 
+-8 
+
+205 
+189 
+-29 
+-15 
+-13 
+-14 
+39 
+22 
+15 
+126 
+9 
+16 
+
+185 
+176 
+-12 
+5 
+-3 
+-17 
+9 
+54 
+4 
+110 
+8 
+9 
+
+318 
+295 
+33 
+28 
+5 
+5 
+25 
+91 
+-3 
+134 
+28 
+23 
+
+171 
+147 
+-19 
+-7 
+-4 
+-12 
+16 
+59 
+14 
+76 
+12 
+24 
+
+-2 
+85 
+-50 
+-36 
+-20 
+-14 
+12 
+46 
+10 
+75 
+-6 
+-87 
+
+Private  nonfarm production workers 2   267 
+34 
+
+Manufacturing production workers 
+
+152 
+-10 
+
+157 
+-30 
+
+213 
+5 
+
+120 
+-14 
+
+46 
+-35 
+
+187 
+11 
+
+118
+140
+9
+10
+6
+-1
+14
+20
+16
+70
+-32
+-22
+
+45
+13
+
+Total employment 3  
+Nonagricultural 
+
+261 
+225 
+
+32 
+51 
+
+390 
+336 
+
+153 
+188 
+
+253 
+202 
+
+313 
+198 
+
+259 
+336 
+
+-30
+73
+
+Memo:
+Aggregate hours of  private production
+
+workers  (percent change) 2  
+
+Average workweek  (hours)2  
+Manufacturing  (hours) 
+
+.1 
+
+.4 
+
+.1 
+34.6  34.5  34.3  34.4  34.4 
+41.9  41.6  40.9  41.7  41.7 
+
+.5 
+
+.3 
+
+.8 
+
+-.7 
+
+.4
+34.7  34.3  34.5
+41.7  41.7  41.7
+
+1. Average  change  from final month of preceding period to  final month of
+
+period  indicated.
+
+2. Survey of  establishments.
+3. Survey of  households.
+
+SELECTED UNEMPLOYMENT AND  LABOR FORCE PARTICIPATION RATES
+(Percent;  based on  seasonally adjusted data)
+
+1996 
+
+1996
+
+1994  1995 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Sept.  Oct.  Nov.
+
+Civilian unemployment  rate
+(16 years  and older)
+
+6.1 
+
+5.6 
+
+5.6 
+
+5.4 
+
+5.2 
+
+5.2 
+
+5.2 
+
+5.4
+
+Teenagers
+
+17.6  17.3  17.4  16.3 
+
+16.4
+
+15.6  16.1  17.0
+
+Men: 
+
+20  years and older
+
+20-24  years
+25-54  years
+55  years and older
+
+Women:  20 years  and older
+
+20-24 years
+25-54  years
+55  years  and older
+
+5.4
+10.1
+4.9
+4.3
+
+5.4
+9.2
+5.0
+3.9
+
+4.8
+9.2
+4.4
+3.7
+
+4.9
+9.0
+4.5
+3.6
+
+4.9
+
+10.1
+
+4.4
+3.5
+
+4.9
+9.5
+4.4
+3.8
+
+4.7
+10.0
+4.3
+3.3
+
+4.8
+8.5
+4.4
+3.7
+
+4.5
+8.8
+4.0
+3.4
+
+4.7
+9.0
+4.3
+3.3
+
+4.5
+9.3
+4.0
+3.1
+
+4.8
+9.0
+4.5
+2.8
+
+Full-time workers
+
+6.1 
+
+5.5 
+
+5.5 
+
+5.3
+
+5.1 
+
+5.1 
+
+5.1 
+
+5.3
+
+Labor  force participation rate  66.6  66.6  66.7  66.7  66.8
+
+66.8  66.9  66.9
+
+II-5
+
+October  from the  relatively high  level  experienced during  the  past
+
+two years.  The  Manpower  Inc.  index of  net  hiring plans  for  the
+
+first  quarter  of  1997  was  up  from  a year  ago.  (Judging from earlier
+
+patterns,  this  increase  probably  says  more  about  the  fourth  quarter
+than the  first.)  Perceptions  of  labor  market  conditions,  as
+reported  by  the  Conference  Board  and Michigan  surveys,  also  remained
+
+quite  favorable through  November.
+
+Average hourly  earnings  of production  or  nonsupervisory workers
+
+on  private  nonfarm payrolls  rose  0.8  percent  in November  after
+
+edging down  0.1  percent  in  October.  Averaging  over  those two
+
+months,  wage  increases  were  particularly large  in  the  retail  trade
+
+and  services  industries--industries where  October's  increase  in  the
+
+minimum wage most  likely would  appear.  More  broadly, the  recent
+
+data provide  further  indication  of acceleration  in  total  average
+
+hourly  earnings.  Wages have  risen  3.5  percent  during  the  past
+
+twelve  months--0.6  percentage point  more  than  during  the  preceding
+
+twelve-month  period.
+
+Growth  in  output  per  hour  in the  nonfarm business  sector  in  the
+
+third  quarter was  revised  down  1/2  percentage point  and  now  shows  a
+
+slight  decline.  Productivity  growth earlier  in  the  year was  revised
+
+up  slightly,  but  growth during  the  four  quarters  of  1995  was  revised
+
+3
+down,  from  0.3  percent  to  -0.1  percent. 
+
+All  told,  the  data  now
+
+show that  nonfarm business  productivity has  grown  at  an  annual  rate
+
+of  0.9  percent  since the  last  business  cycle  peak  (1990:Q3),  rather
+
+than the  1.0  percent  pace  estimated prior  to  the  revision.
+
+Output  per  hour  in  the  nonfinancial  corporate  business  sector
+
+increased  at  an annual  rate  of  3.6  percent  in  the  third  quarter  and
+
+1.7  percent  annually  since  the  last  peak.  This  estimate  is  based  on
+
+data from the  income  side  of  the NIPA  and  excludes  productivity  of
+
+financial  and  noncorporate  businesses, which  probably  is  more
+
+difficult to  measure  accurately.
+
+Compensation per  hour  in  the  nonfarm business  sector  in  the
+
+third  quarter was  also  revised  down--from an  annual  rate  of
+
+3.9  percent  to  3.4  percent.  During  the  past  four  quarters,
+
+compensation per  hour  increased  3.7  percent,  up  a bit  from
+
+3. The  revisions  to  productivity  and  compensation  per  hour  in
+1995  incorporate the  results  of  the  1995  Hours  at  Work  Survey  (HWS).
+BLS  uses  this  survey to  adjust hours  for  which  private  nonfarm
+employees  are  paid  (reported in  the  BLS  Current  Establishment
+Survey)  to  hours  at  the  workplace.  The  latest  HWS  indicated  that
+hours  at work  grew more  than  previously  estimated.  Hours  in
+manufacturing  largely were  unaffected  by these  revisions.
+
+II-6
+
+Initial Claims for Unemployment  Insurance
+
+Labor  Market  Indicators
+
+Four-week  moving  average
+
+Thousands
+
+600
+
+~-
+
+111 
+
+I/ 
+
+I 
+
+I 
+
+\^
+
+I  ,c
+11 
+
+,. 
+1332
+
+I 
+
+7 
+
+1985
+
+1987
+
+1989
+
+1991
+
+1993
+
+1995
+
+1997
+
+Note.  State  programs,  includes EUC  adjustment.
+
+Help Wanted Advertising
+
+index,  1990=100
+
+Net  Hiring Strength
+
+Percent
+
+500
+
+400
+
+300
+
+200
+
+1985 
+Note.  Series has been adjusted to take account of various structural
+
+1993 
+
+1989 
+
+1997
+
+1997
+1985 
+Note.  Percent planning  an increase in employment  minus percent
+
+1989 
+
+1993 
+
+and  institutional changes, including consolidation of  the  newspaper
+industry and a tendency toward  increased hiring through personnel
+supply agencies.
+
+planning a reduction.
+
+Job Availability 
+
+Percent  of  Households
+
+Expected Change  in  Unemployment
+
+Index
+
+1985 
+
+1989 
+
+1993 
+
+1997 
+
+1985 
+Note.  Percentage  expecting  'more"  minus percentage
+
+1989 
+
+1993 
+
+1997
+
+expecting  "less" plus  100,
+
+II-7
+
+AVERAGE HOURLY EARNINGS
+(Percentage change;  based on seasonally adjusted data)
+
+Twelve-month 
+percent change 
+
+Percent  change
+Nov.  1996  from 
+
+1996
+
+Nov. 
+1994 
+
+Nov. 
+1995 
+
+Nov. 
+1996 
+
+May 
+1996 
+
+Aug.
+1996 
+
+-Annual rate- 
+
+Total private nonfarm 
+
+Manufacturing 
+
+2.7 
+
+2.6 
+
+Contract  construction 
+
+2.8 
+
+2.9 
+
+2.5 
+
+2.3 
+
+3.5 
+
+3.6 
+
+2.0 
+
+4.3 
+
+3.5 
+
+2.5 
+
+4.1 
+
+1.9 
+
+.3 
+
+Oct. 
+
+Nov.
+
+-Monthly rate-
+
+-.1 
+
+.1 
+
+.1 
+
+.8
+
+.5
+
+-. 3
+
+Transportation and
+
+public utilities 
+
+2.9 
+
+2.8 
+
+1.0 
+
+1.1 
+
+-. 8 
+
+-. 5 
+
+.5
+
+Finance, insurance,
+
+and real  estate 
+
+Retail  trade 
+
+Wholesale  trade 
+
+Services 
+
+3.5 
+
+2.9 
+
+2.9 
+
+2.7 
+
+4.3 
+
+2.8 
+
+3.0 
+
+3.3 
+
+3.8 
+
+4.4 
+
+3.9 
+
+4.0 
+
+3.8 
+
+4.8 
+
+5.3 
+
+5.4 
+
+4.8 
+
+5.6 
+
+5.1 
+
+6.2 
+
+-.7 
+
+1.0 
+
+-.7 
+
+-.1 
+
+1.3
+
+.4
+
+1.1
+
+1.0
+
+Note. Twelve-month percent  changes use  NSA data.
+
+LABOR PRODUCTIVITY  AND COSTS
+(Percent change  from preceding period at  compound annual  rate;
+based on  seasonally adjusted data)
+
+1995 
+
+1996 
+
+19941 
+
+19951 
+
+Q4 
+
+Q1 
+
+Q2 
+
+Q3 
+
+1995:Q3
+to
+1996:Q3
+
+Output  per hour
+
+Total  business 
+
+Nonfarm business 
+Manufacturing 
+Nonfinancial
+
+corporations 2  
+
+.2 
+.3 
+4.5 
+
+-. 1 
+-. 1 
+3.5 
+
+-.6 
+-1.2 
+3.7 
+
+.2 
+
+1.5 
+
+2.4 
+
+Compensation per  hour
+
+Total  business 
+
+Nonfarm business 
+Manufacturing 
+Nonfinancial
+
+corporations 2  
+
+2.1 
+2.3 
+2.7 
+
+1.8 
+
+3.7 
+3.7 
+4.2 
+
+3.5 
+
+4.3 
+4.0 
+4.2 
+
+3.9 
+
+2.1 
+1.9 
+5.6 
+
+1.3 
+
+3.2 
+3.4 
+.4 
+
+2.7 
+
+Unit  labor costs
+
+Total business 
+
+Nonfarm business 
+Manufacturing 
+Nonfinancial
+
+corporations 2  
+
+1.9 
+2.0 
+-1.7 
+
+3.8 
+3.7 
+.7 
+
+5.0 
+5.2 
+.4 
+
+1.1 
+1.5 
+-4.9 
+
+1.5 
+
+1.9 
+
+1.5 
+
+1.5 
+
+1.2 
+.6 
+2.9 
+
+1.5 
+
+4.3 
+3.9 
+5.8 
+
+3.9 
+
+3.1 
+3.3 
+2.8 
+
+2.4 
+
+.0 
+-. 3 
+6.3 
+
+3.6 
+
+3.8 
+3.4 
+4.6 
+
+4.1 
+
+3.8 
+3.7 
+-1.6 
+
+.5 
+
+.7
+.3
+4.6
+
+2-2
+
+3.9
+3.7
+3.7
+
+3.7
+
+3.2
+3.4
+-.9
+
+1.5
+
+1. Changes  are  from fourth  quarter of preceding year  to  fourth quarter  of  year shown.
+2. The  nonfinancial  corporate  sector includes  all  corporations doing business  in the
+
+United States  with the  exception of banks,  stock and commodity brokers,  finance  and
+insurance companies;  the  sector  accounts  for  about two-thirds  of business  employment.
+
+II-8
+
+Selected  Measures  of Productivity
+
+Nonfinancial
+corporate  business
+
+Index,  1990=100
+
+Q3
+
+Nonfarm  business
+
+114
+
+- 111
+
+108
+
+105
+
+-102
+
+99
+
+1990 
+
+1991
+
+1992 
+
+1993 
+
+1994
+
+1995
+
+I I 
+
+I 
+
+, 
+
+I 
+
+i , 
+
+, 
+1996
+
+,  .
+
+A
+
+II-9
+
+3.5  percent  during the  year-earlier  period.  Compensation per  hour
+in  the  nonfinancial  corporate  sector  rose  4.1  percent  at  an  annual
+rate  in  the third  quarter and  3.7  percent  over the  past  four
+quarters.
+Industrial Production
+
+According  to  production-worker hours  and  available  physical
+
+product  data,  industrial  production increased  sharply  in November.
+A large  increase  in  motor  vehicle  assemblies  and  related  activity
+after  the  production disruptions  in  October  paced  the  advance;  a
+surge  in  utilities  output  also  contributed  importantly.4
+
+Motor vehicle  assemblies  rebounded  to  an  annual  rate  of
+12.1  million units  in November,  with  increases for  both autos  and
+trucks.  The  assembly  pace was  somewhat  below  that  scheduled  at  the
+beginning  of  the  month, in  part because  GM  did  not  come  back  from
+the  strike  as  quickly  as  it  had  anticipated.  GM also  continues to
+be  plagued  by  start-up  problems with  new models.  Nonetheless,  the
+increase  in  total  assemblies  was  large  enough to make  a direct
+contribution of  about  0.3  percentage  point  to  the  growth  in
+industrial  production,  and  upstream  industries  likely  added
+0.2  percentage  point.  Schedules  call  for  assemblies  of  12.4  million
+
+units  at  an  annual  rate  in  December  and  12.6 million  in the  first
+quarter  of  1997.
+
+PRODUCTION OF  DOMESTIC AUTOS AND  TRUCKS
+(Millions of  units  at  an  annual  rate;  FRB  seasonal  basis)
+
+U.S.  production 
+
+Autos 
+Trucks 
+Days'  supply
+
+Autos 
+Light  trucks 
+
+Q3 
+
+Oct. 
+
+Nov. 
+
+1996 
+
+12.7 
+6.7 
+6.0 
+
+62.3 
+74.8 
+
+11.2 
+5.5 
+5.7 
+
+64.9 
+65.3 
+
+12.1 
+6.3 
+5.9 
+
+67.4
+64.2
+
+1997
+Q1
+
+Dec. 
+---scheduled--
+
+12.4 
+6.1 
+6.4 
+
+12.6
+6.4
+6.2
+
+Note.  Components may not  sum  to  totals because  of  rounding.
+
+Manufacturing  production-worker hours  excluding motor  vehicles
+
+and  parts  (FRB seasonals) were unchanged  in November.  But,  together
+with productivity  gains  and  the  available  physical  output  data,  they
+suggest that  output in  manufacturing  excluding motor  vehicles  and
+parts  grew moderately last  month.  The  movements  in  hours  varied
+
+4. By  mid-November,  the  UAW  and  CAW had  ratified  new contracts
+
+with  each  of  the  Big Three.
+
+II-10
+
+GROWTH  IN  SELECTED  COMPONENTS  OF  INDUSTRIAL  PRODUCTION
+(Percent change  from preceding comparable period)
+
+Proportion
+1995:04 
+
+1996 
+
+1996
+
+19951 
+
+01 
+
+Q2 
+
+Q3 
+
+Aug. Sept.  Oct.
+
+----Annual rate-----  --Monthly rate---
+
+Total  index 
+Previous 
+
+100.0 
+
+1.6 
+1.6 
+
+3.0 
+3.0 
+
+6.7 
+6.7 
+
+4.4 
+4.4 
+
+.4 
+.4 
+
+.3 
+.3
+
+-. 5
+
+Manufacturing 
+
+Motor veh. and parts 
+Aircraft  and parts 
+
+86.5 
+5.5 
+1.7 
+
+1.4 
+2.4 
+-2.6  -20.7 
+64.0 
+
+-17.1 
+
+7-1 
+46.6 
+15.4 
+
+.1 
+
+5.5 
+
+.3  -.5
+15.4  -2.1  -2.2  -6.4
+1.1
+21.4 
+
+1.3 
+
+2.8 
+
+Manufacturing excluding
+motor vehicles,
+aircraft, and parts 
+
+Consumer goods 
+
+Durables 
+Nondurables 
+
+Business equipment 
+
+Office and computing 
+Industrial 
+Other 
+
+Defense and
+
+space equipment 
+
+Construction supplies 
+
+Materials 
+
+Durables 
+Nondurables 
+
+Mining 
+Utilities 
+
+79.2 
+
+23.1 
+3.7 
+19.4 
+
+13.6 
+3.1 
+4.3 
+6.1 
+
+1.7 
+
+5.3 
+
+28.7 
+20.3 
+8.2 
+
+6.0 
+7.5 
+
+2.2 
+
+3.0 
+
+4.6 
+
+4.4 
+
+.3 
+
+.4 
+
+-.1
+
+.1 
+-.4 
+.2 
+
+.2 
+-5.4 
+1.2 
+
+.4 
+8.2 
+-1.0 
+
+1.6 
+
+-.6 
+-2.2  -1.2 
+-.5 
+
+2.3 
+
+7.7 
+36.2 
+3.5 
+.8 
+
+13.9 
+48.4 
+4.1 
+4.9 
+
+8.1 
+45.5 
+-3.7 
+-3.5 
+
+8.9 
+44.1 
+-2.3 
+-1.3 
+
+.8 
+2.5 
+.6 
+.3 
+
+.5 
+.5 
+.5 
+
+1.0 
+3.0 
+-.2 
+-.2 
+
+-.1
+-. 4
+-.1
+
+.8
+2.1
+-.1
+.3
+
+-7.3 
+
+-1.7 
+
+6.1 
+
+8.2 
+
+.7  -1.0 
+
+-.8
+
+-.4 
+
+.6 
+
+7.7 
+
+7.3 
+
+1.3 
+
+1.0 
+
+-.2
+
+3.4 
+6.3 
+-2.8 
+
+-1.8 
+6.2 
+
+3.6 
+7.1 
+-5.0 
+
+1.9 
+8.9 
+
+6.4 
+4.1 
+12.6 
+
+10.5 
+1.3 
+
+4.8 
+.6 
+1.3 
+5.9 
+2.4  -1.0 
+
+-.1 
+-.2 
+-.1 
+
+-.4
+-.6
+.2
+
+5.6 
+-8.7 
+
+2.5 
+1.9 
+
+-.1  -1.0
+.0
+
+.3 
+
+Memo:
+Information-related products 2  
+
+11.2 
+
+21.4 
+
+21.6 
+
+20.1 
+
+17.2 
+
+1.5 
+
+1.1 
+
+.8
+
+1. From the  final quarter of  the previous period to the  final quarter of  the period
+
+indicated.
+
+2. Includes computer equipment, computer parts,  semiconductors,  communications
+
+equipment, and selected instruments.
+
+CAPACITY UTILIZATION
+(Percent of  capacity;  seasonally adjusted)
+
+1988-89  1963-95  1995 
+
+1996 
+
+1996
+
+High 
+
+Avg. 
+
+Q3 
+
+Q2 
+
+Q3 
+
+Aug.  Sept. 
+
+Oct.
+
+Manufacturing
+
+Primary  processing
+Advanced processing
+
+85.2
+
+89.0
+83.5
+
+~---~
+
+82.1
+
+83.4
+81.5
+
+82.6
+
+86.6
+80.9
+
+82.2
+
+86.1
+80.5
+
+82.4
+
+86.6
+80.6
+
+82.3
+
+86.6
+80.6
+
+82.3
+
+86.5
+80.5
+
+81.6
+
+86.0
+79.8
+
+II-11
+
+NEW ORDERS  FOR DURABLE GOODS
+(Percent change  from preceding period, seasonally adjusted)
+
+1996 
+
+1996
+
+Share
+1996:  H1 
+
+Q2 
+
+Q3 
+
+Aug. 
+
+Sept. 
+
+Oct.
+
+Total durable  goods 
+
+Nondefense aircraft 
+
+Adjusted durable goods orders1  
+Office & computing machines 
+Nondefense capital goods
+
+excluding aircraft  and computers 
+
+Chain-weighted real adj.  orders 2  
+
+100.0 
+
+1.6 
+
+1.7 
+
+-3.6 
+
+4.5 
+
+.3
+
+4.0 
+
+-28.1 
+
+18.7 
+
+-39.7 
+
+127.7 
+
+-8.1
+
+68.0 
+5.0 
+
+2.0 
+1.6 
+
+17.0 
+
+-2.7 
+
+2.7 
+
+1.7 
+5.0 
+
+1.9 
+
+2.2 
+
+-2.6 
+-.3 
+
+-6.3 
+
+-2.5 
+
+.4 
+-2.4 
+
+3.7 
+
+.5 
+
+2.8
+.6
+
+2.6
+
+2.7
+
+1. Orders  excluding defense  capital goods, nondefense aircraft,  and motor vehicle parts.
+
+2. Nominal  adjusted durable goods  orders were  split  into two  components, computers and
+all other.  These components were  deflated and then aggregated in a chain-weighted
+fashion.
+
+NAPM  New  Orders 
+
+Percent
+
+1981 
+
+1984 
+
+1987 
+
+1990 
+
+1993
+
+1996
+
+Note.  Percent of respondents in the  purchasing  managers  survey reporting  increase in new orders  minus those reporting
+
+decrease in new  orders,  seasonally adjusted.
+
+II-12
+
+SALES  OF AUTOMOBILES AND LIGHT TRUCKS
+(Millions of units at  an annual  rate;  FRB  seasonals)
+
+1996 
+
+1996
+
+1994 
+
+1995 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Sept. 
+
+Oct. 
+
+Nov.
+
+Total 
+
+Adjusted1  
+
+15.0 
+15.0 
+
+14.7 
+14.7 
+
+15.2 
+15.3 
+
+15.1 
+15.1 
+
+14.9 
+15.0 
+
+14.9 
+14.9 
+
+14.8 
+14.9 
+
+14.8
+14.8
+
+Autos 
+Light  trucks 
+
+9.0 
+6.1 
+
+8.6 
+6.1 
+
+8.6 
+6.5 
+
+8.8 
+6.3 
+
+8.5 
+6.4 
+
+8.6 
+6.3 
+
+7.9 
+6.9 
+
+7.9
+7.0
+
+North  American 2  
+
+Autos 
+
+Big Three 
+Transplants 
+
+Light  trucks 
+
+12.9 
+7.3 
+5.7 
+1.5 
+5.7 
+
+12.8 
+7.1 
+5.4 
+1.7 
+5.7 
+
+13.5 
+7.3 
+5.4 
+1.9 
+6.1 
+
+13.4 
+7.5 
+5.6 
+1.9 
+5.9 
+
+13.3 
+7.3 
+5.2 
+2.1 
+6.0 
+
+13.2 
+7.3 
+5.2 
+2.1 
+5.9 
+
+13.1 
+6.6 
+4.8 
+1.8 
+6.5 
+
+Foreign produced 
+
+Autos 
+Light  trucks 
+
+2.1 
+1.7 
+.4 
+
+1.9 
+1.5 
+.4 
+
+1.7 
+1.3 
+.4 
+
+1.7 
+1.3 
+.5 
+
+1.7 
+1.2 
+.4 
+
+1.7 
+1.3 
+.4 
+
+1.7 
+1.2 
+.4 
+
+13.0
+6.6
+4.6
+2.0
+6.4
+
+1.8
+1.3
+.5
+
+Note.  Components may not  add to  totals because  of  rounding.  Data on  sales
+
+of  trucks and  imported autos  for  the most  recent month are preliminary  and
+subject to  revision.
+
+1. Excludes  the  estimated effect of automakers'  changes  in  reporting periods.
+2. Excludes  some vehicles produced  in  Canada that are  classified as  imports
+
+by  the  industry.
+
+GM  Inventories
+(FRB  seasonals)
+
+GM  Fleet  and  Retail  Auto Sales
+(FRB  seasonals;  annual  rate)
+
+Millions of  units
+
+CONFIDENTIAL
+
+Millions of units
+
+Retail
+
+, .\ 1 
+
+Fleet 
+
+It 
+
+.
+
+1  V 
+
+I 
+
+/ii
+
+I X 
+Nov
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+II-13
+
+considerably  across the  major  groups--they rose  more  than
+0.5  percent  in  foods,  tobacco,  petroleum products,  paper,  furniture,
+
+computers  and  semiconductors,  but  declined  0.5  percent  or  more  in
+apparel,  rubber  and  plastics,  printing  and  publishing,  and  stone,
+clay  and  glass.  Among  industries  with weekly physical  output data
+available,  production of  appliances  and  meat  products  increased,
+
+while  petroleum  refining  and  the  production  of  steel  and wood
+
+products  decreased.
+
+Other indicators  of  industrial  activity are  consistent with
+
+sustained moderate output  growth.  In November,  the National
+Association  of Purchasing Managers'  index  of  new orders, which had
+dropped  in October,  bounced  back to  the  robust  range  experienced  in
+the  second  and  third  quarters;  the  production index jumped
+
+similarly, and  the  index of  vendor  performance  showed  supplier
+
+deliveries  slightly  slower  than  in  October.  Real  adjusted  durable
+
+goods  orders  increased 2.7  percent  in  October  after  two  sluggish
+months.  The  Beige Book,  the  latest  Dun  & Bradstreet  survey,  and
+business  contacts  maintained by  Board  staff  corroborate  the  view
+that  industrial  output  is  growing  roughly  in  line with  capacity
+expansion.
+
+The  staff will  publish  the  annual  revision  of  IP,  capacity,
+
+capacity  utilization,  and  industrial  use  of electrical  power  in
+early January.  IP,  capacity,  and  capacity  utilization  revisions
+
+will  incorporate updated  source  data  and  feature  a change  in the
+method  of  aggregating  the  indexes.  From  1977  onward,  the  value-
+
+added  proportions  used  to  weight  individual  series  will  be  updated
+
+annually,  rather  than  quinquennially, and  will  be  aggregated  using  a
+Fisher  formula  rather  than  a linked-Laspeyres  formula.  The  new
+aggregation methods  will  lower  growth  of  IP  and  capacity  because  a
+smaller weight will be  applied,  on  average,  to  the  fast-growing
+computer industry.  Because  operating  rates  in  the  computer  industry
+are  above  average,  the  smaller weight  should  slightly  lower  the
+published manufacturing  utilization  rate.
+Motor Vehicles
+
+Sales  of  new light  vehicles  in  November totaled  14.8  million
+units  at  an  annual  rate,  the  same  as  in October  and  only  slightly
+below the  average  pace  over the  first  nine months  of the  year.  We
+estimate  that  sales  were held  down  about  300,000  units  per  month, on
+
+average,  in  October  and  November  because  the  strikes  and  start-up
+problems  at  GM  limited  vehicle  availability;  GM's  fleet  sales
+
+II-14
+
+RETAIL SALES
+(Percent change;  seasonally adjusted)
+
+1996 
+
+1996
+
+Q1 
+
+Q2 
+
+Q3 
+
+Sept. 
+
+Oct. 
+
+Nov.
+
+Total  sales 
+
+Previous  estimate 
+
+2.2 
+
+1.2 
+
+.2 
+.2 
+
+.7 
+.8 
+
+.3 
+.2
+
+-.4
+
+Building materials
+and  supplies 
+
+Automotive dealers 
+
+Retail  controll 
+
+Previous  estimate 
+
+Durable  goods 
+
+Furniture  and  appliances 
+Other durable  goods 
+
+Nondurables 
+Apparel 
+Food 
+General Merchandise 
+Gasoline stations 
+Drug stores 
+Other  nondurables 
+
+-1.5 
+4.9 
+
+6.9 
+-1.4 
+
+1.6 
+
+1.7 
+
+1.6 
+-. 1 
+3.1 
+
+1.5 
+2.4 
+.9 
+2.2 
+4.2 
+1.2 
+.6 
+
+3.3 
+2.0 
+4.3 
+
+1.4 
+1.5 
+.5 
+2.0 
+5.5 
+1.3 
+.5 
+
+1.4 
+.7 
+
+.0 
+-. 1 
+
+-. 8 
+.7 
+-1.9 
+
+.1 
+-. 7 
+1.0 
+.4 
+-3.1 
+2.3 
+.4 
+
+.6 
+1.4 
+
+-. 2 
+.1 
+
+-. 0
+-2.6
+
+.5 
+.5 
+
+-. 4 
+.1 
+-. 8 
+
+.7 
+1.1 
+1.3 
+-. 1 
+.5 
+.1 
+.7 
+
+.5 
+.3
+
+1.2 
+-. 5 
+2.5 
+
+.4 
+-. 6 
+.1 
+.4 
+1.6 
+1.7 
+.4 
+
+.4
+
+1.4
+1.2
+1.7
+
+.1
+-.9
+-.2
+-.6
+1.2
+.8
+.8
+
+1.  Total retail  sales  less  building material  and  supply stores  and
+
+automotive  dealers, except  auto  and home  supply stores.
+
+PCE  Goods
+
+Billions  of chained  (1992) dollars
+
+2100
+
+Nov.
+
+,-A A 
+
+-
+
+2000
+
+1900
+
+1800
+
+1700
+
+I 
+
+I 
+
+I 
+
+I 
+
+I
+
+1991 
+
+1992 
+
+1993 
+
+1994
+
+1995
+
+Note.  September,  October, and  November  values are staff estimates.
+
+II-15
+
+apparently  absorbed much  of  the  shortfall.  November  sales by  firms
+other  than  GM were  up,  on  balance,  led  by  gains  at  major  Japanese
+makers.
+
+Relatively moderate  price  increases  this year  probably
+
+contributed to  the  sustained  strength  in  light  vehicle  sales.  Two
+factors--the  dollar's  strength  relative  to  the  yen  and model
+redesigns  that  reduced  assembly costs--allowed  Japanese  producers  to
+restrain  price  increases  without  hurting  profit margins.  This
+
+strategy seems  to  have  forced  Big Three  producers  to  follow  suit  to
+
+remain competitive.  Indeed,  prices  of  comparably  equipped  1997
+models  for  the  Big Three  are  less  than 2 percent  higher than  the
+1996  models.  In  addition,  incentives  offered  by  makers in  the
+
+fourth  quarter,  though down  from  the  first  half,  are  estimated  to be
+little  changed  from the  third  quarter.
+Personal  Income  and  Consumption
+
+Consumer  spending  appears  to  have  picked up  after  a lackluster
+performance in  the  third  quarter.  Available  data  suggest  that  real
+outlays  for  goods  in  November  were noticeably  above  their  third-
+quarter  levels.  Readings  on  consumer  sentiment  from  the  University
+of  Michigan and  the  Conference  Board  also  continue  to  be  quite
+
+positive.
+
+Total  nominal  retail  sales  fell  0.4  percent  in  November,
+
+reflecting  a sharp  drop  in  sales  at  automotive  dealers.5
+Spending  in the  retail  control  category, which  excludes  sales  at
+automotive dealers  and  building material  and  supply  stores,  rose  0.4
+percent  last  month  after  increasing  0.5  percent  in  both September
+
+and  October.  Within the  retail  control  group  in  November,  spending
+
+at  durable  goods  stores was  up  smartly;  sales  at  nondurable  stores
+edged  higher, with  declines  in  sales  at  food,  general merchandise,
+and  apparel  stores more  than  offset  by gains  at  gasoline  stations
+and  "other nondurable  goods"  outlets.  The  retail  sales  data,
+together with  available information  about  prices  and  auto  sales,
+suggest  that the  November  level  of  real  consumer  spending  on  goods
+was  0.7  percent  above its  third-quarter  average  (not at  an  annual
+rate).
+
+5. Discrepancies  between  retail  sales  at  automotive  dealers  and
+
+unit  sales  of  light vehicles  are  not  uncommon.  Differences  can
+result  from  a variety  of  factors,  including  variations  in  the
+average  expenditure  per  vehicle,  sales  of  used  cars,  expenditures  on
+repairs,  or  measurement  error--particularly  in  the  noisy  advance
+estimates  of  retail  sales.
+
+II-16
+
+Personal  Saving  and  Related  Indicators
+
+Personal Saving  Rate
+
+S:. 
+
+.
+
+... 
+
+...
+
+Percent
+-
+
+Oct.
+e
+
+=  =I 
+
+i 
+
+2
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+Stock Market 
+
+Wilshire 5000 
+
+Consumer  Credit
+
+Index 
+
+Nov.
+
+8000 
+
+-
+
+12-month  percent change
+-
+
+20
+
+6000
+
+4000
+
+Oct.
+
+SI 
+
+I 
+
+I 
+
+2000 
+
+1990 
+
+1992 
+
+1994 
+
+1996 
+
+1990 
+
+1992 
+
+1994 
+
+1996
+
+Ratio of Debt  Service  Payments to DPI
+
+15
+
+10
+
+5
+
++
+
+5
+
+-
+
+:0.17
+
+Ratio
+
+S0.18
+
+03
+
+1990 
+
+1991
+
+1992 
+
+1993 
+
+1994
+
+1995
+
+II-17
+
+Real  spending  on  services  rose  0.4  percent  in  October  following
+
+a relatively  weak  third quarter.  Energy  spending was  up moderately
+in  October  after  posting  a large  decline  in the  third  quarter
+because  of  the  unusually  cool  summer weather.  Energy expenditures
+probably  rose  further  in  November,  with  lower-than-normal
+temperatures  spurring demand  for  heat.  Among  nonenergy  services,
+spending increased moderately  in most  major  categories  in
+October.6
+
+The  trends  in  income  remain  solid.  Real  disposable  income  rose
+
+3 percent  over  the  year  ending  in  the  third  quarter.  And although
+real  DPI  dipped in  October,  the  growth  in  aggregate hours  and  the
+brisk  rise  in  earnings  provided  a notable  boost  to  overall  income  in
+November.
+
+Sluggish  spending during  the  summer  and  early  autumn, coupled
+with  robust  growth  in  income,  lifted  the  personal  saving  rate  from
+4-1/2  percent,  on  average,  over  the  first  half  of  the  year  to
+5-1/4  percent,  on  average,  from  July  through October.  Moreover,  the
+available  data  suggest  that  the  saving  rate  remained  elevated  in
+November.  The  persistently higher  saving rates  since midyear  in  the
+
+face  of  booming stock  prices  remain puzzling.  Of  course,  saving
+
+rates  during  the  past  couple  of years  are  still  vulnerable  to
+
+potentially substantial  revisions.
+
+If  the  saving  rate  increase  were  to hold  up,  however,  several
+
+other  possibilities  might  explain  recent  behavior.  One  is  that  the
+factors  we have  cited  frequently as  offsetting the  effects  of  stock
+market  wealth--notably, the  heavy  debt-service  burdens  of  some
+households, the  tightening  of  credit  standards,  and  perhaps  a
+heightened  awareness  of  the  need to  provide  for  retirement,
+educational,  and medical  costs--are  imparting more  restraint  on
+spending than we  had  anticipated.  A  second  possibility  is  that
+shareholders  are  simply  being cautious  in  spending out  of what  has
+been  a stunningly sharp  increase  in  the  value  of  their  assets.
+
+6. Spending  on  household  operation  services  rebounded  sharply  in
+
+October  as  net  outlays  on household  insurance  services  reversed
+their  large  September  decline.  BEA calculates  net  household
+insurance  services  as  the  difference  between  estimated insurance
+premiums  and  estimated  insurance  benefits  paid.  In  September,
+estimated  insurance  benefits  paid  surged as  a result  of  Hurricane
+Fran,  depressing  net  household  insurance  services  by  $5.4  billion
+(annual rate).
+
+II-18
+
+Private  Housing  Activity
+(Millions of units; seasonally adjusted annual  rate)
+
+All  units
+Starts 
+Permits 
+
+Single-family units
+Starts 
+Permits 
+New  home sales 
+Existing  home sales 
+
+Multifamily units
+Starts 
+Permits 
+
+Mobile homes
+Shipments 
+
+1995 
+
+01 
+
+Q2 
+
+Q3r 
+
+Aug.r 
+
+Sept.r 
+
+Oct.P
+
+1996
+
+1.35 
+1.33 
+
+1.08 
+1.00 
+0.67 
+3.80 
+
+0.28 
+0.33 
+
+1.47 
+1.41 
+
+1.16 
+1.08 
+0.75 
+3.95 
+
+0.31 
+0.33 
+
+1.49 
+1.44 
+
+1.19 
+1.10 
+0.74 
+4.21 
+
+0.31 
+0.34 
+
+1.48 
+1.43 
+
+1.17 
+1.06 
+0.79 
+4.11 
+
+0.31 
+0.36 
+
+1.53 
+1.42 
+
+1.24 
+1.08 
+0.82 
+4.14 
+
+0.29 
+0.35 
+
+1.44 
+1.40 
+
+1.12 
+1.04 
+0.78 
+4.03 
+
+0.32 
+0.36 
+
+1.37
+1.36
+
+1.07
+1.01
+0.71
+3.97
+
+0.30
+0.35
+
+0.34 
+
+0.35 
+
+0.37 
+
+0.36 
+
+0.37 
+
+0.35 
+
+n.a.
+
+Note.  p Preliminary.  r  Revised.  n.a.  Not available.
+
+Private Housing  Starts
+(Seasonally adjusted  annual  rate)
+
+Millions of  units
+
+I 
+
+I 
+
+II 
+
+-
+
+1977 
+
+r 
+1979 
+
+I 
+
+I 
+1981 
+
+I 
+i  I 
+1983 
+
+I
+
+I 
+1I 
+
+I 
+I 
+1985 
+
+1987 
+
+I 
+
+| 
+I 
+1989 
+
+•
+
+I 
+a 
+1991 
+
+g 
+I 
+I 
+1993 
+
+I
+T1 
+1995 
+
+1
+1997
+
+II-19
+
+Housing
+
+Single-family housing production  softened noticeably  in
+
+September  and  October.  Starts  declined  appreciably  in  September  and
+
+fell  another  4-1/2  percent  in October,  to  1.07  million units,  their
+
+lowest  level  since  mid-1995.  Permit  issuance  for  single-family
+
+homes  also  decreased,  confirming  the  recent weakening in  this
+sector.
+
+New home  sales  dropped  from their high  summer  level  and  moved
+
+more  in  line with  production  and  builders'  assessment  of  sales.  New
+home  sales  fell  sharply  in  September  and  October  to  their  lowest
+level  since March.  The  latest  survey  of  homebuilders  indicates that
+sales  continued  to  sag  in  November.  Existing home  sales  also
+declined  in  October--for a fifth  consecutive month--and  now stand
+about  6 percent  below their  recent  second-quarter high.
+
+While  sales waned,  financial  market  conditions  for  homebuying
+
+improved.  Mortgage  rates  have  fallen about  75  basis points  since
+
+early  September.  Perhaps  relatedly,  applications  for  home  purchase
+
+financing  (both new  and  existing)  at  mortgage bankers  moved  up
+noticeably  in early  December,  after  drifting up  ever  so  slightly
+over  the  previous  several  months.  Moreover,  consumer  appraisals  of
+homebuying conditions,  as  sampled by  the  Michigan  survey,  were  quite
+favorable  in  both  October  and  November.
+
+In  the  multifamily housing  sector,  starts  dropped  back  to
+300,000  units  at  an  annual  rate  in  October,  more  or  less  offsetting
+the  uptick in  September and  extending their yearlong  seesaw  pattern.
+
+Construction in  this  sector  continues  to  be  damped  by the  rising
+inventory  of  unoccupied  units.  Vacancy  rates  for  apartments  rose  to
+9-1/2  percent  in  the  third  quarter,  1/2  percentage  point  more  than
+the  average  reading  during  the  previous  two  years.
+Business  Fixed  Investment
+
+After  a blockbuster  third quarter,  the  growth of  real  business
+fixed  investment  appears  to  be  slowing  this  quarter.  In  part,  the
+deceleration  reflects  a sharp  drop in  business  purchases  of motor
+vehicles.  In  addition,  shipments  of  nondefense  capital  goods  were
+little  changed,  on  balance,  in nominal  terms  during September  and
+October.  On the  other  hand,  nonresidential  construction  seems  to  be
+
+increasing  at  a fairly  robust  rate.  Moreover, anecdotal  reports and
+investment  fundamentals  remain  consistent with  continued  growth of
+
+capital  spending.
+
+II-20
+
+Indicators of Housing  Demand
+(Seasonally adjusted; FRB  seasonals)
+
+Builders' Rating of  New  Home Sales
+
+Diffusion index
+
+1989 
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+Note.  The index  is  calculated from  National Association  of  Homebuilders data  as the proportion  of respondents rating current sales  as good
+
+minus  the proportion  rating them  as  poor.
+
+MBA  Index of Mortgage  Loan Applications for Home  Purchase
+
+Index
+
+Dec. 6
+
+I
+
+!
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+Note.  MBA  index  equals  100 on  March  16,  1990, for  NSA  series.
+
+Consumer  Homebuying  Attitudes
+
+Diffusion  index
+
+1989 
+
+1992 
+Note. The  homebuying  attitudes  index  is calculated from  Survey Research  Center data  as the proportion  of  respondents
+
+1994 
+
+1990 
+
+1993 
+
+1991 
+
+1995
+
+1996
+
+rating  current conditions  as good  minus  the  proportion  rating  such conditions as bad.
+
+II-21
+
+Fundamental  Determinants  of Equipment  Spending
+
+Acceleration  of  Business Output
+Percentage  points
+
+Percent
+
+::::' i. 
+
+f 
+
+s
+
+:: 
+
+i:' / 
+
+Real  PDE
+
+: 
+
+(right scale)
+
+I 
+1963 
+
+I 
+
+i 
+
+I 
+I 
+1966 
+
+:  l 
+
+I 
+1969 
+
+i 
+1972 
+
+::-:  I 
+
+1  1 
+
+:. 
+
+:-If -:t 
+
+1975 
+
+1978 
+
+1981 
+
+I 
+
+i 
+I 
+1984 
+
+I 
+
+I 
+I 
+1987 
+
+i  ..r 
+1990 
+
+I 
+
+i  I 
+1993 
+
+I
+I 
+1996
+
+Note.  The  accelerator is the  eight-quarter percent  change in business output less the year-earlier  eight-quarter percent change.
+
+Real  PDE  is the four-quarter percent change.
+
+Real  Domestic  Corporate  Cash  Flow
+
+Percent
+
+1963 
+
+1966 
+
+1969 
+
+1972 
+
+1975 
+
+1978 
+
+1981 
+
+1984 
+
+1987 
+
+1990 
+
+1993 
+
+1996
+
+User  Cost  of Capital
+
+Percent
+
+1963 
+
+1966 
+
+1969 
+
+1972 
+
+1975 
+
+1978 
+
+1981 
+
+1984 
+
+1987 
+
+1990 
+
+1993 
+
+1996
+
+II-22
+
+BUSINESS  CAPITAL  SPENDING  INDICATORS
+(Percent change  from preceding  comparable period;
+based on seasonally  adjusted data,  in  current  dollars)
+
+1996 
+
+1996
+
+Q1 
+
+Q2 
+
+Q3 
+
+Aug.  Sept. 
+
+Oct.
+
+Producers'  durable equinment
+
+Shipments  of  nondefense  capital goods 
+
+Excluding aircraft and parts 
+
+office and computing 
+Comnunications equipment 
+All other  categories 
+
+-. 5 
+.8 
+3.7 
+-. 3 
+.0 
+
+2.9 
+1.5 
+-. 8 
+4.7 
+1.7 
+
+1.8 
+1.5 
+4.4 
+4.5 
+-. 3 
+
+2.4 
+1.1 
+4.6 
+-1.0 
+.3 
+
+1.8 
+2.3 
+.7 
+3.6 
+2.6 
+
+-1.9
+-2.0
+-3.6
+-.4
+-1.9
+
+Shipments of  complete  aircraft I  
+
+1.4  12.2  14.7 
+
+51.4 
+
+17.8  -20.1
+
+Sales  of  heavy trucks 
+
+-2.2 
+
+1.2  -4.3 
+
+-. 2 
+
+-7.8 
+
+8.6
+
+Orders of  nondefense  capital  goods 
+
+Excluding aircraft  and parts 
+
+Office and  computing 
+Communications  equipment 
+All  other categories 
+
+3.1  -6.5 
+3.1  -1.7 
+2.1 
+1.6 
+8.7  -8.5 
+2.2  -1.2 
+
+4.9  -10.4 
+-4.9 
+2.6 
+-. 3 
+5.0 
+6.6  -14.0 
+-4.3 
+
+.8 
+
+15.4 
+2.2 
+-2.4 
+.1 
+4.6 
+
+.0
+2.2
+.6
+36.2
+-5.1
+
+Nonresidential  structures
+
+Construction put-in-place 
+
+Office 
+Other  commercial 
+Institutional 
+Industrial 
+Public utilities 
+Lodging and miscellaneous 
+
+1.0 
+-6.6 
+
+.0 
+2.4 
+8.3 
+8.7 
+3.0  -1.0 
+1.2 
+7.9 
+1.2 
+-2.9 
+-1.6  -8.0  -1.2 
+3.1  -1.1 
+
+4.5 
+10.6 
+
+.0 
+
+3.2 
+
+3.7 
+.9 
+8.7 
+7.3 
+-5.3 
+4.7 
+3.3 
+
+.6 
+2.1 
+-4.2 
+1.6 
+9,5 
+-1.4 
+-1.0 
+
+3.2
+2.6
+7.2
+4.5
+11.5
+-4.1
+-6.3
+
+Rotary drilling rigs in  use 2  
+
+6.6  12.4  -4.7 
+
+-. 1 
+
+-4.9 
+
+.7
+
+Memo:
+Business  fixed investment 3  
+
+Producers'  durable  equipment 3  
+Nonresidential  structures 3  
+
+11.6 
+13.1 
+
+3.8  16.9 
+6.7  20.3 
+7.7 
+
+n.a. 
+n.a. 
+n.a. 
+
+n.a. 
+n.a. 
+n.a. 
+
+n.a.
+n.a.
+n.a.
+
+7.7  -3.7 
+
+1. From the  Current  Industrial  Report  "Civil Aircraft  and Aircraft  Engines."
+Monthly data are  seasonally adjusted using  FRB  seasonal  factors  constrained to
+BEA quarterly  seasonal  factors.  Quarterly  data are  seasonally adjusted using
+BEA seasonal  factors.
+
+2.  Percent  change of  number of  rigs  in  use,  seasonally  adjusted.
+3.  Based  on  1992  chain-weighted data;  percent change,  annual rate.
+n.a. Not  available.
+
+II-23
+
+October  bookings  for  communications  equipment posted  their
+
+biggest  increase  in  six  years,  and  shipments  held  steady  at  a high
+level.  Cellular  providers  reportedly  are  expanding  coverage
+rapidly,  and  demand  for  satellite  services  is  apparently quite
+strong.  In  contrast,  shipments  of  office  and  computing equipment
+dropped  3-1/2  percent  in  October.  But  this movement  conflicts with
+reports  in  the  trade  press  that  demand for  computer  equipment  is
+robust.  Meanwhile,  orders  for  other  capital  goods  have  tailed  off
+noticeably  in  recent  months,  and  shipments  of  these  goods  dropped  in
+October.
+
+Several  developments  point  to  a steep fall  in transportation
+
+equipment  investment  this  quarter.  As  noted  earlier,  fleet  sales  of
+light  vehicles  in  October  and  November were depressed  by  GM's
+production  shortfalls;  some  drop was  likely  in  any event  because
+third-quarter  fleet  sales were  exceptionally high.  In  addition,
+heavy  truck  sales  have  been moving  sideways  of  late,  ignoring
+monthly volatility.  Despite  a decline  in  October,  shipments  of
+complete  aircraft  have  grown  smartly  thus  far  this  year,  though  a
+sizable  fraction  was  shipped  to  foreign  carriers.  A number  of
+American  carriers  have  recently  placed  large  orders  with Boeing,
+improving the  outlook  for  domestic  deliveries  over  the next  few
+years.
+
+Judging  from October  construction,  fourth-quarter  real  outlays
+
+for  nonresidential  structures  appear  to  be  maintaining  the  solid
+growth  recorded in  the  third  quarter.  Construction put  in  place
+advanced briskly  in  the  office,  other  commercial,  institutional,  and
+industrial  categories  in  October.  Contracts  dropped  sharply  in
+October,  but  their  trend  remains  in line with  that  of  construction.
+Among other  indicators,  commercial  vacancy  rates  are  about  as  low as
+they have  been  in the  past  fifteen  years.  Bank examiners  surveyed
+by  the  FDIC  report  fairly  strong  price  movements  and  are bullish
+about  future  conditions.  Finally,  real  estate  investment  trusts
+have  been  quite  successful this  year  at  raising  capital  for
+construction  projects  in  equity markets,  and  other  financing appears
+amply  available  as  well.
+
+Drilling and  mining activity  edged  down in  the  third  quarter
+
+and  is  roughly  flat  so  far  in  the  fourth quarter.  Some  industry
+
+analysts  have  been  predicting  an  acceleration in natural  gas
+drilling  activity  over  the  next  few months,  at  least  partly  in
+
+II-24
+
+Orders  and  Shipments  of Nondefense  Capital  Goods
+
+Office and  Computing  Equipment
+
+Billions  of  dollars
+
+Orders
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+Communications  Equipment
+
+Billions  of  dollars
+
+I
+
+Oct.
+
+.I 
+
+I 
+
+I
+
+1992
+
+1994
+
+1995
+
+1996
+
+Other  Equipment  (Excluding  Aircraft,  Computing,  and  Communications  Equipment)
+
+Billions  of  dollars
+
+1992 
+
+1993
+
+1994 
+
+1995
+
+1996
+
+II-25
+
+Nonresidential  Construction and  Contracts
+(Six-month  moving  average)
+
+Total  Building
+
+Index,  Dec.  1982 =  100,  ratio scale
+
+1980 
+
+1982 
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992 
+
+1994 
+
+1996
+
+Office
+
+Other  Commercial
+
+1984  1986  1988  1990  1992  1994  1996
+
+1984  1986  1988  1990  1992  1994  1996
+
+Industrial
+
+Institutional
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992 
+
+1994 
+
+1996 
+
+1984  1986 
+
+1988 
+
+1990 
+
+1992 
+
+1994 
+
+1996
+
+Note.  For contracts,  total includes private only, while  individual sectors  include public and private.
+
+II 
+
+t 
+
+i 
+
+I  t  I  i
+
+200
+
+175
+
+150
+
+125
+
+100
+
+75
+
+280
+
+230
+
+180
+
+130
+
+80
+
+II-26
+
+CHANGES IN  MANUFACTURING AND  TRADE  INVENTORIES
+(Billions of  dollars  at  annual  rates;
+based on  seasonally adjusted data)
+
+1996 
+
+1996
+
+01 
+
+02 
+
+03 
+
+Aug. 
+
+Sept. 
+
+Oct.
+
+Book value basis
+
+Total 
+
+16.7 
+
+13.2 
+
+39.5 
+
+36.4 
+
+21.3 
+
+n.a.
+
+Excluding wholesale  and
+
+retail motor vehicles 
+
+Manufacturing 
+
+Excluding aircraft 
+
+Wholesale 
+
+Excluding motor vehicles 
+
+Retail 
+
+Auto dealers 
+Excluding auto dealers 
+
+Chained  (1992) dollars  basis
+
+Total 
+
+Excluding motor vehicles 
+Manufacturing 
+Wholesale 
+
+Excluding motor vehicles 
+
+Retail 
+
+Auto dealers 
+Excluding auto  dealers 
+
+25.0 
+12.3 
+6.3 
+7.3 
+7.3 
+-2.9 
+-8.4 
+5.5 
+
+6.0 
+-6.2 
+-10.7 
+11.3 
+7.6 
+8.2 
+3.5 
+4.6 
+
+-5.4 
+17.5 
+12.0 
+3.8 
+4.0 
+-21.7 
+-23.6 
+3.0 
+
+7.9 
+1.9 
+-3.9 
+6.5 
+3.3 
+5.2 
+2.0 
+3.2 
+
+24.2 
+11.3 
+8.6 
+-9.2 
+-6.1 
+37.4 
+18.4 
+19.0 
+
+29.3 
+23.5 
+12.5 
+-8.5 
+-4.4 
+25.5 
+10.8 
+14.6 
+
+18.5 
+14.9 
+12.5 
+-3.3 
+-.9 
+24.8 
+20.3 
+4.5 
+
+13.1 
+14.4 
+7.9 
+3.2 
+4.5 
+2.0 
+.2 
+1.9 
+
+15.0 
+12.2 
+7.1 
+-22.4 
+-13.4 
+31.5 
+15.2 
+16.2 
+
+14.5 
+10.7 
+14.0 
+-27.9 
+-15.5 
+28.7 
+16.9 
+11.5 
+
+n.a.
+14.5
+11.7
+19.8
+12.5
+n.a.
+n.a.
+n.a.
+
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+
+INVENTORIES  RELATIVE TO  SALES
+(Months' supply;  based on seasonally adjusted data)
+
+1996 
+
+1996
+
+01 
+
+Q2 
+
+Q3 
+
+Aug. 
+
+Sept. 
+
+Oct.
+
+Book value  basis
+
+Total 
+
+1.43 
+
+1.40 
+
+1.40 
+
+1.40 
+
+1.39 
+
+n.a.
+
+Excluding wholesale and
+
+retail motor vehicles 
+
+Manufacturing 
+
+Excluding  aircraft 
+
+Wholesale 
+
+Excluding motor vehicles 
+
+Retail 
+
+Auto dealers 
+Excluding auto dealers 
+
+Chained  (1992) dollars  basis
+
+Total 
+
+Excluding motor vehicles 
+Manufacturing 
+Wholesale 
+
+Excluding motor vehicles 
+
+Retail 
+
+Auto dealers 
+Excluding auto dealers 
+
+1.40 
+1.45 
+1.34 
+1.32 
+1.30 
+1.49 
+1.66 
+1.44 
+
+1.38 
+1.36 
+1.39 
+1.35 
+1.33 
+1.37 
+1.54 
+1.34 
+
+1.37 
+1.40 
+1.29 
+1.31 
+1.28 
+1.49 
+1.70 
+1.42 
+
+1.36 
+1.33 
+1.35 
+1.34 
+1.31 
+1.37 
+1.57 
+1.33 
+
+1.36 
+1.39 
+1.28 
+1.28 
+1.25 
+1.53 
+1.78 
+1.45 
+
+1.35 
+1.32 
+1.35 
+1.31 
+1.28 
+1.40 
+1.62 
+1.35 
+
+1.37 
+1.39 
+1.28 
+1.29 
+1.26 
+1.52 
+1.76 
+1.44 
+
+1.35 
+1.33 
+1.35 
+1.33 
+1.29 
+1.39 
+1.56 
+1.34 
+
+1.36 
+1.39 
+1.27 
+1.28 
+1.25 
+1.52 
+1.76 
+1.44 
+
+1.35 
+1.32 
+1.34 
+1.30 
+1.28 
+1.39 
+1.57 
+1.35 
+
+n.a.
+1.39
+1.27
+1.28
+1.25
+n.a.
+n.a.
+n.a.
+
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+n.a.
+
+Note. Ratio  of  end-of-period  inventories to  average monthly sales  for the  period.
+
+II-27
+
+response  to  the  recent  uptrend  in natural  gas  prices.  But  there is
+
+little  evidence  that  such  a  surge  is  under way.
+
+Business  Inventories
+
+Businesses  entered  the  fourth  quarter without  discernible
+
+inventory  imbalances,  and  inventory-sales  ratios  for  most  types  of
+
+businesses  were well  within  their  recent  ranges.  Partial  data
+
+indicate  little  change  in  the  underlying  inventory  situation in
+
+October.
+
+Manufacturers'  inventories  rose  at  a  $14.5  billion  annual  rate
+
+(book value)  in October,  a pace  similar  to the  third-quarter  rate.
+
+Inventory  investment  was  spread  about  evenly between  durable  and
+
+nondurable  goods  industries.  About half  of the  October  accumulation
+
+was  in  stocks  of  nondefense  capital  goods,  notably nondefense
+
+aircraft  and  construction machinery;  stocks  of communications
+
+equipment  posted  a  surprisingly  small  increase  in  light  of  soaring
+
+new orders.  Investment  in  stocks  of  non-auto  consumer  goods--
+
+household  durables,  home  goods,  and  apparel--slowed  from the
+
+previous  two  months.  Most  manufacturing inventory-shipments  ratios
+
+remained  near  their lowest  points  in  recent  years.
+
+In  wholesale  trade,  non-auto  inventories  expanded  in  October
+
+for  the  first  time  since  April.  Part  of the  increase  resulted  from
+
+higher  stocks  of  farm products,  which  followed--but  did  not  fully
+
+offset--a  string  of  sharp  declines  in  preceding months.  Production
+
+information  from  the  Agriculture  Department  suggests  that  some  crop
+
+harvests  (corn and  soybeans  in  particular) were  late  this  year.
+
+This  delay may  have  led  to  drawdowns  in  stocks  at  many grain
+
+elevators  and  other wholesale  grain  distributors  during the  summer.
+
+As  the  harvest  picked up  momentum, stocks  of wholesale  farm  products
+
+turned  up  sharply  in  October,  reversing  some  of  the  previous
+
+declines.  Aside  from farm products,  there was  also  a  sizable
+
+buildup  in  petroleum inventories  at  the  wholesale  level;  the
+
+increase  likely  reflected,  in  part,  petroleum  marketers'  efforts  to
+
+replenish  their unseasonably  low  heating  oil  stocks.  Elsewhere in
+
+wholesale  trade,  stocks  of  machinery  and  business  equipment  were
+
+drawn  down  in  October, while  inventories  of most  types  of  consumer
+
+goods,  outside  of  motor  vehicles,  rose  moderately.
+
+October  figures  on  retail  inventories will  be  published
+
+tomorrow.  Non-auto inventories  posted  a sizable  increase  in the
+
+third  quarter,  and  the  retail  inventory-sales  ratio  moved back  up  to
+
+II1-28
+
+Inventory-Sales  Ratios, by  Major Sector
+(Book value)
+
+Manufacturing
+
+-
+
+Total 
+
+.
+
+' 
+
+' 
+
+Excluding  aircraft and  parts 
+
+*-,.
+
+Ratio
+
+S2.2
+
+1.95
+
+1.7
+
+- 1.45
+
+Oct.
+
+1980 
+
+, 
+
+i 
+1982 
+
+-L 
+
+I 
+1984 
+
+1986 
+
+-
+I 
+I 
+1988 
+
+I-nI 
+
+I 
+-
+1990 
+
+-
+
+-
+I 
+1992 
+
+I 
+1 
+-
+1994 
+
+, 
+
+1 
+1996
+
+1.2
+
+Wholesale  Excluding Motor Vehicles
+
+Ratio
+
+1.5
+
+S1.4
+
+- 1.3
+
+Oct.
+
+II 
+1980 
+
+I 
+1982 
+
+I 
+
+I 
+1984 
+
+I 
+I 
+1986 
+
+i 
+1988 
+
+I 
+
+I 
+1990 
+
+I 
+1992 
+
+I 
+
+1994 
+
+I 
+
+I 
+1996
+
+Retail
+
+2.7- 
+
+a 
+/  '  2, 
+
+II
+I AI\ 
+
+GAF group (left  scale)
+
+2.1 
+2.3 
+
+2.1 
+
+, 
+
+-
+
+I
+i 
+
+| 
+
+t  
+
+.
+
+I. 
+
+f f 
+I 
+
+.
+
+%"
+
+.
+
+I
+
+^ 
+
+-
+
+1 
+
+.
+
+, 
+
+* 
+
+--- 
+
+.... 
+
+.. 
+
+1980 
+
+1982
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+1994
+
+1996
+
+1.2
+
+-1.1
+
+1
+
+Ratio
+-
+
+1.7
+
+I
+1.4
+- 1.5
+
+- 1.4
+
+II-29
+
+SELECTED  INVENTORY-SALES  RATIOS
+(Months' supply, based  on  Census book-value data,  seasonally  adjusted)
+
+Cyclical
+reference points_ 
+1994-95 
+1990-91 
+
+High 
+
+Low 
+
+1.58 
+
+1.55 
+
+1.75 
+2.08 
+2.48 
+2.08 
+2.94 
+.97 
+5.85 
+3.09 
+1.71 
+.94 
+1.96 
+
+1.36 
+1.31 
+1.83 
+.96 
+
+1.61 
+1.48 
+2.21 
+2.43 
+2.56 
+2.44 
+
+1.40 
+
+1.37 
+
+1.39 
+1.45 
+1.88 
+1.52 
+1.59 
+.53 
+4.42 
+2.33 
+1.44 
+.88 
+1.70 
+
+1.28 
+1.26 
+1.54 
+.98 
+
+1.46 
+1.42 
+1.60 
+2.21 
+2.47 
+2.24 
+
+Range  over 
+
+September/
+
+preceding  12  months  October
+19961
+
+High 
+
+Low 
+
+1.45 
+
+1.39 
+
+1.41 
+
+1.36 
+
+1.46 
+1.62 
+1.94 
+1.60 
+1.87 
+.67 
+5.95 
+2.58 
+1.66 
+.89 
+1.89 
+
+1.34 
+1.31 
+1.64 
+1.03 
+
+1.56 
+1.48 
+1.82 
+2.34 
+2.66 
+2.37 
+
+1.39 
+1.55 
+1.80 
+1.51 
+1.65 
+.55 
+4.89 
+2.39 
+1.49 
+.79 
+1.70 
+
+1.28 
+1.25 
+1.58 
+.95 
+
+1.48 
+1.41 
+1.64 
+2.20 
+2.35 
+2.23 
+
+1.39
+
+1.36
+
+1.39
+1.59
+1.83
+1.50
+1.74
+.58
+5.44
+2.45
+1.57
+.75
+1.72
+
+1.28
+1.25
+1.59
+.96
+
+1.52
+1.44
+1.76
+2.26
+2.40
+2.26
+
+manufacturing and wholesale;  September  1996  ratios
+
+Manufacturing and trade 
+
+Less wholesale and  retail
+motor vehicles 
+
+Manufacturing 
+
+Primary metals 
+Nonelectrical machinery 
+Electrical  machinery 
+Transportation equipment 
+
+Motor vehicles 
+Aircraft 
+
+Nondefense capital  goods 
+Textile 
+Petroleum 
+Home goods  & apparel 
+
+Merchant wholesalers 
+
+Less  motor vehicles 
+
+Durable  goods 
+Nondurable  goods 
+
+Retail  trade 
+
+Less  automotive  dealers 
+
+Automotive  dealers 
+General  merchandise 
+Apparel 
+G.A.F. 
+
+1. October  1996  ratios  for
+
+for  retail  trade.
+
+II-30
+
+FEDERAL GOVERNMENT OUTLAYS AND RECEIPTS
+(Unified basis;  billions  of dollars  except  as noted)
+
+Fiscal year totals
+
+October
+
+1995 
+
+1996 
+
+1996 
+
+1997 
+
+Dollar  Percent
+change  change
+
+Outlays
+
+Deposit  insurance
+Spectrum auction
+Other
+
+(DI)
+(SA)
+
+118.3 
+-1.2 
+.0 
+
+119.5 
+
+140.2
+-. 1
+.0
+140.3
+
+116.3
+-1.2
+.0
+119.5
+
+140.2
+
+-. 1
+.0
+
+140.3
+
+22.0
+1.1
+.0
+
+20.9
+
+18.6
+-89.3
+N.A.
+17.5
+
+4.5
+
+Receipts
+
+Deficit 
+
+(+)
+
+Outlays
+
+National defense
+Net  interest
+Social  security
+Medicare
+Medicaid
+Other health
+Income  security
+Other
+
+Receipts
+
+Individual
+Withheld
+Nonwithheld
+Refunds  (-)
+
+Social  insurance taxes
+Corporate
+Other
+
+95.7 
+
+99.9
+
+95.7 
+
+99.9
+
+22.6 
+
+40.3
+
+22.6 
+
+40.3
+
+17.7 
+
+78.3
+
+Adjusted for payment  timing shifts 1
+and excluding DI  and spectrum auction
+
+126.5
+20.2
+20.6
+28.1
+14.1
+7.3
+2.4
+16.6
+17.3
+
+95.7
+51.8
+46.9
+5.9
+1.0
+32.1
+2.2
+9.5
+
+140.3
+22.3
+21.5
+29.4
+16.1
+8.2
+2.2
+18.5
+22.2
+
+99.9
+54.0
+48.9
+5.6
+.5
+36.1
+.9
+9.0
+
+126.5
+20.2
+20.6
+28.1
+14.1
+7.3
+2.4
+16.6
+17.3
+
+95.7
+51.8
+46.9
+5.9
+1.0
+32.1
+2.2
+9.5
+
+140.3
+22.3
+21.5
+29.4
+16.1
+8.2
+2.2
+18.5
+22.2
+
+99.9
+54.0
+48.9
+5.6
+.5
+
+36.1
+
+.9
+9.0
+
+13.8
+2.0
+.9
+1.3
+2.0
+.9
+-.3
+2.0
+4.9
+
+4.3
+2.2
+1.9
+-.3
+-.5
+4.0
+-1.3
+-.6
+
+10.9
+10.1
+4.4
+4.6
+
+14.3
+13.0
+-10.7
+12.0
+28.2
+
+4.5
+4.2
+4.2
+-4.4
+-48.4
+12.5
+-60.5
+-5.9
+
+Deficit(+)
+
+30.8 
+
+40.4
+
+30.8 
+
+40.4
+
+9.6 
+
+31.0
+
+Note. Components may not  sum to totals because of  rounding.
+1. A  shift  in payment  timing occurs  when the first  of  the month falls  on a
+
+weekend or holiday.  The monthly and  fiscal year to date  outlays for defense,
+Medicare, income  security, and  "other" have been adjusted to account  for this
+shift.
+
+II-31
+
+the middle  of  its  recent  range  after  having fallen  appreciably
+during  the  first  half of  the  year.
+Government  Sector
+
+The federal  government  recorded  a deficit  of  $40  billion  in  the
+
+unified  budget  in  October,  the  first  month  of  fiscal  1997.  The
+deficit  was  nearly $18  billion  larger  than that  recorded in  October
+1995,  but  outlays  in  October  1995  were  depressed  considerably  by
+special  factors.  First,  because  October  1, 1995,  fell  on  a weekend,
+about  $7 billion  of  spending was moved  into  September.  Second,  in
+the  absence  of  enacted  appropriations,  outlays  for  defense  and  a
+variety  of nondefense  programs were  held  down by  a restrictive
+continuing  resolution.  Among  other things,  the  resolution delayed
+disbursement  of  $3 billion  in  foreign assistance  to  Israel  that  is
+
+normally made  in  October.  In  addition, more  than  $1 billion  of
+
+housing  assistance  payments  scheduled  for  October  1995  were  made  in
+
+the previous  month, apparently because  HUD mistakenly thought  the
+payments would  be  affected by  a debt  ceiling  problem.  The  increase
+
+in the  deficit  between  October  1995  and  October  1996 was  also
+swollen  by  a 14  percent  rise  in  spending  on  Medicaid  and  Medicare.
+
+Although few analysts  expect  the  unusually favorable  developments
+seen  in Medicaid  during fiscal  1996  to  be  repeated, health  outlays
+
+are  volatile  from month  to month,  and  the  latest  reading  clearly
+overstates the  underlying trend.  Receipts  rose  4-1/2  percent
+between  October  1995  and  October  1996,  about  in  line  with the  pace
+of  income  growth.
+
+In  the  state  and  local  sector,  spending  in  the  current  quarter
+
+is  likely to  receive  a considerable  lift  from  a surge  in
+construction  outlays,  which  jumped  3-1/4  percent  in  real  terms  in
+October  to  a level  5 percent  (not at  an  annual  rate)  above  the
+
+third-quarter  average.  In  contrast,  state  and  local  employment  has
+edged  down  in  recent months,  and  the  average  level  of  employment  in
+October  and  November was  about  25,000  below the third-quarter  level.
+In  part,  the  recent weakness  in  employment may  reflect the
+difficulties  in  seasonally  adjusting the  data  for  this  sector;  so
+far  this  year,  employment  growth has  averaged  18,000  per  month,  a
+bit  more  than  the  average  monthly  rise  in  1995.
+
+According  to  the  National  Association  of  State  Budget  Officers
+(NASBO),  states  have  budgeted  relatively  small  increases  in  general
+fund  outlays  for  fiscal  1997,  which  ends  on  June  30  for  most  states.
+Indeed,  they  project  a rise  in  real  spending  of  only  about
+
+II-32
+
+State  and  Local Employment  and  Construction
+
+Average  Monthly Change  in State  and  Local  Employment
+
+Thousands
+
+1986 
+
+1987 
+
+1988 
+
+1989 
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+19961
+
+1. 1996  is the average  of the first 11  months  of the  year.
+
+State and  Local  Construction  Put-in-Place 
+
+Seasonally  adjusted, quarterly
+
+Billions of chained  (1992) dollars
+
+[j 
+
+120
+
+Oct.
+
+110
+
+100
+
+90
+
+80
+
+1986 
+
+1986  1987 
+1987 
+
+1988 
+1988 
+
+1989 
+1989 
+
+1990 
+1990 
+
+1991 
+1991 
+
+1992 
+1992 
+
+1993 
+1993 
+
+1994 
+1994 
+
+1995 
+1995 
+
+1996
+1996
+
+II-33
+
+1-1/2  percent--an  unusually slow  rate  for  a nonrecessionary  year.
+NASBO indicated  that  spending on  certain  big-ticket  items--salaries,
+welfare,  and  medical  transfers--would  grow  only moderately.  But  the
+association also  reported  that many  states have  taken  actions  to  aid
+local  governments,  including  increases  in  grants,  elimination  of
+mandates,  and  the  takeover  of  specific  local  government  functions.
+
+For  example,  Connecticut will  gradually  assume  responsibility for
+the  local  welfare  general  assistance  program,  and  Wisconsin will
+provide  funding  for  a substantially  greater  share  of  local  education
+expenditures  in  fiscal  1997  than it  did  in  1996.
+Prices
+
+The  incoming  data  on  core  consumer  price  inflation have
+remained favorable,  as  the  CPI  excluding food  and  energy  rose  a
+modest  0.2  percent  in both  October  and  November.  However,  another
+sizable  rise  in  energy  prices  boosted  the  increase  in  the  overall
+CPI  to  0.3  percent  in  these  months.
+
+The  CPI  for  energy  rose  1.2  percent  in  November  after
+
+increasing  0.7  percent  in October.  Gasoline prices were  up
+1.8  percent  last  month,  as  refiners  were able  to  boost  their margins
+from October's  very  low  levels.  But  marketers' margins  remained
+very  low, and  we  anticipate  another  month  or  two  of outsized
+increases  in  consumer  gasoline  prices.  Heating  oil  prices  were  up
+another  2 percent  in November,  following two  months  of larger
+increases.  Although  refiners  have  been able  to  boost  inventories a
+little  bit  in  recent  weeks,  these  stocks  remain about  10  percent
+below year-earlier  levels.  As  such,  heating  oil  prices  probably
+
+will  remain  sensitive  to  speculation about  this  winter's weather.
+
+In  addition,  natural  gas  prices  jumped  in  November,  as  steady
+increases  in  spot  prices  since  late  October were  passed  through  to
+the  consumer  unusually  rapidly.
+
+After  several months  of  larger  increases,  consumer  food  prices
+
+were  up  0.3  percent  in  November.  The  sharp  decline  in  grain  prices
+since  midsummer  has  now begun  to  show through  to  smaller  increases
+in  prices  of  dairy  products,  meats,  poultry,  and  eggs.  Prices  of
+
+fresh  fruits  and vegetables--volatile  in  the  best  of  times--were up
+only  modestly in  November.  At  earlier  stages  of processing,  the  PPI
+for  crude  foodstuffs  and  feedstuffs  declined  for  a fourth month  in
+November,  pointing  to  continued  favorable  consumer  food  price
+
+developments  in the  coming months.
+
+II-34
+
+CPI  AND PPI  INFLATION RATES
+(Percent change)
+
+From twelve
+
+months  earlier 
+
+Nov. 
+
+1995 
+
+Nov.
+1996 
+
+1996 
+
+1996
+
+Q2 
+
+Q3 
+
+Oct. 
+
+Nov.
+
+-Annual rate- 
+
+-Monthly rate-
+
+CPI
+
+All  items  (100.0) 1  
+
+Food  (15.8) 
+Energy  (6.7) 
+CPI  less  food  and  energy  (77.5) 
+
+Commodities  (23.9) 
+
+New vehicles  (5.0) 
+Used cars  (1.3) 
+Apparel  (5.0) 
+
+Services  (53.6) 
+
+Owners'  equivalent  rent  (19.7) 
+Tenants'  rent  (5.8) 
+Medical  care  (6.1) 
+Auto finance  charges  (0.6) 
+
+2.6 
+
+2.8 
+
+-2.7 
+3.0 
+
+1.7 
+
+2.0 
+5.1 
+-0.4 
+
+3.6 
+
+3.4 
+2.4 
+4.6 
+6.6 
+
+3.3 
+
+4.4 
+8.1 
+2.6 
+
+1.1 
+
+1.8 
+-0.8 
+-0.5 
+
+3.2 
+
+2.9 
+2.8 
+3.3 
+-1.3 
+
+3.9 
+
+2.3 
+
+4.3 
+18.4 
+2.7 
+
+5.6 
+-7.4 
+2.4 
+
+0.6 
+
+0.1 
+
+0.3 
+
+0.6 
+0.7 
+0.2 
+
+0.1 
+
+2.4 
+-5.8 
+-1.8 
+
+3.2 
+-4.1 
+-4.8 
+
+-0.2 
+-0.3 
+0.5 
+
+3.6 
+
+2.8 
+2.6 
+3.1 
+0.3 
+
+3.6 
+
+0.3 
+
+2.7 
+3.0 
+3.3 
+13.7 
+
+0.3 
+0.2 
+0.2 
+-0.3 
+
+0.3
+
+0.3
+1.2
+0.2
+
+0.1
+
+-0.1
+-0.4
+0.5
+
+0.2
+
+0.3
+0.2
+0.4
+-1.2
+
+PPI
+
+Finished goods  (100.0) 2  
+
+2.1 
+
+3.0 
+
+2.9 
+
+1.4 
+
+Finished consumer  foods  (23.4) 
+Finished energy  (13.4) 
+Finished goods  less  food
+
+and energy  (63.2) 
+
+Consumer  goods  (38.5) 
+Capital  equipment  (24.7) 
+
+Intermediate materials  (100)3 
+
+Intermediate materials 
+
+less  food and energy  (82.6)
+
+3.3 
+-3.2 
+
+3.7 
+12.9 
+
+2.7 
+12.9 
+
+8.4 
+-7.1 
+
+0.4 
+
+0.8 
+1.9 
+
+0.4
+
+-0.1
+2.3
+
+2.8 
+
+2.9 
+2.6 
+
+3.5 
+
+4.0 
+
+0.6 
+
+0.8 
+0.3 
+
+0.6 
+
+0.9 
+
+1.3 
+0.4 
+
+1.1 
+
+-0.3 
+
+1.1 
+0.8 
+
+-0.1 
+-0.4 
+
+1.8 
+
+-1.1 
+
+.0 
+
+-1.2 
+
+-1.3 
+
+-0.6 
+
+-0.1 
+
+0.1
+
+.0
+0.3
+
+0.2
+
+0.1
+
+Crude materials  (100)4 
+
+4.7 
+
+9.4 
+
+17.6 
+
+3.1 
+
+-0.6 
+
+1.8
+
+Crude  food materials  (44.7) 
+Crude energy  (31.4) 
+Crude materials  less 
+
+food  and  energy  (23.9)
+
+13.7 
+-1.4 
+-1.2 
+
+3.2 
+30.5 
+-6.5 
+
+41.3 
+11.8 
+-11.3 
+
+16.8 
+-6.1 
+-8.4 
+
+-2.7 
+1.5 
+0.3 
+
+-1.9
+7.7
+-0.3
+
+1. Relative  importance weight  for CPI,  December  1995.
+2. Relative  importance weight  for  PPI,  December  1995.
+3. Relative  importance weight for  intermediate materials,  December
+4. Relative  importance  weight  for  crude materials,  December  1995.
+
+1995.
+
+II-35
+
+Core  inflation  remained  tame  in November:  Prices  of new
+
+vehicles  edged  off  0.1  percent  and  are  up  less  than  2 percent  from a
+
+year  earlier.  Non-energy  service  prices were  up  a modest
+
+0.2  percent  in  November,  a tad  below their  recent  average.  Even
+
+though  apparel  prices  rose  1/2  percent  for  a third  month  in
+
+November,  this  followed  a  string of  negative  readings.
+
+Prices  of  spot  commodities  have been  mixed  in  recent weeks.
+
+The  Journal  of  Commerce  industrial  materials  index is  up  about
+
+2 percent  since  the  last  Greenbook but  remains  below its  year-ago
+
+level.  Many farm commodity  prices  have  moved up  recently from their
+
+seasonal  lows  around  harvest  time.  Prices  of  copper  and  aluminum
+
+have  increased  of  late,  but  steel  scrap  prices  have  continued  to
+
+fall,  reflecting weak  export  demand.  In  addition,  prices  of  lumber
+
+and  plywood  have  come  down a  little  from their very high  levels
+
+earlier  in  the  fall.  The  PPI  for  crude  materials  less  food  and
+
+energy edged  down  in  November  and  stands  6-1/2  percent  below its
+
+year-earlier  level;  the  index  for  intermediate materials  excluding
+
+food  and  energy has  been  about  unchanged  since  the  spring.
+
+II-36
+
+SPOT  PRICES OF SELECTED  COMMODITIES
+
+--------------- Percent changel - - - - - - - - - - - - - - -
+
+Current 
+price 
+($) 
+
+1994 
+
+1995 
+
+Dec.  26 
+to 
+Nov. 052 
+
+Nov.  052 
+
+to 
+Dec.  10 
+
+Memo:
+Year
+earlier
+to date
+
+Metals
+
+Copper  (lb.)
+Steel  scrap  (ton)
+Aluminum, London  (lb.)
+
+Precious metals
+Gold  (oz.)
+Silver  (oz.)
+
+Forest products
+
+Lumber  (m. bdft.)
+Plywood  (m. sqft.)
+
+Petroleum
+
+Crude oil  (barrel)
+Gasoline  (gal.)
+Fuel  oil  (gal.)
+
+Livestock
+
+Steers  (cwt.)
+Hogs  (cwt.)
+Broilers  (lb.)
+
+U.S.  farm crops
+Corn  (bu.)
+Wheat  (bu.)
+Soybeans  (bu.)
+Cotton  (lb.)
+
+Other  foodstuffs
+
+Coffee  (lb.)
+
+Memo:
+JOC  Industrials
+JOC  Metals
+KR-CRB  Futures
+KR-CRB  Spot
+
+1.080
+116.500
+.670
+
+368.250
+4.785
+
+64.9
+2.9
+73.5
+
+-1.7
+-5.0
+
+-3.5
+-6.6
+-12.9
+
+1.7
+7.2
+
+415.000
+315.000
+
+-37.1 
+1.5 
+
+-14.4
+-6.1
+
+23.850
+.667
+.699
+
+66.000
+56.000
+.622
+
+2.610
+4.790
+6.790
+.725
+
+15.6
+32.4
+12.7
+
+-3.4
+-12.9
+-4.9
+
+-23.2
+11.4
+-19.6
+38.5
+
+16.8
+7.7
+22.6
+
+-5.7
+27.5
+10.7
+
+57.4
+24.0
+29.0
+-8.1
+
+-27.2
+-5.6
+-15.9
+
+-2.1
+-6.6
+
+72.4
+4.5
+
+20.1
+25.9
+
+8.1
+
+7.6
+18.2
+11.6
+
+-27.7
+-17.6
+-7.7
+-11.2
+
+9.1
+-7.9
+5.4
+
+-2.9
+-. 2
+
+-3.7
+-2.8
+
+9.0
+.3
+7.2
+
+-7.0
+4.7
+2.7
+
+4.0
+7.5
+2.2
+3.4
+
+-22.9
+-13.1
+-10.2
+
+-5.3
+-7.6
+
+66.7
+2.6
+
+36.8
+25.7
+22.4
+
+-1.5
+23.1
+16.4
+
+-21.6
+-12.7
+-3.7
+-13.0
+
+1.270
+
+153.1 
+
+-39.1
+
+27.6
+
+.0
+
+20.4
+
+106.700
+92.500
+240.870
+331.810
+
+22.1
+31.9
+4.8
+
+29.1
+
+-1.7
+-1.8
+3.3
+-3.5
+
+-5.8
+-10.6
+-3.2
+-. 7
+
+-5.1
+-9.9
+-1.3
+-. 9
+
+1.  Changes,  if  not  specified, are  f
+the  last  week of  the period indicated.
+2.  Week of  the November Greenbook.
+
+rom the  last  week of the  preceding year  to
+
+II-37
+
+Commodity  Price  Measures
+
+Journal of  Commerce  Index
+
+Ratio  scale, index, 1990=100
+
+KR-CRB  Spot Industrials
+
+Ratio scale,  index. 1967=100
+
+S97
+S96
+
+92
+
+88
+
+Dec.
+
+Oct. 
+
+Nov. 
+
+1996
+
+KR-CRB  Industrials
+-
+
+343
+
+-
+
+331
+
+S319
+
+Dec.
+
+Oct. 
+
+Nov. 
+
+1996
+
+KR-CRB  Futures
+
+Ratio  scale, index,  1967=100
+
+290 
+
+KR-CRB  Futures
+
+S270 
+
+250 
+
+230 
+
+10 
+
+S252
+249
+
+241
+
+I 
+Oct. 
+
+l 
+Nov. 
+
+1996
+
+233
+
+Dec.
+
+1989 
+1989 
+
+1990 
+1990 
+
+1991 
+1991 
+
+1992 
+1992 
+
+1993 
+1993 
+
+1994 
+1994 
+
+1996 
+1995 
+
+1996  1 
+1996 
+
+1997
+
+1190
+
+Note. Weekly  data, Tuesdays.  Vertical  lines on  small  panels indicate week of last Greenbook.  The Journal  of Commerce  index is based  almost
+entirely  on industrial  commodities, with  a small  weight given to energy commodities,  and  the KR-CRB spot  price index consists  entirely of  industrial
+commodities,  excluding energy.  The  KR-CRB futures index gives  about a  60 percent  weight to  food commodities  and  splits the remaining weight  roughly
+equally among  energy commodities,  industrial commodities,  and  precious metals.  Copyright  for Journal  of Commerce  data  is held  by  CIBCR,  1994
+
+DOMESTIC  FINANCIAL
+DEVELOPMENTS
+
+III-T-1
+
+Selected  Financial  Market Quotations'
+(Percent  except  as  noted)
+
+Feb. 
+
+low 
+
+1996 
+
+July 
+
+FOMC,* 
+
+high 
+
+Nov.  13 
+
+Dec.  11 
+
+Change  to  Dec.  11,  from:
+
+Feb. 
+
+low 
+
+July 
+
+high 
+
+FOMC,
+
+Nov.  13
+
+5.15
+
+5.39
+
+5.30
+
+5.22
+
+.07 
+
+-.17
+
+4.76
+4.67
+4.55
+
+5.27
+5.12
+
+5.21
+5.12
+4.99
+
+5.13
+5.13
+
+8.25
+
+4.98
+5.58
+6.02
+
+5.67
+
+7.18
+
+9.57
+
+6.94
+5.19
+
+5.21
+5.40
+5.64
+
+5.50
+5.59
+
+5.44
+5.59
+5.83
+
+5.38
+5.56
+
+8.25
+
+6.62
+7.06
+7.19
+
+6.24
+
+8.23
+
+10.36
+
+8.42
+6.01
+
+5.04
+5.08
+5.15
+
+5.37
+5.40
+
+5.28
+5.37
+5.43
+
+5.20
+5.38
+
+8.25
+
+5.84
+6.19
+6.44
+
+5.92
+
+7.59
+
+9.78
+
+7.67
+5.56
+
+4.83
+5.02
+5.20
+
+5.57
+5.44
+
+5.49
+5.44
+5.49
+
+5.44
+5.38
+
+8.25
+
+5.95
+6.38
+6.61
+
+5.83
+
+7.70
+
+9.74
+
+7.57
+5.52
+
+.52 
+
+.17 
+
+.63 
+.33 
+
+-.53
+
+-.62
+
+-. 85
+-.49
+
+Instrument 
+
+Short-term rates
+
+Federal  funds2
+
+Treasury  bills3
+
+3-month
+6-month
+1-year
+
+Commercial  paper
+
+1-month
+3-month
+
+Large  negotiable  CDs 3
+
+1-month
+3-month
+6-month
+
+Eurodollar  deposits'
+
+1-month
+3-month
+
+Bank  prime  rate
+
+Intermediate- and Long-term  Rates
+
+U.S.  Treasury  (constant  maturity)
+
+3-year
+10-year
+30-year
+
+Municipal  revenue  (Bond  Buyer)'
+
+Corporate-A  utility,  recently  offered
+
+High-yield  corporate'
+
+Home  mortgages7
+
+FHLMC  30-yr  fixed  rate
+FHLMC  1-yr  adjustable  rate
+
+Record  high 
+
+1996 
+
+Percentage  change  to  Dec.  11,  from:
+
+July 
+
+FOMC,* 
+
+Record 
+
+July 
+
+FOMC,
+
+Stock  exchange  index 
+
+Level 
+
+Date 
+
+low 
+
+Nov.  13 
+
+Dec.  11 
+
+Dow-Jones  Industrial 
+
+6547.79 
+
+11/25/96 
+
+5346.55 
+
+6266.04 
+
+6402.52 
+
+NYSE Composite 
+
+S&P  500  Composite 
+
+NASDAQ  (OTC) 
+
+Wilshire 
+
+398.86 
+
+11125/96 
+
+336.07 
+
+386.18 
+
+757.03 
+
+11/25/96 
+
+626.65 
+
+729.56 
+
+389.54 
+
+740.73 
+
+1316.27 
+
+12/9/96 
+
+1042.37 
+
+1256.53 
+
+1309.12 
+
+7295.57 
+
+12/2/96 
+
+6099.34 
+
+7067.63 
+
+7177.89 
+
+high 
+
+-2.22 
+
+-2.34 
+
+-2.15 
+
+-.54 
+
+-1.61 
+
+low 
+
+Nov.  13
+
+19.75 
+
+15.91 
+
+18.20 
+
+25.59 
+
+17.68 
+
+2.18
+
+.87
+
+1.53
+
+4.19
+
+1.56
+
+1.  One-day  quotes  except  as noted.
+2.  Average  for  two-week  reserve  maintenance  period  closest  to  date  shown.  Last  observation is the  average  for  maintenance  period  ending
+
+December  18,  1996.
+
+3.  Secondary  market.
+4.  Bid  rates  for  Eurodollar  deposits  at  II  a.m.  London  time.
+5.  Most  recent  observation  based  on  one-day  Thursday  quote and  futures  market  index  changes.
+6.  Merrill  Lynch  Master  II  high-yield  bond  index  composite.
+7.  Quotes  for  week  ending  Friday  previous  to  date  shown,  except  most recent  are  figures  for  week  ending  December  13.
+*  Figures  cited  are  as of  the  close  on  November  12.
+
+Selected  Interest  Rates
+
+Short-Term
+
+Monthly
+
+-
+
+-- 
+
+Federal funds
+Three-month  Treasury  bill
+Discount rate  (daily) 
+
+Percent
+
+-
+
+8
+
+7
+
+Percent
+
+II1I 
+
+I 
+
+I 
+
+I
+
+1991 
+
+1992 
+
+1993
+
+1994 
+
+1995 
+
+1996
+
+11/8 
+
+11/15 
+
+11/22 
+
+11/29 
+
+12/6
+
+1996
+
+Long-Term
+
+Monthly
+Monthly 
+
+.-- 
+
+1
+
+Percent
+*
+
+Percent
+
+-.... 
+
+Primary fixed-rate mortgage
+Corporate  bond (A-rated utility)
+Thirty-year  Treasury bond
+
+Weekly/Daily
+
+FOMC
+11/13
+
+Mortgage rate
+(weekly)
+
+Corporate  bond
+(weekly)
+
+Thirty-year T-bond
+(daily)
+
+i 
+
+1991 
+
+I 
+1992 
+
+I 
+
+i 
+
+I
+
+1993 
+
+1994 
+
+1995
+
+1996
+
+11/8 
+
+11/15 
+
+11/22 
+
+11/29 
+
+12/6
+
+1996
+
+DOMESTIC  FINANCIAL  DEVELOPMENTS
+
+For  the  most  part,  data  released  in  the  latter  half  of November
+
+reinforced market  participants'  beliefs  that  the  economy  had
+
+downshifted  in the  second  half  and  that  inflationary  pressures
+
+remain  subdued.  Interest  rates  moved  substantially  lower,
+
+especially at  intermediate and  long-term maturities.  The  bond
+
+markets  have  fluctuated  in  the  past  week, slumping when  the
+
+Chairman's  comments  about  asset  valuation  created  concern  over  a
+
+possible  System tightening,  rallying  on  the  report  of  slower
+
+employment  growth  and  higher  joblessness  in  November,  and  then
+
+falling  again  on  concerns  about  weakness  in the  dollar  and  a
+
+possible  lessening of  foreign  capital  inflows.  On  net,  short-term
+
+rates  are  slightly lower  than  at  the  time  of the  November  FOMC
+
+meeting  while  intermediate  and  long-term rates  are  somewhat
+
+higher. 
+
+Current  quotes  on  federal  funds  and  Eurodollar  futures
+
+contracts  suggest  an  expectation that  monetary  policy  will  be  on
+
+hold  for  at  least  the  near term.
+
+The  market  anticipation  of moderate  growth,  low inflation, and
+
+stable  interest  rates  propelled  stock prices  to  new  records  during
+
+the  intermeeting  period.  Although the  stock market  dipped  following
+
+the  Chairman's  comments,  it  recovered  quickly,  more than  gaining
+
+back  its  losses  by the  end  of the  next  trading  day.  Further
+
+volatility this  week has  trimmed  prices  on  net,  but  major  indexes
+
+are  still  up  1 to  4 percent  from  their  closing  levels  on November
+
+13.
+
+Overall  credit  growth appears  to  have  remained moderate  this
+
+quarter.  Businesses  have  continued  to  take  advantage  of relatively
+
+low  long-term  rates  by issuing  bonds while  cutting back  on  the  use
+
+of  commercial  paper.  Bank loans  to  businesses  have  expanded
+
+briskly.  In  the  household  sector,  consumer  credit turned  back  up  in
+
+October,  after  a  slight  decline  in  September, but  bank  figures
+suggest  only  continued  slow growth  last  month.  Information on  home
+mortgage  flows  this  quarter  is  sparse,  but  available  indicators
+
+1. One  exception  to  the  general  direction  of  short-term rates  is
+
+the  one-month  rate,  which  built  in  a year-end  premium estimated to
+be  in  excess  of  2 percentage  points when  that maturity  crossed  over
+into the  new year.  Year-end  funding  pressures  are  on  par  with those
+of  recent  years,  even though  the  last  day  of the  year  coincides  with
+the  end  of  a reserve  maintenance  period--a  situation that  in
+previous  years has  resulted  in  additional pressures.
+
+III-1
+
+III-2
+
+GROSS  ISSUANCE OF  SECURITIES  BY U.S.  CORPORATIONS 1
+(Billions of  dollars;  monthly  rates,  not  seasonally  adjusted)
+
+1996
+
+Type  of  security 
+
+1994 
+
+1995 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Sept. 
+
+Oct. 
+
+Nov.P
+
+All  U.S.  corporations 
+
+Stocks 2  
+Bonds 
+
+41.3 
+5.5 
+35.8 
+
+47.6 
+6.1 
+41.5 
+
+58.3 
+7.3 
+51.0 
+
+Nonfinancial  cororations
+Stocks 2  
+
+Initial public  offerings 
+Seasoned  offerings 
+
+Bonds 
+
+3.1 
+1.1 
+2.0 
+
+8.0 
+
+By rating,  bonds  sold  in U.S. 3
+
+Investment  grade 
+Speculative grade 
+
+Public 
+Rule 144A 
+
+65.0 
+13.9 
+51.1 
+
+10.5 
+4.5 
+6.1 
+
+50.1 
+6.9 
+43.2 
+
+62.3 
+6.7 
+55.6 
+
+62.8 
+13.0 
+49.8 
+
+59.6
+11.7
+47.9
+
+4.8 
+2.0 
+2.8 
+
+4.2 
+2.5 
+1.8 
+
+8.3 
+4.6 
+3.7 
+
+5.7
+2.1
+3.6
+
+4.4 
+1.7 
+2.7 
+
+5.6 
+2.2 
+3.4 
+
+10.7 
+
+12.1 
+
+13.8 
+
+10.3 
+
+11.4 
+
+17.0 
+
+14.2
+
+6.4 
+3.0 
+2.0 
+1.1 
+
+5.9 
+4.9 
+2.7 
+2.3 
+
+6.3 
+5.6 
+3.3 
+2.3 
+
+5.2 
+3.6 
+1.8 
+1.8 
+
+5.0 
+4.3 
+1.8 
+2.5 
+
+9.2 
+5.5 
+2.1 
+3.4 
+
+7.0
+5.9
+1.1
+4.8
+
+4.4 
+2.6 
+2.0 
+.6 
+
+Financial  corporations
+Stocks 2  
+Bonds 
+
+2.4 
+27.8 
+
+1.7 
+30.8 
+
+1.8 
+38.8 
+
+3.4 
+37.3 
+
+2.1 
+33.0 
+
+2.5 
+44.2 
+
+4.6 
+32.8 
+
+6.0
+33.3
+
+Note. Components may not  sum to  totals  because of  rounding.
+1.  These data  include speculative-grade  bonds  issued privately under Rule  144A.
+
+All other private placements  are  excluded.  Total reflects  gross  proceeds
+rather than par value of  original discount bonds.
+
+2.  Excludes equity issues associated with equity-for-equity  swaps that  have
+
+occurred in restructurings.
+
+3.  Bonds  categorized according to Moody's bond ratings, or to  Standard & Poor's
+
+if  unrated by Moody's.  Excludes mortgage-backed and asset-backed bonds.
+
+p  Preliminary.
+
+Commercial  Paper  Issued by Nonfinancial Firms
+(Change in  outstandings over  period  shown)
+
+Billions of dollars,  monthly  rate
+
+Average  First-Day Price Change  of IPOs
+
+Percent
+
+01
+
+MM 
+
+02
+
+03
+
+CB
+
+INov  -
+
+1994 
+
+1995 
+
+1996
+
+III-3
+
+suggest  that  demand for home  loans  has  been  buoyed  by  declining
+interest  rates.
+
+Growth  of M3  was  substantial  in  October  and November,  with  a
+
+faster  expansion  of  bank  credit.  M2  increased  relatively  slowly  in
+October,  but  picked  up  in  November  and  generally has  remained on  a
+trend  paralleling  nominal  GDP.
+Business  Finance
+
+The  decline  of  long-term interest  rates  over most  of  the
+intermeeting  period  spurred  robust  bond  offerings  by  nonfinancial
+corporations  in  November  (table).  Speculative  grade  issuance was
+heavy,  as  it  has  been for  most  of  the  year;  these  issues  have
+accounted  for nearly half  of  all  bond offerings  in  1996,  up  from
+their  roughly  one-third  share  in  1994  and  1995.  Nonfinancial
+commercial  paper,  meanwhile, continued  to  decline  in November  as
+issuers moved to  lock  in  lower  long-term  rates  (chart).  In  the
+current  economic  and  financial environment,  the  indicators  of  credit
+quality  of  nonfinancial  corporations  have  changed  little  in  recent
+months,  with the  value  of  nonfinancial  debt  upgraded by Moody's  in
+October  and  November about  equal to  the value  downgraded.
+
+Equity issuance  by  nonfinancial  firms  in  November offered  a
+
+mixed  picture.  Seasoned  issuance  showed  continued  strength,  while
+initial  public  offerings  fell  after  surging in  October when  many  of
+the  companies  that  had  registered  to  issue  shares  earlier  this year
+finally  came  to market  (table).  The  market  for  IPOs  has  been  less
+buoyant  of  late;  for  example,  the  first-day  price  increases  for  IPOs
+dropped  back to  a shade  above  10  percent  (on average)  in  October  and
+November  from already moderate third-quarter  levels  (chart).  Equity
+retirements,  meanwhile, continue  apace:  share  repurchases  remain
+very  strong, while there  is  no  indication that merger  activity  is
+slowing.
+
+The  S&P  500  price-to-earnings  ratio  (based on  analysts'
+estimates  of  earnings  over the  coming  twelve months)  has  risen  to
+new highs  for  this  series  that began  in  1979  (chart).  The  runup  in
+the  P/E  ratio  is  broadly  consistent  over  longer  periods with  changes
+in  long-term interest  rates--this  indicator  of  stock market
+valuation  tends  to  reach  its  highs  as  long-term  rates  reach  their
+lows  (chart).  Still,  the  high valuation  at  present  comes  amid
+indications  of  a slowdown  in  corporate  earnings  growth.  Third-
+quarter  earnings  of firms  in  the  S&P  500  were  up  8 percent  from four
+quarters  earlier,  the  slowest  rate  of  growth  in  five years  (chart).
+
+III-4
+
+S&P 500 Valuation  and Real  Long-Term  Interest  Rates
+
+Percent
+
+Ratio
+
+Price/earnings  ratio*
+(right  scale)
+
+X. 
+
+.
+
+... 
+." 
+
+. ..
+
+"
+
+.'*. 
+
+-
+
+%
+
+.:
+
+* 
+
+U  .
+
+1980 
+
+1982 
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992 
+
+1994 
+
+1996
+
+* Based  on  consensus estimate  of earnings  over the  coming  12  months.  All observations reflect prices at  mid-month.
+Source:  VB/E/S.
+
+Corporate  Profits
+(Change from four quarters  earlier)
+
+Quarterly
+
+NIPA after
+tax-book profits
+
+Earnings per  share
+for S&P  500
+(Goldman  Sach's)
+
+*  A
+
+Percent
+
+\3l
+
+I 
+
+1990 
+
+1991
+
+I 
+
+~ 
+1992 
+
+I 
+
+I 
+
+1993 
+
+1994
+
+I_ 
+
+~ 
+1995
+
+I
+
+1996
+
+III-5
+
+In the  midst  of  the  rapid  increase  in  equity  prices,  net
+
+inflows  to  equity  funds were  up  in  November  from their  October
+levels  but  remained well  below those  of  the  first  half  of the  year
+(table).  Preliminary  data  for  the week ending  December  4 suggest
+that  equity funds  actually  experienced a net  outflow, for  the  first
+time  since mid-July:  however,  industry  sources  indicate that  there
+was  not  much  investor  reaction to  the  December  6 volatility in  stock
+prices.  The  mix of inflows  since midyear  has had  a slightly  more
+conservative  cast,  with  growth and income  funds--which tend to
+invest  in  large,  dividend-paying  companies--accounting  for  about
+half  of domestic  equity net  sales,  up  from  about  40  percent  over  the
+first  half.  Cash  ratios  for  stock  funds  declined to  a historical
+low  of  6.2  percent  by  the end  of October,  as  the  bull market
+continued  to  punish managers  who  did  not  try to  stay  fully  invested.
+
+Net Sales  of Selected  Mutual  Funds
+(Billions of dollars; quarterly and  annual  data  at  monthly rate)
+
+Stock  funds 
+
+Domestic' 
+
+Aggressive  growth 
+
+Growth 
+Growth  & income2  
+International 
+
+Bond  funds 
+
+High-yield 
+
+Income 
+Other 
+
+1994 
+11.0 
+
+7.2 
+
+2.2 
+
+2.0 
+
+4.2 
+
+3.8 
+
+-1.4 
+
+0.2 
+
+2.2 
+-3.8 
+
+1995 
+12.2 
+
+11.1 
+
+3.2 
+
+3.5 
+
+4.4 
+
+1.2 
+
+2.0 
+
+0.9 
+
+1.7 
+-0.6 
+
+H1 
+23.9 
+
+18.9 
+
+6.0 
+
+5.1 
+
+7.7 
+
+5.0 
+
+3.8 
+
+1.0 
+
+2.9 
+
+-0.1 
+
+Q3 
+14.2 
+
+11.5 
+
+3.3 
+
+2.6 
+
+5.6 
+
+2.7 
+
+2.6 
+
+1.6 
+
+1.6 
+-0.6 
+
+1996 
+
+Sept. 
+19.8 
+
+16.5 
+
+4.8 
+
+4.3 
+
+7.4 
+
+3.3 
+
+4.9 
+
+1.6 
+
+2.9 
+
+0.4 
+
+Oct. 
+14.0 
+
+10.9 
+
+3.4 
+
+1.8 
+
+6.0 
+
+3.2 
+
+1.2 
+0.3 
+
+1.5 
+
+Memo:
+
+Oct.
+assets
+1651.3
+
+Nov." 
+18.7 
+
+15.8 
+
+1387.6
+
+4.9 
+
+4.0 
+
+6.9 
+
+2.9 
+
+4.8 
+2.0 
+
+2.9 
+
+260.8
+
+457.6
+
+663.7
+
+263.8
+
+806.5
+73.0
+
+311.8
+
+421.7
+
+-0.6 
+
+-0.1 
+
+1. Includes  precious metals  funds, not  shown  elsewhere.
+2.  Calculated  as the  sum  of  "Growth  and income" and "Income  equity" in  the  ICI data.
+e  Staff  estimate.
+Source.  Investment  Company  Institute.
+
+III-6
+
+CONSUMER CREDIT
+
+1994 
+
+1995
+
+Q1 
+
+Q2
+
+Q3 
+
+Aug
+
+Sep 
+
+OctP
+
+1996
+
+Credit Outstanding,  end  of period
+
+Growth Rates
+(percent, SAAR)
+
+Total
+
+14.5
+
+14.2
+
+11.9 
+
+7.7
+
+6.1
+
+6.0
+
+(Previous)
+
+(14.5)
+
+(14.2)
+
+(12.0) 
+
+(  7.  6)
+
+(  4.9)
+
+(  5.2)
+
+Auto
+
+Revolving
+
+Other
+
+13.4
+
+18.2
+
+11.8
+
+10.6
+
+22.0
+
+9.2
+
+8.8
+
+16.9
+
+9.1
+
+9.4
+
+12.8
+
+-0.3
+
+7.2
+
+9.2
+
+0.8
+
+0.2
+
+6.7
+
+11.2
+
+-0.8
+
+(-2.7)
+
+1.8
+
+2.0
+
+-7.1
+
+2.3
+
+-0.2
+
+4.0
+
+2.8
+
+Levels
+(billions of  dollars,  SA)
+
+Total
+
+966.5  1103.3  1136.2  1158.1  1175.7  1176.4  1175.7  1177.9
+
+Auto
+
+Revolving
+
+Other
+
+317.2
+
+339.3
+
+309.9
+
+350.8
+
+413.9
+
+338.6
+
+358.6
+
+431.3
+
+346.2
+
+367.0
+
+445.1
+
+346.0
+
+373.6
+
+455.4
+
+346.7
+
+373.1
+
+454.6
+
+348.7
+
+373.6
+
+455.4
+
+346.7
+
+373.6
+
+456.9
+
+347.5
+
+Interest  Rates 1
+(annual percentage  rate)
+
+Commercial  banks
+
+New Cars  (48 mo.) 2
+Personal  (24 mo.) 2
+Credit  cards 3
+
+Auto finance companies 4
+
+New cars
+
+Used cars
+
+8.1
+
+13.2
+
+15.7
+
+9.6
+
+13.9
+
+16.0
+
+9.8 
+
+13.5 
+
+11.2
+
+14.5
+
+9.1
+
+13.6
+
+15.8
+
+9.8
+
+13.2
+
+8.9
+
+13.5
+
+15.4
+
+9.1
+
+13.4
+
+15.7
+
+9.1
+
+13.4
+
+15.7
+
+n.a.
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+9.5 
+
+13.6 
+
+10.5 
+
+13.9 
+
+10.5 
+
+13.9 
+
+10.5 
+
+13.9 
+
+10.4
+
+13.7
+
+r Revised;  p  Preliminary;  n.a.  Not available
+1. Annual data.are  averages  of  quarterly data  for commercial  banks  and of  monthly  data
+
+for  finance companies.
+
+2. Average  of  most common  rate charged  for  specified type  and maturity during  the  first
+
+week of  the middle month of  each quarter.
+
+3. Stated APR averaged across  all  credit  card accounts  at all  reporting banks  during
+
+the month.
+
+4. Average  rate  for  all  loans  of  each type,  regardless of maturity, made during  the
+
+month.
+
+III-7
+
+Household  Finance
+
+Total  consumer credit  expanded about  2-1/4  percent,  at  an
+
+annual  rate,  in  October  following  the  small  decline  recorded  in
+
+September  (table).  The  sluggish growth  in  September  and October
+confirms  a substantial  further  slowing  in  consumer  credit  from its
+pace  early  in  the  year.  Revolving  credit  grew  at  less  than a
+
+5 percent  annual  rate  for  the  second  straight month, well  below the
+15  percent  growth  averaged  in the  first  half  of this  year.
+
+Partial  data  for  bank  credit  and  mortgage-backed  securities
+
+issuance  so  far  in the  current  quarter  suggest  that mortgage
+
+borrowing has  continued  at  about  the  same moderate pace  as  that
+recorded  in  the third  quarter.  Mortgage  applications  for  home
+
+purchases  have  remained at  a relatively high  level,  buoyed  by  the
+
+lower  mortgage interest  rates  that  prevailed  for most  of the
+
+intermeeting  period.  The  decline  in mortgage interest  rates  also
+
+more  noticeably  spurred  refinancing activity, and  the Mortgage
+
+Bankers  Association's  refi  index in  late  November  reached  the
+
+highest  level  (seasonally  adjusted)  since  early May.  However, the
+
+refi  index  remains  well  off the  peak  reached  in  February.
+
+Thirty-year,  fixed-rate  loans  have  been  the most  popular  type
+
+of  new mortgage  among  refinancers,  irrespective  of  the  type  of
+
+mortgage they  originally  owed.  With mortgage  rates  hovering  around
+
+7-1/2  percent,  about  one-fifth of  all  outstanding  fixed-rate  loans
+
+could  be  considered  likely  candidates  for  refinancing.  The
+
+potential  net  interest  savings  to  homeowners  is  likely  to  be  smaller
+
+than  in  earlier refinancing  episodes  because the  average note  rate
+
+on  the  outstanding stock  of  loans  is  much lower  today  than  it  was  at
+
+the  beginning  of  1992  and  because  a large  portion  of the  refinancing
+
+wave  thus  far  has  entailed shifting  from ARMs  to  FRMs.
+
+Lower  mortgage  rates  and the  associated  reduction  in  payment
+
+burdens  will  likely  help  to  sustain  relatively  strong mortgage
+
+payment  performance.  Recent  reports  indicate that  the  delinquency
+
+rate  for mortgages  edged  lower  in  the third  quarter.  According to
+
+seasonally  adjusted  data  from the Mortgage  Bankers  Association, the
+
+thirty-day  delinquency  rate  on  single-family  loans  declined  for  the
+
+second  consecutive quarter  (chart).  The number  of  single-family
+
+loans  sixty  days  or  more  past  due,  a measure  of more  serious  payment
+
+problems,  also  declined,  dropping this  delinquency  rate  to  a level
+
+last  seen  in  1979.  And  at  banks,  Call Reports  for  the  third  quarter
+
+continue to  show very  low  levels  of delinquencies  and  charge-offs.
+
+III-8
+
+Household  Credit Quality
+
+Mortgage  Delinquency  Rates  at  All Lenders
+Seasonally  adjusted 
+
+2.0 
+
+Cuarterlyl 
+
+, 
+.- A
+
+/ 
+
+S  * 
+
+30 days- aorre past due  (right scale)
+
+1.8 
+
+-
+
+1.6  -
+
+.'iii* 
+
+Percent
+
+6.0
+
+-
+
+5.5
+
+5.0
+
+.. 
+
+-
+
+4.5
+
+1 .
+
+1  1. .
+
+1982 
+1980 
+Source.  Mortgage  Bankers Association
+
+1984 
+
+60 days or more p 
+
+e 
+
+.w 
+(left scale) 
+
+1986 
+
+1988 
+
+1990 
+
+1992 
+
+1994 
+
+1996
+
+4.0
+
+3.5
+
+Credit Card  Delinquency  Rates  at  Banks
+Seasonally adjusted,  30  days  or more past due 
+
+:Quarteriy 
+
+-
+
+.i 
+
+-
+
+.1 
+
+-
+
+'', 
+
+Call Report
+
+.5.0
+
+'\ 
+
+Percent
+
+. 03  -
+
+4.5
+
+* 
+
+-' 
+
+-
+
+4.0
+
+-
+
+3 .0
+
+2.5
+
+2.0
+
+1980 
+
+1982 
+
+1984 
+
+1986 
+
+1988 
+
+1990 
+
+1992 
+
+1994 
+
+1996
+
+Closed-End  Consumer  Loan  Delinquency  Rates at Banks
+Seasonally adjusted,  30 days or more  past due 
+
+Quarter*l
+
+Call  Report
+
+Percent4.0
+
+3.5
+
+ABA, ...... 
+
+Q3 
+
+- 3.0
+
+2.5
+
+2  - 2.0
+
+1980 
+
+1982 
+
+1984
+
+1986 
+
+1988 
+
+1990 
+
+1992
+
+1994 
+
+1996
+
+III-9
+
+However,  indicators  of  credit  quality  of  consumer  loans  suggest
+
+a  more marked  deterioration  in household  financial  health  (chart,
+
+middle  and  lower  panels).  Call  Report  data  indicate  that  consumer
+
+loan  delinquencies  at  banks  continued to  rise  in  the  third  quarter:
+
+Credit  card  delinquencies  increased to  4.49  percent  last  quarter,
+
+the  highest  level  reported for  this  series  that  began  in  the  first
+
+quarter  of  1992.  Delinquency  rates  on  other  consumer  loans  also
+
+moved  higher  but  remained well  below prior  peaks.  Despite  the
+
+deteriorating  credit  quality  of  consumer  loans,  bank  profitability
+
+remained  quite  strong  according  to  third-quarter  Call Reports,  even
+
+at  credit  card  banks.  Indeed,  these  banks  have  maintained  a  high
+
+ratio  of  loan  loss  reserves  to  delinquent  loans  and  remain  well
+
+capitalized.
+
+Monetary Aggregates  and  Bank Credit
+
+The  growth of M2  strengthened  last month to  a  7-1/4  percent
+
+rate,  more  than double  its  rate  in  October.  The  reasons  for  the
+
+surge  in  growth  are  not  clear  at  this  time,  but  November's  robust
+
+expansion  follows  two  months  of  slowing  growth,  and  averaging
+
+through the  monthly  gyrations,  M2  continues  to  expand  at  about  a
+
+4-1/4  percent  pace.  Its  growth  for  the  entire year  places  it  in  the
+
+upper half  of its  annual  range.
+
+At  6-3/4  percent,  M3  growth  eased  from  its  brisk  October  pace
+
+and  remained  just  above  the  upper bound  of  its  2-to-6  percent  range.
+
+Deceleration  in M3  growth  in  November was  accompanied  by  a slowing
+
+of  bank credit  growth.  After  adjusting for  mark-to-market
+
+accounting effects,  bank  credit  grew  at  an  annual  rate  of
+
+5-1/4  percent.  The  slowing in  bank  credit  owed  to  a drop-off  in
+
+loan  growth  to  a 4 percent  rate,  less  than half  the  pace  of  the
+
+previous two  months,  as  business  loans  and  the volatile  "other
+
+loans"  category  decelerated.
+
+Business  loan  growth eased  off  its  extraordinarily  rapid  pace
+
+in  September  and  October  but  to  a still  brisk  7 percent  rate  in
+
+November.  Both delinquency and  charge-off  rates  for  business  loans
+
+continued  to be  low  in the third  quarter  (chart),  and  there  are  no
+
+signs  that  banks  have  become  less  accommodative  lenders.  Spreads  on
+
+both  large  and  small  business  loans  were  essentially unchanged  in
+
+November  from three  months earlier,  according  to  the November  Survey
+
+of  Terms  of  Bank Lending  (chart).  For  large  loans,  these  spreads
+
+remain  quite  narrow by  standards  of the  past  fifteen  years.
+
+III-10
+
+MONETARY AGGREGATES
+(Based on  seasonally adjusted  data)
+
+Aggregate  or  component 
+
+Aggregate 
+
+Selected components
+
+4. Currency
+
+5. Demand deposits
+
+1996 
+
+1996 
+
+1995 
+
+Q2 
+
+Q3 
+
+Sept 
+
+Oct. 
+
+1995:Q4 
+Level
+to 
+(bil.  $)
+Nov.  Nov. 96  Nov.  96
+(p)
+(p) 
+
+tp) 
+
+Percentage  change  (annual rate)1
+
+-1.8 
+3.9 
+5.9 
+
+-0.7 
+3.8 
+5.5 
+
+-7.0
+2.7
+4.4
+
+-8.7
+3.3
+7.2
+
+-16.8
+
+2.9
+8-6
+
+-4.7 
+4.2 
+6.2 
+
+1076.1
+3796.2
+4841.5
+
+5.4 
+
+1.4 
+
+3.7
+
+7.9 
+
+7.8 
+
+8.7 
+
+7.1 
+
+5.6 
+
+392.6
+
+10.6 
+
+-2.1 
+
+-5.9 
+
+-27.2 
+
+13.9 
+
+3.1 
+
+400.7
+
+6. Other checkable deposits
+
+-11.1 
+
+-18.5 
+
+-30.6 
+
+-33.8 
+
+-37.7 
+
+-28.6 
+
+-23.7 
+
+274.2
+
+7. M2  minus  M13
+
+8.  Savings  deposits
+9.  Small  time deposits
+
+10. 
+
+Retail money  market  funds
+
+6.6 
+
+-3.3 
+15.0 
+18.9 
+
+5.7
+
+11.2
+-3.0
+
+9.3
+
+6.9 
+
+8.3 
+
+10.9
+
+9.9 
+
+8.2 
+
+2720.1
+
+7.0 
+5.1 
+17.4 
+
+13.1 
+6.0 
+14.5 
+
+11.0 
+5.7 
+14.8 
+
+11.8 
+1.3 
+13.6 
+
+1256.2
+946.6
+517.3
+
+11.  M3  minus M24
+
+14.7 
+
+12.4 
+
+10.7 
+
+21.8 
+
+29.8 
+
+5.0 
+
+14.0 
+
+1045.3
+
+12. 
+13. 
+
+14. 
+15. 
+
+Large  time deposits, net 5
+Institution-only money  market
+
+mutual  funds
+
+RPs
+Eurodollars
+
+Memo
+
+16.  Sweep-adjusted M16
+17.  Monetary base
+18.  Household M27
+
+Memo
+
+Selected managed  liabilities
+at  commercial banks:
+
+18. 
+19. 
+
+Large  time deposits,  gross
+Net due to  related  foreign
+
+15.5 
+
+13.8 
+
+15.4 
+
+21.0 
+
+44.1 
+
+15.4 
+
+16.6 
+
+482.9
+
+23.1 
+5.4 
+12.0 
+
+8.8 
+23.3 
+2.9 
+
+18.5
+-4.9
+4.6
+
+25.7 
+18.7 
+22.2 
+
+7.3 
+19.0 
+64.2 
+
+13.2
+-31.4
+-17.3
+
+18.7 
+4.1 
+10.9 
+
+267.2
+193.6
+102.8
+
+3.1 
+5.9 
+3.4 
+
+2.7 
+4.6 
+3.7 
+
+-0.5
+3.5
+6.4
+
+Average monthly  change  (billions of  dollars) 8
+
+5.5 
+
+6.6 
+
+8.0 
+
+10.5 
+
+23.1 
+
+10.7
+
+1238.0
+449.3
+3395.6
+
+531.4
+
+244.0
+
+institutions
+
+3.5 
+
+-4.8 
+
+-3.2 
+
+1.1 
+
+3.5 
+
+-4.1
+
+20.  U.s.  government deposits
+
+at  commercial  banks 
+
+-0.1
+
+0.0 
+
+1.7
+
+3.0 
+
+-3.6
+
+5.7
+
+.
+
+23.4
+
+1. For  the years  shown,  fourth quarter-to-fourth  quarter percent change.  For  the  quarters  shown,  based on
+
+quarterly  averages.
+
+2. Sum of  seasonally adjusted M1,  retail  money market  funds,  savings deposits,  and small  time deposits.
+3. Sum of  retail  money  funds,  savings  deposits, and small  time deposits,  each  seasonally adjusted  separately.
+4. Sum of  large  time  deposits, institutional  money  funds,  RP  liabilities  of  depository  institutions,  and
+
+Eurodollars held by  U.S.  addressees,  each  seasonally adjusted  separately.
+
+5. Net of  holdings  of  depository  institutions, money  market mutual  funds,  U.S.  government,  and foreign  banks
+
+and  official  institutions.
+
+6. Sweep  figures used  to  adjust  these series  are  the  estimated national  total  of  transaction account
+
+balances  initially  swept  into MMDAs owing  to  the  introduction  of  new sweep programs,  on  the basis of  monthly
+averages of  daily data.
+
+7. M2  less demand deposits
+8. For  the years  shown,  "average monthly  change"  is  the  fourth  quarter-to-fourth quarter  dollar  change,
+
+divided by  12.  For  the  quarters  shown,  it  is  the  quarter-to-quarter  dollar change,  divided by  3.
+
+p--Preliminary.
+
+III-11
+
+Commercial  Bank  Credit
+(Percent  change;  seasonally adjusted  annual rate)
+
+Type  of credit 
+
+1995 
+
+Q2 
+
+03 
+
+Sep 
+
+Oct 
+
+Nov 
+
+1996 
+
+Level
+Nov
+1996
+(billions of $)
+3,740.3
+
+3,671.1
+
+987.8
+
+918.6
+
+706.9
+
+1. Bank  credit - reported 
+
+2. 
+
+- adjusted' 
+
+3.  Securities  - reported 
+
+4. 
+
+5. 
+
+6. 
+
+- adjusted 1  
+
+U.S.  government 
+
+Other 2  
+
+8.8 
+
+7.1 
+
+4.1 
+
+-2.2 
+
+-3,3 
+
+2.6 
+
+4.0 
+
+-2.7 
+
+2.4 
+
+1.0 
+
+1.3 
+
+2.0 
+
+-6.4 
+
+-4.3 
+
+-2.3 
+
+5.1 
+
+7.0 
+
+-6.8 
+
+0.1 
+
+2.6 
+
+6.6 
+
+7.1 
+
+0.9 
+
+2.8 
+
+-2.7 
+
+8.7 
+
+5.2 
+
+22.0 
+
+8.7 
+
+8.0 
+
+28.8 
+
+-11.5 
+
+-17.0 
+
+-30.8 
+
+10.4 
+
+58.7 
+
+280.9
+
+7.  Loans 3  
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+
+Business 
+
+Real  estate 
+
+Home  equity 
+
+Other 
+
+Consumer  - reported 
+
+- adjusted 4  
+
+Other 5  
+
+10.8 
+
+11.6 
+
+8.5 
+
+5.2 
+
+8.7 
+
+10.7 
+
+17.6 
+
+17.5 
+
+4.6 
+
+5.1 
+
+3.2 
+
+-0.5 
+
+3.5 
+
+4.9 
+
+9.2 
+
+7.7 
+
+4.1 
+
+6.7 
+
+3.2 
+
+3.0 
+
+3.2 
+
+5.8 
+
+9.8 
+
+9.3 
+
+8.6 
+
+22.4 
+
+13.5 
+
+1.9 
+
+2.6 
+
+4.0 
+
+7.0 
+
+4.4 
+
+2,752.5
+
+770.9
+
+1,118.0
+
+10.5 
+
+17.8 
+
+17.5 
+
+83.4
+
+1.3 
+
+9.3 
+
+13.6 
+
+1.4 
+
+-0.9 
+
+0.2 
+
+3.5 
+
+-0.7 
+
+3.5 
+
+2.4 
+
+1,034.7
+
+517.2
+
+680.4
+
+346.3
+
+-1.1 
+
+4.7 
+
+32.1 
+
+Note. Adjusted for breaks caused by  reclassifications.  Monthly  levels are pro rata averages  of weekly (Wednesday)  levels. Quar-
+terly levels (not shown) are simple averages of monthly  levels. Annual levels (not shown) are levels for the fourth quarter. Growth rates
+shown  are  percentage changes  in consecutive  levels, annualized but not compounded.
+
+1. Adjusted to  remove effects of mark-to-market  accounting rules  (FIN  39 and  FASB  115).
+2. Includes securities of corporations, state  and local governments,  and foreign  governments and any trading account assets that
+
+are not  U.S.  government securities.
+3. Excludes  interbank loans.
+4. Includes an  estimate of outstanding loans securitized by  commercial  banks.
+5. Includes  security loans,  loans to farmers, state and  local governments, and  all others  not elsewhere  classified. Also includes
+
+lease financing receivables.
+
+III-12
+
+Performance  of  Business Loans at  Commercial  Banks
+(Seasonally adjusted)
+
+Delinquency rate 
+
+Quarterly 
+
+Percent 
+
+Charge-off  rate 
+
+Perc
+
+Quarterly
+
+6
+
+5
+
+4
+
+3
+
+-2
+
+1987 
+
+1989 
+
+1991 
+
+1993 
+
+1995 
+
+1985 
+
+1987 
+
+1989 
+
+1991 
+
+1993 
+
+1995
+
+Quarterly
+
+Loan  Rate  Spreads
+(By  loan size)
+
+Basis  points
+
+Less  than $100 thousand
+
+'' 
+
+--
+
+-..- 
+
+.
+
+.. " 
+
+$100-999  thousand
+
+/ 
+
+.
+
+$1 million or more
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I
+
+1986 
+
+1987 
+
+1988 
+
+1989 
+
+1990
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+Note.  Spread  over  intended federal  funds  rate
+
+III-13
+
+In  contrast,  consumer  lending  remained  sluggish  in  part  as
+
+banks  appeared  to  have  become more  cautious  in  the  face  of  rising
+
+debt  burden  problems.  After  gaining  10  percent  at  an  annual  rate
+
+between  July and  September,  outstanding  consumer  loans  at  banks,
+
+adjusted  for  securitization,  showed  only  small  increases  in  October
+
+and  November.  Anecdotal  reports  suggested that  some banks  are
+
+steering  customers  away  from consumer loans  toward home  equity
+
+lines,  thus  providing  lenders  with better  collateral.  While  home
+
+equity  loans  expanded  rapidly,  overall  real  estate  loans  increased
+
+at  a modest  4-1/2  percent  pace  in November.
+
+Treasury and  Agency Financing
+
+The  staff  anticipates  that  the  Treasury will  finance  the
+
+projected  $59  billion  fourth-quarter deficit  by  borrowing
+
+$43  billion  from the  public  and  by  drawing  down  its  cash  balance by
+
+$13  billion.  The  Treasury  has  relied  more heavily  this  quarter  on
+
+coupon  issues  than  in  previous  quarters,  adding  an  extra  ten-year
+
+note  auction  in mid-October  and  including  a long-term bond  in the
+
+November midquarter refunding  for the  first  time  since  1992.  In
+
+total,  fourth-quarter  auctions  of coupons  are  expected to  raise
+
+$24  billion, while  proceeds  from bill  auctions  are expected  to
+
+contribute  only  $12  billion.  The  Treasury  still  intends  to  auction
+
+an  "inflation protection" note  for  settlement  in  mid-January.
+
+Recently,  considerable market  attention has  focused  on  reports
+
+of  the  heavy  acquisition of Treasury  securities  by foreign
+
+purchasers.  Foreign  holdings  of  Treasuries  have  risen  sharply in
+
+the  past  few years,  with foreign  entities  estimated to  hold  almost
+
+30  percent  of outstanding Treasury  securities  at  the  end  of  the
+
+third  quarter  (chart).  Nearly  half  of  the  increase  can  be
+
+attributed  to  purchases by official  institutions,  which tend  to hold
+
+their  securities  in custody  at  the  Federal  Reserve Bank  of New York
+
+(chart).  Recently,  custodial  holdings  at  the  Federal  Reserve  Bank
+
+of  New  York have  topped $600  billion.
+
+Issuance  of  securities  by  government-sponsored  enterprises  has
+
+remained  steady;  and  spreads  of GSE-issued  securities  over
+
+comparable  Treasury  securities  are  essentially unchanged  at  about
+
+16  basis  points  for the  five-year  note  and  25  basis  points  for the
+
+ten-year note.
+
+III-14
+
+TREASURY  FINANCING
+(Billions of dollars;  total  for  period)
+
+1996
+
+Item 
+
+Q3 
+
+Q4P  
+
+Oct. 
+
+Nov. e   Dec. p
+
+Total  surplus/deficit  (-) 
+
+-33.3 
+
+-59.1 
+
+-40.3 
+
+-40.5 
+
+21.6
+
+Means  of financing deficit
+Net  cash borrowing and
+
+repayments  (-) 
+
+Nonmarketable 
+Marketable 
+Bills 
+Coupons 
+
+39.4 
+-1.0 
+40.3 
+-12.4 
+52.7 
+
+43.1 
+6.8 
+36.3 
+11.9 
+24.4 
+
+15.6 
+2.9 
+12.7 
+2.2 
+10.5 
+
+44.8 
+2.4 
+42.4 
+38.9 
+3.5 
+
+-17.2
+
+1.6
+-18.8
+-29.1
+10.3
+
+Decrease  in  cash balance 
+
+-6.2 
+
+12.7 
+
+18.6 
+
+-0.7 
+
+-5.2
+
+Other 
+
+0.1 
+
+3.3 
+
+6.1 
+
+-3.6 
+
+0.8
+
+Memo:
+Cash balance,  end  of  period 
+
+44.2 
+
+31.5 
+
+25.6 
+
+26.3 
+
+31.5
+
+Note.  Data  reported  on  a payment  basis.  Details  may not  sum to
+
+totals because  of  rounding.
+
+1. Accrued  items,  checks  issued  less  checks  paid,  and other
+
+transactions.
+
+p  Projection.
+e  Estimate.
+
+Foreign  Holdings of Marketable  U.S.  Treasury Securities
+
+Quarterly/weekly
+
+Official  and  International account
+holdings  in custody
+at Federal  Reserve Banks 
+
+Total  holdings
+
+..**
+
+-
+
+*
+
+........ 
+
+.. ....
+
+-
+
+i
+
+Billions of dollars
+
+Q3
+
+Dec.
+
+Dec. 4
+
+1200
+
+1000
+
+800
+
+.-. 
+600
+
+400
+
+-
+
+200
+
+1989
+
+1990
+
+1992
+
+1993
+
+1994
+
+1995
+
+1996
+
+Source:  Flow of  Funds  and New York  Federal  Reserve Bank.
+
+III-15
+
+NET  CASH  BORROWING OF  GOVERNMENT-SPONSORED  ENTERPRISES
+(Billions of  dollars)
+
+Agency 
+
+02 
+
+03 
+
+FHLBs 
+FHLMC 
+FNMA 
+Farm  Credit  Banks 
+SLMA 
+
+10.0 
+19.1 
+1.6 
+2.8 
+-1.0 
+
+5.7 
+3.6 
+10.8 
+-2.1 
+.2 
+
+1996
+Aug. 
+
+2.7 
+2.2 
+1.9 
+-.1 
+.4 
+
+Sept. 
+
+Oct.
+
+1.1 
+-1,8 
+6.8 
+-.1 
+-1.5 
+
+-1.1
+1.5
+2.0
+-.4
+n.a.
+
+Note.  Excludes mortgage  pass-through  securities  issued
+
+by  FNMA and  FHLMC.
+
+n.a.  Not  available.
+
+Municipal  Financing
+
+Totaling  about  $12-1/2  billion,  gross  offerings  of  long-term
+
+municipal  debt  in November were  down  from October, with  the  decline
+
+attributable  to weaker  issuance  for  new capital  (table).  Data  for
+
+the  first  week  of December, however,  show  a pickup  in  gross
+
+issuance.
+
+GROSS  OFFERINGS OF  MUNICIPAL  SECURITIES
+(Billions of dollars;  monthly  rates,  not  seasonally adjusted)
+
+194  1995 
+
+01 
+
+02 
+
+1996
+Q3 
+
+Oct. 
+
+Nov.
+
+Total  tax-exempt 
+Long-term 
+
+1 
+
+Refundings 
+New  capital 
+
+16.1 
+12.8 
+4.0 
+8.8 
+
+14.9 
+12.1 
+3.6 
+8.5 
+
+15.4  20.4  17.3 
+13.7  15.6  12.0 
+4.1 
+4.5 
+5.5 
+7.9 
+8.2  11.1 
+
+20.5 
+16.3 
+4.4 
+11.9 
+
+13.3
+12.4
+4.4
+8.0
+
+Short-term 
+
+3.3 
+
+2.8 
+
+1.7 
+
+4.8 
+
+5.3 
+
+4.2 
+
+.9
+
+Total  taxable 
+
+.7 
+
+.7 
+
+.4 
+
+.6 
+
+.6 
+
+.6 
+
+1.8
+
+Note.  Includes  issues  for  public  and  private  purposes.
+1. Includes  all  refunding bonds,  not  just  advance  refundings.
+
+III-16
+
+The yield  ratio  of long-term tax-exempt  bonds  to  comparable
+
+Treasuries  increased to  0.84  in November  from 0.82  in  October.
+
+Analysts  attributed the  increase  in  the yield  ratio,  in  part,  to
+
+weak  retail  demand  for tax-exempt  debt  in  the  first  three weeks  of
+
+the month, which may  have  stemmed  from the  strong  performance  of  the
+
+stock market.  More  recently,  though, there  have  been  some  reports
+
+that  investors,  such  as  property  and  casualty  insurance  companies,
+
+have  stepped  into the  municipal market  at  what  they view as
+
+attractive  yields.
+
+APPENDIX
+
+REVIEW  OF MONEY  AND  CREDIT  IN  1996
+
+Summary
+
+Most  broad money  and  credit  aggregates  have  expanded moderately
+
+in  1996,  at  rates  roughly  in  line with  growth  in  nominal  income.
+Total  domestic  nonfinancial debt  is  projected  to  come  in  near  the
+middle  of  its  monitoring  range,  with  both  the  federal  and  nonfederal
+components  decelerating a  little  from  the  previous  year.  More
+noticeable  has  been the  slowing  in  depository credit--a weakening  in
+bank  credit  growth  offset  only  partially by  a  pickup  in  the
+expansion  of  thrift  credit--as  a larger  share  of  borrowing  has  been
+financed  in  securities  markets.  Despite  the  stimulus  early  in the
+year  from System  policy  easings,  M2  growth  has  been  a  little below
+that  of  nominal  GDP, but  M2  is  expected  to  finish  the  year  in  the
+upper half  of  its  annual  range.  M3  has  expanded  somewhat  faster
+than  other  broad money  and  credit measures  as  banks have  shifted
+their  funding  toward  large  time  deposits  (and other  managed
+liabilities  in M3)  and  away  from borrowing from their  foreign
+offices.  M3  is  expected  to  end  the  year  a  little  above its  annual
+range.
+
+Domestic  Nonfinancial  Debt
+
+Total  domestic  nonfinancial  debt  expanded  at  a  5 percent  pace
+through  November--a bit  slower  than in  1995  but  near  the  middle  of
+its  annual  range.  The  deceleration in  debt  growth  has  been  evident
+in both  its  federal  and  nonfederal  components.
+
+The  Treasury's  borrowing  needs  have  been  modest  in  1996,
+reflecting  both slower  growth  in  outlays  and  strong  receipts.
+Unexpected  strength  in  Treasury tax  receipts  evidently  stemmed
+largely  from a jump  in  revenue  from  capital  gains  taxes  associated
+with  the  stock market  rally  over  1995.  Federal  debt  has  expanded  at
+about  a  3-3/4  percent  pace  through November--down  about  3/4
+percentage point  from the  previous  year  and  the  slowest  rate  of
+expansion  since  1974.
+
+Nonfederal  debt  has  expanded  at  about  a 5-1/2  percent  pace
+
+through November--a touch below that  of  1995.  State  and  local
+governments  have  continued  to  pay  down tax-exempt debt  on  net  as
+gross  issuance has  again  fallen  short  of  retirements  of  advance-
+refunded  debt.  Early  in the  political  campaign  season, yields  on
+municipal  securities were  temporarily  elevated  relative  to
+comparable  Treasury yields  amid  the  debate  over  "flat-tax" proposals
+that  would have  reduced  or  eliminated  the  federal  tax  exemption  for
+state  and  local  securities.  Since  then, the  ratio  of municipal  bond
+yields  to  Treasury  yields  has  drifted  down to  more normal  levels.
+
+Business  Finance.  Despite  heavy  investment  expenditures,
+businesses have  increased  their debt  at  only  a moderate  rate  during
+the  year.  To  a large  extent,  strong  profits  have  enabled  businesses
+to  rely  on  internal  funds  in  financing  new  investment  projects.
+Standard measures  of  financial  stress  in  the  business  sector--such
+as  net  interest  outlays  relative  to  cash  flow,  the  number  of
+business failures,  and  the  dollar  value  of  corporate debt  upgraded
+by major  rating  agencies--have all  been quite  favorable.  Given the
+evident  health  of  the  business  sector  and  the  generally favorable
+
+III-A-1
+
+III-A-2
+
+outlook  for the  economy,  capital  markets  have  remained  quite
+receptive  to  new offerings  of  corporate  securities.  Spreads  on
+investment-grade bonds  and  commercial  paper  and  also  junk bonds
+relative to  comparable Treasuries  have  remained quite  narrow.  Banks
+also have been  quite  eager  to  extend  new  business  credits.
+
+The  commercial  real  estate market  has  continued  its  gradual
+recovery,  contributing  to  the modest  rise  in  commercial mortgage
+debt  this  year.  Much  of  the debt  financing for  commercial  real
+estate has  been  packaged  in  the  form of  mortgage-backed  securities.
+
+Household  Finance.  Consumer  credit  continued  to  expand  briskly
+
+through the  first  few months  of  the  year--albeit at  a pace below
+that  in  1995.  However,  consumer  credit  growth has  slowed markedly
+in  recent  months,  perhaps  indicating  some  response by households  to
+financial  strains  that  have been  evident  over  the  year.  Personal
+bankruptcies  have  climbed  sharply,  although  some  of  the  increase  is
+likely  attributable  to  recent  changes  in  the bankruptcy  code  that
+have made  declaring  bankruptcy less  onerous  as  well  as  the  growing
+acceptability of declaring  bankruptcy  as  a remedy  for  financial
+problems.  Credit  card  delinquencies--as  measured  from bank  Call
+Reports--have  risen  steadily during the  year but  have  remained
+below the  highs  recorded  in  the  early  1990s.  Charge-off  rates  on
+credit  card  loans  at  banks  have  also  risen through  the  year.
+reaching  a level  in  the  third  quarter  just  below the  previous  peak
+attained  in  early  1992.
+
+Consistent  with  the  strength  in  home  sales  over  much  of the
+
+year,  growth  in  home mortgage  credit  appears  to  have  picked  up  to
+its  most  rapid  pace  since  1990.  In  contrast  to  consumer  loans,  most
+measures  of  delinquency rates  on  home  mortgages  have  remained  near
+the  lower  end  of their  historical  ranges  throughout  the  year.
+
+Depository Credit
+
+Depository  credit  growth has  slowed  considerably  this  year
+
+relative  to  1995,  with  an  appreciable  deceleration  in  bank  credit
+offset  partly by  stronger  growth  in  thrift  credit.  Bank  credit
+(adjusted for  the  impact  of mark-to-market  accounting  rules)
+expanded  through November  at  about  a 4-1/2  percent  rate--the  slowest
+pace  since  1992  and  one  that  implies  a  slight  decline in  the  share
+of  total  domestic  nonfinancial  credit  flows  funded  by banks.  Bank
+securities  portfolios--adjusted  for  the  effect  of mark-to-market
+accounting  rules--expanded  slightly  through November.  Bank loans
+have  grown moderately in  1996  but  at  a  rate  substantially below that
+of  the  previous  two  years.
+
+The  deceleration in  bank loans  has  been  apparent  in  nearly all
+
+major  lending categories.  In  part,  slower  growth  in  bank  loans
+reflects market  conditions  that  have  favored  securitization.  For
+example, with  long-term interest  rates  quite  low  over much  of  the
+year,  borrowers  have  tended  to  favor  fixed-rate  mortgages which,  in
+turn,  tend  to  be  securitized.  In  addition, banks have  moved  a  large
+volume  of  credit  card  receivables  off their  books  in  response  to
+strong  market  demand  for  asset-backed  securities.
+
+Still,  even  apart  from the  effects  of  securitization,  bank  loan
+
+growth  has  moderated.  Banks'  lending  to  business--while  still
+registering  solid  growth--has  been more  subdued  than  in  the  past  two
+years.  Businesses'  greater  reliance  on internal  funds  and  also
+their  reduced  inventory  financing needs  evidently have  held  down
+
+III-A-3
+
+their  bank borrowing,  despite  aggressive  competition by  banks  for
+business  customers.  Delinquencies  and  charge-offs  on  business  loans
+have  remained  at  historically  low  levels,  and  surveys  of  senior  loan
+officers  throughout  the year  showed  that  banks had  eased  the  terms
+and  standards  applied  to  business  loans.  However,  data  on  loan
+rates  charged  by banks  suggest  that  spreads  of  bank  loan  rates  over
+market  interest  rates  have  changed  little  on  balance  over  the  year.
+
+In  contrast,  banks  have  become  considerably  more  cautious  in
+
+lending  to  consumers.  Delinquency  rates  on  consumer  loans  have
+climbed  significantly over  the  year.  Survey evidence  and  anecdotal
+information  suggest  that  many banks  conducting aggressive  credit
+card  campaigns had  allowed  for  some  increase  in  delinquency  rates
+and  other  loan  performance  problems.  In  the  event,  however,  such
+loan  performance  problems  appeared  to  be  larger  than anticipated.
+Indeed,  surveys  of  senior  loan  officers  indicate  that many  banks
+have  tightened  the  terms  and  standards  applied  to  consumer  loans.
+Despite  the  increase  in  consumer  loan  performance problems  at  banks,
+the  vast  majority  of banks  have  reported  strong profits  and  capital
+positions.  Even  credit  card  banks  continue  to  report  healthy
+earnings.
+
+The  outlook  in  the  thrift  industry has  also  been  improving.
+
+After  several  years  of  debate,  the  Congress  recapitalized  the
+Savings  Association  Insurance  Fund  (SAIF) with  a special  assessment
+of  66  basis  points  on  SAIF  deposits.  The  special  assessment was
+booked  in  the  third  quarter  and hence  depressed  the  third-quarter
+profits  of thrifts  (and  also  of  banks  that  had  acquired  SAIF
+deposits  through mergers  and  acquisitions).  Apart  from  the  special
+assessment,  thrift  profits  have  been  quite  strong  this  year,  and
+growth  of  thrift credit  has  picked  up  considerably.
+
+Monetary Aggregates
+
+Despite  slower  growth  of  depository  credit  this  year,  M3  has
+
+advanced briskly--expanding at  a 6-1/4  percent  pace  from  the  fourth
+quarter  of  1995  through  November--and will  likely end  the  year  a
+little  above  the  upper  bound  of  its  annual  range.  Reductions  in
+deposit  insurance  premiums  for most  banks  late  in  1995  have  likely
+helped to  bolster M3  growth this  year.  In  the  previous  two  years,
+domestic  banks  had  substantially increased borrowing  from their
+offices  abroad.  In part,  this  funding  strategy  appeared  designed  to
+avoid  the  rather high  deposit  insurance  premiums then  in  effect.  By
+contrast,  domestically  chartered banks have  reduced  their  borrowing
+from foreign  offices  in 1996  in  favor  of  greater  reliance  on  large
+time  deposits  and  other managed  liabilities  that  are  included  in  M3.
+M3  has  also  been  lifted  by  strong  growth  of  money funds.
+
+The  strength  in  M3  over  the  year has  not  been matched  by  M2.
+From the  fourth  quarter  of  1995  through November,  M2  expanded  at  a
+4-1/4  percent  annual  pace,  placing  it  in  the  upper  half  of  its
+annual  range.  Early  in  the  year,  M2  growth was  quite  robust.
+Returns  on  M2  assets  became more  attractive  relative  to  yields  on
+short-term money market  instruments  following  the  System policy
+easings  in  December  1995  and  January  1996.  In  addition,  the  steep
+decline  in  long-term interest  rates  toward  the  end  of  1995  sparked
+another  round  of  home mortgage  refinancings, and  the  associated
+prepayments  on  mortgage-backed  securities  helped  fuel  a notable  rise
+in  demand  deposits  over  the  first  few months  of  the  year.  In  later
+months,  however,  the  advance  in M2  moderated  as  demand  deposit
+growth ebbed  and  growth  in  other  accounts  at  depository  institutions
+
+III-A-4
+
+turned  sluggish.  Indeed,  from March  through  November,  deposits  in
+M2  climbed  only  1 percent  at  an  annual  rate.
+
+In  part,  the  tepid  expansion of  M2  deposits  may have been  a
+
+consequence  of  relatively attractive  rates  of  return on  alternative
+assets.  Returns  on  bank and  thrift  deposits  have  certainly been  no
+match  for the  realized  returns  on  stocks  over  the  year  and  have  not
+been  very  competitive  even  with yields  on money market  mutual  funds.
+From March through  November,  retail  money  funds  increased  at  an
+11-1/2  percent  pace  and  accounted  for  more  than  half  of  the  overall
+increase  in M2  over  the  same  period.
+
+The  transaction components  of  M2  have been  dominated by  special
+
+factors  throughout  the  year.  Through  November,  new retail  sweep
+arrangements  implemented  during  the  year are  estimated  to  have  cut
+the  level  of  other  checkable  deposits  (OCDs) by more  than  $100
+billion.  In  addition, a few  large  institutions  have  established  so-
+called  "weekend" sweeps  of  demand  deposit  accounts--arrangements  in
+which  demand  deposit  balances  are  swept  into  MMDA  accounts  over  the
+weekend.  While  less  widespread  than  OCD  sweeps,  new  demand  deposit
+sweeps  depressed  the  growth  of  these  accounts  significantly in  the
+third  quarter.
+
+With  transaction deposits  shrinking on balance  through  the
+
+year,  required  reserves  have  remained  on  a  rather  steep  downward
+trajectory.  The monetary base  nonetheless  has managed  a little
+growth over  the year,  buoyed  by  a  rise  in  currency.  Currency
+decelerated  early  in  the  year;  shipments  of  U.S.  currency  abroad  had
+slowed  from the  pace  of  the  previous  year,  and  demand  for the  new
+$100  bill  introduced  in  March  initially fell  short  of  expectations.
+However,  subsequently, foreign  shipments  of  U.S.  currency  picked  up
+amid  political  and  economic  uncertainties in  Russia that  boosted  the
+demand  for  dollars  there.
+
+III-A-5
+
+THE GROWTH AND  FLOW OF MONETARY  AND  CREDIT AGGREGATES
+(Q4 to Q4  averages,  seasonally  adjusted  unless otherwise noted)
+
+Growth rates or flows 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+19961 
+
+Growth rates (percent)
+
+M1
+Sweep-adjusted  M12
+M2
+M3
+
+Domestic  nonfinancial  debt
+
+Depository  credit
+Bank credit 3
+Thrift credit
+
+14.3
+14.3
+1.8
+0.6
+
+4.7 
+
+10.5
+10.5
+1.4
+1.0
+
+5.1 
+
+5.2
+
+5.5 
+
+5.1 
+
+14,528.3
+
+Flows  ($ billions,  December to December)
+
+M1
+
+M2
+
+M3
+
+Currency
+Demand  deposits
+Other checkable  deposits
+
+Nontransactions  M2
+
+Savings & MMDAs
+Small time deposits
+General  purpose  and broker/dealer
+
+MMMF  assets
+
+25.5
+49.6
+51.7
+
+-72.2
+142.1
+-196.5
+
+-17.7
+
+29.5
+45.2
+29.8
+
+-48.9
+31.7
+-83.4
+
+32.5
+-1.9
+-11.1
+
+-4.9
+-69.9
+35.6
+
+2.7 
+
+29.4
+
+Non-M2 component
+
+Institution-only  MMMF assets
+
+Large time  deposits
+Total RPs, net (NSA)
+Total  eurodollars, net (NSA)
+
+-46.2
+20.3
+-62.9
+8.9
+-13.1
+
+7.1
+-1.9
+-19.8
+29.4
+-1.1
+
+54,4
+-14.2
+29.2
+23.0
+15.8
+
+18.3
+7.4
+-49.9
+
+172.1
+-14.3
+114.2
+
+72.2
+
+104.9
+43.5
+54.2
+-1.6
+8.5
+
+19.4
+10.9
+-78.8
+
+187.5
+121.6
+8.9
+
+57.0
+
+130.4
+40.0
+65.7
+15.6
+10.9
+
+1. For monetary  aggregates,  bank credit, and nonfinancial debt through November;  for depository  and thrift credit through
+
+September.
+
+2. Sweep figures used  to adjust this series are the estimated national total  of transaction  account balances initially swept into
+
+MMDAs owing to the introduction  of new  sweep programs,  on the basis of monthly  averages of daily data.
+
+3. Adjusted for the estimated effects of mark-to-market accounting  rules.
+
+Memo:
+Recent
+1996
+levels
+(billions
+of dollars) 1
+
+1,076.1
+1,238.0
+3,796.2
+4,841.5
+
+4,857.6
+3,671.1
+1,223.8
+
+392.6
+400.7
+274.2
+
+2,720.1
+1,256.2
+946.6
+
+517.3
+
+1,045.3
+267.2
+482.9
+193.6
+102.8
+
+INTERNATIONAL  DEVELOPMENTS
+
+INTERNATIONAL  DEVELOPMENTS
+
+U.S.  International  Trade  in  Goods  and  Services
+
+In  September,  the  U.S.  deficit  in  trade  in  goods  and  services
+
+was  somewhat  larger  than  in  August  and  close  to  the  level  reported
+
+for  July.  Exports  declined  slightly  in  September  from  their August
+
+level,  while  imports  were  about unchanged.  In the  third  quarter,
+
+the  deficit was  significantly  larger  than  in  the  second  quarter  or
+
+in  any  quarter  in  recent  years.
+
+NET TRADE  IN GOODS  & SERVICES
+(Billions of  dollars,  seasonally adjusted)
+
+Real  NIPA  I/
+Net  exports  of  G&S 
+
+Nominal  BOP
+Net  exports  of  G&S 
+
+Goods,  net 
+Services,  net 
+
+1995 
+
+Annual  rates
+1996
+Q2 
+
+Q1 
+
+Q3 
+
+-107.6 
+
+-104.0  -114.7  -132.2
+
+-105.1 
+-173.4 
+68.4 
+
+-96.9  -112.2  -133.0 
+-170.9  -188.0  -206.4 
+73.4 
+75.8 
+
+74.0 
+
+Monthly  rates
+1996
+Aug 
+
+Jul 
+
+Sep
+
+-11.6  -10.3  -11.3
+-17.5  -16.4  -17.7
+6.3
+
+5.9 
+
+6.1 
+
+1.  In billions  of  chained  (1992)  dollars.
+Source.  U.S.  Dept.  of  Commerce,  Bureaus of  Economic  Analysis  and  Census.
+
+Exports  of  goods  and  services  were  1-1/2  percent  lower  in  the
+
+third  quarter  compared with  the  second  quarter,  with  virtually all
+
+of  the  decrease  attributable to  aircraft and  gold.  Automotive
+
+exports  rose  somewhat  (especially passenger  cars to  Europe  and
+
+Japan).  Other  major  categories  of  exports  were  little  changed  from
+
+levels  recorded  in the  second  quarter.  Exports  to  Western Europe
+
+declined  sharply, mostly  due  to  declines  in  aircraft and  gold  and
+
+more  than accounted  for  the  overall  drop  in  total  merchandise
+
+exports.  A  pickup  in  exports  to Latin America partly  offset  the
+
+decline  to  other areas.
+
+Imports  of  goods  and  services  were only  slightly higher in  the
+
+third  quarter  than  in  the  second  quarter.  Declines  in  imported  gold
+
+and  semiconductors almost  offset  increases  in most  other  major  trade
+
+categories.  The  largest  increases  were  in  consumer  goods  (with 40
+
+percent  of  the  rise  from China)  and  automotive  products  (parts from
+
+Canada  and  vehicles  from Japan).
+
+IV-1
+
+IV-2
+
+12-12-96
+
+U.S.  International  Trade  in  Goods and  Services
+(Seasonally adjusted annual  rate)
+
+Net  Exports
+
+Billions of dollars
+
+Ratio  scale, billions of chained  (1992) dollars
+
+NIPA  Exports  and  Imports
+
+1989  1990  1991  1992  1993  1994  1995  1996
+
+1989  1990  1991  1992  1993  1994  1995  1996
+
+Selected NIPA  Exports
+
+Selected NIPA  Imports
+
+Ratio scale, billions  of  chained  (1992)  dollars
+
+Ratio scale, billions of chained  (1992) dollars
+
+Consumer  goods
+
+d. 
+
+supplies 
+
+ex oil P-
+
+Industrial  supplies
+
+Machinery
+ex  computers &
+semiconductors
+
+1220
+
+1020
+
+820
+
+620
+
+420
+
+I 
+
+I 
+
+.
+I 
+1989  1990  1991  1992  1993  1994  1995  1996
+
+I..l 
+
+I, 
+
+I 
+
+I 
+
+1989  1990  1991  1992  1993  1994  1995  1996
+
+IV-3
+
+U.S.  EXPORTS AND  IMPORTS OF  GOODS  AND  SERVICES
+
+(Billions of dollars,  SAAR,
+
+BOP  basis)
+
+Levels
+
+1996
+
+02 
+
+03
+
+1996
+
+Auc 
+
+Seo
+
+Amount  Change  1/
+
+1996
+
+02 
+
+03
+
+1996
+
+Ano 
+
+San
+
+Expots  of G&S
+
+836.4 
+
+823.5 
+
+837.4 
+
+825.4
+
+15.8 
+
+-12.9 
+
+29.7 
+
+-12.0
+
+-12.6
+-0.3
+-7.3
+-5.1
+
+27.8
+1.8
+1.8
+24.2
+
+-12.4
+
+-3.9
+-2.0
+-6.5
+
+Goods  exports
+Agricultural
+Gold
+Other  goods
+
+Aircraft  & pts
+Computers
+Semiconductors
+Other  cap  gds
+
+Automotive
+to  Canada
+to  Mexico
+to  ROW
+
+Ind  supplies
+Consumer  goods
+All  other
+
+612.4
+60.2
+12.5
+539.7
+
+33.4
+43.2
+34.9
+140.2
+
+63.0
+34.6
+7.9
+20.5
+
+129.3
+70.5
+25.2
+
+599.8
+59.9
+
+5.2
+534.6
+
+26.7
+43.0
+33.7
+140.9
+
+66.1
+36.3
+6.9
+22.9
+
+128.7
+69.2
+26.3
+
+613.1
+61.8
+6.5
+
+544.8
+
+32.5
+44.1
+33.9
+142.1
+
+65.3
+35.0
+7.3
+23.0
+
+130.3
+70.1
+26.6
+
+600.8
+58.0
+
+4.5
+
+538.3
+
+23.8
+43.0
+34.1
+140.0
+
+70.9
+39.6
+6.6
+24.7
+
+130.9
+70.9
+24.6
+
+12.3
+-3.0
+6.2
+9.1
+
+6.9
+-2.2
+-2.6
+1.7
+
+1.0
+1.5
+0.3
+-0.7
+
+0.4 
+2.6 
+1.3 
+
+8.5
+2.2
+0.9
+1.5
+
+3.0
+0.7
+0.4
+1.9
+
+-6.6
+-0.2
+-1.2
+0.8
+
+3.1
+1.7
+-1.0
+2.4
+
+-0.6
+-1.3
+1.1
+
+Services  exports
+
+224.0 
+
+223.7 
+
+224.3 
+
+224.7
+
+3.5 
+
+-0.3
+
+Imports  of  G&S
+
+948.6 
+
+956.5 
+
+961.0 
+
+961.5
+
+31.1
+
+7.9 
+
+14.2
+
+Goods  imports
+
+Petroleum
+Gold
+Other  goods
+
+Aircraft  & pts
+Computers
+Semiconductors
+Other cap  gds
+
+Automotive
+
+from  Canada
+from Mexico
+from ROW
+
+Ind  supplies
+Consumer  goods
+Foods
+All  other
+
+800.4
+70.1
+14.6
+715.7
+
+12.7
+60.5
+37.0
+115.5
+
+131.1
+49.2
+24.1
+57.8
+
+126.9
+166.3
+35.9
+29.7
+
+806.1
+71.5
+6.2
+
+728.4
+
+13.2
+61.4
+33.4
+117.1
+
+135.7
+51.5
+23.2
+60.9
+
+130.7
+172.4
+35.8
+28.9
+
+810.2
+66.9
+9.6
+
+733.6
+
+13.5
+61.6
+33.4
+116.6
+
+138.9
+53.8
+24.5
+60.6
+
+132.4
+172.9
+36.4
+27.9
+
+812.9
+75.3
+3.5
+734.1
+
+13.4
+61.1
+34.0
+118.0
+
+134.5
+51.2
+23.9
+59.4
+
+130.6
+177.3
+35.8
+29.4
+
+29.3
+14.1
+7.8
+7.4
+
+1.7
+-1.7
+-6.7
+-1.2
+
+6.1
+3.5
+1.3
+1.3
+
+2.7
+3.0
+1.7
+1.7
+
+5.8
+1.4
+-8.4
+12.7
+
+0.4
+0.9
+-3.6
+1.6
+
+4.6
+2.3
+-0.8
+3.1
+
+3.8
+6.0
+-0.1
+-0.8
+
+15.0
+-5.3
+4.2
+16.0
+
+1.0
+0.2
+0.5
+-0,2
+
+5.3
+4.2
+3.2
+-2.1
+
+3.4
+6.0
+1.2
+-1.4
+
+-8.6
+-1.1
+0.3
+-2.1
+
+5.7
+4.6
+-0.7
+1.7
+
+0.5
+0.9
+-2.0
+
+2.7
+8.4
+-6.1
+0.4
+
+-0.1
+-0.5
+0.6
+1.4
+
+-4.4
+-2.6
+-0.6
+-1.2
+
+-1.8
+4.4
+-0.6
+1.6
+
+Services  imports
+
+148.2 
+
+150.3 
+
+150.8 
+
+148.6
+
+2.1 
+
+-0.8 
+
+-2.2
+
+Memo:
+Oil  qty  (mb/d)
+Oil  price  ($/bbl)
+
+9.83 
+19.53 
+
+9.99 
+19.57 
+
+9.46 
+19.37 
+
+10.04
+20.53
+
+1.08 
+1.97 
+
+0.17 
+0.04 
+
+-1.03 
+0.52 
+
+0.58
+1.16
+
+1.  Change  from previous  quarter  or month.
+Source.  U.S.  Dept. of  Commerce,  Bureaus of  Economic  Analysis  and  Census.
+
+IV-4
+
+Oil  Imports
+
+The  quantity  of  oil  imported  rose  7.0  percent  (SAAR) during
+
+the  third  quarter  -- an  increase  of  0.166  mb/d.  Imports  were
+
+boosted by  strong  consumption, which was  only  partially offset  by a
+
+0.117  mb/d  drawdown  of  the  Strategic  Petroleum Reserve.  Preliminary
+
+data  from the  Department  of Energy  indicate  that  oil  imports  in
+
+October  and  November  remained  near  the  third-quarter  pace,  as
+
+increased  production  and  a drawdown  in  stocks  nearly  offset  stronger
+
+oil  consumption.
+
+Oil  Prices
+
+While  the  price  of  imported  oil  increased  about  2 percent  in
+
+July  and  August  and  jumped  another  7.4  percent  in  September,  the
+
+third-quarter  average  was  nearly the  same  as  the  second-quarter
+
+level,  owing  to  a very  high  April  level  and  substantial  price
+
+declines  in  May  and  June.  The  price  of  imported oil  rose  again in
+
+October  and  was  37  percent  above  its  October  1995  level.  Spot  WTI
+
+has  been  quite volatile  in  the  fourth  quarter.  WTI  rose  $0.90  per
+
+barrel  in October,  in  part,  on  skirmishes  in  the Kurdish  region  of
+
+Northern  Iraq  and  concerns  over  the  level  of  heating  oil  stocks  in
+
+the  United  States  and  Europe.  The  announcement  of  an  agreement
+
+between  the  United Nations  and  Iraq  on  all  technical  issues
+
+regarding  Iraq's  limited  oil  sale  helped  push  down the  November  spot
+
+price  $1.20  per  barrel,  as  well  as  prices  for  future  delivery.
+
+Prices  firmed  in  early  December,  owing to  strikes  in  France  that
+
+interrupted  refinery  operations.  Spot WTI  has  declined  substan-
+
+tially, however,  since  Iraq commenced  producing  oil  for  export  on
+
+December  9.  Spot  WTI  is  trading  in  the  $23-24  per  barrel  range.
+
+Prices  of Non-oil  Imports  and  Exports
+
+Prices  of U.S.  non-oil  imports  decreased  3 percent  during  the
+
+third  quarter,  a bit  more  than  the  BLS  recorded  declines  in  the
+
+first  and  second  quarters.  Prices  of  imported  computers,
+
+semiconductors,  and  industrial  supplies  continued  to  fall  sharply.
+
+Prices  of  imported  foods  also  fell  in  the  third  quarter,  nearly
+
+reversing  a  substantial  increase  in  the  second  quarter.  In  October,
+
+prices  of  non-oil  imports  declined  further;  decreases  were  recorded
+
+in  all  major  trade  categories  except  foods  (which rose  slightly).
+
+Prices  of  exports  also  fell  in  the third  quarter.  While  the
+
+bulk of  the  decline was  due  to  rapidly  falling  agricultural  prices
+
+IV-5
+
+PRICES  OF  U.S.  IMPORTS AND  EXPORTS
+(Percentage  change  from previous  period)
+
+I
+
+Annual  rates
+1996
+0W
+
+01 
+
+Monthly  rates
+
+n? 
+
+An1
+
+S1996
+
+opn n 
+
+^t
+
+Merchandise  imports
+
+Oil
+Non-oil
+
+Foods,  feeds, bev.
+Ind  supp  ex oil
+Computers
+Semiconductors
+Cap.  goods  ex  comp  & semi
+Automotive products
+Consumer  goods
+
+Merchandise exports
+
+Agricultural
+Nonagricultural
+
+Ind  supp  ex ag
+Computers
+Semiconductors
+Cap.  goods ex  comp  & semi
+Automotive products
+Consumer goods
+
+Fixed-weight
+Imports  of  gds  & serv.
+Non-oil  merchandise
+
+Exports  of  gds  & serv.
+Nonag merchandise
+
+----------- BLS
+2.4 
+47.4 
+-1.2 
+
+1.5
+41.0
+-2.3
+
+prices
+-2.3
+1.8
+-3.0
+
+-4.5
+-3.1
+-8.1
+11.8
+1.3
+-0.8
+1.2
+
+1.0
+13.8
+-0.9
+
+-3.6
+-9.2
+-2.0
+2.7
+-0.1
+2.3
+
+11.6
+-5.0
+-16.7
+-16.6
+-2.8
+-0.3
+-0.9
+
+2.6
+31.4
+-1.2
+
+-4.8
+-7.5
+-5.3
+2.4
+0.2
+1.5
+
+-10.7
+-5.2
+-10.8
+-17.6
+-0.4
+0.6
+-0.9
+
+-3.7
+-18.0
+-1.0
+
+-3.4
+-11.8
+-15.5
+
+1.8
+0.4
+0.7
+
+(1990=100)-----------
+0.4
+6.1
+-0.3
+
+0.1
+2.1
+-0.1
+
+1.1 
+7.4 
+0.3 
+
+-0.8
+0.0
+-0.7
+-2.5
+0.0
+0.0
+0.0
+
+-0.2
+-0.2
+-0.2
+
+-0.5
+-0.9
+-0.3
+0.0
+0.2
+0.1
+
+1.9
+0.4
+-1.0
+-0.3
+0.1
+0.3
+0.2
+
+-0.8
+-7.2
+0.1
+
+0.5
+-1.3
+-0.1
+0.0
+0.0
+0.2
+
+0.1
+-0.5
+-0.6
+-1.3
+-0.1
+-0.3
+-0.2
+
+-0.3
+-2.7
+
+0.1
+
+0.3
+-0.5
+-0.1
+0.1
+0.2
+0.0
+
+---Prices  in  the  NIPA accounts  (1992=100)--
+
+0.1
+-3.1
+
+0,2
+-2.2
+
+0.7 
+-3.8 
+
+1.4 
+-2.6 
+
+-2.1
+-3.2
+
+-1.9
+-2.4
+
+Oil Prices
+
+Dollars per barrel
+
+Spot West Texas intermediate
+
+1987 
+
+1988
+
+1989 
+
+1990 
+
+1991
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+IV-6
+
+(especially grains),  prices  of  nonagricultural  exports  also  fell,  on
+
+balance,  with  the  largest  declines  in  prices  of  computers  and
+
+semiconductors.  There  were  small  increases  in prices  of  exported
+
+consumer  goods,  automotive  products,  and  capital  goods  (other than
+
+computers  and  semiconductors).  In October,  the  drop  in  export
+
+prices  of  agricultural  products,  computers,  and  semiconductors more
+
+than  offset  small  increases  in  prices  of other  export  categories.
+
+U.S.  Current  Account
+
+The  U.S.  current-account  deficit  widened  $31  billion  SAAR  in
+
+the  third  quarter.  Larger  deficits  on  net  goods  and  services  and
+
+net  investment  income  accounted  for  the  increase.
+
+The  deficit  in  net  investment  income  widened  $10  billion  SAAR
+
+in  the  third  quarter.  Income  receipts  on  assets  abroad  edged  up
+
+(primarily private  portfolio  receipts).  Income  payments  on  foreign
+
+assets  in  the  United  States  increased  $11  billion  SAAR.  U.S.
+
+Government  payments  rose  strongly, reflecting  substantial  foreign
+
+acquisitions  of  U.S.  Treasury  securities  in  recent  quarters.  Direct
+
+investment  payments  also  rose  strongly.
+
+U.S.  CURRENT ACCOUNT
+(Billions of  dollars,  seasonally adjusted  annual  rates)
+
+Goods  & services 
+
+balance 
+
+Investment 
+income,  net 
+
+Transfers, 
+
+net 
+
+Current acct
+balance
+
+-104.4 
+-105.1 
+
+-90.8 
+-103.5 
+-113.8 
+-109.4 
+
+-118.1 
+-127.3 
+-97.3 
+-77.6 
+
+-96.9 
+-114.3 
+-135.3 
+
+-19.3 
+-17.4 
+-21.0 
+
+-4.2 
+-8.0 
+
+4.7 
+-2.5 
+-6.4 
+-12.4 
+
+-3.6 
+-3.4 
+-17.4 
+-7.6 
+
+1.0 
+-9.1 
+-18.8 
+
+8.6 
+-10.1 
+-9.8 
+
+-39.9 
+-35.1 
+
+-32.7 
+-38.0 
+-39.9 
+-48.9 
+
+-34.6 
+-33.2 
+-36.0 
+-36.6 
+
+-43.6 
+-37.5 
+-37.7 
+
+-7.0 
+6.1 
+-0.2 
+
+-148.4
+-148.2
+
+-118.8
+-144.1
+-160.0
+-170.6
+
+-156.2
+-163.9
+-150.8
+-121.7
+
+-139.5
+-160.8
+-191.8
+
+-17.7
+-21.4
+-31.0
+
+Years
+1994 
+1995 
+Quarter.
+1994-1 
+2 
+3 
+4 
+
+1995-1 
+2 
+3 
+4 
+
+1996-1 
+2 
+3 
+
+Memo:
+$  Change
+Q1-Q4 
+Q2-Q1 
+Q3-Q2 
+
+Source.  U.S.  Department of Commerce.  Bureau of  Economic Analysis.
+
+IV-7
+
+U.S.  International  Financial  Transactions
+
+Much  of the  recorded  net  capital  inflow  in  October  was
+
+accounted  for  by  net  increases  in private  holdings  of  U.S.
+
+securities.  (See line  4 of  the  Summary  of  U.S.  International
+
+Transactions table.)  Private  foreign  net  purchases  of  U.S.  Treasury
+
+bonds were  very  large in  October  (line 4a).  The United Kingdom  and
+
+Japan  accounted  for  most  of  these  recorded net  purchases.  In
+
+contrast  to  earlier  in  the year,  the  net  change  in  holdings  of
+
+Treasury  securities  by  financial  institutions  located  in the
+
+Caribbean  was  small.  Foreign  net  purchases  of  U.S.  corporate  and
+
+government  agency bonds  were  also  strong  in  October  (line 4b).  Both
+
+U.S.  corporations  and  government  agencies  have  actively  tapped  the
+
+Eurobond markets  in  recent  months.  Foreign  investors  only added
+
+modestly  to  their  holdings  of U.S.  corporate  stock in  October
+
+(line 4c).
+
+U.S.  interest  in  foreign bonds  also  remained  strong  in  October
+
+(line 5a).  While  the bulk of  the net  purchases  were made  in  Europe,
+
+it  is  notable  that  Russia  and  certain  developing countries  in Latin
+
+America  have  successfully  raised  funds  in  international  bond markets
+
+in  recent months  and attracted  U.S.  investors.  U.S.  net  purchases
+
+of  foreign  stocks  continued  to  be  relatively  small  in  October
+
+compared with  the first  half  of the  year.
+
+Foreign  official  assets  in the  United  States  rose  only  a few
+billion  dollars  in  October  (line  1).  However,  during  the first  10
+months  of  1996,  foreign  official  assets  in  the United  States
+increased  by over  $90  billion, and  partial  information  from the
+FRBNY  suggests  another  large increase  in November.  The increase  in
+
+official  holdings  in  1996  seems  likely to  match the  record  increase
+
+of  1995.  As  in  1995,  only part  of  the increase  in  1996  reflects
+foreign  exchange market  intervention by the  other  G-10  countries.
+In  the  first  10 months  of  1996,  the  G-10  countries  accounted  for
+
+less  than 40  percent  of  the  increase in  official  holdings  in  the
+United  States;  in  1995  the G-10  share of  the increase  was even
+
+lower,  about  30  percent.
+
+Banks  reported  a net  inflow in  October  on  a month-end basis,
+
+reversing only  in  small  part  the  large capital  outflows  recorded
+since  the  end  of  1995  (line 3). 
+
+On a monthly-average basis  net
+
+outflows  from  banks  to  their  own  foreign  offices  and  IBFs  have  also
+
+IV-8
+
+SUMMARY  OF U.S. INTERNATIONAL  TRANSACTIONS
+(Billions of dollars,  not  seasonally  adjusted  except  as  noted)
+
+1994 
+
+1995
+
+1995 
+
+1996
+
+Q4 
+
+Q1 
+
+Q2 
+
+Q3 
+
+Sept 
+
+Oct
+
+38.0 
+
+109.9
+
+10.6 
+
+52.2 
+
+13.3 
+
+23.2 
+
+15.7
+
+28.9
+
+-3.3
+
+12.4
+
+33.1
+
+4.3
+
+72.6
+
+-3.9
+
+28.5
+
+-2.1
+
+16.7
+
+-. 8
+
+24.5
+
+5.3
+
+-9.7
+
+.2
+
+1.4
+
+5.3
+
+16.5
+
+7.5
+
+.5
+
+4.0
+
+11.1
+
+-. 1
+
+102.8 
+
+-33.1
+
+10.7 
+
+-25.9  -11.7
+
+-7.3 
+
+19.4 
+
+13.6
+
+Official capital
+
+1. Change in foreign official reserve
+
+assets in U.S.  (increase. +)
+
+a.  G-10 countries
+
+b.  OPEC countries
+
+c.  All other countries
+
+2.  Change inU.S. official reserve
+
+assets (decrease, +)
+
+Private  capital
+
+Banks
+
+3.  Change in net foreign positions
+
+of banking offices in the U.S. 1
+
+Securities 2
+
+4.  Foreign net purchases of
+
+92.9 
+
+190.7
+
+23.5 
+
+48.6 
+
+61.0 
+
+77.1 
+
+9.6 
+
+25.4
+
+U.S. securities  (+)
+a.  Treasury  securities 3
+b.  Corporate and other bonds 4
+
+c.  Corporate stocks
+
+5.  U.S. net purchases  (-)  of
+
+foreign securities
+
+34.7
+
+53,9
+
+4.3
+
+99.9
+
+82.6
+
+8,2
+
+1.8
+
+17.7
+
+4.0
+
+12.0
+
+32.8
+
+31.3
+
+23.4
+
+42.0
+
+33.1
+
+3.8
+
+6.3
+
+2.0
+
+-3.3
+
+12.7
+
+.2
+
+14.7
+
+10.2
+
+.5
+
+-57.3
+
+-98.8
+
+-32.5
+
+-34.5
+
+-20.0
+
+-20.0
+
+-6.2
+
+-7.9
+
+a.  Bonds
+
+b.  Stocks
+
+-9.2 
+
+-48,5 
+
+-18.7 
+
+-12.0 
+
+-2.6 
+
+-13.0 
+
+-48.1 
+
+-50.3 
+
+-13.8 
+
+-22.5 
+
+-17.4 
+
+-6.5 
+
+-4.4 
+
+-1.7 
+
+-5.8
+
+-2.1
+
+Other flows (quarterly data. s.a.)
+
+6.  U.S. direct investment  (-) abroad
+
+-54.5
+
+-95.5
+
+-44.1
+
+-23.2
+
+-26.2
+
+7. 
+
+Foreign direct investment in U.S.
+
+8.  Other (inflow. + )5
+
+49.8
+
+-14.9
+
+60.2
+
+-7.0
+
+14.8
+
+17.8
+
+28,7
+
+17.4
+
+-15.1
+
+16.5
+
+-27.8
+
+-8.4
+
+25.1
+
+U.S. current account balance (s.a.)
+
+-148.4
+
+-148.2
+
+-30.4
+
+-34.9
+
+-40.2
+
+Statistical discrepancy (s.a.)
+
+-13.7
+
+31.5
+
+29.4
+
+4.1
+
+-9.6
+
+-48.0
+
+-21.4
+
+Note.  The sum of official capital, private capital, the current account balance, and the statistical
+
+discrepancy is zero.  Details may not sum to totals because of rounding.
+
+1. Changes in dollar-denominated positions of all depository institutions and bank holding companies
+
+plus certain transactions between broker-dealers and unaffiliated foreigners (particularly borrowing
+and lending under repurchase agreements). Includes changes in custody liabilities other than U.S.
+Treasury bills.
+
+2. Includes commissions on securities transactions and therefore does not match exactly the data on U.S.
+
+international transactions published by the Department of Commerce.
+
+3. Includes Treasury bills.
+4. Includes U.S. goverment agency bonds.
+5. Transactions by nonbanking concerns and other banking and official transactions not shown elsewhere
+
+plus amounts resulting from adjustments made by the Department of Commerce and revisions in lines 1
+through 5 since publication of the quarterly data in the Survey of Current Business.
+n.a. Not available.  * Less than $50 million.
+
+IV-9
+
+INTERNATIONAL  BANKING  DATA  1
+(Billions of  dollars)
+
+1993 
+Dec. 
+
+1994 
+Dec. 
+
+19-5 
+Dec. 
+
+Mar. 
+
+Jun. 
+
+1996
+Sep. 
+
+Oct.  Nov.**
+
+-122.1  -224.0  -260.0  -260.1  -245.0  -246.5  -242.0  -234.7
+
+4.2  -70.1  -86.1
+
+-84.1 
+
+-77.2
+
+-72.7
+
+-73.3
+
+-66.2
+
+-126.3  -153.9  -173.9  -176.0  -167.8  -173.8  -168.7  -168.5
+
+21.8 
+
+23.1 
+
+26.5 
+
+27.3 
+
+28.8 
+
+29.2 
+
+30.5 
+
+31.1
+
+90.9 
+
+78.4 
+
+86.3 
+
+90.0 
+
+85.4 
+
+83.3 
+
+n.a. 
+
+n.a.
+
+77.
+
+3  85.6 
+
+91.2 
+
+95.7  101.0  101.4  106.5  105.0
+
+79.
+
+2  86.0 
+
+92.3 
+
+96.6  103.7  109.4 
+
+n.a. 
+
+n.a.
+
+1.  Net  claims  of U.S. 
+
+banking offices
+(excluding IBFs) on
+own foreign offices
+and IBFs
+
+a. U.S.-chartered
+
+banks
+
+b. Foreign-chartered
+
+banks
+
+2. Credit extended to U.S.
+nonbank residents
+a. By foreign branches
+
+of U.S. banks
+
+b. By Caribbean
+
+offices of foreign-
+chartered banks
+
+3. Eurodollar holdings of
+
+U.S. nonbank residents
+
+a. At all U.S.- 
+
+chartered banks and
+foreign- chartered
+banks in Canada and
+the United Kingdom
+
+b. At the Caribbean 
+
+offices of foreign-
+chartered banks
+
+MEMO:  Data as recorded in the U.S.
+transactions accounts
+4. Credit extended to U.S. 
+nonbank residents
+
+180.
+
+international
+
+1  173.9  208.6
+
+214.1  221.2 
+
+n.a. 
+
+n.a. 
+
+n.a.
+
+5. Eurodeposits of U.S. 
+
+nonbank residents
+
+213.
+
+7  245.8  278.9
+
+292.0  295.0 
+
+n.a. 
+
+n.a. 
+
+n.a.
+
+1. Data on lines 1 through 3 are from Federal Reserve sources and sometimes differ in
+
+timing from the banking data incorporated in the U.S. international transactions
+accounts.
+
+Lines la, lb, and 2a are averages of daily data reported on the FR 2950 and FR2951.
+Lines 2b and 3b are end-of-period data reported quarterly on the FFIEC 002s.
+Line 3a is an average of daily data (FR 2050) supplemented by the FR 2502 and end-of-
+quarter data supplied by the Bank of Canada and the Bank of England. There is a break in
+the series in April 1994.
+
+Lines 4 and 5 are end-of-period data estimated by BEA on the basis of data provided by
+the BIS, the Bank of England, and the FR 2502 and FFIEC 002s.  They include some foreign-
+currency denominated deposits and loans. Source:  SCB
+**Data for November are through November 25, 1996.
+
+IV-10
+
+been  substantial  for  1996  as  a whole.  (See line  1 of  the
+International  Banking Data  table.)  These  outflows  coincided  with a
+slowing  in  the  growth of  bank credit  and  growing  reliance  on  large
+time  deposits,  perhaps  spurred  in  part  by  a reduction  in  deposit
+insurance  premiums  in  late  1995.
+
+Recently  released  data  on  direct investment  capital  flows  for
+
+the third  quarter  indicate  continued  strength in  foreign  direct
+investment  in  the  United  States.  (See line  7 of  the  Summary  of U.S.
+International  Transactions  table.)  In  contrast,  U.S.  direct
+investment  abroad  fell  sharply  (line 6).  However,  the weakness  in
+U.S.  direct  investment  abroad was  largely  attributable to  large
+shifts  in intercompany  debt  between  U.S.  parents  and  finance
+affiliates  in  the  United Kingdom;  these  intercompany accounts  are
+highly volatile.  The  statistical  discrepancy  in  the U.S.  inter-
+national  transactions  accounts  for  the third  quarter  was  large and
+negative,  indicating omitted  net  payments  or  capital  outflows.  The
+statistical  discrepancy would  have been  even  more negative  if
+estimated  net  increases  in foreign holdings  of U.S.  paper  currency
+had  been included  in  the  accounts.
+
+Foreign Exchange  and  Foreign  Financial  Markets
+
+Since the  November  meeting  of the  FOMC,  the  G-10  weighted
+
+average  of  the  dollar  has  appreciated about  2 percent.  The  dollar
+is  up  somewhat  more,  on  average, against  core  European  currencies  in
+the wake  of  calls  by  officials  in  a number  of  those  countries  for  a
+stronger  dollar.  The dollar  rose  about  1-1/2  percent  against  the yen
+as  market  participants  appear  to  have  concluded  that  there  is  little
+prospect  for  an  increase  in  official  Japanese  interest  rates  anytime
+
+soon.  The  dollar  is  up  somewhat  less  relative  to  sterling  and  the
+Italian  lira.  The  latter currency  has benefited  from its  re-entry
+to  the Exchange  Rate Mechanism  of  the EMS  on November  24,  while
+sterling has  benefited  from new  evidence  of  healthy  economic  growth.
+
+Stock  prices  are mixed,  on  balance,  since  the  last  FOMC
+
+meeting  in  spite of  sharp  declines  over  the  last week.  Japanese
+stocks  are down  about  3 percent  from their  November  13  level.
+
+British  stock  prices  are  down about  1/2  percent  over  the  inter-
+
+meeting  period, while  other major  European markets  are up  between
+
+1/2  and  3 percent,  on balance.
+
+IV-11
+
+Weighted  Average  Exchange  Value of the Dollar
+(Daily data)
+
+Index,  March  1973 = 100
+
+September 
+
+October 
+
+November 
+
+December
+
+Interest  Rates  in  Major  Industrial  Countries
+
+Three-month  rates 
+Dec.  12 
+
+Nov.  13 
+
+Change 
+
+Ten-year  bond  yields
+
+Nov.  13 
+
+Dec.  12 
+
+Change
+
+5.87 
+2.71 
+7.68 
+6.17 
+5.87 
+7.54 
+6.02 
+5.77 
+3.65 
+7.25 
+
+5.88 
+2.53 
+7.60 
+6.46 
+5.81 
+7.46 
+5.99 
+5.82 
+3.73 
+6.78 
+
+0.01
+-0.18
+-0.08
+0.29
+-0.06
+-0.08
+-0.03
+0.05
+0.08
+-0.47
+
+3.13 
+0.51 
+6.28 
+3.17 
+3.36 
+7.31 
+3.02 
+3.00 
+2.06 
+3.90 
+
+0.05 
+-0.01 
+0.00 
+0.08 
+0.02 
+-0.19 
+0.00 
+0.13 
+0.31 
+-0.55 
+
+3.52 
+
+5.44 P  
+
+0.00 
+
+0.07 
+
+5.80 
+
+5.77 
+
+-0.03
+
+6.20 
+
+6.33 P  
+
+0.13
+
+Germany 
+Japan 
+United  Kingdom 
+Canada 
+France 
+Italy 
+Belgium 
+Netherlands 
+Switzerland 
+Sweden 
+
+Weighted-average
+
+foreign 
+
+United  States 
+
+3.08 
+0.52 
+6.28 
+3.09 
+3.34 
+7.50 
+3.02 
+2.87 
+1.75 
+4.45 
+
+3.52 
+
+5.37 
+
+iu. - « 
+
+t-an 
+
+n  pe-rn-ag  p--uin_-. 
+
+rrea.inSnary
+
+Note. 
+
+Change 
+
+is 
+
+in 
+
+per 
+
+s.
+
+Preliminary.
+
+IV-12
+
+Yields  on  ten-year  foreign  government bonds  are  little
+
+changed,  on  average,  since the  last  FOMC meeting.  Early  in  the
+
+intermeeting period  foreign  long-term  interest  rates  declined by
+
+about  1/4  percentage  point  on  average.  But  those  declines  have been
+
+largely  reversed  in  volatile trading  over  the  last  week.  Yields  on
+
+long-term bonds  increased  10  to  60  basis  points  in  other major
+
+markets  between  last  Wednesday's  close and  their high-point  on
+
+Friday.  Bond  prices  subsequently  recovered  on Monday  and  Tuesday,
+
+but  fell  again  on Wednesday.
+
+A number  of  factors  account  for  the  superior  performance  of
+
+foreign  bond  markets,  relative  to  U.S.  markets,  since the  November
+
+FOMC.  Japanese  interest  rates  fell,  and  the  yen  depreciated,
+
+following the  release  of  the  October  Tankan  and  other  data  in  the
+
+week  of  November  25.  Market  participants  seem to  have  interpreted
+
+these  data  as  suggesting  that  there  is  little  prospect  of  a
+
+significant  acceleration  of Japanese  economic  activity  in  the  near
+
+future  and  therefore  the  Bank of  Japan  is  unlikely  to  raise  interest
+
+rates  soon.
+
+Long-term  interest  rates  in  core  European  countries,  including
+
+Germany,  may have been  affected by  the  recent  public  debate  over  the
+
+external  value  of  the  French  franc.  On  November  20,  former  French
+
+President  Giscard  d'Estaing  called  for  a substantial  devaluation  of
+
+the  French  franc  in  order  to  stimulate  the  French  economy.  These
+
+comments  touched  off  a lively  debate  among  current  and  former
+
+government  officials.  Public  statements  have focused  on the
+
+external value  of  the  franc,  particularly  relative  to  the  dollar,
+
+but  many comments  favoring  franc  depreciation were  implicitly
+
+critical  of  current  French  and  German monetary policy.  A  number  of
+
+prominent  French  and  German  officials,  including  Bank of  France
+
+Governor  Trichet and  French Finance Minister  Arthuis,  strongly
+
+reaffirmed their  commitment  to  the  current  franc/DM  exchange  rate.
+
+But  in  responding  to  this  debate  German  officials,  including
+
+Bundesbank  President  Tietmeyer,  indicated  that  they are  not  opposed
+
+to  a stronger  dollar.  This,  combined with weaker-than-expected
+
+German industrial  production  data  for  October,  raised  the
+
+possibility,  in  the  minds  of  some market  participants,  of  a more
+
+accommodative German monetary  policy.
+
+IV-13
+
+After  protracted negotiations  the  Italian  lira  re-entered  the
+
+ERM on  November  24  at  a central  parity  of  990  lire/DM.  The  lira  has
+strengthened  about  2 percent  against  the mark  since  mid-November
+when  rumors  began  to  circulate  that  the lira's  ERM re-entry was
+imminent.  Italian  interest  rates  are  little  changed  since  the  lira
+re-entered the  ERM.  Both  short  and  long-term rates  had  fallen
+significantly  in the  week preceding  the lira's  re-entry as  declining
+inflation  and  the passage  of a tight  budget  for  1997,  including  a
+substantial  tax  increase, made  it  possible  for  the Bank of  Italy  to
+ease monetary  policy.
+
+Bond  market  turmoil  over  the  last week seemed  to  have  the
+
+greatest  impact  in  Canada.  In  fact,  Canadian bond  prices  began
+falling well  before those  in  other  markets.  Yields  on  Canadian
+
+10-year  government  bonds  increased  30  basis  points  last  Thursday,
+that  is,  the day  of Chairman  Greenspan's  AEI  speech.  Yields
+
+increased  further  on Friday morning  but moved  down  thereafter.
+
+Canadian  long-term  bond  yields  are now 30  basis  points  above  where
+
+they were  at  the  last  FOMC  meeting.  Over  recent  months,  Canadian
+bonds  had  been supported  by declines  in  official  interest  rates.
+Over  the  last  few weeks,  however,  the  Canadian dollar has
+depreciated  about  1-3/4  percent.  Given the  Bank  of Canada's  use  of
+
+its  MCI  as  a guide to  monetary policy, market  participants  appear  to
+
+have  concluded  that  further  declines  in  official  rates  are  unlikely.
+
+The  dollar is  little changed  against  sterling  since  the
+
+November  FOMC meeting.  In  the early  intermeeting  period  sterling
+
+appreciated  significantly as  new data  seemed  to  indicate  good  growth
+
+in  the  British economy  and  prospects  for  an  increase in  interest
+
+rates  seemed  to  be  on  the  rise.  But  much  of  sterling's  recent  gains
+were  reversed  last week  after  Chancellor  Clarke noted  that  some
+
+British  exporters  had  expressed  concerns  about  sterling's  recent
+appreciation and  Bank of England  Governor  Eddie George  said  that
+large  increases  in  interest  rates  were  not needed.
+
+On a weighted-average basis  foreign  short-term interest  rates
+are  little  changed  since  the  last  FOMC.  There  are  some  significant
+deviations  from this  general  pattern, however.  Short-term rates
+
+are  down  significantly  in  both Italy  and  Sweden,  as  declining
+
+inflation  and  other  factors  made  it  possible  to  ease monetary
+
+IV-14
+
+conditions.  Short-term rates  have moved  up  in  both  Canada and
+Switzerland.  In  Canada's  case this  may  reflect  the market's
+
+perception that monetary policy  is  now on  hold  after  considerable
+easing  in  previous  months.
+
+Swiss  rates  have  edged up  in  recent  weeks,  apparently due  to
+
+an  increase  in banks'  demand for  central  bank balances.  But this
+does  not  appear  to  reflect  a change in  Swiss  monetary policy.  On
+December  9, the Vice  President  of  the  Swiss  National  Bank  said  that
+the Bank  was  pleased with  the  recent  depreciation  of  the  Swiss
+franc.  Since the  last FOMC meeting,  the  Swiss  franc has  depreciated
+by  4 percent  against  the  dollar  and  by more  than  1 percent  against
+
+the mark.
+
+Interest  rates  in  Sweden  continued  to  decline.  The  Riksbank
+
+lowered  its  securities  repurchase  rate  by  25  basis  points  on
+
+November  26.  This  followed  the  release  of  better-than-expected
+
+inflation  data  for October.  Both  short-  and  long-term-  interest
+
+rates  have declined  about  1/2  a percentage  point  since the  November
+
+FOMC meeting.
+
+The  Mexican peso  has  been  relatively  stable over  the  last  four
+
+weeks  after  depreciating  5 percent  in  October.  The  sharp  increases
+in  Mexican  interest  rates  during  October,  which were maintained
+
+through November,  helped  to  stabilize  the  peso.  Declines  in U.S.
+
+long-term interest  rates  between mid-November  and  the middle  of  last
+
+week also  supported the  peso,  as  did  the  release  of  stronger-than-
+expected  GDP  data  for  the third  quarter.  With a stable  peso
+interest  rates  have  come down  somewhat  in December.  The  rate on
+
+91-day  Cetes  has  come  down about  3 percentage points  over  the  last
+
+four  weeks.
+
+The Desk  did  not  intervene for  U.S.  monetary
+
+authorities  during  the  period.
+
+Developments  in Foreign  Industrial  Countries
+
+Economic  activity  in most  of  the major  foreign  industrial
+
+countries  picked  up  in  the third  quarter  from the  pace  recorded  in
+
+the  first half of  this  year.  A notable  exception was  Japan  where
+
+real  GDP  grew a tepid  0.4  percent  (SAAR),  compared with  3.5  percent
+
+IV-15
+
+in  the  first  half.  In  Canada  and  all  the major  European  countries
+
+but  Italy  output  expanded  at  more  than  a  3 percent  rate.
+
+Available  indicators  for  the  fourth  quarter  generally  suggest
+
+a slower  rate  of  growth  in  the major  industrial  countries.  German
+
+industrial  production  fell  in  October  for  the  second  consecutive
+
+month,  and  French  consumption  of manufactured  products  dropped again
+
+in  October.  In  contrast,  output  appears  to  have  picked  up  in  Japan
+
+following  last  quarter's weak  activity;  in  October,  Japanese
+
+industrial  production jumped  3.5  percent.
+
+Labor  market  slack  has  contributed  to  subdued  wage  and  price
+
+pressures  abroad:  Recent  twelve-month  rates  of  consumer-price
+
+inflation  have  been near  zero  in  Japan  and  have averaged  1-1/2
+
+percent  to  1-3/4  percent  in  Germany, France,  and  Canada.  Italian
+
+consumer-price  inflation  continued  its  steep  downward  trend,  falling
+
+to  2-1/2  percent  in November  (from more than  double  that  rate  about
+
+a year  ago).  In  contrast,  underlying  inflation  in  the  United
+
+Kingdom was  3-1/4  percent  in November,  solidly above  the
+
+government's  target  rate.
+
+Individual  country notes.  In  Japan,  real  GDP  rose  0.4  percent
+
+(SAAR) in  the  third  quarter,  after  a downward  revised  3.5  percent  in
+
+the  first half.  Strong  growth  in  private  nonresidential  investment,
+
+government  consumption,  and  net  exports  was  nearly  offset  by  small
+
+declines  in  private  consumption  and  residential  investment  along
+
+with  large declines  in public  investment  and  inventory  investment.
+
+The  Economic  Planning  Agency also  released  revised  GDP  data that
+
+show  slightly stronger  growth  for  1994  and  1995  than  previously
+
+estimated  and  slightly weaker  growth  in  the  first half  of  1996.
+
+Available  fourth-quarter  indicators point  to  renewed
+
+expansion.  Industrial  production  rose  3.5  percent  in October, while
+
+housing  starts,  machinery orders,  and  new  car  registrations  also
+
+grew  at a  robust  pace.  The  ratio  of  job  offers  to  job  applicants
+increased  in  October  to  its  highest  level  in three  years,  and  the
+unemployment  rate edged  up  as  many workers  quit  their  jobs  in  search
+of better  positions.  The  Bank of Japan's  November  survey  (Tankan)
+registered  a modest  improvement  in business  sentiment  at  major
+
+manufacturers  and  confirmed  the  findings  of  the  May and  August
+surveys  that  capital  spending plans  are  improving.  Consumer  prices
+remain  stable,  while  the  recent,  modest  depreciation  of  the  yen
+
+IV-16
+
+JAPANESE  REAL  GDP
+(Percent  change  from previous period,  SAAR) 1
+
+1994 
+
+1995 
+
+1995
+
+1996
+
+GDP
+
+0.8 
+
+2.6 
+
+Total Domestic Demand
+Consumption
+Investment
+Government Consumption
+Inventories (contribution)
+
+Exports
+Imports
+Net Exports  (contribution)
+
+1. Annual changes are Q4/Q4.
+
+0.8
+
+1.3
+
+-1.1
+2.6
+0.1
+
+9.0
+11.1
+-0.0
+
+4.0
+3.0
+5.6
+3.2
+0.2
+
+3.8
+17.3
+-1.3
+
+Q4
+5.5
+
+7.3
+3.9
+15.6
+0.4
+0.3
+
+4.0
+20.0
+-1.7
+
+Q1 
+8.4 
+
+Q2
+-1.1
+
+199
+
+Q3
+0.4
+
+9.8
+8.3
+14.2
+3.2
+0.3
+
+-2.6
+8.2
+-1.3
+
+-0.3
+-3.9
+9.9
+0.4
+-0.9
+
+0.5
+7.6
+
+-0.8
+
+-0.6
+-0.4
+0.4
+5.6
+-1.0
+
+6.1
+-2.8
+1.1
+
+appears  to  be  contributing to  a pickup
+
+in  wholesale prices.  Japan's
+
+current  account  surplus  in  October was
+
+well  below  the  third-quarter
+
+average,  reflecting  higher  oil  prices  and  the  depressing  effect  of
+
+the  depreciation  of  the  yen  on  Japan's  export  prices.
+
+JAPANESE  ECONOMIC  INDICATORS
+(Percent  change  from  previous  period  except  where  noted.  SA)
+
+1996
+
+Q4 
+
+Aug 
+
+Sep 
+
+Oct 
+
+Nov
+
+Q2 
+-0.3 
+1.4 
+0.8 
+-7.7 
+3.5 
+0.69 
+-3 
+0.1 
+1.3 
+
+Industrial  Production 
+Housing  Starts 
+Machinery  Orders 
+New  Car  Registrations 
+Unemployment  Rate  (%) 
+Job  Offers  Ratio1  
+Business  Sentiment 2  
+CPI  (Tokyo  area) 3  
+Wholesale  Prices3  
+1.  Level  of  indicator.
+2.  Percent  of manufacturing  firms  having  a  favorable  view  of  business
+
+n.a.  -2.3 
+n.a.  -9.1 
+n.a. -19.5 
+n.a.  -3.1 
+n.a. 
+3.3 
+0.71 
+n.a. 
+-3 
+... 
+0.0 
+n.a. 
+0.5 
+n.a. 
+
+1.5 
+9.3 
+6.5 
+8.7 
+3.3 
+0.71 
+... 
+-0.4 
+0.0 
+
+3.5 
+7.7 
+21.0 
+2.7 
+3.4 
+0.73 
+... 
+0.0 
+0.3 
+
+n.a.
+n.a.
+n.a.
+5.6
+n.a.
+n.a.
+...
+0.1
+0.5
+
+conditions  minus  those  with  an  unfavorable  outlook  (Tankan  survey).
+
+3.  Percent  change  from  previous  year.
+
+Q3 
+1.6 
+2.6 
+2.8 
+6.8 
+3.3 
+0.71 
+-7 
+0.0 
+0.7 
+
+IV-17
+
+The  newly  installed  minority government  of  Prime Minister
+Ryutaro  Hashimoto  has  announced  plans  to  unveil  a  supplementary
+
+budget  for  fiscal  1996  and  an  initial  budget  for  fiscal  1997  in
+
+December  for  consideration by  the  Diet  in  January.  The  cabinet
+
+announced  a headline  figure  of 4.8  trillion yen  (about 1 percent  of
+
+GDP)  for  the  supplemental  budget,  but  details have yet  to  be
+
+released,  and  it  is  not  clear how  much  represents  new  spending  as
+
+opposed  to a  reallocation  of  previously  authorized  spending  or new
+
+loans.  Members  of  the  cabinet  have  indicated  that  they  do  not  favor
+
+extending  the  temporary  income  tax  rebate  into  1997  or  boosting
+
+public  works  spending  significantly  in the  supplemental  budget.
+
+Prime Minister  Hashimoto  has  declared  his  intention  to  pursue
+
+financial-market  reform  in  a number  of  areas.  He  has  supported
+
+proposals  to  grant  more  independence to  the  Bank of  Japan;  to  remove
+
+the  authority  of the  Ministry  of  Finance  to  inspect  and  supervise
+
+depository  institutions;  and  to  deregulate  banks,  insurance
+
+companies,  and  securities  firms  in  order  to make  Tokyo  an
+
+international  financial market  comparable to  New York  or  London.
+
+Real  GDP  in Germany  advanced  at  a pace of  3.3  percent  (SAAR)
+
+in  the  third  quarter  due  almost  entirely  to  a  surge in  exports,  as
+
+domestic  demand  was  little  changed  from its  second-quarter  level.
+
+Construction spending  increased  at  a moderate  pace,  while
+
+expenditure  on machinery and  equipment  was  unchanged  from  its
+
+second-quarter  level.  The  contribution of  inventories  was  negative
+
+in both  the  second  and  third  quarters,  but  the  change  in inventories
+
+is  a residual  in  the  German accounts  and  is  subject  to  substantial
+
+revision.
+
+Few indicators  are available for  the  fourth quarter.  Although
+
+industrial  production  declined almost  2 percent  in  October,  real
+manufacturing orders  rose  nearly  3 percent  owing  to  a surge  in
+
+orders  from  both  domestic  and  foreign  firms.  The  IFO business
+
+climate  survey,  an  indicator  of  current  and  expected  conditions in
+
+industry,  showed  continued  improvement  in  October, particularly  in
+the  expectations  component  of  the  index.  Inflation  remains  subdued,
+
+with  consumer  prices  up  1.4  percent  over  the  twelve months  to
+
+November.
+
+IV-18
+
+(Percent  change  from  previous  period,  SAAR)1
+
+. SAAR) 1
+
+GERMAN  REAL  GDP
+
+1994 
+
+1995 
+
+1995
+
+3.7 
+
+1.1 
+
+4.0
+0.4
+8.8
+2.4
+1.4
+
+9.6
+11.1
+-0.4
+
+0.9
+1.5
+
+-2.1
+
+2.5
+0.0
+
+5.5
+4.6
+0.2
+
+Q4
+0.3
+
+0.6
+-0.4
+-3.3
+1.3
+1.3
+
+3.0
+4.4
+-0.4
+
+Q1
+
+-1.6
+
+-1.7
+3.0
+-20.6
+2.4
+1.1
+
+0.8
+0.6
+0.1
+
+1996
+
+Q2 
+6.0 
+
+4.8
+2.4
+32.3
+4.5
+-3.7
+
+-0.2
+-4.2
+1.1
+
+Q3
+3.3
+
+0.2
+0.9
+2.6
+5.0
+-2.0
+
+15.6
+3.0
+3.1
+
+Total Domestic Demand
+Consumption
+Investment
+Government Consumption
+Inventories (contribution)
+
+Exports
+Imports
+Net Exports (contribution)
+1. Annual changes are Q4/Q4.
+
+GERMAN ECONOMIC INDICATORS
+(Percent change from previous period except
+
+where  noted,  SA)
+
+1996
+
+Aug 
+
+Sep 
+
+Oct 
+
+Nov
+
+Q1 
+
+Q2 
+3.0 
+3.8 
+10.2 
+9.0 
+15.6 
+
+Q3 
+1.2 
+0.8 
+10.4 
+9.2 
+15.3 
+
+0.1 
+0.1 
+10.3 
+9.2 
+15.2 
+
+Western Germany 
+Eastern Germany 
+
+Industrial Production  -2,4 
+Orders 
+-0,5 
+Unemployment Rate (%) 
+10,3 
+8,9 
+16.1 
+Capacity Utilization1   83,1 
+Business Climatel' 2  
+Consumer Prices3  
+1. Western Germany.
+2. Percent of firms (in manufacturing, construction, wholesale, and
+retail) citing an improvement in business conditions (current and
+expected over the next six months) less those citing a deterioration in
+conditions.
+
+-15.3  -17.7  -11.3  -12.0 
+1.4 
+
+-1.8 
+2.9 
+10.6 
+9.4 
+15.5 
+
+-0.6 
+-3.4 
+10.5 
+9.3 
+15.3 
+
+...
+-2.0 
+1.5 
+
+... 
+-8.0 
+1.4 
+
+10.7
+9.5
+15.8
+
+n.a.
+1.4
+
+n.a.
+n.a.
+
+82.1 
+
+82.5 
+
+1,6 
+
+1.5 
+
+1.5 
+
+... 
+
+3.  Percent change from previous year.
+
+The  1997  federal  budget was  approved  by the  Bundestag  (the
+
+lower  house  of  the  German parliament)  in  late November.  Before
+passage,  the  1997  federal  budget  was  revised  to  include  additional
+
+expenditure  cuts  of  DM3  billion,  due to  an overestimate  of  tax
+
+receipts  for  1996.  A  vote  in the  Bundesrat  (the upper  house)  is
+
+IV-19
+
+scheduled  for  December  19.  The Kohl  government  continues  to
+
+maintain  that  the  overall  fiscal  package  will  be  sufficient to
+
+reduce  the  deficit  to  2-1/2  percent  of  GDP  in  1997  from more  than  4
+percent  this  year.
+
+In France,  real  GDP  grew 3.7  percent  (SAAR) in  the  third
+
+quarter  of  1996,  following  a drop  of  0.6  percent  (revised from  -1.4
+
+percent)  in  the  second  quarter--exhibiting  the  same  degree  of
+
+volatility  that  has  characterized the  quarterly  pattern  of GDP  since
+
+late  last  year.  Part  of  the  swing  in  growth  between the  second  and
+
+third  quarters  reflects  the  influence  of  working-day  effects  that
+
+had  reduced  second-quarter  growth.  In addition,  consumption  surged
+
+in  the  third  quarter  prior  to  the  expiration  of  the  "Juppette" car-
+
+buying incentive  program.  Investment  expanded  after having  declined
+
+for  three  consecutive  quarters,  as  business  investment  picked  up.
+
+An inventory  drawdown  reduced  growth, while  a  strong  rebound  in
+
+exports  underpinned the  positive  contribution  from net  exports.
+
+FRENCH REAL GDP
+(Percent change from previous period, SAAR)1
+
+1994 
+
+1995 
+
+1995 
+
+1996
+
+GDP 
+
+4.2 
+
+0.4 
+
+Total  Domestic  Demand 
+Consumption 
+Investment 
+Government  Consumption 
+Inventories  (contribution) 
+
+4.9 
+1.6 
+4.7 
+0.6 
+2.8 
+
+Exports 
+Imports 
+Net Exports  (contribution) 
+
+7.5 
+10.2 
+-0.7 
+
+1. Annual changes are Q4/Q4.
+
+0.4 
+1.1 
+0.0 
+1.0 
+-0.5 
+
+0.7 
+0.7 
+0.0 
+
+Q4 
+-1.9 
+
+-3.4 
+-1.1 
+-1.2 
+1.4 
+-2.8 
+
+-2.5 
+-7.7 
+1.6 
+
+Q1 
+4.6 
+
+Q2 
+-0.6 
+
+2.2 
+10.3 
+-3.5 
+1.4 
+-3.4 
+
+17.3 
+8.4 
+2.4 
+
+1.1 
+-3.4 
+-0.9 
+2.3 
+2.9 
+
+-7.3 
+-1.9 
+-1.7 
+
+Q3
+3.7
+
+2.4
+4.2
+4.2
+1.8
+-1.3
+
+13.1
+8.5
+1.2
+
+Economic  activity  in  the  fourth  quarter  is  likely to  be flat
+
+or  slightly negative  owing  to  a  smaller  number  of  working days  in
+
+the  quarter  and  weaker  consumption.  In October,  consumption  of
+
+manufactured  products  registered  a sharp  decline  led  by a  fall  in
+
+car  purchases  following  the  expiration  of  the  "Juppette"  subsidy.
+
+IV-20
+
+While  consumer  confidence  rose  slightly  in  October and  November,  its
+
+continuing,  low level  largely  reflects  general  discontent  with the
+
+government.  Business  surveys  suggested  that  manufacturing  output
+
+declined  in  October  and  November.  Inventories  seem to  have  returned
+
+to more  normal  levels,  but  there  is  likely  to  be further  destocking
+
+because  firms  expect  the  prices  of  intermediate materials  to
+
+decline.  Unemployment, which  rose  to  a  new post-war  high  in
+
+September,  remained  at  12.6  percent  in  October.  Consumer-price
+
+inflation  in November  remained  moderate.
+
+FRENCH ECONOMIC INDICATORS
+(Percent change from previous period except where noted, SA)
+
+1996
+
+Q1 
+
+Q2 
+
+Q3 
+
+Aug 
+
+Sep 
+
+Oct 
+
+Nov
+
+4.9 
+
+2.6 
+
+-1.6 
+
+Consumption of 
+Manufactured Products
+Industrial ProductioW 
+Capacity Utilization 
+Unemployment Rate  (%) 
+Consumer Prices 2  
+1.  For the months of July and August, INSEE publishes a composite number
+
+n.a. 
+... 
+12.6 
+1.8 
+
+0.2 
+82.7 
+12.4 
+2.4 
+
+1.9 
+82.7 
+12.5 
+1.8 
+
+0.7 
+83.8 
+12.1 
+2.1 
+
+-1.3 
+... 
+12.6 
+1.6 
+
+0.0 
+... 
+12.5 
+1.6 
+
+n.a.
+.
+n.a.
+1.6
+
+-1.6 
+
+-2.6 
+
+n.a.
+
+3.5 
+
+for industrial production.
+
+2.  Percent change from previous year.
+
+In  the  United  Kingdom,  real  GDP moved  up  3.1  percent  (SAAR) in
+
+the  third  quarter.  Personal  and  government  consumption  expenditures
+
+rose briskly, while  fixed  investment  dropped  following  a bunching  of
+
+aircraft  deliveries  in the  second  quarter.  Stock accumulation
+
+contributed  somewhat  to  growth  following  a substantial  rundown  in
+
+the  second  quarter.  The  contribution  of net  exports  has  been
+
+slightly  negative  on  balance  so  far  this year,  following two  years
+
+of  large  positive  contributions  to  growth.
+
+Indicators  for  the  fourth  quarter  are  limited  but  appear  to
+
+show continued  strength.  After  falling  in  September,  retail  sales
+
+picked  up  in  October.  Industrial  production  edged  down  in  October
+
+as  oil  extraction, which  is  quite volatile,  dropped.  In  contrast,
+
+manufacturing  output  rose  0.4  percent.  Surveys  of  consumer
+
+confidence  have  shown  increased  optimism in  recent months,  with
+
+confidence  in  November  at  its highest  level  since  the  late  1980s.
+
+IV-21
+
+Surveys  of  manufacturers  continued  to  report  strength  in  orders  in
+November,  particularly for  consumer  goods,  while  recent  surveys  of
+
+production  plans  edged back  from  their  high  third-quarter  level.
+
+The  unemployment  rate  fell  to  7.2  percent  in  October,  its  lowest
+
+level  since  early  1991.
+
+UNITED KINGDOM REAL GDP
+(Percent change from previous period, SAAR)1
+
+1994 
+
+1995 
+
+1995 
+
+1996
+
+GDP 
+
+Total Domestic Demand 
+Consumption 
+Investment 
+Government Consumption 
+Inventories  (contribution) 
+Net Exports (contribution) 
+Non-oil  GDP 
+1. Annual changes are Q4/Q4.
+
+4.2 
+
+1,9 
+
+3.4 
+2.6 
+3.4 
+1.6 
+0.9 
+0.7 
+4.1 
+
+0.6 
+1.4 
+-1.9 
+1.4 
+-0.2 
+1.0 
+1.8 
+
+Q4 
+
+2.2 
+
+Q1 
+
+2.3 
+
+Q2 
+
+1.9 
+
+1.6 
+1.4 
+6.4 
+0.9 
+-0.6 
+0.1 
+2.3 
+
+3.8 
+4.9 
+6.8 
+-0.7 
+-0.2 
+-2.1 
+2.3 
+
+-0.4 
+2.3 
+8.5 
+0.4 
+-3.4 
+1.8 
+1.5 
+
+Q3
+3.1
+
+2.8
+4.6
+-8.4
+4.2
+0.7
+0.0
+3.4
+
+UNITED KINGDOM ECONOMIC INDICATORS
+(Percent change from previous period except where noted, SA)
+
+Industrial Production 
+Retail Sales 
+Unemployment Rate (%) 
+Consumer Pricesi  
+Producer Input Price 2  
+Average Earnings2  
+1. Retail prices excluding mortgage i
+
+Q1 
+0.1 
+0.4 
+7.9 
+2.9 
+3.0 
+3.7 
+
+Q2 
+0.3
+1.3
+7.7
+2.8
+0.0
+3.8
+
+from previous year.
+
+1996
+
+Aug 
+-0.6 
+0.9 
+7.5 
+2.8 
+-2.6 
+4.0 
+
+Q3 
+0.3
+0.8
+7.5
+2.9
+-2.8
+4.0
+
+Sep 
+
+0.7 
+-0.3 
+7.4 
+2.9 
+-3.2 
+4.0 
+
+Oct 
+
+Nov
+
+-0.1 
+0.4 
+7.2 
+3.3 
+-2.5 
+n.a. 
+
+n.a.
+n.a.
+n.a.
+3.3
+-5.5
+n.a.
+
+nterest
+
+payments.  Percent  change
+
+2.  Percent change from previous year.
+
+Retail  prices  excluding mortgage  interest payments  rose  3.3
+
+percent  in  November  from a year  earlier,  solidly  above  the
+
+government's  target  rate  of 2-1/2  percent  or  less.  This  pickup,
+
+however,  reflects  in  large part  the  runup  in oil  prices  this  year.
+
+The  underlying  rate  of  increase of  average  earnings was  unchanged
+
+IV-22
+
+in  September,  while  producer  input  prices  in November  dropped
+
+considerably below year-earlier  levels.
+
+On  November  26,  the  Chancellor  of  the  Exchequer  Kenneth  Clarke
+
+delivered  to  Parliament  the  British  government's  budget  and  medium-
+
+term  financial  strategy.  The  government  aims  to  reduce  the  general
+
+government  deficit  from about  5  percent  of  GDP  in  the  1995/96  fiscal
+
+year  (that ended  March 30)  to  4 percent  of  GDP  in the  current  fiscal
+
+year  and  to  2-1/2  percent  of GDP  in  FY1997/98.  The  reduction  in the
+
+deficit  is  to  come  almost  entirely  from slow  growth  of  public
+
+expenditures.
+
+In  Italy, the  advance estimate  of GDP  growth  in  the  third
+
+quarter  was  2 percent  (SAAR).  (No further  details  will  be  available
+
+until  final  third-quarter  GDP  is  released  on  January 7.) 
+
+The  latest
+
+monthly  indicators  have been weak.  Business  sentiment  has  remained
+
+gloomy, while  consumer  confidence  has  continued  to  decline  in  recent
+
+months.  Consumer-price  inflation  on  a twelve-month basis  fell  in
+
+November  to  2.6  percent,  after peaking  at  6 percent  in  November  a
+
+year  ago.
+
+ITALIAN ECONOMIC INDICATORS
+(Percent change from previous period except where noted, SA)
+
+1996
+
+GDP 
+
+Q1 
+1.7 
+
+Q2 
+-1.6 
+
+Q3 
+2.0 
+
+Aug 
+...... 
+
+Sep 
+
+Oct 
+
+Nov
+...
+
+-1.4 
+76.6 
+12.2 
+
+n.a. 
+75.6 
+12.2 
+
+Industrial Production  -2.0 
+75.9 
+Cap. Utilization (%) 
+12.0 
+Unemployment Rate (%) 
+Consumer Confidencel 
+Bus. Sentiment2  (%) 
+Consumer Prices3  
+Wholesale Prices3  
+1. Level of index, NSA.
+2. Percent of manufacturing firms having a favorable view of business
+
+-3.0 
+3.0 
+n.a. 
+
+n.a. 
+... 
+......
+
+107.7  113.8  114.1  115.2  112.0  106.0  102.7
+
+-1.0 
+3.5 
+2.0 
+
+-1.0 
+4.2 
+3.4 
+
+15.7 
+5.0 
+7.7 
+
+1.0 
+3.4 
+1.4 
+
+0.5 
+... 
+... 
+
+2.0 
+3.4 
+2.0 
+
+n.a. 
+... 
+
+n.a.
+2.6
+n.a.
+
+n.a.
+...
+
+conditions minus those with an unfavorable outlook.
+
+3. Percent change from previous year.
+
+On  November  16,  the  lower  house  of  the  Senate,  where the
+
+governing  central-left coalition  relies  on the  outside  support  of
+
+the  Communist  Refoundation  Party  (CR),  approved  the  1997  budget.
+
+IV-23
+
+The  budget  includes  a  $41  billion  equivalent  deficit  reduction
+
+package  and  aims  to  reduce  Italy's  1997  fiscal  deficit  to  3 percent
+
+of  GDP.  The  upper house  of the  Senate, where  the  proposed budget
+
+is  currently  under  discussion,  has  until  the  end  of  the  year  to
+
+ratify  it.
+
+Economic  activity  in  Canada  expanded  at  a  robust  pace  in  the
+
+third  quarter,  reflecting  a  strong  rebound  in machinery and
+
+equipment  investment  and  continued  growth  in  residential
+
+construction.  After  a  large  inventory  drawdown  in  the  second
+
+quarter,  inventory  accumulation contributed  3.3  percentage  points  to
+
+third-quarter  growth.  Consumption  expenditures  remained weak,
+
+however,  and  government expenditures  declined.  Net  exports  also
+
+subtracted  from  growth, as  export  growth was  offset  by  the  surge  in
+
+machinery and  equipment  imports.
+
+CANADIAN REAL GDP
+(Percent change from previous period, SAAR)1
+
+1994 
+
+1995 
+
+1995 
+
+1996
+
+GDP 
+
+4.9 
+
+0.7 
+
+Q4 
+0.9 
+
+Q1 
+
+1.1 
+
+2.5 
+Total Domestic Demand 
+3.1 
+Consumption 
+4.9 
+Investment 
+-1.5 
+Government Consumption 
+Inventories  (contribution)  -0.1 
+
+Exports 
+Imports 
+Net Exports (contribution) 
+
+20.9 
+14.0 
+2.2 
+
+1. Annual changes are Q4/Q4.
+
+-0.1 
+0.9 
+-1.8 
+-1.4 
+0.1 
+
+5.0 
+4.0 
+0.4 
+
+-0.5 
+0.0 
+6.6 
+-1.1 
+-1.6 
+
+12.3 
+9.5 
+1.1 
+
+2.6 
+5.1 
+9.6 
+-1.9 
+-2.1 
+
+-1.7 
+2.5 
+-1.8 
+
+Q2 
+
+1.2 
+
+-2.4 
+0.7 
+-1.5 
+0.5 
+-2.6 
+
+9.7 
+-1.5 
+4.7 
+
+Q3
+
+3.3
+
+7.3
+1.3
+18.3
+-3.7
+3.3
+
+8.5
+18.2
+-3.6
+
+Indicators  for  the  fourth  quarter  are very  limited  but  suggest
+
+that  economic  activity is  expanding  at  a moderate  pace.  Employment
+
+edged  up  in October  and  November, but  the  unemployment  rate  has
+
+remained  high  as  labor  force  growth has  risen as  well.  Housing
+
+starts,  which have been volatile  this  year,  jumped  in  November  to  a
+
+level  7.5  percent  above  the  third-quarter  average.  A  major  part  of
+
+the  increase  in twelve-month  consumer-price inflation  to  1.8  percent
+
+in  October  came  from higher  energy prices,  including  an  increased
+
+natural  gas  tax  and  higher  gasoline  prices.
+
+IV-24
+
+CANADIAN ECONOMIC INDICATORS
+(Percent change from previous period except where noted. SA)
+
+1996
+
+Q1 
+
+Q2 
+
+Q3 
+
+Aug 
+
+Sep 
+
+Oct 
+
+Nov
+
+0.3 
+
+0.4 
+
+1.7 
+
+0.1 
+
+-0.1 
+
+n.a. 
+
+n.a.
+
+3.3 
+2.8 
+0.4 
+3.2 
+0.1 
+9.7 
+1.4 
+
+-0.8 
+-1.9 
+-0.3 
+0.8 
+0.6 
+9.4 
+1.4 
+
+0.8 
+0.1 
+0.2 
+2.4 
+-0.3 
+9.9 
+1.5 
+
+n.a. 
+n.a. 
+n.a. 
+-9.8 
+0.3 
+10.0 
+1.8 
+
+n.a.
+n.a.
+n.a.
+17.0
+0.1
+10.0
+n.a.
+
+Industrial Production 
+Manufacturing Survey:
+
+Shipments 
+New Orders 
+Retail Sales 
+Housing Starts 
+Employment 
+Unemployment Rate (%) 
+Consumer Prices1  
+1. Percent change from year earlier.
+2.  Level of index, 1991 = 100.
+3.  Level of index. 1977 =  100.
+
+-0.5 
+-0.0 
+1.0 
+1.8 
+0.7 
+9.5 
+1.4 
+
+2.4 
+2.5 
+0.3 
+10.9 
+0.2 
+9.6 
+1.4 
+
+EXTERNAL BALANCES
+(Billions of U.S. dollars, seasonally adjusted)
+
+1995 
+
+1996
+
+Q1 
+
+Q2 
+
+Q3 
+
+Jul 
+
+Aug 
+
+Sep 
+
+Oct
+
+Japan:  trade 
+
+106.6 
+current account  110.6 
+
+16.6  13.6  14.4 
+15.4  15.3  18.9 
+
+3.3 
+6.0 
+
+6.5 
+8.2 
+
+4.7 
+4.7 
+
+4.7
+4.9
+
+Germany:  tradel 
+
+59.5 
+current account1 -16.7 
+
+13.1  15.3  17.8 
+5.5 
+-2.5  -3.7  -7.4  -3.3  -3.1  -1.1 
+
+6.9 
+
+5.5 
+
+n.a.
+n.a.
+
+France:  trade 
+
+20.0 
+current account  16.6 
+
+5.8  4.6 
+7.3  3.8 
+
+6.6 
+2.0 
+n.a.  0.0 
+
+2.6 
+2.1 
+
+2.0 
+n.a.
+n.a.  n.a.
+
+U.K.:  trade* 
+
+-18.3 
+
+-5.6  -4.9  -4.2  -1.9  -0.9  -1.4 
+
+n.a.
+
+current account  -6.2 
+
+-2.0  1.2 
+
+n.a.  ... 
+
+. .
+
+... 
+
+...
+
+Italy:  trade 
+
+27.7 
+current account1   27.4 
+
+8.7  12.3 
+5.9  11.1 
+
+n.a.  3.9 
+n.a.  8.4 
+
+3.6 
+4.4 
+
+n.a.  n.a.
+n.a.  n.a.
+
+Canada:  trade 
+
+20.7 
+current account  -8.1 
+
+5.9  7.3 
+-1.2  0.8 
+
+7.4 
+0.4 
+
+2.3 
+... 
+
+2.7 
+......
+
+2.4 
+
+n.a.
+
+1.  Not seasonally adjusted.
+... Data not available on a monthly basis.
+
+IV-25
+
+December 12,  1996
+
+Industrial  Production in Selected  Industrial  Countries
+(Monthly data; seasonally adjusted; ratio scale, index)
+
+Japan
+
+Germany
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+France
+
+United Kingdom
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+Italy
+
+Canada
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+IV-26 
+
+December  12,1996
+
+Consumer  Price  Inflation in Selected  Industrial  Countries
+(12-month  change)
+
+Japan
+
+Percent
+
+W.  Germany
+
+Percent
+--
+
+I  12
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+France
+
+United  Kingdom
+
+1991 
+
+1991  1992 
+1992 
+
+1993 
+1993 
+
+1994 
+1994 
+
+1995 
+1995 
+
+1996
+1996
+
+1992 
+
+1991 
+1995 
+1993 
+Note: Excludes mortgage interest payments.
+
+1994 
+
+1996
+
+Canada
+
+-- 
+
+12
+
+1993 
+1993 
+
+1994 
+1994 
+
+199 
+1995 
+
+199
+1996
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+1996
+
+1991 
+
+1991  199 
+
+1992 
+
+IV-27
+
+Economic  Situation  in Other  Countries
+
+In  Latin  America,  indications  of  output  growth  generally  have
+
+been  strong.  Mexico  and  Argentina  have continued  to  bounce  back
+
+from their  1995  recessions  while  Brazilian  output  surged  in  the
+
+third  quarter  and  Venezuela  showed  some  signs  of  recovery,  led  by
+
+its  oil  sector.  In Asia,  output  continues  to  grow  at  a more
+
+moderate  pace  than  in  recent years,  with the  moderation  greater  in
+
+Korea  and  Taiwan  than  in  China.
+
+Inflation  mostly is  on  a downward  trend  in  the  developing
+
+countries.  In  particular,  Brazil,  Mexico,  and  Russia have  achieved
+
+twelve-month inflation  rates  sharply  lower  than  those  of the
+
+previous  year.  Inflation  is  also  down  in  China  and  remains  low  in
+
+Taiwan,  Korea,  and,  especially, Argentina.  As  Latin  American
+
+economies  have  grown,  a pickup  in  domestic  demand  has  worsened  trade
+
+balances,  most  of  all  in  Brazil.  A  rise  in  imports  has  also  widened
+
+the  trade  deficit  in Korea,  while  trade balances  have  improved  in
+
+Taiwan  and  China.
+
+Individual  country notes.  In Mexico,  there were  solid  signs
+
+of  growth  in the  third quarter.  GDP  rose  7.4  percent  from  its  year-
+
+earlier  level.  On  a seasonally  adjusted  basis,  GDP  is  estimated  to
+
+have  risen  about  10  percent  (a.r.)  in  the  third  quarter,  after  being
+
+about  flat  in  the  second  quarter.  Monthly  indicators  also  showed
+
+strong  growth.  Industrial  production  rose  14  percent  in  September
+
+from a year  earlier,  while the  unemployment  rate declined  to  5.2
+
+percent  in October,  its  lowest  level  since January  1995.  The
+
+recovery  in  domestic demand  led  to  a  rise  in  imports  in  the  third
+
+quarter  and  a reduction  in  the  trade  surplus  in October  to  its
+
+lowest  level  since  January  1995.
+
+Monthly  inflation has  averaged about  1.5  percent  over  the past
+
+three  months,  well  below  the  recent  peak  of  2.8  percent  in April.
+
+On  a twelve-month basis,  inflation has  declined  to  below 28  percent
+
+versus  52  percent  during  1995.
+
+The  Mexican  government  in  early November  released  the  details
+
+of  its  1997  budget  and  economic  projections.  The  government
+
+forecasts a budget  deficit  of  0.5  percent  of  GDP  for  1997,  versus  a
+
+balanced budget  in  1996,  due  largely to  the  cost  of  pension  reforms
+
+and  support  for  the  banking  system.  GDP  is  projected  to  grow at
+
+least  4 percent  in  1997.  The  government  projects  an  inflation  rate
+
+IV-28
+
+MEXICAN  ECONOMIC  INDICATORS
+
+(Percent  change  from  year  earlier 
+1995 
+
+1994 
+
+Real  GDP 
+Industrial  Production  (SA) 
+Unemployment  Rate  (%) 
+Consumer  Prices 1  
+Trade  Balance 2  
+Imports 2  
+Exports 2  
+Current  Account 2  
+1. Percentage  change  from  previous  period.
+2. Billions  of U.S. dollars,  NSA
+
+4.5 
+4.5 
+3.6 
+7.1 
+-18.5 
+79.4 
+60.8 
+-29.5 
+
+-6.2 
+-7.5 
+6.3 
+52.1 
+7.0 
+72.5 
+79.5 
+-0.7 
+
+except  where  noted)
+
+1996 
+
+Q2 
+7.2 
+11.1 
+5.6 
+6.4 
+2.2 
+
+Q3 
+7.4 
+16.3 
+5.5 
+4.4 
+1.4 
+21.4  22.9 
+23.6  24.3 
+0.6  -0.7 
+
+1996
+
+Sep 
+
+Oct
+
+...
+14.0 
+5.5 
+1.6 
+0.6 
+7.8 
+8.4 
+.
+
+n.a.
+5.2
+1.2
+0,3
+8.9
+9.2
+...
+
+of  15  percent  (December-over-December) in  1997,  down  from  about  27
+
+percent  in  1996.  The  current  account  deficit  is  projected  to  widen
+
+to  1.2  percent  of  GDP  in  1997  from  0.3  percent  in  1996.
+
+The  program  of  privatization moved  forward  in  December  after
+
+the  October  setback  in  the  secondary  petrochemical  sector.  On
+
+December  5,  the  Mexican  government  approved  a bid  of  $1.4  billion  by
+
+a Mexican-U.S.  joint  venture to  operate Mexico's  Northeast  railroad
+
+line, the  busiest Mexican  railway,  which connects  Mexico  City with
+
+Laredo,  Texas  and  includes  trunk  lines  to  key gulf  ports.
+
+In  Argentina, the  economic  recovery  following  the  Tequila
+
+recession  has  taken  a firm hold.  Real  GDP  displayed  strong  and
+
+considerably higher-than-expected  growth  of  6.6  percent  in  the  third
+
+quarter  from a year  earlier.  Led  by the  auto  industry,  industrial
+
+production  in  October was  11.3  percent higher  than  the  same month  in
+
+1995.  Inflation  is  still  very  low;  consumer  prices  have  increased
+
+just  0.3  percent  over  the  past  twelve months.  During  the  recovery
+
+both exports  and  imports  have  risen,  with the  third-quarter  trade
+
+surplus  being  around  $0.8  billion, almost  unchanged  from a year
+
+earlier.
+
+The  Convertibility Plan appears  to  be  in  no  immediate  danger
+
+even  though  the  Argentine  government missed  by  a  considerable margin
+
+its  original  fiscal  targets  agreed  upon  with the  IMF,  which were
+
+subsequently  renegotiated,  and  international  reserves  (excluding
+
+gold)  have  fallen  to  $14  billion  in  October  from  $15  billion in
+
+September.  Government  revenues  have turned  around  in  November  and
+
+the  Congress  has  approved  a  1997  budget  that  provides  for  a deficit
+
+IV-29
+
+(Percent  change  from year  earlier 
+
+except  where  noted)
+
+ARGENTINE  ECONOMIC  INDICATORS
+
+1994 
+
+1995 
+
+1996 
+
+Real  GDP 
+Industrial  Production  (SA) 
+Unemployment  Rate  (%)2 
+Consumer  Prices 1  
+Trade  Balance 3  
+Current  Account 3
+1. Percentage change from previous period.
+2. Unemployment figures available only in May and
+annual figure is the average of the two surveys.
+3. Billions of U.S. dollars.
+
+7.4 
+5.7 
+11.7 
+3.9 
+-4.0 
+-9.1 
+
+-4.4 
+-6.2 
+17.4 
+1.5 
+3.0 
+-1.6 
+
+Q2 
+2.6 
+2.6 
+17.1 
+-0.2 
+2.2 
+1.0 
+
+Q3 
+
+6.6 
+8.6 
+n.a. 
+0.5 
+0.8 
+n.a. 
+
+1996
+Sep  Oct
+
+...
+9.2  11.3
+...  ...
+0.0  0.5
+0.1  0.0
+...
+
+October of each year.  The
+
+of  about  $3.2  billion,  close to  the  target  of  $3 billion  agreed with
+
+the  IMF.  The  central  bank has  taken  two  preventive  measures  to
+
+avoid  a repeat  of  last year's  liquidity crisis.  One  measure is  a $5
+
+billion foreign-funded  private  safety  net  that  will  pay out  funds  to
+
+local  banks  in  case  of  a run  on  deposits.  The  other  is  a three
+
+percentage  point  increase  in  bank  liquidity  requirements  to  be
+
+phased  in  gradually  over  the  next  eighteen months.  The peso-dollar
+
+deposit  spread  has  also  narrowed  since  December  1995.
+
+The  benefits  of  the  recent  growth  have  not  yet  done  much to
+
+alleviate  Argentina's  stubbornly high  unemployment rate.  That  is  in
+
+part  because  output  is  still  below its  peak  level  of  two  years  ago,
+
+and  Congress  has  delayed  in  passing  a  labor  reform  package  that
+
+would  promote  the  hiring  of  new workers.
+
+In Brazil,  real  GDP  grew by  11.4  percent  in  the  third quarter
+
+(s.a.a.r.),  after  growth  of  6.5  percent  in  the  second  quarter.  On  a
+
+year-over-year  basis,  third-quarter  real  GDP  growth  was  6.5  percent.
+
+Growth was  strong  in  most  sectors,  including manufacturing  (which
+
+grew by  18  percent).  Inflation has  remained  low  by  Brazilian
+
+standards under  the  nearly  two  and  a half year-old  exchange  rate-
+
+based  stabilization  program,  the Plano  Real.  On  a twelve-month
+
+basis,  inflation was  12.2  percent  in  October  1996,  down  from 23.7
+
+percent  in  October  1995,  and  the  lowest  rate  since  the  early  1970s.
+
+Strong  aggregate  demand  has  contributed  to  a  sharp
+
+deterioration in  the  trade  balance  in  recent months,  with  the
+
+trade  deficit  reaching  $1.3  billion  in  October.  However,  central
+
+bank officials  project  a  current  account  deficit  of  about  3 percent
+
+of  GDP  for  1996,  about  the  same  as  in  1995.  In  late  November,  in
+
+IV-30
+
+BRAZILIAN  ECONOMIC  INDICATORS
+(Percent  change  from  year  earlier  except  where  noted)
+
+1994 
+
+1995 
+
+1996 
+
+Real  GDP 
+Industrial  Production  (SA) 1  
+Open  Unemployment  Rate  (%) 
+Consumer  Prices 1  
+Trade  Balance 2  
+Current  Account 2  
+1. Percentage  change  from  previous  period.
+2.  Billions  of  U.S.  dollars,  NSA
+
+5.9 
+7.9 
+5.1 
+929.0 
+10.4 
+-1.8 
+
+4.2 
+3.6 
+4.4 
+22.0 
+-3.2 
+-17.8 
+
+Q2 
+
+Q3 
+2.3  6.5
+0.3  5.3 
+5.9  5.5 
+3.6  1.9 
+0.1  -1.2 
+-4.1  -3.7 
+
+1996
+
+Sep 
+
+Oct
+
+1.8 
+5.2 
+0.2 
+-0.7 
+.. 
+
+n.a.
+n.a.
+0.4
+-1.3
+...
+
+response  to  concern  about  the deterioration  in  the  external  balance,
+
+the  government unveiled  measures  to  boost  exports  through more
+
+preferential  credit  terms  and  tax  exemptions  on  exports.
+
+Central  bank officials  have  stated  that  current monetary  and
+
+exchange  rate  policies  will  be  not  be  changed by  the  external
+
+balance  situation.  The  exchange  rate  has  depreciated  slowly  in
+
+nominal  terms  against  the  dollar  since mid-1995,  remaining  about
+
+unchanged  in  real  terms,  after  a 25  percent  appreciation  of  the  real
+
+exchange  rate  in  the  first  year  of the  Plano  Real.  Indications  are
+
+that  new  capital  flows  have  remained  positive  in  recent  weeks.
+
+International  reserves at  the  end  of  October  (latest  data  available)
+
+stood  at  $59  billion,  unchanged  from September's  level.
+
+In  Venezuela, the  economy is  slowly  emerging  from  recession,
+
+helped  by  the  recent  run-up  in  oil  prices  and  an  IMF-supported
+
+adjustment  program.  The Venezuelan  oil  export  basket  has  increased
+
+steadily  since  January and  reached  around  $23  per  barrel  in  mid-
+
+October,  the highest  price  since  1990.  This has  led  to  record
+
+international  reserves,  which  in mid-November  stood at  around  $12
+
+billion  (excluding gold)  and  have increased  around  90  percent  since
+
+the  start  of  the  year.
+
+The high oil  prices  have  allowed  Venezuela  to  meet almost  all
+
+of  its  IMF  targets  with  considerable margins,  but  inflation remains
+
+a problem.  Since July,  monthly inflation has  been around  4 percent,
+
+although  for  November  it  has  come  down to  3.1  percent.  On  a twelve-
+
+month  basis,  consumer  prices  have  risen  around  110  percent  through
+
+November.  Despite this  inflation,  the  exchange  rate has  remained
+broadly  stable,  around  470  bolivars  per  dollar  since  exchange
+
+controls  were  relaxed  in April.  The  Venezuelan  government  seems
+
+IV-31
+
+(Percent  change from  year  earlier 
+
+except  where  noted)
+
+VENEZUELAN  ECONOMIC  INDICATORS
+
+1994 
+
+1995 
+
+1996 
+
+Real  GDP 
+Unemployment  Rate  (%) 
+Consumer  Prices 1  
+Trade  Balance 2  
+Current  Account 2  
+1.  Percentage  change  from  previous  period.
+2. Billions  of U.S.  dollars,  NSA,  non-oil  trade  balance.
+
+2.2 
+10.8 
+56.7 
+-6.0 
+2.6 
+
+-2.8 
+8.8 
+70.9 
+-3.6 
+2.7 
+
+Q3 
+Q2 
+n.a.
+n.a. 
+11.1 
+......
+30.9  13.2 
+-1.8 
+n.a. 
+.. 
+.
+.
+
+1996
+
+Sep 
+
+Oct
+
+3.6 
+n.a. 
+... 
+
+4.2
+n.a.
+...
+
+committed  to  economic  reform, and  the  privatization program has
+
+picked  up  steam with the  sale  in  November  of most  of  the  remaining
+
+government  stake  in  the  national  telephone  company  (CANTV) on  the
+
+local  and  New York  stock markets.
+
+Real  GDP  in  China  has  continued  to  expand briskly, albeit  at  a
+
+more  sustainable  pace  than  in  the  1992-94  period  when  GDP  growth
+
+averaged  over  13  percent  per  year.  Consumption growth  has  remained
+
+very  strong, with  real  retail  sales  up  13  percent  in  October  from
+
+their  year-earlier  level.  Although  China's  generally  tight monetary
+
+policy  since the  middle  of  1993  resulted  in  a marked  deceleration
+
+in  investment  spending  in  1994-95.  there  are  indications  that
+
+investment  growth  has  picked  up  noticeably  in  recent months.  The
+
+12-month  consumer  price  inflation  rate  fell  to  7.4  percent  in
+
+September,  compared  with  an  inflation  rate  of  25.5  percent  in  1994.
+
+The  trade  balance  in the  first  10  months  of  this  year  registered a
+
+surplus  of  $12.0  billion, compared  with  a  surplus  of  $17.8  billion
+
+over  the  year-earlier  period.  Most  of this  year's  surplus  is
+
+attributable  to  a  strong  pickup  in  exports  in the  second half  of
+
+this  year,  following  a  contraction  in  exports  of  about  8 percent
+
+from  their year-earlier  level  in  the  first  half of  1996.  China's
+
+foreign  exchange  reserves  rose to  slightly  over  $100  billion  by  mid-
+
+November.
+
+The  central  bank announced  in  late  November  that  China would
+
+make  its  currency  (the yuan)  convertible  for  current  account
+
+transactions  effective December  1 of  this  year by accepting  Article
+
+VIII  of  the  IMF  Agreement.  Article  VIII  prohibits  restrictions  on
+
+payments  and  transfers  for  current  account  transactions,  except with
+
+IMF  approval.
+
+IV-32
+
+CHINESE  ECONOMIC  INDICATORS
+
+(Percent  change  from  year  earlier 
+1994 
+
+1995 
+
+except  where  noted)
+
+1996 
+
+1996
+
+Real  GDP 1  
+Industrial  Production 
+Consumer  Prices 
+Trade  Balance 2
+1. Cumulative from the beginning of the year
+2. Billions of U.S. dollars, NSA
+
+11.8 
+22.0 
+25.5 
+5.2 
+
+10.2 
+17.8 
+10.1 
+16.7 
+
+Q3 
+Q2 
+9.8 
+9.6 
+n.a.  n.a. 
+7.9 
+8.6 
+7.3 
+2.1 
+
+Oct
+
+Sep 
+...
+n.a...
+...
+7.4 
+3.9
+3.2 
+
+In Taiwan,  real  GDP  rose  5.6  percent  in  the  third  quarter  from
+
+its  year-earlier  level.  While  consumption  spending has  accelerated  a
+
+bit  since  the  beginning  of this  year,  investment  growth has  remained
+
+very weak,  despite  a  shift  toward  a more  accommodative monetary
+
+policy.  The  12-month  rate  of  consumer  price  inflation  was  3.2
+
+percent  in  November,  close  to  its  average  value  during the  past
+
+year.  Taiwan's  trade  surplus  rose  to  $10.7  billion  in  the  first  10
+
+months  of this  year,  compared with a  surplus  of  $5.6  billion  over
+
+the  year-earlier  period.  The  rise  in the  trade  surplus  mainly
+
+reflected  a fall  in  the  dollar  value of  imports  of  3 percent  over
+
+the  period,  due  to  sluggish  domestic  demand;  exports  rose  by only  3
+
+percent  over  the  same  period.  Foreign exchange  reserves  stood at
+
+$87.3  billion  at the  end  of  October,  compared  with  $91.5  billion  a
+
+year  earlier.
+
+(Percent  change  from  year  earlier 
+
+except  where  noted)
+
+TAIWAN  ECONOMIC  INDICATORS
+
+1994 
+
+1995 
+
+1996 
+
+Real GDP 
+Industrial  Production 
+Consumer  Prices 
+Trade  Balancel 
+Current  Account 1  
+1. Billions  of U.S.  dollars.  NSA
+
+6.5 
+6.6 
+2.6 
+7.8 
+6.2 
+
+6.1 
+4.2 
+4.6 
+8.3 
+5.0 
+
+Q3 
+n.a. 
+1.9 
+3.5 
+4.6 
+
+Q2 
+5.4 
+-0.5 
+2.3 
+3.2 
+n.a.  n.a. 
+
+1996
+
+Sep  Oct
+...  ...
+3.9  5.1
+3.8  3.7
+2.1  0.5
+... 
+
+...
+
+In  Korea, real  GDP  grew  6.4  percent in  the  third  quarter  from
+
+its  year-earlier  level,  the  slowest  quarterly  growth  in  three  years.
+
+The  slowdown was  concentrated  in  the  investment  and  export  sectors,
+
+which both  rose  at  an  annual  rate  of  9 percent,  compared with  rates
+
+exceeding  20  percent  a year  ago.  As  a  result  of  continued  robust
+
+IV-33
+
+growth  in  imports,  Korea's  trade  deficit  widened  to  $10.4  billion  in
+the  first nine months  of  the  year.  Industrial  production  in  October
+grew  10.8  percent  from its  year-earlier  level,  compared  with  7.3
+percent  in September.  The higher  growth  in October  reflected  fewer
+
+holidays  in the  month and  a recovery  of  sales  of vehicles  and  oil
+
+products.  Consumer  prices  in October  were  5.1  percent  above their
+
+year-earlier  level.  On  November  26,  Korea's  Parliament  ratified  the
+
+country's  membership  in the  OECD.
+
+KOREAN ECONOMIC INDICATORS
+(Percent change from year earlier except where noted)
+
+1994 
+
+1995 
+
+1996 
+
+1996
+
+Real GDP 
+Industrial Production 
+Consumer Prices 
+Trade Balance1  
+Current Account1  
+1. Billions of U.S. dollars, NSA
+
+8.4 
+10.7 
+6.2 
+-3.1 
+-4.5 
+
+9.0 
+11.7 
+4.5 
+-4.7 
+-8.9 
+
+Q3 
+Q2 
+6.7 
+6.4 
+7.3 
+7.2 
+5.1 
+5.2 
+-2.8  -4.4 
+-4.7  -7.3 
+
+Sep  Oct
+...  ...
+7.3  10.8
+4.7  5.1
+-0.8  n.a.
+-1.4  n.a.
+
+In Russia,  the  economy  and  economic  reform  are muddling  along
+
+as  President  Boris  Yeltsin  completes  his  recovery  from  quintuple
+
+bypass  surgery.  Indications  are  that  real  economic  activity  has
+
+continued  to  decline, but  the  decline has  been  slowing.  Monthly
+
+inflation has  been  under  two  percent  for  the  past  three months.  The
+
+ruble-dollar exchange  rate  has  depreciated  by  less  than  two  percent
+
+per  month the  last  three months,  staying  well  within  the  crawling
+
+band  "corridor"  established  by  the  central  bank.  The  central  bank
+
+announced  that  it  will  continue to  use  the  corridor in  1997,  and  is
+
+predicting  inflation  of  around  12  percent  for  1997.  However,  the
+
+government  also  intends  to  allow the  money  supply  to  expand  by  30
+
+percent.
+
+Russia's  three-year,  $10  billion  IMF  Extended  Fund  Facility
+
+has  been held  up,  but  it  appears  that  it  will  move  back on  track
+
+with  revised  fiscal  targets  soon.  For  the  second  time  since the
+
+program began  eight months  ago,  the  IMF  delayed  the  release  of  the
+
+month's  tranche.  The  IMF's  chief  concern  in  this  review was
+
+Russia's  failure  to meet  its  revenue targets.  Tax  revenue  for
+
+January  through  October  1996  was  only 75  percent  of  planned
+
+IV-34
+
+(Percent  change  from  year  earlier 
+
+except  where  noted)
+
+RUSSIAN  ECONOMIC  INDICATORS
+
+1994 
+
+1995 
+
+1996 
+
+1996
+
+Real  GDP 
+Industrial  Production 
+Consumer  Prices 1  
+Ruble  Depreciation 1  
+Trade  Balance 2  
+Current  Account 2  
+1. Percent  change  from  previous  period.
+2. Billions  of U.S.  dollars.
+
+-15 
+-21 
+10 
+9 
+12.1 
+1.3 
+
+-4 
+-3 
+7 
+2 
+18.3 
+5.7 
+
+Q2 
+
+Q3 
+
+-7 
+-5 
+2 
+2 
+5.3 
+n.a. 
+
+-7 
+-8 
+1 
+6 
+4.9 
+na. 
+
+Sep 
+
+-5 
+-7 
+0.3 
+1.0 
+0.7 
+...
+
+Oct
+
+-6
+-5
+1.2
+0.9
+n.a.
+
+revenue,  although  the  government has  been  taking  action to
+
+strengthen tax  collection  and  expects  to  have  85  percent  compliance
+
+for  the  year as  a whole.
+
+Russia  continues  to  integrate  itself into  world  capital
+
+markets:  on  November  20,  Russia's  debut  Eurobond  was  well-received,
+
+with  the  $1 billion  offering  oversubscribed and  selling  at  a yield
+
+of  9.45  percent,  350  basis  points  above U.S.  Treasuries  and  below
+
+yields  for  similar  instruments  of  countries  with  similar  debt
+
+ratings.
+
+

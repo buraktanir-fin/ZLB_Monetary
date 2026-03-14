@@ -1,0 +1,4506 @@
+Prefatory Note 
+
+The attached document represents the most complete and accurate version available 
+based on original copies culled from the files of the FOMC Secretariat at the Board 
+of Governors of the Federal Reserve System.  This electronic document was created 
+through a comprehensive digitization process which included identifying the best-
+preserved paper copies, scanning those copies,1
+versions text-searchable.2
+employed, some imperfections may remain. 
+
+ and then making the scanned 
+   Though a stringent quality assurance process was 
+
+Please note that some material may have been redacted from this document if that 
+material was received on a confidential basis.  Redacted material is indicated by 
+occasional gaps in the text or by gray boxes around non-text content.  All redacted 
+passages are exempt from disclosure under applicable provisions of the Freedom of 
+Information Act. 
+
+1  In some cases, original copies needed to be photocopied before being scanned into electronic 
+format.  All scanned images were deskewed (to remove the effects of printer- and scanner-introduced 
+tilting) and lightly cleaned (to remove dark spots caused by staple holes, hole punches, and other 
+blemishes caused after initial printing). 
+
+2 A two-step process was used.  An advanced optical character recognition computer program (OCR) 
+first created electronic text from the document image.  Where the OCR results were inconclusive, 
+staff checked and corrected the text as necessary.  Please note that the numbers and text in charts and 
+tables were not reliably recognized by the OCR process and were not checked or corrected by staff. 
+
+Content last modified 5/20/2009. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            
+ 
+ 
+Confidential (FR)   Class III FOMC
+
+Part 2                                                                                      April 30, 2003
+
+CURRENT ECONOMIC
+AND FINANCIAL CONDITIONS
+
+Recent Developments
+
+Prepared for the Federal Open Market Committee
+by the staff of the Board of Governors of the Federal Reserve System
+
+Confidential (FR)   Class III FOMC
+
+                                                                                                         April 30, 2003
+
+Recent Developments                         
+
+Prepared for the Federal Open Market Committee
+by the staff of the Board of Governors of the Federal Reserve System
+
+                
+Domestic Nonfinancial
+Developments                         
+
+Domestic Nonfinancial Developments
+
+
+Overview 
+The subpar pace of economic activity that has prevailed since last summer 
+continued in the first quarter.  The labor market, industrial production, and 
+business investment remained anemic, while consumption and housing activity 
+softened a little in recent months, albeit from relatively high levels.  We have 
+only scattered bits of information on activity since the apparent end of the war 
+with Iraq, and we cannot yet discern whether the uncertainty that may have been 
+restraining private spending has lifted.  While consumer confidence and 
+spending seem to have moved up in April, the most recent figures on 
+unemployment insurance claims point to further job-trimming by businesses. 
+Consistent with current levels of product- and labor-market slack, core 
+consumer prices have continued to decelerate in recent months. 
+
+Real Gross Domestic Product 
+According to the advance estimate prepared by the Bureau of Economic 
+Analysis (BEA), real GDP increased at an annual rate of 1.6 percent in the first 
+quarter, roughly in line with the lackluster pace of the fourth quarter.  Final sales 
+rose 2.1 percent in the first quarter, a percentage point faster than in the previous 
+quarter, while the pace of inventory accumulation slowed.  Among the 
+components of final demand, real PCE increased slowly, and business spending 
+on both nonresidential structures and equipment and software declined. 
+Residential investment posted another solid gain, while government spending 
+increased at a much slower pace than in the fourth quarter.  In the external 
+sector, both imports and exports declined, but because the decrease in imports 
+was more substantial, the combined arithmetic influence of net exports was to 
+add nearly a percentage point to first-quarter growth.  Based on the small 
+amount of data we have received since the release of this advance estimate, we 
+do not yet anticipate any significant revisions to the GDP estimates for the first 
+quarter. 
+
+Labor Market Developments 
+The labor market continued to deteriorate in the first quarter.  In March, private 
+nonfarm payrolls dropped 68,000, roughly on par with the average monthly 
+declines since the beginning of the fourth quarter.  Job cuts in March were again 
+concentrated in manufacturing, retail trade, and transportation and public 
+utilities––industries that have been shedding workers for some time.1  In 
+addition, employment in services, a sector in which payrolls had been trending 
+up since late 2001, fell for a second month in March.  Meanwhile, aggregate 
+
+1. From the middle of December to the middle of April, the number of active-duty reservists 
+
+increased by an average of about 40,000 per month.  Because not all reservists previously had 
+jobs in the private nonfarm sector, and because employers may have hired replacements for some 
+reservists called to active duty, the effect of reserve call-ups on the change in private nonfarm 
+payroll employment is likely considerably less than 40,000 per month. 
+
+II-2
+
+II-3
+
+II-4
+
+II-5
+
+
+hours of production or nonsupervisory workers increased 0.3 percent in March, 
+reflecting a bounceback in the workweek from its weather-depressed February 
+level.  For the first quarter as a whole, however, aggregate hours declined at an 
+annual rate of 0.4 percent, extending the gradual decline evident since the 
+middle of last year. 
+
+In the household survey, the unemployment rate held at 5.8 percent in March, 
+unchanged on net since the third quarter.  As we have noted previously, the lack 
+of deterioration in the unemployment rate seems puzzling given the declines in 
+payroll employment; moreover, other data (both from the household survey and 
+elsewhere) appear in line with the worsening of conditions seen in the 
+establishment survey.  An important reason for the absence of any rise in the 
+jobless rate is the decline in the labor force participation rate, which edged down 
+a further 0.1 percentage point in March, bringing the overall drop since the third 
+quarter to nearly 1/2 percentage point.  This decline in participation likely 
+reflects potential job seekers leaving the labor market in response to bleak 
+employment prospects.  Indeed, the employment-to-population ratio, which 
+provides an alternative gauge of labor market conditions from the perspective of 
+the household survey, has fallen noticeably since the third quarter.  In addition, 
+the percentage of employees working part-time for economic reasons has moved 
+up sharply, on net, since the third quarter. 
+
+The most recent readings on initial claims for unemployment insurance suggest 
+that job cuts continued well into April.  The four-week moving average of initial 
+claims stood at 439,000 for the week ended April 19, above both its level a 
+month ago and its average since the beginning of the fourth quarter.2  The four-
+week moving average of insured unemployment stood at 3.5 million for the 
+week ended April 12 and has been increasing since the beginning of March. 
+
+Other labor market indicators have been mixed.  The Conference Board’s help-
+wanted index edged down further in March, while hiring plans of small 
+businesses, as reported by the National Federation of Independent Businesses, 
+dropped to their lowest level since 1991.  Layoff announcements receded in 
+March according to the outplacement firm Challenger, Grey, and Christmas, but 
+they appear to have edged back up in April (as tracked by Board staff through 
+April 29).  In contrast, individuals responding to the Conference Board’s survey 
+of consumer confidence had a slightly better assessment of current employment 
+
+2. The Employment and Training Administration has released revised seasonal factors for 
+initial claims dating back to 1988.  The new seasonal factors now control appropriately for the 
+effect of the attacks of September 11, 2001, and incorporate another year of data.  As a result, we 
+no longer need to present initial claims and insured unemployment figures that have been 
+adjusted with alternative seasonal factors. 
+
+II-6
+
+
+conditions in April relative to March, while expectations of future labor-market 
+conditions improved in both the Michigan and Conference Board surveys. 
+
+Output per Hour 
+(Percent change from preceding period at compound annual rate; 
+based on seasonally adjusted data) 
+
+Sector 
+
+20011  20021, 2 
+
+2002 
+
+Q2 
+
+Q3
+
+ Q42
+
+2003 
+
+ Q12 
+
+Nonfarm businesses 
+
+All persons3 
+1.4 
+All employees4 
+1.4
+1. Change is from fourth quarter of the preceding year to fourth quarter of the year shown. 
+2. Staff estimate. 
+3. Includes non-employees (published definition). 
+4. Assumes that the growth rate of hours of all persons equals the growth rate of hours of all 
+
+5.4 
+6.7 
+
+4.0 
+4.3 
+
+.7 
+1.8 
+
+1.9 
+2.0 
+
+1.7 
+1.5 
+
+employees. 
+
+On May 1, the Bureau of Labor Statistics will release its advance estimate of 
+productivity for the first quarter.  Based on the NIPA output data and the 
+available data on hours, we estimate that output per hour in the nonfarm 
+business sector increased at an annual rate of 1.4 percent in the first quarter, 
+bringing the four-quarter change in this series to 2.3 percent, slightly below its 
+average pace since the middle of 1995.3 
+
+Earlier this month, the BLS reported that multifactor productivity (MFP) 
+decreased 1.0 percent in 2001, the first decline since 1991.4  In contrast to labor 
+productivity—which measures output per hour—multifactor productivity 
+measures output per unit of total input, taking account of both labor and capital 
+inputs.  Because the BLS does not adjust these input measures for changes in 
+utilization, measured MFP typically declines in recessions when factor 
+
+3. In estimating hours worked by the self-employed, we have attempted to control for 
+
+one-time jumps caused by the conversion of the Current Population Survey to the North 
+American Industry Classification System (NAICS) and the introduction of new population 
+weights in January 2003.  Unfortunately, we are not yet able to mimic the adjustment that the 
+BLS will be making to account for the series break.  The BLS estimates are subject to change 
+right up until publication and, as of Greenbook day, the modifications that it would be making 
+were not finalized. 
+
+4. The BLS only reports these figures as annual averages, and hence the numbers cited here 
+
+are percent changes in the annual averages. 
+
+II-7
+
+
+utilization falls and measured inputs decline by less than actual inputs.  From 
+1995 through 2000, multifactor productivity increased at an average rate of 
+1.1 percent per year. 
+
+Productivity Growth and its Components 
+(Annual percent change except as noted) 
+
+Measure 
+
+1979-90  1990-95	
+
+1995-
+2000 
+
+19991 
+
+20001 
+
+2001
+
+Output per hour 
+
+1.4 
+
+1.6 
+
+2.5 
+
+2.4 
+
+2.9 
+
+1.2 
+
+Contribution 
+(percentage points) 
+Capital deepening 
+Labor composition 
+Multifactor productivity 
+
+.8 
+.3 
+.3 
+
+.5 
+.4 
+.6 
+
+1.1 
+.3 
+1.1 
+
+1.2 
+.4 
+.7 
+
+1.5 
+.0 
+1.4 
+
+1.7 
+.6 
+-1.0 
+
+Note.  Components may not sum to totals because of rounding. 
+1. The BLS did not report the contribution of capital deepening and the contribution of 
+changing labor composition for 1999 and 2000; the table shows staff estimates for these years 
+that are based on the new BLS data. 
+
+The MFP release also showed that capital deepening—the increase in the 
+quantity of capital services used per hour worked—contributed 1.7 percentage 
+points to labor productivity growth in 2001 and 1.5 percentage points in 2000, 
+somewhat larger contributions than we had anticipated.  In addition, changes in 
+the composition of labor toward more-skilled workers added 0.6 percentage 
+point to labor productivity growth in 2001, double the average contribution from 
+this source in the late 1990s.  Layoffs of less-skilled workers generally rise 
+disproportionately in recessions, but the jump in the contribution of labor 
+composition exceeded our expectations. 
+
+This information has led us to alter somewhat our interpretation of the recent 
+strength in labor productivity growth.  In particular, we now believe that more 
+of the recent growth in structural labor productivity owed to capital deepening 
+rather than to the technological and organizational changes associated with the 
+growth of structural MFP.  In addition, we now ascribe somewhat less of the 
+recent strength in the cyclical component of labor productivity to the effect of an 
+uncertain business outlook on hiring and attribute somewhat more to a 
+temporary change in the skill distribution of employed workers. 
+
+II-8
+
+II-9
+
+
+Industrial Production 
+Total industrial production, which fell 0.5 percent in March, has been volatile in 
+recent months due to sharp swings in motor vehicle assemblies and 
+weather-related fluctuations in output at utilities.  Excluding motor vehicles and 
+parts, manufacturing production was little changed in February and March. 
+Since its trough in December 2001, manufacturing output has risen only a 
+meager 0.9 percent.  Consequently, despite only marginal increments to capacity 
+since then, the factory operating rate stood at 72.9 percent in March, 
+0.1 percentage point below its December 2001 rate and the lowest rate since 
+May 1983. 
+
+New Orders for Durable Goods 
+(Percent change from preceding period except as noted; seasonally adjusted) 
+
+Component 
+
+Total orders 
+
+Adjusted orders1 
+Computers 
+Communication equipment 
+Other capital goods 
+Other2 
+
+MEMO 
+Real adjusted orders
+
+Excluding high tech
+
+Share, 
+2001: 
+H1 
+(percent) 
+
+100.0 
+
+76.2 
+4.5 
+4.1 
+24.5 
+43.1 
+
+ . . . 
+ . . . 
+
+2002 
+
+2003 
+
+Q4 
+
+Q1 
+
+Jan. 
+
+Feb.  Mar. 
+
+-2.8 
+
+-1.8 
+1.3 
+6.0 
+-1.3 
+-2.8 
+
+-1.6 
+-2.9 
+
+1.1 
+
+2.1 
+
+-1.5 
+
+.3 
+-3.4 
+30.6 
+1.1 
+-1.6 
+
+2.7 
+.9 
+46.9 
+1.8 
+.9 
+
+-1.8 
+-12.7 
+-.1 
+-1.1 
+-1.2 
+
+.7 
+-.5 
+
+2.5 
+1.5 
+
+-1.3 
+-1.2 
+
+2.0 
+
+1.7 
+1.3 
+.6 
+3.9 
+.6 
+
+1.4 
+1.3 
+
+1. Orders excluding defense capital goods, nondefense aircraft, and motor vehicle parts. 
+2. Primary metals, most fabricated metals, most stone, clay, and glass products, household 
+
+appliances, scientific instruments, and miscellaneous durable goods. 
+
+. . .  Not applicable. 
+
+Weekly physical product data and other indicators of production suggest that 
+total industrial output will be down in April.  Motor vehicle assemblies, which 
+are scheduled to fall for a third consecutive month, will likely subtract 
+0.1 percentage point from the change in IP.  In addition, the April readings on 
+new orders from the FRB New York, FRB Philadelphia, and NAPM Chicago 
+business surveys declined markedly, and, taken by themselves, suggest that 
+production outside of the motor vehicle and high-tech sectors contracted further 
+following small declines in February and March.  By contrast, real adjusted 
+durable goods orders, which are calculated from data collected by the Census 
+Bureau, rose 1.4 percent in March (not at an annual rate) after having fallen by a 
+
+II-10
+
+II-11
+
+II-12
+
+
+similar amount in February; on net, the three-month moving average of this 
+orders series was up 0.9 percent in March. 
+
+Production in the high-tech sector increased at an annual rate of 6.9 percent in 
+the first quarter, about the same as in the preceding quarter.  Real output of 
+semiconductors decelerated sharply in the first quarter, after having posted 
+moderate gains for much of 2002.  Looking ahead, semiconductor production is 
+unlikely to approach the more substantial rates of increase recorded prior to the 
+industry's downturn without a significant pickup in demand for microprocessor 
+units (MPUs), the high-value chips used primarily in computers.  In this regard, 
+first-quarter earnings for Intel Corporation, which derives 80 percent of its 
+revenue from MPUs and accounts for about 80 percent of worldwide MPU 
+shipments, were boosted by a shift toward higher-margin MPUs for laptop 
+computers, and the company's revenue guidance for the second quarter seems 
+consistent with an acceleration in MPU output.5 
+
+Production of communications equipment was essentially unchanged in the first 
+quarter, following an eight-quarter string of significant drops.  Output jumped 
+more than 2 percent in March, and recent indicators suggest moderate advances 
+going forward.  In particular, the three-month moving average of orders for 
+communications equipment has been trending upward, and a monthly survey of 
+chief information officers regarding planned spending on local area networking 
+equipment (such as routers, switches, and hubs) improved notably in March. 
+However, prospects for demand from telecommunications service providers 
+remain dim; these firms plan further reductions in capital spending this year. 
+
+The output of computers increased in the first quarter, although at a slightly 
+slower clip than in the fourth quarter of 2002, when the production of computers 
+for consumer use rose sharply.  According to a March survey of chief 
+information officers, businesses seem to be upping their spending plans for 
+computers.  In addition, the NABE survey for April (which does not 
+differentiate between computers and communications equipment spending) 
+recorded a marked improvement in intended expenditures on high-tech 
+equipment, putting the series’ diffusion index back at its April 2002 level. 
+However, industry sources indicate that the expected surge in computer 
+production associated with the replacement of PCs that were purchased in 
+advance of Y2K has been pushed back further and is now not expected to 
+commence in earnest until late this year. 
+
+5. Intel's revenue guidance for the second quarter had a wider than normal range, due to 
+uncertainties surrounding events in Iraq, the severe acute respiratory syndrome (SARS), the 
+delay of the introduction of a new computer chip, and the company's own efforts to regain 
+market share for flash memory that was lost to other vendors when Intel tried to raise its flash 
+memory prices in January beyond what the market would support. 
+
+II-13
+
+
+Outside of energy, motor vehicles and parts, and the high-tech sector, 
+production fell during the first quarter across nearly all major market groups; 
+indeed, the three-month diffusion index for this category of industries remained 
+well below 50 in March, indicating that the number of industries in which 
+production was below the December level exceeded the number in which 
+production rose over that period.  One notable exception to the general pattern 
+of weakness has been the output of defense and space equipment, which rose at 
+an annual rate of 9-1/2 percent in the first quarter to a level nearly 7 percent 
+above a year ago.  Production of military aircraft, the largest component of 
+defense and space equipment, has risen for eight straight quarters at an average 
+annual rate of about 12 percent. 
+
+Turning to upstream market groups, the output of construction supplies and 
+durable materials––which comprise about 20 percent of total IP––each fell at 
+least 0.3 percent in both February and March.  Available weekly data indicate 
+that the output of iron and steel products was unchanged in April, despite a run-
+up in the inventory-sales ratio at steel service centers.  The production of 
+business supplies and nondurable materials, on the other hand, has changed little 
+in recent months. 
+
+Motor Vehicles 
+Light vehicle sales increased in March to an annual rate of 16.1 million units, 
+retracing February’s weather-related decline.  In addition, industry contacts 
+indicate that a stepped-up level of incentives—which have risen to a record 
+$2,200—boosted the pace of vehicle sales further in April.  At the same time, 
+the Michigan Survey index of car-buying attitudes recovered in April, with 
+many respondents reporting good buys and low financing rates. 
+
+In contrast, incoming data suggest that business demand for vehicles has 
+softened.  Fleet sales of light vehicles fell 5 percent (not at an annual rate) in 
+March, their third consecutive monthly decline.  The step down in sales likely 
+reflected, in part, weak demand from rental car companies in response to bleak 
+conditions in the travel industry.  Sales of medium and heavy trucks also 
+declined in March to their lowest level since May 1994.  Moreover, orders for 
+new trucks dropped in February and March, an indication that truck sales 
+volumes may remain weak over the next few months. 
+
+Although total motor vehicle production fell sharply in February and March, 
+production averaged a robust annual rate of 12.3 million units for the first 
+quarter as a whole, about the same pace as in the fourth quarter of last year. 
+With the level of production running ahead of domestic sales, domestic 
+inventories of light vehicles increased noticeably in the first three months of the 
+year, pushing days’ supply for light motor vehicles above 73 in both February 
+
+II-14
+
+II-15
+
+II-16
+
+II-17
+
+
+and March; meanwhile days’ supply of medium and heavy trucks has also 
+moved up to an uncomfortably high level.  Reflecting their concerns about 
+current inventory levels, vehicle manufacturers have lowered production 
+schedules for the second quarter––through probably not by enough to resolve 
+the present inventory situation by the end of the quarter. 
+
+Consumer Spending 
+Real personal consumer expenditures increased a modest 1.4 percent (annual 
+rate) in the first quarter, held down by a further decline in motor vehicle 
+purchases and a drop in outlays for energy-related goods and services. 
+Although the economic fundamentals underlying consumption were lackluster 
+in the first quarter, recent rebounds in stock prices and consumer confidence, 
+along with the sharp drop in energy prices currently in process, appear likely to 
+support more sizable spending gains in coming months. 
+
+Real consumer outlays for durable goods excluding motor vehicles rose 
+1.1 percent in March after falling 0.3 percent in February.  In contrast, outlays 
+for nondurable goods declined in both months.  Expenditures on energy services 
+fell sharply in March, owing to unseasonably warm weather, while spending on 
+non-energy services inched up, restrained somewhat by a drop in spending on 
+airline transportation that may have been related to concerns about war and 
+SARS.  Although expenditures entered the second quarter on a weak trajectory, 
+recent anecdotes from retailers, as well as weekly data on chain-store sales, 
+suggest that spending at retail outlets likely rose at a moderate pace in April. 
+
+A weak labor market and rising energy prices damped the growth of real 
+disposable income in the first quarter.  In addition, household net worth appears 
+to have changed little last quarter, and the wealth-to-income ratio edged down to 
+its lowest level since the middle of 1995.  Movements in stock prices and energy 
+prices since late March should have a more favorable effect on consumer 
+demand, although the weak labor market will likely continue to exert some 
+restraint.  The personal saving rate edged down to 3.7 percent in the first quarter 
+but is still high relative to its average over the past several years, consistent with 
+the erosion of household net worth during that period.6 
+
+Both the Michigan Survey Research Center's index of consumer sentiment and 
+the Conference Board's index of consumer confidence rebounded sharply in 
+April after their declines in February and March.  In both surveys, consumers' 
+
+6. Relative to what was reported in the March Greenbook, the published saving rate has 
+been revised down 0.3 to 0.4 percentage point over the past three quarters owing to the BEA’s 
+incorporation of wage and salary data from state unemployment insurance tax records for the 
+third quarter of last year; these data were lower than assumed earlier. 
+
+II-18
+
+II-19
+
+
+assessments of both current and expected conditions moved up.  Both indexes 
+are now broadly in line with recent economic fundamentals, suggesting that 
+some of the non-economic factors that had been weighing on household 
+sentiment may have subsided. 
+
+Housing Markets 
+Although residential construction increased rapidly in the first quarter as 
+mortgage rates dipped to new lows, there are some signs that a softening may be 
+in train.  In the single-family sector, unusually good weather in January and 
+poor weather in February made for an erratic monthly pattern in starts, but for 
+the quarter as a whole, new homes were started at an annual rate of 1.41 million 
+units, equaling the fourth-quarter pace.  However, new permit 
+issuance—adjusted for activity in areas where permits are not required—fell to 
+an annual rate of 1.37 million units in February and held at that lower level in 
+March; this level of permits is consistent with somewhat fewer starts in coming 
+months.  In the multifamily sector, units were started at an annual rate of 
+340,000 in the first quarter, similar to the pace in the fourth quarter. 
+
+New home sales in the first quarter were below their fourth-quarter pace, strong 
+sales in March notwithstanding.  Existing home sales—adjusted by the staff to 
+eliminate trading-day variation—were about unchanged in the first quarter from 
+the fourth quarter’s record high pace of about 5-3/4 million units (annual rate). 
+All told, the BEA translated the available starts and sales data into a 12 percent 
+increase in real spending in the first quarter.  The latest data on home sales 
+imply a small downward revision to this figure. 
+
+Other indicators of housing demand have been mixed.  The Michigan Survey’s 
+measure of home-buying attitudes edged up in April but remains below its 
+February level.  The National Association of Homebuilders’ index of builders’ 
+attitudes has turned down in recent months as well.  However, the four-week 
+moving average of the Mortgage Bankers Association index of purchase 
+applications has moved up since late February and currently stands near its all-
+time high. 
+
+House prices decelerated in the first quarter.  The quality-adjusted price of new 
+homes sold last quarter was up about 2-1/2 percent from a year earlier, 
+compared with a 6 percent gain during the comparable period four quarters 
+earlier.  The average price of existing homes sold was up 6-1/2 percent during 
+the year ending last quarter, down from the 8-1/2 percent gain during the 
+previous year but still a large increase; median prices followed a similar pattern. 
+
+II-20
+
+II-21
+
+II-22
+
+II-23
+
+
+Business Fixed Investment
+
+Equipment and software.  Real outlays on equipment and software fell at an
+
+annual rate of 4.4 percent in the first quarter of 2003, reversing much of the
+
+increase posted in the final quarter of 2002.  A drop in business spending on
+
+motor vehicles and aircraft more than accounted for the first-quarter decline. 
+
+Excluding transportation equipment, real spending advanced 3.0 percent last
+
+quarter, a moderate pickup from its pace in the fourth quarter.  Although the
+
+fundamental drivers of investment—such as business output growth and real
+
+corporate cash flow—remain favorable, anecdotal reports from businesses
+
+continue to be downbeat.
+
+
+In the high-tech area, real business purchases of computers and peripheral
+
+equipment surged at an annual rate of 27.9 percent in the first quarter, following
+
+a 7.7 percent gain in the fourth quarter.  However, nominal shipments fell in
+
+both February and March, and orders have edged down on balance in recent
+
+months.  Real outlays on communications equipment increased 18.6 percent in
+
+the first quarter after a poor showing in the second half of last year.  Moreover,
+
+communications orders have trended upward over the past few months.  In
+
+contrast to computers and communications spending, real purchases of software
+
+posted only a modest gain in the first quarter.
+
+
+In the transportation category, business spending on motor vehicles dropped at
+
+an annual rate of 33.7 percent in the first quarter, largely reflecting the declines
+
+in fleet sales and truck sales reported above.  Business investment in aircraft
+
+also decreased in the first quarter and is 50 percent below its level a year ago. 
+
+
+Real spending outside the high-tech and transportation categories dropped
+
+3.6 percent at an annual rate in the first quarter, after a 2.1 percent rise in the
+
+preceding quarter.  However, nominal shipments moved up in March, bucking
+
+the slide initiated in the middle of 2002.  Orders also increased noticeably in
+
+March, with the 3.9 percent rise the largest since last summer.
+
+
+Nonresidential construction.  The extended decline in real investment
+
+spending on nonresidential structures moderated further in the first quarter, with
+
+outlays falling at an annual rate of just 3.4 percent.  Spending on office
+
+buildings was off roughly 30 percent (annual rate) in the first quarter and was 
+
+down 50 percent from its peak at the end of 2000.  The vacancy rate in this
+
+sector moved up again last quarter, though not by as much as it had a year
+
+earlier.  Spending on industrial buildings decreased at an annual rate of about
+
+3-1/4 percent in the first quarter after having dropped almost 40 percent over the
+
+four quarters of 2002; the extremely low level of capacity utilization in the
+
+manufacturing sector suggests that spending will likely fall still further.
+
+
+II-24
+
+II-25
+
+II-26
+
+II-27
+
+II-28
+
+II-29
+
+
+Spending on lodging and miscellaneous buildings was down 10 percent in the 
+first quarter, and spending in the public utility sector was unchanged. 
+
+A brighter picture is evident in some other categories of nonresidential 
+construction.  Spending on buildings in the other commercial sector, which 
+includes buildings used for retail and wholesale trade, rose at an annual rate of 
+almost 11 percent in the first quarter after having moved up a bit in the fourth. 
+Institutional spending, which includes buildings used by private schools, 
+hospitals, and religious groups, moved down 6-1/2 percent (annual rate) in the 
+first quarter, but this decline followed an outsized gain of 24 percent in the 
+fourth quarter. 
+
+In the drilling and mining sector, spending rose at an annual rate of about 
+32 percent in the first quarter after having fallen about 24 percent in 2002. 
+Drilling activity increased further in April, suggesting that spending on oil and 
+gas drilling structures entered the second quarter on solid footing. 
+
+Business Inventories 
+Real nonfarm inventories excluding motor vehicles appear to have declined a 
+little in the first quarter, after accumulating at an average $14-1/2 billion rate in 
+the previous two quarters.  Including the change in motor vehicle stocks, the 
+swing in inventory accumulation between the first and fourth quarters subtracted 
+1/2 percentage point from first-quarter GDP growth.7  Relative to sales, non-
+auto inventory stocks in most sectors are fairly lean by recent standards. 
+
+In March, days' supply in the staff's flow-of-goods system––which measures 
+inventories wherever held––retreated slightly from February's elevated level.8 
+However, both the run-up and recent volatility in days' supply are attributable to 
+
+7. The BEA's first-quarter estimate incorporates January and February book-value data for 
+
+the manufacturing and trade sector, which showed an average accumulation excluding motor 
+vehicles of $23 billion (annual rate), as well as data on durable goods manufacturers’ stocks in 
+March.  The discrepancy between the real and book-value changes in inventories is attributable 
+primarily to the pass-through to various prices of the substantial increase in the cost of crude oil. 
+8. The FRB staff's flow-of-goods system measures changes in inventories by tracking the 
+
+flow of goods in the economy.  The system divides the output from the staff's industrial 
+production indexes into more than sixty different product categories and, for each product 
+category, estimates the supply of goods flowing into the economy––that is, domestic production 
+plus imports––as well as how much of the supply flows out, whether as final demand, including 
+exports, or as inputs for other goods.  The difference between the amount flowing in and the 
+amount flowing out represents the change in inventories (where accumulation occurs when 
+inflows exceed outflows and liquidation occurs when outflows exceed inflows).  The inventories 
+are measured wherever held and valued at factory-gate prices.  Each individual industry has a 
+constant target month's supply level, so that long-run movements in aggregate 
+inventory-consumption ratios primarily reflect shifts in industry composition. 
+
+II-30
+
+II-31
+
+
+stocks of motor vehicles and parts.  Excluding motor vehicles and parts, days'
+
+supply has generally been trending down, and only a few imbalances are
+
+apparent at the industry level––the exceptions being textile mills and paper,
+
+where days' supply levels have risen notably in recent months, and
+
+communications equipment and electrical equipment, where days’ supply
+
+remains elevated.
+
+
+Government Sector
+
+Federal sector.  On a rolling twelve-month basis, the federal unified budget
+
+deficit widened further to around $280 billion for the twelve months ending in
+
+March.  In addition, Congress passed the Supplemental Appropriations Act to
+
+Support Department of Defense Operations in Iraq for Fiscal Year 2003 and a
+
+budget resolution that allows for additional spending increases and tax cuts. 
+
+The budget resolution projects a unified budget deficit of nearly $400 billion in
+
+fiscal 2004.
+
+
+Federal unified budget receipts edged down slightly in the first quarter relative
+
+to a year earlier as individual income and payroll taxes were about flat and
+
+corporate income taxes fell.  Daily Treasury data through April 29 indicate that
+
+nonwithheld income tax payments in April are coming in lower than a year
+
+earlier, while IRS data show that refunds are running just a little higher than last
+
+year.  These data, in conjunction with the available figures on withheld and
+
+estimated income tax collections, indicate that personal income tax liability fell
+
+substantially in calendar year 2002, despite a small increase in NIPA-based
+
+taxable income.9  Net corporate income tax collections fell in the first quarter
+
+relative to a year earlier, likely reflecting the effects of partial expensing and
+
+other temporary corporate income tax provisions enacted in March 2002. 
+
+According to daily Treasury data, corporate income tax payments in April
+
+(mostly estimated taxes on first-quarter earnings) were well above their previous
+
+(post tax-change) year’s level.
+
+
+The Monthly Treasury Statement has shown a widespread slowing in the growth
+
+of nominal outlays in recent quarters, particularly in defense and the major
+
+entitlement programs.  The BEA now estimates that real defense spending was
+
+virtually unchanged in the first quarter after having risen at an annual rate of
+
+11 percent in the fourth quarter. 
+
+
+9. We estimate that the effective tax rate, on a liability basis, fell from 11.9 percent in 2001 
+
+to 10.5 percent in 2002, with only 0.2 percentage point of the reduction due to changes in tax 
+law.  A portion of the remaining 1.2 percentage points may have resulted from another decline in 
+capital gains realizations. 
+
+II-32
+
+II-33
+
+
+Congress enacted a $79 billion supplemental appropriations bill for fiscal 2003 
+that included $63 billion for the Department of Defense (DOD), $8 billion in 
+foreign aid and humanitarian assistance, $4 billion for homeland security, and 
+$3 billion for assistance to the aviation industry (aid to airlines, airports, and 
+aviation workers).10  The Congressional Budget Office (CBO) has estimated that 
+the supplemental bill will boost defense spending by $34 billion and overall 
+spending by $42 billion in fiscal 2003, with the remainder spent in future years. 
+Given the amount of defense spending that has occurred over the first six 
+months of the fiscal year, the CBO estimates imply large increases during the 
+second half of the fiscal year. 
+
+Congress also passed a budget resolution for fiscal 2004 that proposes to cut 
+taxes by $1.2 trillion over eleven years, boost Medicare spending by 
+$400 billion, adopt the Administration’s discretionary spending totals for fiscal 
+2004, and balance the budget by 2012.  In terms of taxes, the budget resolution 
+assumes that a $1.2 trillion tax cut will be enacted, but reconciliation 
+instructions––which allow for expedited legislative procedures in the 
+Senate––provide for considerably smaller amounts.  The resolution stipulates 
+that the House Ways and Means and Senate Finance committees shall report out 
+of their committees by May 8 a reconciliation bill with a tax cut of up to 
+$550 billion over fiscal years 2003 to 2013, but that the reconciliation bill will 
+be subject to a point of order in the Senate if the tax cut exceeds $350 billion.11 
+
+State and local government sector.  Real purchases by state and local 
+governments edged down in the first quarter.  Real consumption expenditures 
+increased at an annual rate of 0.6 percent, considerably below the 1.8 percent 
+rise over the four quarters of last year.  These outlays, which measure the 
+sector's aggregate spending on current operations, have been decelerating since 
+the second half of 2001.  Real spending for gross investment fell at an annual 
+rate of 2.7 percent in the first quarter, following a small increase last year. 
+Meanwhile, on the revenue side, personal and indirect business tax 
+collections––the major source of receipts for the sector––moved up in the first 
+quarter after remaining largely unchanged over 2002. 
+
+10. According to the President’s submittal, the DOD money included $58 billion for the war 
+
+in Iraq (of which $12 billion was for occupation costs through the end of this fiscal year) and 
+$5 billion for classified anti-terrorist activities, R&D programs, and other activities. 
+
+11. A tax cut above $350 billion and below $550 billion would need sixty votes in the 
+Senate when the bill is initially considered, but, owing to some special language added to the 
+resolution, the bill would need only fifty-one votes when the conference report is considered. 
+However, in order to pass the budget resolution, some members of the Senate leadership agreed 
+not to support a tax cut above $350 billion in the conference report. 
+
+II-34
+
+
+II-35
+
+
+With the end of the 2003 fiscal year now just two months away (the end of June 
+for most governments), more than half the states are still working to close 
+shortfalls in their general funds budgets.  In the past few years, most budget-
+balancing strategies have centered on reductions in planned spending and 
+increased borrowing, both from the market and from a variety of reserve funds. 
+While legislatures are again likely to utilize these measures heavily, more 
+governments are now also looking for ways to raise revenues.  Roughly 
+forty states and some large cities have either already increased or are 
+considering raising taxes or fees.  The mayor of New York City, for example, is 
+pushing to reinstate a city commuter tax, which would raise $1 billion in fiscal 
+2004.12  Given the lateness in the year, many revenue actions will not take effect 
+until fiscal 2004. 
+
+Prices 
+A sharp run-up in energy prices in the first quarter pushed up overall consumer 
+price inflation.  Over the twelve months ending in March, the CPI rose 
+3 percent, up from about 1-1/2 percent during the comparable period one year 
+earlier, while the PCE chain-type price index increased 2.4 percent, up from 
+about 1 percent a year earlier.  However, spot prices for crude oil have fallen by 
+roughly one-fourth since the last Greenbook, and survey data through late April 
+suggest that retail gasoline prices have already retraced part of their earlier 
+jump. 
+
+Meanwhile, core inflation, which was already quite low, moved down further in 
+the first quarter and––in light of the bias that is likely affecting the various 
+published measures––is beginning to approach the upper bound of the range of 
+values that could be viewed as consistent with zero actual inflation.  The CPI 
+excluding food and energy was about flat in March and increased just 
+1.7 percent from a year earlier, compared with an increase of 2.4 percent in the 
+preceding year.  The very low readings in recent months likely reflect some 
+transitory factors.13  However, the latest twelve-month change in the core CPI is 
+only 3/4 percentage point above our point estimate of the bias in this measure 
+and only about 1/4 percentage point above the upper bound of our range of bias 
+estimates.  Over the twelve months ending in March, core CPI commodity 
+prices have fallen 1.4 percent, a slightly larger decline than in the previous year. 
+Core services inflation came in at 3 percent over the year ending in March, 
+down 0.9 percentage point from the year earlier period, largely reflecting 
+smaller increases in residential rent. 
+
+12. At 2.7 percent, this proposed commuter tax would be quite a bit larger than the 
+
+0.5 percent commuter tax that New York City abolished in the late 1990s. 
+
+13. In particular, the recent CPI estimates included unusually weak prices for erratic 
+
+components like tobacco, lodging away from home, telephone services, and motor vehicles, and 
+we would expect a portion of these declines to be reversed in the coming months. 
+
+II-36
+
+II-37
+
+
+Core PCE prices rose 0.1 percent in March and 1.5 percent from a year earlier, 
+the same pace as in the preceding year.  The absence of any deceleration in the 
+PCE measure of inflation mainly reflects a sharp pickup in the prices of PCE 
+items for which no market-based prices exist.14  The market-based component of 
+the core PCE price index has decelerated 0.4 percentage point over the past 
+year, to 0.9 percent.  We estimate the bias in core PCE price inflation to be 
+about 1/2 percentage point; because the PCE is a chain-weighted index, its 
+estimated bias is slightly smaller than that of the CPI.  The core portion of the 
+chained CPI, which also uses a superlative aggregation formula intended to take 
+into account substitution by consumers in response to changes in relative prices, 
+rose 1.2 percent over the twelve months ending in March, a deceleration of 
+0.6 percentage point from the preceding year. 
+
+Consumer energy prices surged in March, but survey evidence indicates that the 
+sharp drop in the spot price of West Texas intermediate crude oil after 
+mid-March has caused gasoline and heating oil prices to turn down in April— 
+the first step toward what will, in all likelihood, be a sustained downward move. 
+Natural gas prices have held in a narrow range since mid-March, following the 
+unwinding of February’s dramatic spike.  Looking ahead, although inventories 
+of crude oil and natural gas are currently quite low, futures prices suggest that 
+traders are anticipating a recovery in supplies over coming months. 
+
+Consumer prices for food, as measured by the CPI, edged up 0.2 percent in 
+March, following a larger February rise that reflected upward pressure on prices 
+for livestock and some fats and oils.  The CPI for food away from home, which 
+accounts for roughly two-fifths of all food expenditures, came in at about the 
+past year’s average monthly rate of 0.2 percent, after swinging widely in 
+January and February.  Over the twelve months ending in March, consumer 
+prices for food increased 1.4 percent, a deceleration of about 1 percentage point 
+from the previous year’s pace. 
+
+Prices for capital equipment, as measured in the producer price index, rose 
+0.8 percent in March, following a decline of 0.4 percent in February.  These 
+prices have fluctuated in recent months with the substantial movements in prices 
+for cars and light trucks associated with incentives.  For the twelve months 
+ending in March, prices for capital equipment increased 0.4 percent, a pickup of 
+1/2 percentage point from the preceding twelve months. 
+
+14. The nonmarket component of PCE prices increased 3.9 percent in the twelve months 
+
+ending in March, up from 2.0 percent in the year-earlier period.  Imputed service charges at 
+financial institutions and prices for travel abroad accounted for much of this acceleration. 
+
+II-38
+
+II-39
+
+II-40
+
+II-41
+
+II-42
+
+II-43
+
+
+Reflecting the jump in energy prices and rising import prices, prices at earlier 
+stages of processing have been moving up significantly.  The PPI for 
+intermediate materials rose 2 percent in March and 8 percent over the past 
+twelve months, after a decline of 3-1/2 percent over the preceding year.  A 
+smaller, but still pronounced, upswing is evident in the PPI for intermediate 
+materials excluding food and energy, which includes energy-intensive items 
+such as plastic, resins, nitrogenates, and industrial chemicals.  The PPI for core 
+crude materials has also risen sharply in recent months, with the March reading 
+15 percent above its level a year ago. 
+
+More recently, broad-based spot commodity indexes, which had also moved up 
+considerably early in the year, have retreated somewhat.  The Journal of 
+Commerce industrial price index, which has a large energy component, rose 
+almost 6 percent in the first couple of months of 2003, but in the last several 
+weeks it has retraced about half of that bulge.  Prices of industrial metals have 
+also turned down of late, with the Journal of Commerce index of metal prices 
+down about 2-1/2 percent since early March.  In addition, the Commodity 
+Research Bureau’s index of futures prices, which is heavily weighted toward 
+agricultural commodities, is down considerably since the last Greenbook. 
+
+Turning to broader measures of inflation, the chain-type price index for GDP 
+rose 1.6 percent over the four quarters ending in 2003:Q1, up 0.2 percentage 
+point from the previous year.  Excluding food and energy, GDP price inflation 
+was unchanged at 1.5 percent. 
+
+Near-term inflation expectations from the Michigan survey drifted above 
+3 percent in March, likely reflecting the run-up in energy prices.  In April, 
+however, the median expected inflation rate for the next year was back down to 
+2.4 percent, in line with readings from 2002.  In contrast, longer-term inflation 
+expectations have been unaffected by the energy price swings; the April reading 
+on median expectations of inflation over the next five to ten years was 
+2.7 percent, little different from the typical reading over the past year. 
+
+Labor Costs 
+The employment cost index of hourly compensation for private industry workers 
+increased at an annual rate of 5.5 percent over the three months ending in 
+March, the largest quarterly increase in three years.  The wages and salaries 
+component rose 4.1 percent, while benefit costs moved up 10 percent. 
+However, the first-quarter jump in compensation costs followed two quarters of 
+much smaller increases, and over the twelve months ending in March, the 
+overall ECI for compensation rose 3.8 percent, a shade less than the increase 
+posted over the preceding year. 
+
+II-44
+
+II-45
+
+
+II-46
+
+
+II-47
+
+
+The wage and salaries component of the ECI rose 3 percent over the twelve 
+months ending in March, about 1/2 percentage point less than over the 
+preceding year.  There was a sizable acceleration in the wages of workers in the 
+financial industry, likely related, at least in part, to a surge in commissions 
+associated with the spate of mortgage refinancings that has occurred in recent 
+quarters.  Many other industries saw a deceleration in wages over the past year, 
+with the sizable increases in wage costs in the first quarter only partly offsetting 
+unusually small increases late last year. 
+
+In contrast, benefit costs accelerated about 1-1/4 percentage points over the year 
+ending in March, and the latest twelve-month change now stands above 
+6 percent.15  Employers’ health insurance costs rose nearly 10 percent, about the 
+same pace as in the prior year; in addition, costs for workers’ compensation, 
+which generally follow health insurance costs with a lag, have accelerated 
+noticeably.  Among the other components of benefits, costs for state 
+unemployment insurance have risen sharply as a result of higher employer 
+premiums associated with increased unemployment claims.  In addition, a 
+significant increase in employer contributions to defined benefit retirement 
+plans in response to declines in the market value of the assets held by these 
+plans has pushed up this component of labor costs markedly.  Nonproduction 
+bonuses have also turned up in the last two quarters, after falling over much of 
+2002. 
+
+Four-quarter changes in compensation per hour in the nonfarm business sector, 
+which ran well below the ECI for most of last year, appear to have come back 
+roughly into line with the ECI measure late in 2002 and early this year.  Official 
+figures for the first quarter will be released on May 1, but we currently estimate 
+that compensation per hour increased at an annual rate of 3.4 percent last 
+quarter.  The May 1 release will also incorporate revisions to compensation in 
+the third and fourth quarters of last year, based on unemployment insurance tax 
+records that are more comprehensive (but much less timely) than the average 
+hourly earnings figures used by the BEA in forming its initial compensation 
+estimates.16  We currently estimate that the four-quarter change in compensation 
+per hour through the first quarter of this year was about 3-1/4 percent. 
+
+15. With the exception of health insurance, detail on benefit costs are unpublished and are 
+
+provided by the BLS on a confidential basis. 
+
+16. The unemployment insurance data are more comprehensive than the average hourly 
+earnings data because they cover a broader range of workers, they cover almost all nonfarm 
+establishments, and they include alternative forms of compensation such as bonuses and stock 
+options. 
+
+Domestic Financial
+Developments                         
+
+Domestic Financial Developments
+
+
+Overview 
+The progress in Iraq, in tandem with favorable earnings news, has contributed to 
+a rise in stock prices and a further narrowing of corporate risk spreads since the 
+March Greenbook.  Easing of geopolitical tensions also seemed to push up 
+Treasury yields as safe-haven demand diminished, but this effect was offset by 
+incoming economic data that were somewhat weaker than investors had 
+expected, and on balance, Treasury yields were little changed over the 
+intermeeting period.  Judging from futures quotes, investors have marked down 
+the expected path of the federal funds rate from late 2003 forward. 
+
+Borrowing by nonfinancial firms remained tepid in March and April.  In 
+contrast, household debt growth, boosted by mortgage borrowing, again was 
+brisk, and municipal borrowing remained strong.  After reaching the statutory 
+federal debt ceiling in February, the Treasury has continued to make room for 
+scheduled debt auctions by using “extraordinary” measures, but these have had 
+no discernible impact on Treasury markets. 
+
+Policy Expectations and Interest Rates 
+Investors had placed only modest odds on a policy easing at the March meeting, 
+so there was muted market reaction to the FOMC’s decision to leave the target 
+federal funds rate unchanged.  During the intermeeting period, expectations for 
+a near-term policy easing declined with the resolution of uncertainty about the 
+conflict in Iraq.  Based on federal funds futures quotes, market participants now 
+place only about one-in-four odds on a 25-basis-point easing at the May 
+meeting, but they have also marked down the funds rates they expect to prevail 
+late this year and beyond, apparently in response to releases of weaker-than-
+anticipated economic data.  The reduction in geopolitical risks is evident from 
+measures of near-term policy uncertainty derived from options prices; these 
+implied volatilities are now at the lower end of historical ranges. 
+
+Over the intermeeting period, yields on nominal Treasury coupon securities rose 
+with coalition military advances but generally fell in response to 
+macroeconomic data releases.  On balance, yields on two-year notes fell 2 basis 
+points, while those on ten-year notes and thirty-year bonds rose 9 and 4 basis 
+points, respectively. 
+
+Market-based inflation expectations fell a bit, perhaps in response to declines in 
+oil prices.  Yields on five- and ten-year TIIS increased a little more than yields 
+on comparable nominal Treasury securities, implying a decrease in inflation 
+compensation.  At the same time, median long-term inflation expectations in the 
+Michigan survey were, on net, unchanged in the past two months. 
+
+III-2
+
+III-3
+
+
+Stock Prices and Corporate Interest Rates 
+The success of coalition forces in Iraq, along with earnings reports that mostly 
+exceeded—some by wide margins—modest expectations, left broad equity price 
+indexes up 6-1/2 percent, on net, over the intermeeting period.  These gains 
+came on the heels of a sharp rise in stock prices as the commencement of the 
+war approached (just prior to the March FOMC meeting), and broad equity 
+indexes are now 14 percent above their levels at the close of the March 
+Greenbook.  Share-price gains over the intermeeting period were fairly 
+widespread across sectors, though financial companies outperformed other 
+industry groups.  The unwinding of war-related uncertainty and positive 
+earnings news evidently drove down near-term expected stock-price volatility. 
+A measure of the equity premium—the spread between the twelve-month 
+forward earnings-price ratio and the real ten-year Treasury yield—narrowed a 
+bit in April but remains quite high. 
+
+Yield spreads on investment-grade bonds narrowed moderately over the 
+intermeeting period.  Spreads on speculative-grade bonds plunged more than 
+100 basis points, bringing the cumulative drop since last fall to about 400 basis 
+points.  Large inflows to junk bond mutual funds in the past two months indicate 
+a renewed appetite for these assets.  Despite the declines in investment- and 
+speculative-grade yields, corporate risk spreads remain somewhat elevated. 
+
+Risk spreads on commercial paper remained low over the intermeeting period, 
+as firms continued to improve their balance-sheet liquidity by substituting bonds 
+for commercial paper.  The spread of yields on thirty-day A2/P2 paper over 
+those for A1/P1 issues averaged about 20 basis points, near the bottom of the 
+range observed over the past several years. 
+
+Business Finance 
+Gross bond issuance by nonfinancial corporations was solid in March and April, 
+as low rates continued to attract firms to the market.  Speculative-grade issuance 
+was considerable in both months.  Still, net debt financing has been weak over 
+this period, with corporate bond retirements and net paydowns of commercial 
+paper and C&I loans almost completely offsetting gross bond issuance.  The 
+April Senior Loan Officer survey indicated that once again, demand for C&I 
+loans slackened in the most recent three months.  Meanwhile, there was a 
+noticeable decline in the fraction of domestic banks reporting tightened lending 
+standards and terms. 
+
+Gross public equity issuance by nonfinancial corporations weakened further in 
+March and April from its already anemic pace, and there still have not been any 
+nonfinancial IPOs this year.  Proceeds from seasoned equity offerings, about 
+half of which continue to be made by energy companies, in many cases have 
+been 
+
+III-4
+
+III-5
+
+III-6
+
+III-7
+
+
+used to pay down debt.  Equity retirements in the first quarter are estimated to 
+have been just a bit below their pace in the past two years, and net equity 
+issuance evidently remained negative. 
+
+Corporate Earnings and Credit Quality 
+With more than 300 companies in the S&P 500 having reported, earnings per 
+share in the first quarter is estimated to have increased about 12 percent from a 
+year earlier, although the three largest oil companies accounted for about half of 
+the aggregate growth.  Earnings for several sectors—particularly financial, 
+utilities, and consumer durables—have generally exceeded expectations by 
+wider-than-usual margins.  Many companies reported that profits growth was 
+achieved through cost-cutting rather than increased sales.  Moreover, several 
+special factors boosted corporate bottom lines in the first quarter; for example, 
+utilities benefited from an unusually cold winter, and the depreciation of the 
+dollar augmented the profits of multinational corporations. 
+
+Judging from changes in bond ratings, corporate credit quality deteriorated 
+again in the first quarter, but the pace of net downgrades continued to moderate, 
+and some other measures of credit quality showed modest improvement.  The 
+bond default rate, measured as a six-month moving average, moved down 
+further in March, though it remains at an elevated level, and the four-quarter 
+moving average of recovery rates on defaulted bonds continued to improve in 
+the first quarter.  KMV’s year-ahead expected default probability edged down in 
+March, although it too remains at a high level.  Rising share prices and falling 
+implied share-price volatilities in April pointed to further improvements in this 
+measure. 
+
+Commercial Real Estate 
+Commercial mortgage debt growth and gross CMBS issuance appear to have 
+slowed in the first quarter from elevated rates in the fourth quarter, but the pace 
+of CMBS issuance picked up in early April.  Despite rising vacancy rates in 
+some property sectors, delinquency rates on commercial mortgages and CMBS 
+have remained low, in part because—according to respondents to the April 
+Senior Loan Officer Survey—falling interest rates have reduced borrowers’ 
+debt-servicing costs.  In addition, respondents noted that borrowers still have 
+considerable equity in their properties and thus have strong incentives to 
+continue interest payments.  Concerns about credit quality of CMBS evidently 
+remain subdued, with spreads on investment- and speculative-grade CMBS over 
+swaps staying in the lower halves of the ranges observed over the past couple of 
+years. 
+
+Household Finance 
+Household debt is estimated to have grown at an annual rate of 9-1/2 percent in 
+the first quarter—about the same pace as last year.  With mortgage rates near 
+
+III-8
+
+III-9
+
+
+historical lows, refinancings reached record levels last quarter, and mortgage 
+debt grew 12-1/4 percent at an annual rate.  Refinancing activity is on track to 
+set another record this quarter.  Consumer credit expanded at roughly a 4 
+percent annual rate in the first quarter, similar to the average pace last year. 
+
+The credit quality of the household sector appears to have remained generally 
+stable through the first quarter.  Although household debt has continued to 
+outpace disposable income, the ongoing shift toward mortgage debt—which has 
+reduced the average interest rate on household debt and stretched out repayment 
+obligations—has kept the debt-service burden roughly flat in recent quarters. 
+Delinquency rates on auto loans and credit cards ticked down early this year, 
+and respondents to the April Senior Loan Officer Survey continue to report only 
+modest net tightening of terms and standards on household loans.  However, a 
+rise in household bankruptcy filing rates since the last FOMC meeting may 
+indicate that a small but growing number of households are suffering from 
+financial stress. 
+
+The rise in stock prices in April has likely reversed the slight decline in the ratio 
+of household assets to disposable income posted in the first quarter.  Positive net 
+flows to equity mutual funds starting in late March, along with hefty net inflows 
+to junk bond funds, indicate that investors have become more willing to hold 
+riskier assets. 
+
+State and Local Government Finance 
+Gross issuance of long-term municipal bonds continued at a robust pace in 
+March and April, as municipalities continued to tap the market for education-
+and transportation-related capital spending.  Despite continuing fiscal pressures, 
+the credit quality of municipal bonds showed hints of some stabilization, as the 
+number of municipal bonds upgraded by S&P this year has almost matched the 
+number downgraded.  The downgrades in March of municipal bonds backed by 
+payments from tobacco companies (pursuant to the 1998 settlement with state 
+governments) after an Illinois court ruled against Philip Morris apparently 
+caused investors to reassess the ability of tobacco companies to make future 
+payments.  Yield spreads on these bonds rose, on balance, and several states 
+have postponed planned offerings of new tobacco-backed securities.  More 
+broadly, the yield spread on BBB- relative to AAA-rated revenue bonds 
+declined a bit during the intermeeting period but remained high relative to levels 
+observed over the past few years. 
+
+Treasury Finance 
+The Treasury has continued to employ “extraordinary” financing measures to 
+cope with the debt ceiling, which was reached on February 20.  However, 
+market participants have become quite accustomed to the use of such measures, 
+and the 
+
+III-10
+
+III-11
+
+III-12
+
+III-13
+
+
+recent actions seem to have elicited no market response.  The Treasury has 
+announced that, through the manipulation of three federal trust funds, it will be 
+able to proceed with its May 15 mid-quarter refunding of $55 billion, but that it 
+may well run out of maneuvering room in the second half of May.  The Treasury 
+also announced that, provided that the statutory debt ceiling is raised, it will be 
+increasing the frequency and size of its public debt auctions of both nominal and 
+inflation-indexed coupon securities. 
+
+Money and Bank Credit 
+M2 growth in the past two months was held down by tax-related effects.  Due to 
+the increased use of electronic filing, the annual boost to M2 from tax refunds 
+came earlier than usual this year, in February, and reduced seasonally adjusted 
+growth in subsequent months.  A weaker-than-average buildup of liquid 
+deposits in advance of April 15 tax payments also held down money growth.  In 
+addition, resumption of net inflows to equity mutual funds in the past two 
+months may have siphoned funds from M2. 
+
+Growth in bank credit also stepped down in the past two months from its very 
+rapid pace in February, as banks slowed their acquisition of securities.  Bank 
+loans continued to grow at a moderate pace through April:  A slowdown in 
+consumer lending was offset by more robust growth in real estate loans and a 
+smaller contraction in business loans in April. 
+
+Bank holding companies reported that first-quarter earnings grew modestly from 
+a year ago, apparently as strength in noninterest income, in part from mortgage 
+refinancings, was offset by declines in net interest margins.  Many firms 
+described the credit quality of their loans as having improved slightly, and loss 
+provisioning decreased, but some firms expressed concerns about a possible 
+decline in the quality of their credit card loans. 
+
+III-14
+
+III-15
+
+Appendix 
+
+April 2003 Senior Loan Officer Opinion Survey 
+
+The April 2003 Senior Loan Officer Opinion Survey on Bank Lending Practices 
+focused on changes in the supply of and demand for bank loans to businesses and 
+households over the past three months. In addition, the survey contained two sets of 
+supplementary questions that focused on the reasons for recent changes in the credit 
+quality of business and commercial real estate loans, as well as changes in lending 
+terms for commercial real estate loans. Responses were received from fifty-four 
+domestic and eighteen foreign banking institutions. 
+
+On net, both foreign and domestic banks continued to report that they had tightened 
+business lending conditions in the April survey.
+ However, the fractions of domestic 
+banks that tightened lending standards and terms on C&I loans declined noticeably.  On 
+the household side, the fractions of banks that tightened standards on credit cards and 
+other consumer loans remained modest and within the narrow range of recent surveys. 
+Banks reported that demand for almost all types of loans weakened, on net, over the 
+past three months, with increased demand for residential mortgages the lone exception. 
+
+Lending to Businesses 
+Only six domestic banks tightened lending standards to large and middle-market firms 
+in April, and one bank reported that it had eased lending standards to those firms in the 
+most recent survey.  This represents a significant difference from the January survey, 
+when about 20 percent of domestic banks reported having tightened standards on C&I 
+loans to larger firms, and three of the banks that had tightened lending standards 
+classified the tightening as considerable.  Indeed, the net percentage of banks reporting 
+tighter lending standards for large and middle-market firms in April, 9 percent, was the 
+lowest percentage since the November 1999 survey. 
+
+Furthermore, the net fraction of domestic banks that reported increasing spreads on 
+loans to larger borrowers fell from 27 percent in January to 15 percent in April. 
+Moreover, the number of banks that reported reducing those spreads rose to seven in 
+April from only two in the previous survey.  The net fraction of domestic banks that 
+strengthened loan covenants also fell, to 17 percent in April from 27 percent in January. 
+The net shares of banks that reported tightening other loan terms remained about 
+unchanged from the previous survey, including the percentage of banks that reported 
+increasing premiums on riskier loans, which stayed at around 40 percent. 
+
+In April, the percentage of domestic banks that reported tightening standards for small 
+firms remained within its recent range, at 13 percent.  The percentages of banks 
+tightening terms on loans to small firms, which have been notably lower than those for 
+large and middle-market firms, moved down somewhat further.  Indeed, almost equal 
+fractions of banks lowered the cost of credit lines for small firms as raised them, and the 
+net fraction of banks that increased spreads on these loans fell from 16 percent in 
+January to 12 percent in April.  In addition, the net fraction of banks that increased 
+premiums charged on riskier loans to small firms fell from 35 percent in January to 
+19 percent in April. 
+
+III-A-2
+
+
+A less favorable economic outlook was cited by all but one of the domestic banks that 
+had tightened standards or terms as at least a somewhat important reason for doing so. 
+Large majorities of those banks also continued to cite a reduced tolerance for risk and 
+worsening industry-specific problems as important reasons for the change.  All nine of 
+the banks that reported having eased standards or terms said they had done so in 
+response to increased competition from other banks or nonbank lenders, which is 
+consistent with a record amount of institutional participation in the syndicated loan 
+market during the first quarter of 2003.  One bank that eased lending conditions 
+indicated that a more favorable economic outlook had played a role in its decision. 
+
+The fraction of U.S. branches and agencies of foreign banks that tightened standards 
+and terms on C&I loans, which had been trending down since last August, was 
+unchanged from January at about 30 percent in the current survey.  The fraction of 
+foreign institutions that increased spreads on all loans over their cost of funds was also 
+steady, at just below 50 percent for the second consecutive survey.  The fractions of 
+branches and agencies that tightened most other terms edged down, except for the 
+fraction that boosted premiums on loans to riskier customers, which rose to more than 
+50 percent in April from about 40 percent in January.  Foreign institutions that 
+tightened standards or terms generally cited a less favorable economic outlook as the 
+most important reason for tightening. 
+
+The net fractions of domestic banks reporting weaker demand rose in April.  About 
+40 percent of domestic banks reported weaker demand for loans from large and 
+medium-size firms over the past three months, and no bank reported increased demand 
+from those customers.  For small firms, the net percentage of banks reporting weaker 
+demand remained at 21 percent, with only three banks reporting increased demand. 
+The net share of branches and agencies of foreign banks reporting weaker demand more 
+than doubled to 44 percent in April from 20 percent in January. 
+
+As in previous surveys, almost all domestic banks that experienced weaker loan demand 
+reported that a decline in customers’ need for bank loans to finance capital expenditures 
+was at least a somewhat important reason, and reduced needs to finance inventories was 
+the second most cited reason.  Large fractions of domestic banks also blamed reduced 
+merger and acquisition business and reduced need to finance accounts receivable for 
+weaker demand.  The most frequently cited reasons for weaker loan demand at branches 
+and agencies of foreign banks continued to be a decline in merger and acquisition 
+activity and reduced customer investment in plant and equipment. 
+
+Credit Quality of Business Loans.  Over the past several quarters, delinquency rates 
+on C&I loans at commercial banks have leveled off, while charge-off rates have 
+remained very high.  Almost all of the domestic banks indicated that delinquency rates 
+had stabilized because reduced interest rates have allowed borrowers to lower their 
+debt-servicing costs by refinancing loans and restructuring their balance sheets. 
+Foreign banking institutions also pointed to refinancing at lower interest rates, but 
+reported that a reduction in industry-specific problems had played a somewhat greater 
+role, on net, in stabilizing their delinquency rates.  Both domestic and foreign banks 
+also credited the aggressive tightening of lending standards over the past several years 
+for reducing the incidence of new problem loans.  Large fractions of banks reported a 
+
+III-A-3
+
+
+variety of reasons for  elevated charge-off rates, including unusually low recovery rates 
+on delinquent loans and their own aggressiveness in dealing with problem credits. 
+
+Commercial real estate lending.  The net fraction of domestic banks that reported 
+tightening standards on commercial real estate loans over the past three months was 
+19 percent in April–well within its recent range.  Two of ten foreign institutions 
+reported tightening standards for these loans in the current survey, up from zero in the 
+January survey.  Demand for these loans continued to weaken at domestic banks, where 
+the net share of banks reporting weaker demand edged up from 21 percent in January to 
+30 percent in April.  On net, demand at foreign institutions was unchanged. 
+
+Notable fractions of domestic and foreign banks indicated that over the past year they 
+had tightened various lending terms associated with commercial real estate loans; 
+however, the fractions were generally lower than they were when the same questions 
+were asked in January 2002.  For instance, about 25 percent of domestic banks reported 
+that they had raised loan-to-value ratios over the past twelve months, down from almost 
+50 percent in the year-earlier survey.  As they did for C&I loans, banks most commonly 
+cited concern about the economy as a reason for tightening terms, and also specifically 
+pointed to the condition of the commercial real estate sector.  Among the eleven 
+domestic banks that had eased commercial real estate lending terms during the past 
+year, almost all cited more aggressive competition from other commercial banks as the 
+reason for doing so, and a majority also reported increased competition from nonbank 
+lenders. 
+
+Despite rising vacancy rates and falling rents for commercial office space over the past 
+several years, the delinquency rate on commercial real estate loans at banks declined 
+steadily during 2002.  Most banks reported that the majority of their commercial real 
+estate loans did not contain prepayment penalties, and therefore borrowers had been 
+able to avoid delinquencies by refinancing their loans at lower interest rates to reduce 
+their debt-servicing costs.  Banks also indicated that many borrowers still have 
+considerable equity in their properties, which maintains the incentive for them to 
+continue payments.  Some foreign and domestic institutions also reported that long-term 
+leases that had insulated property owners from declining rents were a very important 
+reason for the good performance of commercial real estate loans. 
+
+Lending to Households 
+Only 6 percent of domestic banks reported that they had tightened standards on 
+residential mortgage loans in the April survey, down from about 10 percent in both the 
+January and the October surveys.  The net fraction of respondents that reported stronger 
+demand for mortgages to purchase homes over the past three months edged up to 
+17 percent in April from 8 percent in January but remains well below the levels that 
+prevailed in 2002. 
+
+The shares of banks that reported tightening standards for credit cards and other 
+consumer loans remained within their narrow ranges of the past two years at 10 percent 
+and 13 percent, respectively.  About 10 percent of banks, on net, indicated that they had 
+increased the minimum credit score required for both credit card and other consumer 
+loans.
+
+ Larger percentages of banks reported that they had reduced the extent to which 
+
+III-A-4
+
+
+loans were granted to customers that did not meet those thresholds, especially for non-
+credit-card consumer loans.  By contrast, banks reduced, on net, the spread of loan rates 
+over their cost of funds for both credit card and other types of consumer loans, and a 
+few also extended the maximum maturity for installment loans.  About 4 percent of 
+banks, on net, reported that demand for consumer loans was somewhat weaker. 
+
+III-A-5
+
+III-A-6
+
+International Developments
+
+ 
+International Developments
+
+U.S.  International Transactions
+
+Trade in Goods and Services
+The U.S. international trade deficit was $40.3 billion in February, $0.9 billion
+smaller than in January as exports of goods and services inched up and imports
+edged down.  For January-February at an annual rate, the deficit was
+$489 billion, $8 billion larger than the fourth quarter.
+
+Exports of goods and services rose only marginally (0.5 percent) in February as a
+sharp rise in the value of exported aircraft and a small increase in exported
+machinery were largely offset by declines in the value of consumer goods
+(particularly pharmaceuticals), computers, and services receipts.  For
+January-February at an annual rate, the level of exported goods and services was
+0.5 percent higher than in the fourth quarter.  Strong increases in the value of
+exported industrial supplies and smaller rises in agricultural products and
+services were partly offset by a drop in exported capital goods (partly aircraft but
+largely machinery).  In the first quarter, NIPA real exports of goods and services
+decreased slightly, a second consecutive quarterly decline.
+
+Imports of goods and services declined slightly in February (0.4 percent) as a
+rise in the value of imported oil and natural gas was outweighed by declines in
+most other trade categories, particularly computers and services.  For
+January-February at an annual rate, the value of imports was 0.9 percent higher
+than in the fourth quarter, boosted by increases in oil (entirely due to higher
+prices), computers, and services.  The value of imported semiconductors and
+core goods declined slightly.  Within core goods, a sharp rise in the value of 
+
+IV-2
+
+IV-3
+
+IV-4
+
+IV-5
+
+natural gas (all price) and smaller increases in machinery and foods were offset
+by declines in the value of other imported goods (particularly automotive
+products and other industrial supplies).  A small increase in value combined with
+a large increase in price pushed down the estimated quantity of NIPA imports
+more than 7 percent a.r.
+
+Prices of Internationally Traded Goods
+Non-oil imports.  In March, the price of imported non-oil goods and the price of
+imported core goods jumped 0.9 and 1.1 percent, respectively.  Within core
+goods, the largest price movement was an increase of 5.0 percent (not an annual
+rate) in the price for non-oil industrial supplies, prompted by exceptionally 
+higher prices for natural gas and by higher prices for woodpulp and chemicals. 
+Prices for foods, feeds, and beverages rose 1.3 percent.  Prices in other major
+categories changed little.  For the first quarter, prices of imported core goods
+were up 5½ percent at an annual rate, the highest rate of increase since the
+second quarter of 1995.
+
+Oil.  The BLS price of imported oil fell 1.8 percent in March after rising a
+revised 11.1 percent in February.  The spot price of West Texas Intermediate
+(WTI) crude oil also fell in March, averaging about $33.50 per barrel, down
+more than $2 per barrel from its February average.  In mid-March, the spot price
+of WTI fell rapidly with the unwinding of geopolitical uncertainty surrounding
+Iraq.  Recent increases in OPEC oil production, particularly by Saudi Arabia,
+Kuwait, and Venezuela, also helped put downward pressure on oil prices.  Spot
+WTI closed on April 29 at $25.23 per barrel.  However, reduced oil supplies
+from Nigeria, owing to civil unrest, and increased oil demand in Japan, resulting
+from the shutdown of nuclear reactors, are keeping some upward pressure on oil
+prices.
+
+Exports.  In March, the price of exported total goods and the price of exported
+core goods increased 0.3 and 0.5 percent, respectively.  Within core goods, the
+largest price movement was an increase of 1.5 percent in the price of industrial
+supplies, driven largely by higher prices for fuel oil, woodpulp, and chemicals. 
+Prices in other major categories remained unchanged.  For the first quarter,
+prices of exported core goods were up 4½ percent at an annual rate, more than
+double the rate of growth registered in the fourth quarter of last year. 
+
+U.S. International Financial Transactions
+Treasury data recorded a $22 billion increase in foreign official assets in the
+United States in February (line 1 of the Summary of U.S. International
+Transactions table).  These inflows were widespread and largest for Japan ($6
+billion), Russia ($5 billion), and China ($4 billion).  The increase in Japan’s
+reserves was associated with intervention activity, while the rise for Russia’s
+
+IV-6
+
+likely reflected earnings from higher oil prices.  Official inflows may have been
+even larger than those recorded by the Treasury system:  February data from
+custody accounts at the Federal Reserve Bank of New York show an additional
+increase in Treasury bonds held for China and Korea arising from transfers from
+other custodians.  (Such transfers of long-term securities are not captured under
+the Treasury system, and it is possible that when these bonds were initially
+acquired, the Treasury system recorded them as purchases by private foreigners,
+rather than by the foreign official sector.)  For March, the Federal Reserve Bank
+of New York’s custody accounts show a rise of $16 billion, 
+
+ . 
+
+Foreign private net purchases of U.S. securities (line 4) declined sharply to $5
+billion in February from January’s $26 billion inflow.  In February, increased
+foreign sales of Treasury securities (line 4a) in combination with sales of agency
+issues (line 4b) significantly offset relatively strong private foreign purchases of
+corporate debt (line 4c) and modest foreign purchases of U.S. equities (line 4d). 
+Although there were continued purchases of U.S. agency bonds and corporate
+stock in the European and Asian markets, sales of those instruments were
+recorded against the Caribbean centers.  The overall downward movement in
+February is attributed to general market uncertainties and a decline in agency
+bond issuance.  Total new bond issuance, especially that targeted to foreigners,
+increased markedly in March.
+
+In February, U.S. investors were small net sellers of foreign securities (line 5) as
+U.S. sales of foreign bonds (line 5a) exceeded small net purchases of foreign
+stocks (line 5b).  There were no acquisitions of foreign stock through stock
+swaps in February (line 5c).  However, the recently completed acquisition of
+Household International by British-based HSBC Holdings has a stock swap
+component of $14 billion, which we expect to see reflected in the data for
+March.
+
+Net capital flows through the banking sector (line 3) amounted to an inflow of
+$67 billion in February as contrasted with an outflow of $45 billion in January. 
+The inflow in February was attributed primarily to interoffice activity between
+U.S. affiliates of foreign-based banks and their related foreign offices.
+
+ 
+ 
+ 
+   
+IV-7
+
+IV-8
+
+Foreign Exchange Markets
+
+Price movements in global financial markets during the first four weeks of the
+intermeeting period appeared to reflect closely fluctuations in news about
+developments in Iraq.  When major combat operations in Iraq concluded
+following the fall of Baghdad, market participants shifted their attention to news
+about the direction of global economic activity.  Since mid-March, prices of
+assets that were viewed as safe havens have declined; the spot price of gold has
+declined almost 1½ percent to $336 per ounce, and the exchange value of the
+Swiss franc against the euro has declined 3 percent.
+
+The exchange value of the dollar, as measured by the major currencies index,
+declined 2¾ percent, with the dollar depreciating against six of the seven foreign
+currencies that are in the index; the exception was the yen.  The dollar
+depreciated on net during the first three weeks of the intermeeting period,
+rebounded only moderately the following week, and has once more trended
+down since then.  Against the currencies of our other important trading partners,
+the dollar depreciated about 2¾ percent.
+
+The dollar declined 4¾ percent on balance against the euro.  The dollar moved
+down about 3 percent against the Canadian dollar.  On April 15, the Bank of
+Canada raised its overnight interest rate 25 basis points, as market participants
+had expected, to 3.25 percent.  Against the pound, the dollar slid almost
+
+IV-9
+
+2 percent.  In contrast, the dollar appreciated almost 1 percent against the yen
+amid data releases that indicated a weaker state of the Japanese economy than
+market participants had expected.  At its emergency meeting on March 25, the
+Bank of Japan left its policy stance largely unchanged, disappointing market
+participants.  At its meeting on April 30, however, the BOJ unexpectedly raised
+its target for current account balances of financial institutions to ¥22-27 trillion,
+from ¥17-22 trillion, citing “considerable uncertainty” about the outlook for
+recovery in the United States and Europe, the possible impact of SARS, and
+“unstable” stock prices.
+
+During the first four weeks of the intermeeting period, market participants were
+apparently shifting asset allocations between bonds and equities based primarily
+on news about the developments in the Iraqi conflict.  Reports that indicated a
+quick resolution of the war led to simultaneous increases in equity prices and
+bond yields, while reports that suggested a more prolonged conflict led to
+simultaneous declines.  However, since the second week of April, the tight link
+between equity and bond market movements has ended, with bond yields
+drifting lower and stock prices firming further.
+
+Since the March FOMC meeting, major industrial economy equity markets have
+risen significantly, except in Japan, with the euro-area value-weighted equity
+
+IV-10
+
+index up about 8½ percent.  In addition to the resolution of the conflict in Iraq,
+positive news on corporate earnings announcements boosted European and
+North American equity markets.  The Nikkei index of Japanese share prices
+declined ½ percent on net.  This index briefly declined to a twenty-year low late
+in the period.  Market participants attributed some of this decline to poor earning
+announcements by several large Japanese corporations.
+
+European government bond yields rose slightly on balance over the period, but
+yields on Japanese government bonds moved lower.  Yields of 10-, 20-, and 30-
+year JGBs declined to record lows of 0.61 percent, 0.93 percent, and 1.02
+percent, respectively.  Canadian long-term government debt yields declined
+modestly over the period, and were pressured lower after the World Health
+Organization (WHO) added Toronto to its SARS travel advisory list.
+
+IV-11
+
+The Brazilian real appreciated about 15 percent against the dollar over the
+intermeeting period, and the spread over Treasury yields of Brazilian sovereign
+debt, as measured by the Brazilian EMBI+ index, fell 230 basis points.  News
+that Brazil’s primary surplus for 2002 came in well above 3.75 percent of
+GDP–the IMF-agreed target–was well-received by markets.  In addition, market
+participants reacted favorably to economic reform measures proposed by
+President Lula.
+
+Immediate reactions in Argentine financial markets to the first round of
+presidential elections on April 27 were mixed.  The Argentine peso appreciated
+1 percent versus the dollar the following day, but the Merval stock index fell
+7 percent and Argentina’s EMBI+ spread rose slightly.  On net, the Argentine
+peso has appreciated about 7½ percent against the dollar and Argentina’s
+EMBI+ spread has declined more than 1,500 basis points since the March
+FOMC meeting.
+
+Optimistic sentiment regarding the outcome of the conflict in Iraq and
+encouraging corporate earnings announcements also prompted emerging Asian
+equity markets to rise.  However, during the last two weeks of the intermeeting
+period, news reports of the spread of SARS appeared to weigh on most Asian
+equity markets.  Uncertainty about the spread of the disease seemed to diminish
+somewhat on April 28, when the WHO stated that the outbreak of SARS had
+peaked in several countries, prompting Asian equity markets to rally.  Hong
+Kong was particularly hard-hit, with equity prices dropping substantially before
+recovering somewhat late in the intermeeting period; on net, the Hang Seng
+index has declined about 1 percent.  In the latter part of the intermeeting period,
+Korean financial markets were bolstered by news of negotiations with North
+Korea; the Korean equity market rose about 16 percent over the intermeeting
+period. The Korean won appreciated 2¾ percent against the dollar. 
+
+accounts of the System or Treasury.
+
+ .  The Desk did not intervene during the period for the
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+IV-12
+
+Developments in Foreign Industrial Countries
+
+Recent indicators suggest a continued sluggish pace of growth in most foreign
+industrial nations.  In Japan, both consumption and exports were flat in the early
+months of the year.  In the euro area, activity remained subdued, though data
+suggest a slight bounceback from the weak pace of late last year.  Business
+confidence declined in the United Kingdom, and retail sales and consumption
+remained weak through April.  In Canada, growth of domestic demand was
+relatively robust as employment continued to increase and the housing market
+remained strong, although it appears growth slowed in the beginning of the year.
+
+Twelve-month rates of consumer price inflation remained above the targets of
+most major foreign central banks in the first quarter, largely on account of high
+energy prices.  However, in Japan, deflation continued.
+
+After easing early in the year, both the European Central Bank (ECB) and the
+Bank of England have recently left rates unchanged.  The Bank of Canada
+enacted its second 25-basis-point increase of the year in April, as concerns about
+the country’s above-target inflation rate outweighed worries about the weak
+global economic environment.  On April 30, the Bank of Japan (BOJ) voted to
+ease monetary policy, increasing its target range for the outstanding balance of
+reserve accounts held by private financial institutions at the BOJ. 
+
+In Japan, indicators suggest that economic activity was about flat in the early
+months of this year.  In the first quarter on average, worker household
+expenditures were roughly unchanged from the fourth-quarter average, while
+new car registrations rose modestly.  Both real exports and imports were about
+flat in the first quarter.  Recent readings on business fixed investment have been
+mixed.  Core machinery orders dropped nearly 10 percent in February from the
+previous month, but the average of January and February orders remained about
+5 percent above the fourth-quarter average.  Non-residential building starts
+declined markedly during the first quarter.  After expanding strongly in January,
+industrial production fell in February and March, putting the average for the first
+quarter only a bit above the fourth-quarter average.  The broader all-industries
+index of output fell 0.8 percent in February.  For January and February on
+average, the index was 0.5 percent above the fourth-quarter average. 
+
+Labor market conditions also appear to have stabilized. The unemployment rate
+in March rose to 5.4 percent, a bit below the record-high 5.5 percent in January. 
+The job-offers-to-applicants ratio, a leading indicator of employment, edged
+down to 0.60 in March.  Core consumer goods prices in the Tokyo area (which
+exclude fresh food but include energy) fell marginally in April and were down
+
+IV-13
+
+0.4 percent from a year earlier.  Wholesale prices for domestic goods fell 0.7
+percent in March from a year earlier. 
+
+Japanese Economic Indicators
+(Percent change from previous period, except as noted, s.a.)
+
+Indicator
+
+Industrial production1
+
+All-industries index
+
+Housing starts
+
+Machinery orders2
+
+Machinery shipments3
+
+New car registrations 
+
+Unemployment rate4
+
+Job offers ratio5
+
+Business sentiment6
+
+CPI (Core, Tokyo area)7
+
+2002
+
+2003
+
+Q3
+
+Q4
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+Apr.
+
+2.0
+
+.3
+
+-4.6
+
+-1.7
+
+1.3
+
+4.2
+
+5.4
+
+.54
+
+-30
+
+-.9
+
+.4
+
+-.3
+
+1.7
+
+.3
+
+2.3
+
+-.9
+
+5.4
+
+.57
+
+-28
+
+-.7
+
+.2
+
+n.a.
+
+.7
+
+n.a.
+
+.1
+
+1.7
+
+5.4
+
+.60
+
+-26
+
+-.7
+
+-.9
+
+1.6
+
+1.9
+
+6.8
+
+7.0
+
+2.8
+
+3.5
+
+5.5
+
+.60
+
+...
+
+-.6
+
+-1.0
+
+-1.6
+
+-.8
+
+-3.5
+
+-9.6
+
+-2.6
+
+.1
+
+5.2
+
+.61
+
+...
+
+-.7
+
+-.9
+
+-.2
+
+n.a.
+
+-4.8
+
+n.a.
+
+-1.7
+
+.6
+
+5.4
+
+.60
+
+...
+
+-.7
+
+-.7
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+...
+
+-.4
+
+n.a.
+
+Wholesale prices7
+
+-2.0
+
+-1.3
+
+1. Mining and manufacturing.
+
+      2. Private sector, excluding ships and electric power.
+
+3. Excluding ships and railway vehicles.
+4. Percent.
+5. Level of indicator.
+6. Tankan survey, diffusion index.
+7. Percent change from year earlier, n.s.a.
+n.a.  Not available.  ...  Not applicable.
+
+The Bank of Japan’s Tankan survey for March paints a mixed picture of business
+confidence.  The closely watched diffusion index for large manufacturers slipped
+to -10 from -9 in December.  The index for large non-manufacturing firms
+improved a bit, as did sentiment among small- and medium-sized manufacturing
+firms.  For FY2003, firms are expecting an increase in sales and profits, but are
+planning a small cut in capital investment.
+
+The Bank of Japan announced on April 30 a rise in its target range for the
+outstanding balance of reserve accounts held by private financial institutions at
+
+IV-14
+
+the BOJ from ¥17 trillion-¥22 trillion to ¥22 trillion-¥27 trillion.  In addition, the
+BOJ said it would accept bank loans to the newly established Industrial
+Revitalization Corporation as collateral in its money market operations.  In its
+announcement, the BOJ highlighted considerable uncertainty about the outlook
+for recovery in the United States and Europe, the possible impact of SARS, and
+unstable stock prices.  Some observers noted that reserve balances have been
+within the new range since mid-March (i.e., they had been above the old range),
+in part reflecting the entry of Japan Post (a new public corporation established to
+take over the services of the postal system) into the BOJ's settlement system on
+April 1.  Japan Post has reportedly maintained ¥4 trillion in reserve balances,
+instead of the expected ¥2 trillion. 
+
+The BOJ announced on April 8 that it will examine the possibility of buying
+asset-backed securities.  In particular, the BOJ will consider outright purchases of
+commercial paper backed by the accounts receivables of small- and medium-
+sized enterprises (SMEs).  The BOJ’s statement noted that the move "has the
+objective to strengthen the effects of monetary easing by nurturing the
+development of the asset-backed securities market, thereby promoting smooth
+corporate financing."  (The BOJ already obtains asset-backed commercial paper
+as collateral under repurchase agreements.)  On March 25, the BOJ announced an
+increase in the total value of equity shares that it will purchase from banks, to
+¥3 trillion from the original ¥2 trillion. 
+
+Production data for the euro area show a moderate rebound in January and
+February from weakness late last year, but measures of business sentiment
+suggest renewed weakness in March and April.  The January and February
+average of industrial production rose 0.6 percent over the fourth-quarter average. 
+However, the quarterly comparison is heavily influenced by a drop in production
+in December and the subsequent rebound in January, a result of the timing of
+end-of-year holidays.  Measures of business sentiment were mixed early in the
+year, with most rebounding along with production, but sentiment generally turned
+down in March and declined further in April.  With many of the April survey
+responses coming after the fall of Baghdad, weak sentiment suggests that firms
+continue to see poor business conditions despite diminished uncertainty regarding
+Iraq.
+
+Consumer expenditure appears to have strengthened in the first quarter, with
+average euro-area retail sales in January and February rising 1.2 percent versus
+the fourth-quarter average.  German retail sales also posted solid gains and Italian
+auto registrations in the first quarter surprised on the upside.  In contrast, euro-
+area consumer confidence continued to fall throughout the first quarter before
+rebounding somewhat in April.
+
+IV-15
+
+Euro-Area Economic Indicators
+(Percent change from previous period except as noted, s.a.)
+
+2002
+
+2003
+
+Q3
+
+Q4
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+Apr.
+
+Indicator
+
+Industrial production1
+
+Retail sales volume2
+
+Unemployment rate3
+
+Consumer confidence4
+
+.3
+
+.7
+
+8.3
+
+-10
+
+-.1
+
+-.4
+
+8.5
+
+-14
+
+Industrial confidence4
+
+-11.7
+
+-10.3
+
+Mfg. orders, Germany
+
+CPI5
+
+Producer prices5
+
+M35
+
+-1.2
+
+2.1
+
+.0
+
+7.1
+
+.3
+
+2.3
+
+1.3
+
+6.9
+
+n.a.
+
+n.a.
+
+n.a.
+
+-19.3
+
+-11
+
+n.a.
+
+2.3
+
+n.a.
+
+7.9
+
+1.3.
+
+2.3
+
+8.6
+
+-18
+
+-10
+
+4.1
+
+2.1
+
+2.3
+
+7.2
+
+.2
+
+-.8
+
+8.7
+
+-19
+
+-11
+
+-.8
+
+2.4
+
+2.7
+
+7.9
+
+n.a.
+
+n.a.
+
+n.a.
+
+-21
+
+-12
+
+n.a.
+
+2.4
+
+n.a.
+
+7.9
+
+n.a.
+
+n.a.
+
+n.a.
+
+-19
+
+-13
+
+n.a.
+
+2.1
+
+n.a.
+
+n.a.
+
+1. Excludes construction.
+2. Excludes motor vehicles.
+3. Percent. Euro area standardized to ILO definition.  Includes Eurostat estimates in some
+
+cases.
+
+4. Diffusion index based on European Commission surveys in individual countries.
+5. Eurostat harmonized definition.  Percent change from year earlier.     
+n.a.  Not available.
+
+Euro-area twelve-month consumer price inflation declined to 2.1 percent in
+April, just above the ECB’s target ceiling, according to the preliminary estimate.
+Excluding energy and unprocessed food, inflation stayed at 2 percent throughout
+the first quarter, its lowest rate since August 2001.  Twelve-month producer price
+inflation rose to 2.7 percent in February.
+
+In the United Kingdom, first-quarter GDP growth was lackluster according to
+the preliminary estimate; manufacturing output increased, following declines
+during most of the past two years, while overall industrial production fell because
+of weakening activity in the energy sector.  Growth slowed to 0.9 percent in the
+service sector, with most service industries experiencing slowing growth.  
+
+Limited data for the second quarter suggest that the pace of activity will continue
+to be positive, but sluggish.  Business confidence continued to decline in April,
+though it remains well above its late 2001 low.  Consumer sentiment moved up
+somewhat in April but has not recovered to its level in the fall of 2002.  Retail
+
+IV-16
+
+sales growth improved in March, though was weak in the first quarter overall and
+surveys suggest continued weakness in April. 
+
+U.K. Economic Indicators
+(Percent change from previous period except as noted, s.a.)
+
+2002
+
+2003
+
+Indicator
+
+Q3
+
+Q4
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+Apr.
+
+Preliminary real GDP*
+
+Industrial production
+
+Retail sales volume1
+
+Unemployment rate2
+
+      Claims-based
+
+      Labor force survey3
+
+Business confidence4
+
+Consumer confidence5
+
+Retail prices6
+
+Producer input prices7
+Average earnings7
+
+4.3
+
+.4
+
+.7
+
+3.1
+
+5.2
+
+10.7
+
+-2.7
+
+2.0
+
+-2.3
+3.8
+
+1.5
+
+-.8
+
+1.6
+
+3.1
+
+5.1
+
+3
+
+-3
+
+2.6
+
+1.4
+3.7
+
+.8
+
+n.a.
+
+.1
+
+3.1
+
+n.a.
+
+-1.3
+
+-10
+
+2.9
+
+5.1
+n.a.
+
+...
+
+-.2
+
+-1
+
+3.1
+
+5.1
+
+2
+
+-9
+
+2.7
+
+4.5
+3.3
+
+...
+
+.7
+
+.4
+
+3.1
+
+n.a.
+
+-1
+
+-10
+
+3.0
+
+6.2
+2.8
+
+...
+
+n.a.
+
+.6
+
+3.1
+
+n.a.
+
+-5
+
+-11
+
+3.0
+
+4.5
+n.a.
+
+...
+
+n.a.
+
+n.a.
+
+n.a.
+
+ n.a.
+
+-10
+
+-8
+
+n.a.
+
+n.a.
+n.a.
+
+1. s.a.a.r. 
+2. Excludes motor vehicles. 
+3. Percent
+4. Three-month average centered on month shown.
+5. Percentage of firms expecting output to increase in the next four months less percentage
+
+expecting output to decrease.
+
+6. Average of the percentage balance from consumers’ expectations of their financial
+situation, general economic situation, unemployment, and savings over the next 12 months.
+
+7. Excluding mortgage interest payments.  Percent change from year earlier.
+8. Percent change from year earlier.
+...  Not applicable.  n.a.  Not available.
+
+According to one of the leading surveys, housing prices were unchanged in April,
+bringing the twelve-month increase in prices down to just over 20 percent. First-
+quarter regional data indicate that the deceleration in prices has spread beyond
+London to most other regions of the country.  Borrowing to finance the purchase
+of homes remained elevated through February.
+
+Labor market conditions continued to be tight.  The official claims-based
+unemployment rate held steady at 3.1 percent in March, near a record low.  The
+twelve-month rate of retail price inflation (excluding mortgage interest payments)
+remained at 3 percent in March, above the Bank of England’s 2½ percent target. 
+
+IV-17
+
+The twelve-month growth rate of average earnings receded to 2.4 percent in
+February, held down in part by lower financial sector bonuses.
+
+Chancellor of the Exchequer Gordon Brown presented the government’s budget
+to Parliament on April 9.  In addition to confirming that he has set aside
+£3 billion for the war in Iraq, the Chancellor announced an additional
+£670 million of spending on domestic counter-terrorism measures and
+humanitarian work in Iraq.  Brown projected public sector net borrowing to be
+2.5 percent of GDP for 2003-04 and 2.1 percent of GDP for 2004-05, an upward
+revision from the deficit projected in the November Pre-Budget Report, but still
+rosier than consensus forecasts.
+
+In Canada, real GDP by industry increased 2.3 percent in February, while
+industrial production declined 1.7 percent.  Output growth was supported by the
+strength of residential construction.  Manufacturing, primarily motor vehicles,
+and utilities output declined in the month after strong showings in January.  The
+average of January and February GDP by industry increased 0.7 percent above
+the average fourth-quarter level.   
+
+Indicators suggest that domestic demand exhibited continued, though slowing,
+growth in the first quarter.  Employment growth remained strong in the first
+quarter, though at a lower rate than in 2002.  Recent job growth has been
+supported by the booming housing market, with a large gain in the number of real
+estate-related service jobs.  Manufacturing jobs, after exhibiting strong growth in
+2002, declined in the first quarter, but nevertheless the unemployment rate edged
+down further in March.  Auto sales posted an estimated 5 percent decline in the
+first quarter, falling to the lowest level since the end of 2001.  However,
+Canada’s housing boom entered its second year, as housing starts increased
+5.1 percent in the first quarter from the previous quarter.
+
+In March, the twelve-month rate of headline CPI inflation declined to 4.3 percent
+from 4.6 percent in February, but remained well above the ceiling of the Bank of
+Canada’s 1 to 3 percent target band.  The twelve-month rate reflects higher
+energy prices and increases in tobacco taxes, as well as higher automobile
+insurance premiums.  Twelve-month core inflation, excluding food, energy
+prices, and indirect taxes, decreased slightly, to 3.1 percent in March from
+3.3 percent in February.
+
+IV-18
+
+Canadian Economic Indicators
+(Percent change from previous period except as noted, s.a.)
+
+Indicator
+
+GDP by industry
+
+Industrial production
+
+New mfg. orders
+
+Retail sales
+
+Employment
+
+Unemployment rate1
+
+Consumer prices2
+
+Core Consumer Prices2,3
+
+Consumer attitudes4
+
+Business confidence4
+
+2002
+
+2003
+
+Q3
+
+Q4
+
+Dec.
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+.9
+
+1.1
+
+.8
+
+.7
+
+.9
+
+7.6
+
+2.3
+
+2.2
+
+.5
+
+.0
+
+.1
+
+-.1
+
+-2.4
+
+-2.8
+
+.8
+
+.8
+
+7.5
+
+3.8
+
+3.0
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+.5
+
+7.4
+
+4.5
+
+3.2
+
+114.3
+
+131.4
+
+.5
+
+.7
+
+3
+
+.9
+
+.0
+
+7.4
+
+4.5
+
+3.4
+
+...
+
+...
+
+.2
+
+-.1
+
+1.6
+
+1.5
+
+.4
+
+7.4
+
+4.6
+
+3.3
+
+...
+
+...
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+.1
+
+7.3
+
+4.3
+
+3.1
+
+...
+
+...
+
+.2
+
+.3
+
+7.5
+
+3.9
+
+3.4
+
+...
+
+...
+
+124.4
+
+121.8
+
+129.7
+
+136
+
+1. Percent.
+2. Percent change from year earlier, n.s.a.
+3. Excluding food, energy, and indirect taxes.
+4. Level of index, 1991 = 100.
+n.a.  Not available.  ...  Not applicable.
+
+On April 15, the Bank of Canada increased the targeted overnight rate (its key
+policy rate) and the Bank Rate 25 basis points each, to 3.25 percent and
+3.5 percent, respectively.  The increase follows a 25-basis-point hike in March. 
+In announcing the April increase, the Bank cited above-target inflation, higher
+inflation expectations, and an economy operating near capacity as motivation for
+its action.  The Bank also stated that the risks confronting the global economy
+had become more balanced since the previous announcement date, as geopolitical
+uncertainties had diminished and the price of oil had declined.
+
+IV-19
+
+External Balances
+(Billions of U.S. dollars, s.a.a.r.)
+
+Country
+and balance
+
+2002
+
+2003
+
+Q3
+
+Q4
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+Japan
+
+Trade
+Current account
+
+Euro area
+Trade1
+Current account1
+
+Germany
+Trade
+Current account1
+
+France
+Trade
+Current account
+
+Italy
+Trade
+Current account1
+
+United Kingdom
+Trade
+Current Account
+
+Canada
+Trade
+Current Account
+
+82.2
+112.3
+
+83.5
+101.6
+
+73.4
+n.a.
+
+71.8
+100.6
+
+82.9
+124.5
+
+65.4
+n.a.
+
+128.1
+90.4
+
+107.2
+98.4
+
+136.5
+42.6
+
+124.1
+77.4
+
+2.0
+4.4
+
+1.3
+4.3
+
+8.4
+12.1
+
+6.2
+-15.1
+
+-55.1
+-6.6
+
+-68.3
+-19.3
+
+35.0
+10.8
+
+34.3
+8.4
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+-10.9
+-82.5
+
+67.0
+41.8
+
+136.4
+-16.7
+
+129.4
+60.7
+
+.8
+5.2
+
+.7
+3.9
+
+3.2
+-53.0
+
+1.8
+-12.3
+
+-61.4
+...
+
+-70.5
+...
+
+40.3
+...
+
+36.7
+...
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+n.a.
+
+n.a.
+...
+
+n.a.
+...
+
+1. Not seasonally adjusted.
+n.a.  Not available.  ...  Not applicable.
+
+IV-20
+
+IV-21
+
+IV-22
+
+Economic Situation in Other Countries
+
+Economic conditions were mixed in the developing world.  In Latin America,
+Mexican data releases were generally encouraging, and activity in Argentina
+continued to recover.  Brazilian financial market conditions improved
+remarkably, but economic activity appears to have slowed.  Venezuela remains
+in crisis.  In developing Asia, it appears that SARS is having a significant impact
+on the Hong Kong economy, and is probably having measurable effects in China
+and Singapore as well, although we do not yet have much firm data.  Activity
+indicators for the first quarter suggest that growth has slowed somewhat in much
+of the region.  China’s very robust reported growth in the first quarter was
+largely driven by special factors.
+
+Chinese real GDP in the first quarter was 9.9 percent above its year-earlier level,
+which translates into a staff estimate of a growth rate of 16.3 percent (s.a.a.r.) in
+2003:Q1.  Chinese authorities cited strong exports as well as increases in public
+and foreign investment when issuing the data.  Anecdotal reports suggest that
+production and exports were up in the quarter as Chinese producers attempted to
+fill orders before the war in Iraq, due to fears that the war would disrupt trade
+flows.  Production data for the first quarter support these reports.  Nevertheless,
+China recorded its first quarterly trade deficit in about seven years.  Both exports
+and imports soared in the quarter, but imports were up more than
+35 percent (s.a.).  Elevated oil prices as well as China’s reported efforts to boost
+its oil reserves are part of the explanation for the surge in imports, but it was also
+due to lower tariffs that were put in place in January as a result of WTO
+accession.  Consumer prices continued to rise on a twelve-month basis in the
+first quarter, after falling throughout last year.  Higher oil prices and the strong
+economy were responsible for the recent shift from deflation to inflation.
+
+China has reported the world’s highest number of SARS cases, and the impact
+on China’s economy is now being felt.  Data suggest that tourism was down
+slightly in March, but this is difficult to interpret because China was still
+covering up the full extent of the outbreak at that time.  Other reports suggest
+that business travel and tourism have been hit hard since the full extent of
+China’s exposure to SARS has become known.  In its efforts to contain the
+spread of SARS, China cancelled most of a week-long holiday, quarantined
+almost 10,000 people, and closed schools and many entertainment
+establishments in Beijing.
+
+IV-23
+
+Chinese Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2001
+
+2002
+
+Real GDP1
+
+Industrial production2
+
+Consumer prices2
+
+Trade balance3
+
+7.5
+
+8.9
+
+-.3
+
+8.0
+
+11.8
+
+-.4
+
+2002
+
+Q4
+
+6.8
+
+14.5
+
+-.6
+
+Q1
+
+16.3
+
+17.0
+
+.5
+
+2003
+
+Jan.
+
+Feb. Mar.
+
+...
+
+...
+
+...
+
+14.8
+
+19.8
+
+16.9
+
+.4
+
+.2
+
+-6.8
+
+.9
+
+-2.6
+
+23.1
+
+30.3
+
+45.6
+
+-13.1
+
+-29.8
+
+1. Annual rate.  Quarterly data estimated by staff from reported four-quarter growth rates. 
+
+Annual figures are Q4/Q4.
+
+2. Percent change from year earlier.  Annual figures are year over year.
+3. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+...  Not applicable.
+
+Hong Kong reported 7 percent growth (s.a.a.r.) in fourth-quarter real GDP. 
+Growth was led by exports, especially to China.  The pace of expansion likely
+slackened early this year, as the unemployment rate rose to 7.5 percent in March. 
+Manufacturing jobs were lost to lower wage workers in China, and construction
+has been depressed due to the five-year slump in property prices.  Falling
+property prices also continued to weigh on consumer prices, which fell in March. 
+Exports to China rose sharply in February, narrowing the trade deficit somewhat.
+
+The economic impact of SARS on Hong Kong is already considerable.  Tourist
+arrivals, hotel occupancy rates, and retail sales in certain industries have
+plummeted, in some cases to 80 percent below their year-ago levels.  In late
+April, the Hong Kong government unveiled a $1.5 billion (0.9 percent of GDP)
+relief package that includes government loan guarantees for SARS-hit
+businesses and cuts in government property rental rates and utility rates.
+
+In Taiwan, industrial production was roughly unchanged in the first quarter, as a
+small increase in high-tech production was offset by declines in other industries. 
+Import growth, owing largely to higher oil imports, outpaced export growth in
+the first quarter, and the first-quarter trade surplus narrowed a bit as a result. 
+Higher oil prices also caused deflation to abate somewhat, with prices in March
+only slightly below their year-ago levels.  SARS has not had the economic
+impact on Taiwan that it had on some other Asian economies, primarily due to
+the small number of cases reported in Taiwan and Taiwan’s limited dependence
+on tourism.
+
+IV-24
+
+Hong Kong Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2001
+
+2002
+
+2002
+
+2003
+
+Q4
+
+Q1
+
+Jan.
+
+Feb.
+
+Mar.
+
+Real GDP1
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+-1.0
+
+4.9
+
+-3.7
+
+-11.4
+
+5.0
+
+7.3
+
+-1.6
+
+-7.7
+
+7.0
+
+7.2
+
+-2.9
+
+-10.2
+
+n.a.
+
+7.5
+
+.9
+
+-6.9
+
+...
+
+7.2
+
+-1.7
+
+-8.5
+
+...
+
+7.4
+
+1.3
+
+-6.9
+
+...
+
+7.5
+
+-2.3
+
+-5.3
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent.  Monthly numbers are averages of the current and previous two months.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+n.a.  Not available.    ...  Not applicable.
+
+Taiwan Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2001
+
+2002
+
+Real GDP1
+
+Unemployment rate2
+
+Industrial production
+
+Consumer prices3
+
+Trade balance4
+
+Current account5
+
+-1.8
+
+4.6
+
+-7.3
+
+-1.7
+
+15.6
+
+17.9
+
+4.1
+
+5.2
+
+6.4
+
+.8
+
+18.1
+
+25.7
+
+2002
+
+Q4
+
+3.7
+
+5.1
+
+1.1
+
+-.5
+
+19.6
+
+30.9
+
+2003
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+n.a.
+
+5.2
+
+-.1
+
+-.2
+
+13.5
+
+n.a.
+
+...
+
+5.2
+
+-.7
+
+-1.1
+
+.6
+
+...
+
+...
+
+5.2
+
+.6
+
+-1.5
+
+22.0
+
+...
+
+...
+
+5.2
+
+-2.7
+
+-.2
+
+17.9
+
+...
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent.
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.  Imports are c.i.f.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+Data releases for Korea over the intermeeting period suggest a slowdown from
+the very rapid growth registered in late 2002.  Real GDP soared 8.3 percent in
+the fourth quarter, supported by a jump in fixed investment and strong net export
+performance.  Industrial production rose only slightly in the first quarter, but the
+unemployment rate remained low.  March consumer and business confidence
+indicators fell sharply.  Export growth continued strong in the first quarter, but a
+
+IV-25
+
+runup in oil imports contributed to a $6.7 billion current account deficit.
+Consumer prices rose 3.8 percent over the 12 months ended in April.  The U.S.
+military success in Iraq, the start of multilateral negotiations with North Korea,
+and the government’s efforts to contain a recent corporate scandal have
+improved financial conditions since the last Greenbook.  The won has
+appreciated over 2 percent against the dollar, and the Korean stock market has
+risen almost 13 percent since mid-March.
+
+Korean Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2001
+
+2002
+
+2002
+
+2003
+
+Q4
+
+Q1
+
+Feb.
+
+Mar.
+
+Apr.
+
+Real GDP1
+
+Industrial production
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+Current account5
+
+4.2
+
+1.0
+
+3.8
+
+3.2
+
+13.5
+
+8.2
+
+7.0
+
+7.4
+
+3.1
+
+3.8
+
+14.2
+
+6.1
+
+8.3
+
+2.7
+
+3.0
+
+3.4
+
+15.5 
+
+n.a.
+
+.4
+
+3.1
+
+4.1
+
+9.6
+
+...
+
+.3
+
+3.0
+
+3.9
+
+12.0
+
+...
+
+.3
+
+3.1
+
+4.6
+
+-3.8
+
+7.9
+
+-6.7
+
+-.8
+
+-14.3
+
+...
+
+n.a.
+
+n.a.
+
+3.8
+
+n.a.
+
+n.a.
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent.
+3. Percent change from year earlier, except annual changes, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+In the ASEAN region, data releases over the intermeeting period have painted a
+mixed picture on activity since the fourth quarter.  Growth in industrial
+production in the Philippines slowed in January and February, and Malaysian
+industrial production continued the decline seen late last year.  In Indonesia, in
+contrast, activity expanded, reflecting in part recovery from last fall’s bombing
+in Bali.  Activity in Singapore and Thailand held up in the first quarter, boosted
+by net exports.  However, within the region, Singapore has suffered the most
+from the SARS epidemic, and its government announced a relief package in late
+April.  Inflation slowed over much of the region, despite the rise in oil prices
+during February and early March.
+
+ 
+IV-26
+
+ASEAN Economic Indicators:  Growth
+(Percent change from previous period, s.a., except as noted)
+
+Indicator and country
+
+2001
+
+2002
+
+2002
+
+2003
+
+Q4
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+Real GDP1
+Indonesia
+Malaysia
+Philippines
+Singapore
+Thailand
+
+Industrial production2 
+Indonesia3
+Malaysia
+Philippines
+Singapore
+Thailand
+
+1.8
+-.6
+3.9
+-6.0
+2.2
+
+.7
+-4.1
+-5.7
+-11.6
+1.3
+
+3.8
+5.5
+5.8
+3.0
+6.3
+
+-1.1
+4.1
+-6.1
+8.5
+8.5
+
+-.8
+2.6
+12.7
+.4
+8.2
+
+1.4
+-1.0
+2.4
+-2.2
+2.2
+
+...
+...
+...
+...
+...
+
+n.a.
+n.a.
+n.a.
+3.4
+4.3
+
+...
+...
+...
+...
+...
+
+-.8
+-.6
+1.2
+5.6
+3.8
+
+...
+...
+...
+...
+...
+
+...
+...
+...
+...
+...
+
+4.9
+-1.6
+-.7
+-13.7
+-1.9
+
+n.a.
+n.a.
+n.a.
+11.3 
+3.4
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Annual figures are annual averages.
+3. Staff estimate.
+n.a.  Not available.    ...  Not applicable.
+
+ASEAN Economic Indicators:  Trade Balance
+(Billions of U.S. dollars, s.a.a.r.)
+
+Country
+
+2001
+
+2002
+
+Indonesia
+
+Malaysia
+
+Philippines
+
+Singapore
+
+Thailand
+
+n.a.  Not available.
+
+25.4
+
+14.2
+
+-.9
+
+5.8
+
+2.5
+
+25.9
+
+13.4
+
+-.2
+
+8.7
+
+3.5
+
+2002
+
+Q4
+
+23.9
+
+14.3
+
+-.8
+
+10.7
+
+4.0
+
+2003
+
+Q1
+
+Jan.
+
+Feb.
+
+Mar.
+
+n.a.
+
+n.a.
+
+n.a.
+
+16.7
+
+5.5
+
+27.1
+
+24.1
+
+-1.3
+
+30.8
+
+5.9
+
+27.4
+
+16.9
+
+-3.5
+
+11.6
+
+6.5
+
+n.a.
+
+n.a.
+
+n.a.
+
+7.8
+
+4.1
+
+IV-27
+
+ASEAN Economic Indicators:  CPI Inflation
+(Percent change from year earlier, except as noted)
+
+Country
+
+20011
+
+20021
+
+2002
+
+Q4
+
+2003
+
+Q1
+
+Jan.
+
+Feb.
+
+Mar.
+
+Indonesia
+
+Malaysia
+
+Philippines
+
+Singapore
+
+Thailand
+
+12.5
+
+10.0
+
+10.3
+
+1.2
+
+4.1
+
+-.6
+
+.8
+
+1.7
+
+2.6
+
+.4
+
+1.6
+
+1.8
+
+2.6
+
+.1
+
+1.4
+
+7.7
+
+1.3
+
+2.9
+
+.7
+
+2.0
+
+8.7
+
+1.7
+
+2.7
+
+.9
+
+2.2
+
+7.3
+
+1.6
+
+3.1
+
+.4
+
+1.9
+
+7.1
+
+.7
+
+2.9
+
+.8
+
+1.7
+
+1. December/December.
+
+In Mexico, data since the last Greenbook have generally pointed to increased
+activity.  Overall economic activity (a monthly proxy for GDP) posted a sizable
+gain in February, exports were up over 2½ percent in the first quarter, and
+business confidence turned up sharply in March.  The rise in exports led to a
+significant narrowing of the trade deficit over the first quarter, compared with
+the fourth quarter of last year, although the deficit widened a bit again in March. 
+Retail sales data also point to a firming of domestic demand over January and
+February.
+
+The twelve-month rate of consumer price inflation rose slightly in March to
+5.7 percent; in anticipation of this higher-then-expected figure, the Bank of
+Mexico tightened monetary policy again in late March.  Expectations for
+end-2003 inflation based on survey data have been running steady at 4½ percent,
+well above the Bank of Mexico’s target of 3 percent.
+
+In Brazil, indicators point to a slowing in economic activity from the second
+half of last year, when a substantial rise in net exports boosted growth.  Over the
+January-February period, industrial production growth slowed, and the
+unemployment rate remained high at over 11 percent.  The trade surplus
+narrowed in the first quarter, driven apparently by higher oil imports. 
+Nevertheless, the current account registered a small surplus, the first in ten years.
+
+Persistently high inflation continued to dominate policy concerns. 
+Twelve-month inflation in March was 17.7 percent, well above the 8.5 percent
+upper limit of the government’s inflation target range for 2003.  While some rise
+in inflation had been expected as a result of the sharp depreciation of the real in
+2002 and the rise in domestic fuel prices, the considerable increase in non-traded
+goods inflation has been a worrisome development.  In response, the Lula
+government has signaled its determination to pursue disciplined fiscal and
+
+IV-28
+
+monetary policies.  In mid-April, Finance Minister Palocci unveiled long-
+awaited proposals to reduce pension and survivor benefits for public sector
+workers and to overhaul the tax system.  The reform proposals, which are
+considered critical to fiscal solvency and sustained growth, were well received,
+boosting asset prices.  Since mid-March, the real has appreciated 15 percent and
+the Brazilian EMBI+ spread over U.S. Treasuries has fallen to about 840 basis
+points.  At its April 23 policy meeting, the central bank kept the overnight
+interest rate (the Selic) unchanged at 26.5 percent.
+
+On April 29, the Brazilian government became the second major emerging
+market economy to issue a sovereign bond in New York with collective action
+clauses (CACs), placing a $1 billion bond that matures in 2007 at a yield of
+10.7 percent.  (CACs are aimed at making debt restructurings easier in the event
+of default.)  The Brazilian bonds would require 85 percent of investors to agree
+to a debt restructuring, compared with the Mexican bonds issued in April, which
+require a 75 percent supermajority. 
+
+Mexican Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2001
+
+2002
+
+Real GDP1
+
+Overall economic activity
+
+Industrial production 
+
+Unemployment rate2
+
+Consumer prices3 
+
+Trade balance4
+
+Imports4
+
+Exports4
+
+2002
+
+2003
+
+Q4
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+.6
+
+.2
+
+-.3
+
+2.6
+
+5.3
+
+n.a.
+
+n.a.
+
+n.a.
+
+2.7
+
+5.4
+
+...
+
+-.2
+
+.5
+
+2.7
+
+5.2
+
+...
+
+.5
+
+1.1
+
+2.7
+
+5.5
+
+...
+
+n.a.
+
+n.a.
+
+2.8
+
+5.6
+
+-1.5
+
+-.1
+
+-3.3
+
+2.5
+
+4.4
+
+2.1
+
+.9
+
+-.2
+
+2.7
+
+5.7
+
+-10.0
+
+-8.0
+
+-6.4
+
+-3.1
+
+-3.1
+
+-2.1
+
+-4.1
+
+168.4
+
+168.7
+
+168.5
+
+169.3
+
+169.3
+
+169.2
+
+169.3
+
+158.4
+
+160.7
+
+162.0
+
+166.2
+
+166.2
+
+167.1
+
+165.2
+
+Current account5
+
+-18.0
+
+-14.0
+
+-18.9
+
+n.a.
+
+...
+
+...
+
+...
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent; counts as unemployed those working one hour a week or less. 
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+IV-29
+
+Brazilian Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2001
+
+2002
+
+2002
+
+2003
+
+Q4
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+Real GDP1
+
+Industrial production
+
+Unemployment rate2
+
+Consumer prices3
+
+Trade balance4
+
+Current account5
+
+-.7
+
+1.6
+
+12.4
+
+7.7
+
+2.6
+
+-23.2
+
+3.4
+
+2.3
+
+11.7
+
+12.5
+
+13.1
+
+-7.6
+
+2.9
+
+2.0
+
+12.0
+
+10.6
+
+23.9
+
+-1.3
+
+n.a.
+
+n.a.
+
+11.1
+
+15.6
+
+16.7
+
+0.3
+
+...
+
+.6
+
+11.1
+
+14.5
+
+17.0
+
+1.9
+
+...
+
+.7
+
+11.1
+
+15.8
+
+15.4
+
+-2.4
+
+...
+
+n.a.
+
+11.1
+
+16.6
+
+17.7
+
+1.4.
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent.  Break in October 2001 as a result of change in methodology.  Thus, 2001 is
+
+average for Q4 only.
+
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.  Price
+
+index is IPC-A.
+
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+In Argentina, further evidence of recovery was provided by a sharp rise in
+industrial production in March to a level 21 percent above that of a year ago,
+although activity remains well below its 1998 peak.  Twelve-month inflation in
+March was 32 percent, still high, but down considerably from over 40 percent
+last year.  The reduction in inflation seems to reflect the strengthening of the
+peso.  Argentina met the fiscal and monetary targets of its IMF program for the
+first quarter of 2003.
+
+Following the Supreme Court’s decision in early March questioning the
+constitutionality of the government’s January 2002 corralon, the Duhalde
+government in late March offered a settlement to unhappy depositors.1  Under
+the deal, depositors would have immediate access to two-thirds of the peso
+equivalent of their original dollar accounts (converted at the market exchange
+rate).  The remainder would be converted into a ten-year dollar-denominated
+bond paying below-market interest rates.  The low number of depositors
+agreeing to these terms prompted the government to extend the deadline for its
+offer to May 23.
+
+1. In January 2002, following the collapse of the peso’s peg to the dollar, the
+
+government forcibly converted dollar-denominated deposits into pesos at an
+unfavorable exchange rate to depositors and lengthened their maturities.
+
+IV-30
+
+Following a late April first-round presidential election, Néstor Kirchner (backed
+by President Duhalde) and former president Carlos Ménem will face each other
+in a run-off on May 18.  Neither of these candidates has fully articulated a
+program that addresses the country’s economic problems.  The new government
+will take office on May 25.
+
+Argentine Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2001
+
+2002
+
+2002
+
+2003
+
+Q4
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+Real GDP1 
+
+Industrial production 
+
+Unemployment rate2
+
+Consumer prices3 
+
+Trade balance4
+
+Current account5
+
+-10.3
+
+-7.6
+
+17.4
+
+-1.4
+
+7.5
+
+-4.5
+
+-4.0
+
+-10.7
+
+19.7
+
+41.0
+
+16.4
+
+9.0
+
+3.4
+
+5.8
+
+17.8
+
+40.4
+
+16.1
+
+8.7
+
+n.a.
+
+7.8
+
+n.a.
+
+35.8
+
+n.a.
+
+n.a.
+
+...
+
+3.4
+
+...
+
+39.7
+
+19.5
+
+...
+
+...
+
+1.4
+
+...
+
+36.2
+
+19.3
+
+...
+
+...
+
+1.6
+
+...
+
+31.7
+
+n.a.
+
+...
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent, n.s.a.  Data are released for May and October only.  Figures for Q4 reflect data
+
+for October.
+
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+Venezuela remains mired in economic and political crisis.  Anecdotal reports
+suggest that oil production and exports have recovered further, but have fallen
+short of levels prevailing before last December’s general strike.  The capital
+controls that have stopped all private sector external transactions since early
+February remain in effect, along with the fixed exchange rate regime imposed in
+early February.  Monthly consumer price inflation, which had risen sharply last
+year, dropped back in March in response to the stabilization of the bolivar and to
+the steep decline in non-oil related activity since the fourth quarter of last year. 
+In mid-April, the central bank lowered its discount rate from 39 to 36 percent. 
+
+In March, President Chavez rattled investors by indicating that the government
+would seek to restructure its foreign debt.  Economic officials quickly countered
+that the government would seek a voluntary restructuring, but there has been no
+further word on the subject.  As of February, international reserves stood at
+$14 billion; this compares with scheduled payments of $5 billion on sovereign
+external debt over the rest of this year.  Tensions between business interests and
+
+IV-31
+
+the Chavez government, already high, have been exacerbated by the capital
+controls. 
+
+Venezuelan Economic Indicators
+(Percent change from previous period, s.a., except as noted)
+
+Indicator
+
+2001
+
+2002
+
+2002
+
+2003
+
+Q4
+
+Q1
+
+Jan.
+
+Feb. Mar.
+
+Real GDP1 
+
+.9
+
+-16.7
+
+-41.3
+
+Unemployment rate2
+
+Consumer prices3
+
+Non-oil trade balance4
+
+Trade balance4
+
+Current account5
+
+13.3
+
+12.3
+
+-12.2
+
+9.3
+
+3.9
+
+n.a.
+
+n.a.
+
+31.2
+
+-7.4
+
+13.9
+
+7.7
+
+30.6
+
+-5.5
+
+14.80
+
+8.63
+
+n.a.
+
+n.a.
+
+...
+
+n.a.
+
+...
+
+n.a.
+
+...
+
+n.a.
+
+35.5
+
+33.8
+
+38.7
+
+34.1
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+n.a.
+
+...
+
+n.a.
+
+n.a.
+
+...
+
+n.a.
+
+n.a.
+
+...
+
+1. Annual rate.  Annual figures are Q4/Q4.
+2. Percent, n.s.a. 
+3. Percent change from year-earlier period, except annual figures, which are Dec./Dec.
+4. Billions of U.S. dollars, annual rate.
+5. Billions of U.S. dollars, n.s.a., annual rate.
+n.a.  Not available.    ...  Not applicable.
+
+
