@@ -129,7 +129,7 @@ OUTPUT_DIR = os.path.join(BASE_DIR, "outputs")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # FRED API key — required for downloading macroeconomic series
-FRED_API_KEY = "28700a952f6f8933e07bb46cec616fef"
+FRED_API_KEY = #insertyourapikey
 fred = Fred(api_key=FRED_API_KEY)
 
 
